@@ -1,0 +1,5 @@
+owner =  TAP
+controller =  TAP
+add_core = TAP
+trade_goods = fruit
+life_rating = 20

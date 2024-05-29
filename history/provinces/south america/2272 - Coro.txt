@@ -1,0 +1,12 @@
+owner = SPA
+controller = SPA
+add_core = SPA
+trade_goods = cattle
+life_rating = 32
+1835.1.1 = {
+	controller = SPA
+} 
+
+1837.1.1 = {
+	controller = CLM
+}

@@ -1,0 +1,6 @@
+owner =  TAP
+controller =  TAP
+add_core = TAP
+trade_goods = fruit
+terrain = plains
+life_rating = 32

@@ -1,0 +1,8 @@
+owner = NOG
+controller =NOG
+add_core = RUS
+
+add_core = MRD
+add_core = SIB
+trade_goods = cattle
+life_rating = 35

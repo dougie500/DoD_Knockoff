@@ -1,0 +1,26 @@
+owner = MUS
+controller = MUS
+add_core = RUS
+add_core = MUS
+trade_goods = coal
+life_rating = 40
+terrain = mining_district
+fort = 1
+1861.1.1 = {
+	state_building = {
+		level = 1
+		building = fabric_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 1
+		building = lumber_mill
+		upgrade = yes
+	}
+	state_building = {
+		level = 1
+		building = furniture_factory
+		upgrade = yes
+	}   
+}
+1861.1.1 = { railroad = 2 }

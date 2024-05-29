@@ -1,0 +1,23 @@
+owner = DEN
+controller =DEN
+add_core = DEN
+add_core = ENL
+trade_goods = coal
+life_rating = 35
+terrain = mining_district
+state_building = {
+level = 2
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = cement_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = clipper_shipyard
+	upgrade = yes
+}
+1861.1.1 = { railroad = 3 }

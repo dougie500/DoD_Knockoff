@@ -1,0 +1,11 @@
+owner = AMA
+controller = AMA
+add_core = AMA
+add_core = AVA
+trade_goods = cattle
+life_rating = 31
+1861.1.1 = { 
+	owner = PRG
+	controller = PRG
+	add_core = PRG
+}

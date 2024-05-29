@@ -1,0 +1,7 @@
+owner = DEN
+controller =DEN
+add_core = DEN
+add_core = SCO
+trade_goods = wool
+terrain = small_island
+life_rating = 30

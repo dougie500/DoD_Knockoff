@@ -1,0 +1,7 @@
+owner = NOV
+controller = NOV
+add_core = NOV
+trade_goods = fish
+life_rating = 35
+fort = 1
+terrain = small_island
