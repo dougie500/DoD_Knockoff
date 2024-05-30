@@ -1,5 +1,5 @@
 capital = 1033
-primary_culture = mordvin
+primary_culture = tatar
 religion = orthodox
 government = absolute_monarchy
 plurality = 0.0

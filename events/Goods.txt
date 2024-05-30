@@ -949,7 +949,7 @@ province_event = {
 		or = {
 			province_id = 1393		# Brunei
 			province_id = 1401		# Siak
-			province_id = 1425		# Tarakan
+			province_id = 1425		# TarYoruba
 			province_id = 1432		# Mamuju
 		}
 		not = { trade_goods = oil }
@@ -1187,7 +1187,7 @@ province_event = {
 
 	trigger = {
 		year = 1897
-		province_id = 1397		# Sandakan
+		province_id = 1397		# SandYoruba
 		not = { trade_goods = oil }
 		NOT = { has_province_modifier = switched_production }
 		OR = {

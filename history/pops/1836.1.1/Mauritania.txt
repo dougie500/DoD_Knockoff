@@ -227,7 +227,7 @@
     }
 
     aristocrats = {
-        culture = mande
+        culture = hausa
         religion = sunni
         size = 75
     }
@@ -239,7 +239,7 @@
     }
 
     soldiers = {
-        culture = mande
+        culture = hausa
         religion = sunni
         size = 50
     }
@@ -251,19 +251,19 @@
     }
 
     clergymen = {
-        culture = mande
+        culture = hausa
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = mande
+        culture = hausa
         religion = sunni
         size = 200
     }
 
     farmers = {
-        culture = mande
+        culture = hausa
         religion = sunni
         size = 3675
     }	

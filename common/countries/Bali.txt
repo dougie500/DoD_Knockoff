@@ -155,33 +155,33 @@ unit_names = {
 	dreadnought = {
 		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk 	
 
-	Sanglang Kelatakan
+	Sanglang KelatYoruba
 	}
 	ironclad = {
 		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk 	
 
-		Sanglang Kelatakan
+		Sanglang KelatYoruba
 		
 	}
 	manowar = {
 		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk 	
 
-		Sanglang Kelatakan
+		Sanglang KelatYoruba
 	}
 	cruiser = {
 		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk 	
 
-		Sanglang Kelatakan
+		Sanglang KelatYoruba
 	}
 	frigate = {
 		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk 	
 
-		Sanglang Kelatakan
+		Sanglang KelatYoruba
 	}
 	monitor = {
 		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk 	
 
-		Sanglang Kelatakan
+		Sanglang KelatYoruba
 	}
 	clipper_transport = {
 		
@@ -192,6 +192,6 @@ unit_names = {
 	commerce_raider = {
 		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk 	
 
-		Sanglang Kelatakan
+		Sanglang KelatYoruba
 	}
 }

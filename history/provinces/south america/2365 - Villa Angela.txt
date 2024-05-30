@@ -1,4 +1,4 @@
-add_core = NAN
+
 add_core = AVA
 trade_goods = timber
 terrain = savanna

@@ -1,7 +1,7 @@
 capital = 1784
 primary_culture = maures
-culture = fulbe
-culture = wolof
+culture = hausa
+culture = hausa
 religion = catholic
 government = democracy
 plurality = 0.0

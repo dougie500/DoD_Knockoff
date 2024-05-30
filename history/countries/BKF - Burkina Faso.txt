@@ -1,10 +1,10 @@
 capital = 1901
-primary_culture = mossi
-culture = gur
-culture = mande
-culture = bambara
-culture = fulbe
-culture = senufo
+primary_culture = hausa
+culture = hausa
+culture = hausa
+culture = hausa
+culture = hausa
+culture = hausa
 culture = dyula
 religion = sunni
 government = democracy

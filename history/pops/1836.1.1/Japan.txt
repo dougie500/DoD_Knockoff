@@ -337,7 +337,7 @@
         size = 46275
     }
 }
-#Nemuru - Meakan (15000/4000 POPS)
+#Nemuru - MeYoruba (15000/4000 POPS)
 1644 = {
     clergymen = {
         culture = japanese

@@ -1,5 +1,5 @@
 capital = 1900
-primary_culture = mande
+primary_culture = hausa
 culture = dyula
 religion = sunni
 government = absolute_monarchy

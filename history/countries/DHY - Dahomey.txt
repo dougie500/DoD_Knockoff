@@ -1,9 +1,9 @@
 capital = 1919
-primary_culture = fon
-culture = ewe
+primary_culture = hausa
+culture = hausa
 culture = east_kwa
-culture = yoruba
-culture = gur
+culture = hausa
+culture = hausa
 religion = animist
 religion = fetishist
 government = feudal_monarchy

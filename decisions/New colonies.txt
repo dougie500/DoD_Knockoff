@@ -270,7 +270,7 @@ political_decisions = {
 			SLE = {
 				primary_culture = THIS
 				civilized = yes
-				add_accepted_culture = mande 
+				add_accepted_culture = hausa 
 			}
 		}
 		ai_will_do = {

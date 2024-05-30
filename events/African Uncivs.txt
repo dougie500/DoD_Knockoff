@@ -25,9 +25,9 @@ country_event = {
 	
 	option = {
 		name = "EVT95520OPTA"
-		primary_culture = fulbe
-		add_accepted_culture = bambara
-		add_accepted_culture = songhai
+		primary_culture = hausa
+		add_accepted_culture = hausa
+		add_accepted_culture = hausa
 		add_accepted_culture = tuareg
 		all_core = { add_core = TOU }
 		MAL = { all_core = { add_core = TOU } }

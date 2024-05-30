@@ -10,7 +10,3 @@ life_rating = 35
 	controller = TUR 
 	owner = TUR
 }
-revolt = {
-	type = reactionary_rebels
-	controller = yes
-}

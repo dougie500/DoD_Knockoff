@@ -2207,7 +2207,7 @@
 		size = 10925
 	}
 }
-#Tarakan (96000/24000 POPS)
+#TarYoruba (96000/24000 POPS)
 1425 = {
 	aristocrats = {
 		culture = dayak

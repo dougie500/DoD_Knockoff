@@ -105,31 +105,31 @@
 	}
 	
 	aristocrats = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 900
 	}
@@ -197,31 +197,31 @@
 	}
 
 	aristocrats = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 2700
 	}

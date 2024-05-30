@@ -1195,7 +1195,7 @@
 	}
 
 }
-#Arakan Region : 176000
+#ArYoruba Region : 176000
 #Under rule of Britain 1836
 #Sittwe (176000/44000 POPS)
 1345 = {

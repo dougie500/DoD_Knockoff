@@ -227,7 +227,7 @@
 	}
 
 	slaves = {
-		culture = tiv
+		culture = hausa
 		religion = animist
 		size = 14000
 	}
@@ -235,37 +235,37 @@
 #Bafoussam (276000/69000 POPS)
 1960 = {
 	aristocrats = {
-		culture = tiv
+		culture = hausa
 		religion = sunni
 		size = 1375
 	}
 
 	clergymen = {
-		culture = tiv
+		culture = hausa
 		religion = sunni
 		size = 700
 	}
 
 	artisans = {
-		culture = tiv
+		culture = hausa
 		religion = sunni
 		size = 2775
 	}
 
 	soldiers = {
-		culture = tiv
+		culture = hausa
 		religion = sunni
 		size = 700
 	}
 
 	farmers = {
-		culture = tiv
+		culture = hausa
 		religion = sunni
 		size = 44450
 	}
 
 	slaves = {
-		culture = tiv
+		culture = hausa
 		religion = animist
 		size = 19000
 	}
@@ -349,37 +349,37 @@
 #Bamenda (372000/93000 POPS) #now part of Cameroun
 1961 = {
 	aristocrats = {
-		culture = tiv
+		culture = hausa
 		religion = animist
 		size = 1850
 	}
 
 	clergymen = {
-		culture = tiv
+		culture = hausa
 		religion = animist
 		size = 950
 	}
 
 	artisans = {
-		culture = tiv
+		culture = hausa
 		religion = animist
 		size = 3725
 	}
 
 	soldiers = {
-		culture = tiv
+		culture = hausa
 		religion = animist
 		size = 950
 	}
 
 	farmers = {
-		culture = tiv
+		culture = hausa
 		religion = animist
 		size = 75575
 	}
 
 	slaves = {
-		culture = ibibio
+		culture = hausa
 		religion = animist
 		size = 10000
 	}
@@ -389,43 +389,43 @@
 #Ngaoundere (160000/40000 POPS) #now part of Cameroun
 1963 = {
 	aristocrats = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 500
 	}
 
 	bureaucrats = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 25
 	}
 
 	officers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 250
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 1050
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 275
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 19825
 	}
@@ -461,7 +461,7 @@
 	}
 
 	slaves = {
-		culture = tiv
+		culture = hausa
 		religion = animist
 		size = 4000
 	}
@@ -470,31 +470,31 @@
 #Maroua (433600/108400 POPS) #now part of Cameroun
 1964 = {
 	aristocrats = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 700
 	}
 
 	clergymen = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 800
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 700
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 400
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 27400
 	}
@@ -590,13 +590,13 @@
 	}
 
 	slaves = {
-		culture = kanuri
+		culture = hausa
 		religion = sunni
 		size = 6000
 	}
 	
 	slaves = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 6000
 	}

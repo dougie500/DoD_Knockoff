@@ -1,5 +1,5 @@
 capital = 1031
-primary_culture = udmurt
+primary_culture = tartar
 religion = orthodox
 government = absolute_monarchy
 plurality = 0.0

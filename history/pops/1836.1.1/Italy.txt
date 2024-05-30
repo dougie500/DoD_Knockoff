@@ -49,8 +49,14 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 192900
+		size = 100000
 	}
+	farmers = {
+		culture = provencal
+		religion = protestant
+		size = 120000
+	}
+	
 	craftsmen = {
 		culture = north_italian
 		religion = catholic

@@ -178,32 +178,32 @@ party = {
 unit_names = {
 	dreadnought = {
 		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
-		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan
+		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" VaspurYoruba Yerevan
 		
 	}
 	ironclad = {
 		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
-		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan	
+		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" VaspurYoruba Yerevan	
 	}
 	manowar = {
 		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
-		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan
+		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" VaspurYoruba Yerevan
 		
 		
 	}
 	cruiser = {
 		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
-		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan
+		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" VaspurYoruba Yerevan
 		
 	}
 	frigate = {
 		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
-		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan
+		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" VaspurYoruba Yerevan
 		
 	}
 	monitor = {
 		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
-		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan
+		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" VaspurYoruba Yerevan
 		
 	}
 	clipper_transport = {
@@ -214,7 +214,7 @@ unit_names = {
 	}
 	commerce_raider = {
 		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
-		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan
+		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" VaspurYoruba Yerevan
 		
 	}
 }

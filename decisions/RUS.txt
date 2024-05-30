@@ -40,10 +40,10 @@ political_decisions = {
 				change_tag = RUS
 				add_accepted_culture = russian
 				add_accepted_culture = ugrian
-				add_accepted_culture = mordvin
+				add_accepted_culture = tatar
 				add_accepted_culture = mari
-				add_accepted_culture = komi
-				add_accepted_culture = chuvash
+				add_accepted_culture = finnish
+				add_accepted_culture = tatar
 				add_accepted_culture = udmurt
 				any_country = {
 					limit = {
@@ -335,7 +335,7 @@ political_decisions = {
 		}
 		effect = {
 			prestige = 5
-			add_accepted_culture = latvian
+			add_accepted_culture = estonian
 			set_country_flag = latvian_culture
 		}
 		ai_will_do = {

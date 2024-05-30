@@ -621,7 +621,7 @@ province_event = {
 				}
 				add_core = SLE
 				any_pop = { militancy = -3 }
-				SLE = { add_accepted_culture = akan }
+				SLE = { add_accepted_culture = hausa }
 			}
 		}
 	}

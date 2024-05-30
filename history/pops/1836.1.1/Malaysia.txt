@@ -726,7 +726,7 @@
 	}
 }
 #Under the Rule of Sulu in 1836 (40000)
-#Sandakan (40000/10000 POPS)
+#SandYoruba (40000/10000 POPS)
 1397 = {
 	aristocrats = {
 		culture = dayak

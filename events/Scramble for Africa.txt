@@ -175,7 +175,7 @@ country_event = {
 	picture = "arab_revolt"
 	
 	trigger = {
-		primary_culture = fulbe
+		primary_culture = hausa
 		war = no
 		civilized = no
 		is_disarmed = no

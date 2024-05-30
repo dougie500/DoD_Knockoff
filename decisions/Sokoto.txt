@@ -153,13 +153,13 @@ political_decisions = {
 				add_core = SOK
 			}
 			add_accepted_culture = hausa
-			add_accepted_culture = fulbe
-			add_accepted_culture = edo
-			add_accepted_culture = tiv
-			add_accepted_culture = ibo
-			add_accepted_culture = yoruba
-			add_accepted_culture = ibibio
-			add_accepted_culture = fon
+			add_accepted_culture = hausa
+			add_accepted_culture = hausa
+			add_accepted_culture = hausa
+			add_accepted_culture = hausa
+			add_accepted_culture = hausa
+			add_accepted_culture = hausa
+			add_accepted_culture = hausa
 			capital = 1948
 		}
 		ai_will_do = {

@@ -1,7 +1,7 @@
 capital = 1879
-primary_culture = mande
-culture = fulbe
-culture = western_nigritic
+primary_culture = hausa
+culture = hausa
+culture = hausa
 culture = dyula
 religion = sunni
 government = democracy
@@ -32,7 +32,8 @@ school_reforms = no_schools
 conscription = no_draft
 debt_law = serfdom
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = sunni_country

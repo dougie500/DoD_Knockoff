@@ -1,7 +1,7 @@
 capital = 1815
 primary_culture = hausa
 culture = tuareg
-culture = fulbe
+culture = hausa
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
@@ -32,7 +32,8 @@ school_reforms = no_schools
 conscription = no_draft
 debt_law = peonage
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = open_borders
 
 ruling_party = DAM_conservative

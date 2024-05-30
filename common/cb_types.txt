@@ -3575,7 +3575,7 @@ sahel_jihad_cb = {
 				government = theocracy
 				government = absolute_monarchy
 			}
-			primary_culture = fulbe
+			primary_culture = hausa
 		}
 		OR = {
 			war_with = THIS

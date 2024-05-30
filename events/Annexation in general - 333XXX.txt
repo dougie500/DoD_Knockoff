@@ -408,7 +408,7 @@ country_event = {
 		}
 		primary_culture = livlandian
 		remove_accepted_culture = north_german 
-		remove_accepted_culture = latvian
+		remove_accepted_culture = estonian
 		change_tag = UBD
 		any_country = { 
 		any_owned = { 

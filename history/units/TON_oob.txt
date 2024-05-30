@@ -1,5 +1,5 @@
 leader = {
-	name = "Lakan Gambang"
+	name = "LYoruba Gambang"
 	type = land
 	date = 1836.1.1
 	personality = cautious

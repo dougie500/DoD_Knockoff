@@ -1,5 +1,5 @@
-owner = DEN
-controller = DEN
+owner = SPA
+controller = SPA
 add_core = SFJ
 colonial = 2
 trade_goods = tobacco

@@ -609,7 +609,7 @@ south_slavic = {
 		Cuvaj Draskovic Dzamanjic Eltz Erdödy Frankopan Gaj Getaldic Gradic Gregoric
 		Gucetic Gundulic Haulik Jelacic Kabuzic Keglevic Kostrencic Krstulovic Lagimja Mazuranic
 		Mihailovic Mohorovicic Mrazovic Natali Nazor Njegovan Palecek Pejacevic Philippovic Preradovic
-		Pucic Ranjina Sarkotic Sokcevic Sorkocevic Stankovaci Tomasic Tomlejnovic Vakanovic Vlasic
+		Pucic Ranjina Sarkotic Sokcevic Sorkocevic Stankovaci Tomasic Tomlejnovic VYorubaovic Vlasic
 		}
 	}
 	serb = {
@@ -2371,7 +2371,7 @@ oceanic = {
 	}
 	micronesian = {
 		color = {68 213 88}
-		first_names = { Tem Makiatia Takahihi Tikoro Hakana Hakapeke Wekeia Poiaka Maehua Tawehi
+		first_names = { Tem Makiatia Takahihi Tikoro HYorubaa Hakapeke Wekeia Poiaka Maehua Tawehi
 		}
 		last_names = { Tetabo Namoriki Karotu Tawaia Baiteke Binoka Bauro Tokatake Panena Mensile Sapwasap Totonu 
 		}
@@ -2410,7 +2410,7 @@ mesoandean = {
 		color = {178 141 85}
 		first_names = { Atawallpa Wayna Wanka Waskhar Rimaq Ruminaki Sapay Sumainka Tupakusi Ukumari Wallpaya Wamay Amaru Anti Anqasmayu Chikan Inti Intiawki Hatuntupaq Kusiwallpa Apumayta Awki Chawpi }
 
-		last_names = { Achachau Allawca Alqa Amaru Wankahauri Uywa Inka Maygua Ninahuamán Muthuqanchis Ankwaman Awqitayasi Sayritupac Siwi Willca Yacupaico Tikawanka Pinchi Pachari Pawkar Chakana Waylla Huaman Chukimango Kuntur Cajahuanca Chambi Chihuán Cusurichi Humala Quispe Sumac }
+		last_names = { Achachau Allawca Alqa Amaru Wankahauri Uywa Inka Maygua Ninahuamán Muthuqanchis Ankwaman Awqitayasi Sayritupac Siwi Willca Yacupaico Tikawanka Pinchi Pachari Pawkar Yorubaana Waylla Huaman Chukimango Kuntur Cajahuanca Chambi Chihuán Cusurichi Humala Quispe Sumac }
 	}
 	aimara = {
 		color = {190 45 23}
@@ -2524,7 +2524,7 @@ native_north_american = {
 		color = {210 243 242}
 		first_names = { Peter Ipeelee Jose Steve David Jack Goo Germaine James Pitseolak Kenojuak Ernie Caubvick
 		}
-		last_names = { Alakannuark Arreak Ashoona Enuaraq Evaloarjuk Ipeelee Irgittuq Keenainak Kunuk Kusugak Maksagak Nutarak Paniloo Piugattuk Pudluk Tiktaalaaq Ungallaq
+		last_names = { AlYorubanuark Arreak Ashoona Enuaraq Evaloarjuk Ipeelee Irgittuq Keenainak Kunuk Kusugak Maksagak Nutarak Paniloo Piugattuk Pudluk Tiktaalaaq Ungallaq
 		}
 	}
 	cree = {
@@ -3187,7 +3187,7 @@ west_african = {
 	leader = african
 	is_overseas = no
 	unit = AfricanGC
-	akan = {
+	Yoruba = {
 		color = {88 68 147}
 		first_names = { Amanquatia Agyeman Onsei Kwaku Kofi Atakora Kwabena Mensa Owusu Akyampon Kwame Opoku 
 		}
@@ -3359,7 +3359,7 @@ west_african = {
 	}	
 	wolof = {
 		color = {91 146 180}
-		first_names = { Birayamb Al-Buri Baka Birayma Mbanyi Lat Bakan-Tam Taanor Amado "Ali Buri" Mba Birawa Samba
+		first_names = { Birayamb Al-Buri Baka Birayma Mbanyi Lat BYoruba-Tam Taanor Amado "Ali Buri" Mba Birawa Samba
 		}
 
 		last_names = { N'Dyaye Seeku Khaari Yaago Peya Ma-Dyigen Koddu Paate Penda Aram Kodu Tam Dior

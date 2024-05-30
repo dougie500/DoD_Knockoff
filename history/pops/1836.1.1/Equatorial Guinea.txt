@@ -69,43 +69,43 @@
 	}
 	
 	aristocrats = {
-		culture = ibo
+		culture = hausa
 		religion = animist
 		size = 10
 	}
 	
 	officers = {
-		culture = ibo
+		culture = hausa
 		religion = animist
 		size = 20
 	}
 
 	clergymen = {
-		culture = ibo
+		culture = hausa
 		religion = animist
 		size = 20
 	}
 
 	artisans = {
-		culture = ibo
+		culture = hausa
 		religion = animist
 		size = 120
 	}
 
 	soldiers = {
-		culture = ibo
+		culture = hausa
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = ibo
+		culture = hausa
 		religion = animist
 		size = 700
 	}
 
 	slaves = {
-		culture = kru
+		culture = hausa
 		religion = animist
 		size = 630
 	}
@@ -174,7 +174,7 @@
 	}
 	
 	slaves = {
-		culture = ibo
+		culture = hausa
 		religion = animist
 		size = 500
 	}

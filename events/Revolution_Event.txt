@@ -1445,7 +1445,7 @@ country_event = {
 		clr_country_flag = post_colonial_country
 		random_owned = {
 			limit = { owner = { tag = MLI } }
-			owner = { primary_culture = fulbe }
+			owner = { primary_culture = hausa }
 		}
 		random_owned = {
 			limit = { owner = { tag = BUG } }
@@ -1465,7 +1465,7 @@ country_event = {
 		}
 		random_owned = {
 			limit = { owner = { tag = CHD } }
-			owner = { primary_culture = sara }
+			owner = { primary_culture = hausa }
 		}
 		random_owned = {
 			limit = { owner = { tag = CAR } }
@@ -1509,7 +1509,7 @@ country_event = {
 			limit = {
 				owner = { tag = NGR }
 			}
-			owner = { primary_culture = yoruba }
+			owner = { primary_culture = hausa }
 		}
 		random_owned = {
 			limit = {
@@ -1519,13 +1519,13 @@ country_event = {
 		}
 		random_owned = {
 			limit = { owner = { tag = GNE } }
-			owner = { primary_culture = fulbe }
+			owner = { primary_culture = hausa }
 		}
 		random_owned = {
 			limit = {
 				owner = { tag = SNG }
 			}
-			owner = { primary_culture = wolof }
+			owner = { primary_culture = hausa }
 		}
 		random_owned = {
 			limit = {
@@ -1537,13 +1537,13 @@ country_event = {
 			limit = {
 				owner = { tag = TOG }
 			}
-			owner = { primary_culture = ewe }
+			owner = { primary_culture = hausa }
 		}
 		random_owned = {
 			limit = {
 				owner = { tag = BKF }
 			}
-			owner = { primary_culture = mossi }
+			owner = { primary_culture = hausa }
 		}
 		random_owned = {
 			limit = {
@@ -1561,15 +1561,15 @@ country_event = {
 			limit = {
 				owner = { tag = SLE }
 			}
-			owner = { primary_culture = western_nigritic }
+			owner = { primary_culture = hausa }
 		}
 		random_owned = {
 			limit = { owner = { tag = GNE } }
-			owner = { primary_culture = mande }
+			owner = { primary_culture = hausa }
 		}
 		random_owned = {
 			limit = { owner = { tag = GMB } }
-			owner = { primary_culture = mande }
+			owner = { primary_culture = hausa }
 		}
 		random_owned = {
 			limit = {

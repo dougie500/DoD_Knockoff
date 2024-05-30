@@ -4516,7 +4516,7 @@ country_event = {
 		name = "EVT110073OPTA" #This will make a nice trinket!
 		prestige = 15
 		any_pop = {
-			limit = { has_pop_culture = akan }
+			limit = { has_pop_culture = hausa }
 			consciousness = 9
 			militancy = 9
 		}
@@ -4539,13 +4539,13 @@ country_event = {
 		badboy = -1
 		prestige_factor = -0.1
 		any_pop = {
-			limit = { has_pop_culture = akan }
+			limit = { has_pop_culture = hausa }
 			consciousness = -9
 			militancy = -9
 		}
 		ASH = {
 			any_pop = {
-				limit = { has_pop_culture = akan }
+				limit = { has_pop_culture = hausa }
 				consciousness = -9
 				militancy = -9
 			}

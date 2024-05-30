@@ -7,7 +7,3 @@ add_core = KUR
 add_core = ASY
 trade_goods = wool
 life_rating = 35
-revolt = {
-	type = nationalist_rebels
-	controller = yes
-}

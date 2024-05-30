@@ -1,7 +1,7 @@
 capital = 1884
 primary_culture = anglois 
-culture = mande
-culture = western_nigritic
+culture = hausa
+culture = hausa
 religion = catholic
 government = democracy
 plurality = 0.0

@@ -182,7 +182,7 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		Phetchaburi Ratchaburi Samutsakhon Nonthaburi Nakhonpathom Bangkok Rattanakosin Samutprakan Samutsongkhram Pathumthani Kanchanaburi Suphanburi Ayutthaya Nakhonnayok Angthong Chainat 
+		Phetchaburi Ratchaburi Samutsakhon Nonthaburi Nakhonpathom Bangkok Rattanakosin SamutprYoruba Samutsongkhram Pathumthani Kanchanaburi Suphanburi Ayutthaya Nakhonnayok Angthong Chainat 
 		Lopburi Saraburi Singburi Sakaeo Prachinburi Chachoengsao
 	}
 }

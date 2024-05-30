@@ -213,7 +213,7 @@
     farmers = {
         culture = finnish
         religion = protestant
-        size = 12997
+        size = 55000
     }
 
     clergymen = {
@@ -311,7 +311,7 @@
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 300
+        size = 3000
     }
 
     artisans = {
@@ -329,7 +329,7 @@
     farmers = {
         culture = finnish
         religion = protestant
-        size = 18042
+        size = 90000
     }
 
     aristocrats = {
@@ -368,18 +368,14 @@
         size = 485
     }
 
-    farmers = {
-        culture = scandinavian
-        religion = protestant
-        size = 6812
-    }
+    
 }
 #Hameenlinna (44000/11000 POPS)
 344 = {
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 100
+        size = 1000
     }
 
     artisans = {
@@ -391,7 +387,7 @@
     farmers = {
         culture = finnish
         religion = protestant
-        size = 8695
+        size = 30000
     }
 
     clergymen = {
@@ -417,7 +413,7 @@
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 1150
+        size = 3150
     }
 
     artisans = {
@@ -429,7 +425,7 @@
     farmers = {
         culture = finnish
         religion = protestant
-        size = 50662
+        size = 70662
     }
 
     clergymen = {

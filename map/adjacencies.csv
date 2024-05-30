@@ -41,10 +41,10 @@ From;To;Type;Through;Data;Comment
 #
 254;271;sea;2737;0;Irish Strait
 324;348;sea;2706;0;Aland Strait #Uppsala to Aland #these were in V1
-334;372;sea;2711;0;Öresund
-335;374;sea;2710;0;Bornholmsfärjan
+334;372;sea;2711;0;ï¿½resund
+335;374;sea;2710;0;Bornholmsfï¿½rjan
 348;345;sea;2706;0;Aland Strait #Aland to Turku 
-353;349;sea;2709;0;Öselsund
+353;349;sea;2709;0;ï¿½selsund
 353;358;sea;2709;0;Strait of Riga
 372;373;sea;2711;0;Fyn-Sjaelland
 371;373;sea;2711;0;Fyn-Jylland
@@ -130,7 +130,7 @@ From;To;Type;Through;Data;Comment
 1450;1453;sea;2853;0;Ceram-Sorong Strait
 1447;1434;sea;2852;0;Ternate Strait
 1437;1436;sea;2810;0;Bulon-Kendari Strait
-1435;1425;sea;2812;0;Palu-Tarakan Strait
+1435;1425;sea;2812;0;Palu-TarYoruba Strait
 1644;1089;sea;2839;0;Nemuru-Etorofu Strait
 1089;1088;sea;2839;0;Etorofu-Shumshu Strait
 1088;1074;sea;2838;0;Shumshu-Petropavlovsk Strait

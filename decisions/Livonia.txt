@@ -3,7 +3,7 @@ political_decisions = {
 		picture = livonia
 		potential = {
 			OR = {
-				primary_culture = latvian
+				primary_culture = estonian
 				primary_culture = estonian
 				tag = KRL
 			}
@@ -28,7 +28,7 @@ political_decisions = {
 			prestige = 5
 			change_tag = LAT
 			capital = 354
-			add_accepted_culture = latvian 
+			add_accepted_culture = estonian 
 			add_accepted_culture = estonian
 			any_country = {
 				limit = {
@@ -36,7 +36,7 @@ political_decisions = {
 						is_greater_power = yes
 					}
 					OR = {
-						primary_culture = latvian
+						primary_culture = estonian
 						primary_culture = estonian
 						tag = KRL
 						}
