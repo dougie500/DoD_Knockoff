@@ -46,44 +46,44 @@
 	}
 
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1400
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 275
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 7325
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 50
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 6210
 	}
@@ -127,40 +127,40 @@
 	}
 
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 50
 		militancy = 9
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 2100
 	}
 
 	soldiers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size= 25
 		militancy = 9
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 3800
 		militancy = 9
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 7450
 	}
@@ -204,50 +204,50 @@
 	}
 
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1150
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 250
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 7700
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 30
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 2450
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 3410
 	}
@@ -288,25 +288,25 @@
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 40
 	}
 
 	soldiers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 1500
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 4300
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 6100
 	}
@@ -346,38 +346,38 @@
 	}
 
 	aristocrats = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size= 2000
 
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 3800
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 8450
 	}
@@ -431,50 +431,50 @@
 	}
 
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 425
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 2700
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 60
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 700
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 4500
 	}
@@ -513,37 +513,37 @@
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 35
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 600
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 9800
 	}
 
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 60
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 6570
 	}
@@ -583,43 +583,43 @@
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 35
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 1550
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 5560
 	}
 
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 40
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 60
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 3400
 	}
@@ -669,49 +669,49 @@
 	}
 
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 2400
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 8700
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic 
 		size = 40
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 1000
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 6500
 	}
@@ -751,49 +751,49 @@
 	}
 
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 80
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 2345
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1500
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 10750
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 30
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 800
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 5500
 	}
@@ -801,69 +801,69 @@
 #Saltillo (44000/11000 POPS)
 2151 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 70
 	}
 
 	officers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 15
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 75
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 7115
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 750
 		militancy = 9
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 4140
 	}
@@ -902,43 +902,43 @@
 	}
 
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 20
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 60
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 9100
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 20
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 600
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 6500
 	}
@@ -946,55 +946,55 @@
 #Torreon (56000/14000 POPS)
 2155 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 300
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 550
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 9925
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 750
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 5500
 	}
@@ -1004,85 +1004,85 @@
 #Reynosa (16000/4000 POPS)
 2148 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 250
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 4575
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 300
 	}
 
 		aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 350
 		militancy = 9
 	}
 
 	bureaucrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 75
 		militancy = 9
 	}
 
 	officers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 25
 		militancy = 9
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 200
 		militancy = 9
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 950
 		militancy = 9
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 250
 
@@ -1090,35 +1090,35 @@
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 9000
 		militancy = 9
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 75
 		militancy = 9
 	}
 
 	artisans = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 350
 		militancy = 9
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 500
 		militancy = 9
 	}
 	
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 11130
 	}
@@ -1126,50 +1126,50 @@
 #Matamoros (28000/7000 POPS)
 2149 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 175
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 275
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 6325
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 400
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 4200
 	}
@@ -1177,50 +1177,50 @@
 #Ciudad Victoria (24000/6000 POPS)
 2150 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 250
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 5450
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 30
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 500
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 4000
 	}
@@ -1230,56 +1230,56 @@
 #Durango (64000/16000 POPS)
 2153 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 350
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 700
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 350
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 4650
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 800
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 6400
 	}
@@ -1287,56 +1287,56 @@
 #Santa Maria del Oro (44000/11000 POPS)
 2154 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 225
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 450
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 500
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 4250
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 500
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 6250
 	}
@@ -1344,62 +1344,62 @@
 #Mazatlan (116000/29000 POPS)
 2156 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 100
 	}
 
 	officers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1450
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 500
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 5200
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 300
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 11300
 	}
@@ -1407,50 +1407,50 @@
 #Culiacan (28000/7000 POPS)
 2157 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 175
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 275
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 6325
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 200
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 8100
 	}
@@ -1460,42 +1460,42 @@
 #Zacatecas (340000/85000 POPS)
 2158 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 725
 		militancy = 9
 	}
 
 	bureaucrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 325
 		militancy = 9
 	}
 
 	officers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 75
 		militancy = 9
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 425
 		militancy = 9
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 3850
 		militancy = 9
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 525
 
@@ -1503,7 +1503,7 @@
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 9175
 		militancy = 9
@@ -1545,31 +1545,31 @@
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 600
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 12350
 	}
@@ -1577,32 +1577,32 @@
 #Aguascalientes (152000/38000 POPS)
 2160 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1525
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 500
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 10850
 	}
@@ -1638,25 +1638,25 @@
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 1050
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 670
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 9870
 	}	
@@ -1664,32 +1664,32 @@
 #Tepic (76000/19000 POPS)
 2161 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 225
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 450
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 10175
 	}
@@ -1719,25 +1719,25 @@
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 30
 	}
 
 	artisans = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 540
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 550
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 8780
 	}
@@ -1747,33 +1747,33 @@
 #San Luis Potosi (324000/81000 POPS)
 2159 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 225
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 475
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 2400
 		militancy = 9
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 12000
 		militancy = 9
@@ -1811,31 +1811,31 @@
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 70
 	}
 
 	artisans = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 540
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 9550
 	}
@@ -1843,37 +1843,37 @@
 #Guanajuato (672000/168000 POPS)
 2167 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 400
 	}
 
 	bureaucrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 575
 	}
 
 	officers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 375
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 325
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 3150
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 2000
 
@@ -1881,7 +1881,7 @@
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 13250
 		militancy = 9
@@ -1921,31 +1921,31 @@
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 90
 	}
 
 	artisans = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 1010
 	}
 
 	soldiers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 250
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 13890
 	}
@@ -1953,25 +1953,25 @@
 #Queretaro (360000/90000 POPS)
 2173 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 350
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 1000
 
@@ -1979,7 +1979,7 @@
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 7500
 		militancy = 9
@@ -2014,31 +2014,31 @@
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 40
 	}
 
 	artisans = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 670
 	}
 
 	soldiers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 400
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 11230
 	}
@@ -2048,42 +2048,42 @@
 #Veracruz (140000/70000 POPS)
 2162 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 425
 		militancy = 5
 	}
 
 	bureaucrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 175
 		militancy = 5
 	}
 
 	officers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 50
 		militancy = 5
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 200
 		militancy = 5
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1500
 		militancy = 5
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 500
 
@@ -2091,7 +2091,7 @@
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 11600
 		militancy = 5
@@ -2133,19 +2133,19 @@
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 30
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 600
 	}
 
 	slaves = {
-		culture = afro_latino	
+		culture = beornian	
 		religion = catholic
 		size = 9870
 	}
@@ -2153,31 +2153,31 @@
 #Tampico (80000/20000 POPS)
 2163 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 425
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 12300
 	}
@@ -2208,25 +2208,25 @@
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 900
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 200
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 10750
 	}
@@ -2234,67 +2234,67 @@
 #Minatitlan (48000/12000 POPS)
 2164 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 3600
 	}
 
 	clergymen = {
-		culture = zapotec
+		culture  = mayan
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = zapotec
+		culture  = mayan
 		religion = catholic
 		size = 550
 	}
 
 	farmers = {
-		culture = zapotec
+		culture  = mayan
 		religion = catholic
 		size = 14400
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 20
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 100
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 4560
 	}
@@ -2302,31 +2302,31 @@
 #Villahermosa (60000/15000 POPS)
 2165 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 325
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 10000
 	}
@@ -2378,42 +2378,42 @@
 #Guadalajara (300000/75000 POPS)
 2166 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1550
 		militancy = 5
 	}
 
 	bureaucrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 250
 		militancy = 5
 	}
 
 	officers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 75
 		militancy = 5
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 650
 		militancy = 5
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 4000
 		militancy = 5
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 650
 
@@ -2421,7 +2421,7 @@
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 13875
 		militancy = 5
@@ -2452,7 +2452,7 @@
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 7800
 	}
@@ -2461,32 +2461,32 @@
 #Puerto Vallarta (148000/37000 POPS)
 2168 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 12550
 	}
@@ -2510,7 +2510,7 @@
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 6500
 	}
@@ -2520,32 +2520,32 @@
 #Colima (108000/27000 POPS)
 2169 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 575
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1350
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 275
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 10525
 	}
@@ -2581,7 +2581,7 @@
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 4560
 	}
@@ -2589,44 +2589,44 @@
 #Morelia (348000/87000 POPS)
 2170 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 325
 	}
 
 	officers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 500
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 2550
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 525
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 18300
 	}
@@ -2656,7 +2656,7 @@
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 18700
 	}
@@ -2664,32 +2664,32 @@
 #Los Alaniles (112000/28000 POPS)
 2171 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 575
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 200
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 8025
 	}
@@ -2719,7 +2719,7 @@
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 4500
 	}
@@ -2729,49 +2729,49 @@
 #Mexico City (508000/127000 POPS)
 2172 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1650
 	}
 
 	bureaucrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 450
 	}
 
 	officers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 775
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 10000
 	}
 	
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 17000
 	}
 	
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 3600
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 97250
 	}
@@ -2807,31 +2807,31 @@
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 2400
 	}
 
 	soldiers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 3500
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 3000
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 14500
 	}
@@ -2839,31 +2839,31 @@
 #Toluca (212000/53000 POPS)
 2174 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1050
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 950
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 3275
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 9800
 	}
@@ -2893,7 +2893,7 @@
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 4500
 	}
@@ -2903,31 +2903,31 @@
 #Tulancingo (188000/47000 POPS)
 2175 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 950
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 950
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 3500
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 16700
 	}
@@ -2951,25 +2951,25 @@
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 1200
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 1900
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 10650
 	}
@@ -2977,44 +2977,44 @@
 #Puebla (504000/126000 POPS)
 2176 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 2550
 	}
 
 	bureaucrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 400
 	}
 
 	officers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 900
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 8500
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 38550
 	}
@@ -3038,31 +3038,31 @@
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
  		size = 100
 	}
 
 	artisans = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 3200
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 23340
 	}
@@ -3072,74 +3072,74 @@
 #Oaxaca (352000 88000 POPS)
 2177 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1650
 	}
 
 	bureaucrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 175
 	}
 
 	officers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 475
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1750
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 8875
 	}
 
 	clergymen = {
-		culture = zapotec
+		culture  = mayan
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = zapotec
+		culture  = mayan
 		religion = catholic
 		size = 4500
 	}
 
 	soldiers = {
-		culture = zapotec
+		culture  = mayan
 		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = zapotec
+		culture  = mayan
 		religion = catholic
 		size = 65450
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 7400
 	}
@@ -3147,62 +3147,62 @@
 #Collataro (100000/25000 POPS)
 2178 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 525
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 4055
 	}
 
 	clergymen = {
-		culture = zapotec
+		culture  = mayan
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = zapotec
+		culture  = mayan
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = zapotec
+		culture  = mayan
 		religion = catholic
 		size = 1200
 	}
 
 	farmers = {
-		culture = zapotec
+		culture  = mayan
 		religion = catholic
 		size = 18700
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 4500
 	}
@@ -3212,44 +3212,44 @@
 #Acapulco (156000/44000 POPS)
 2179 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 900
 	}
 
 	bureaucrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 125
 	}
 
 	officers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 325
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1150
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 250
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 13250
 	}
@@ -3279,7 +3279,7 @@
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 7500
 	}
@@ -3287,32 +3287,32 @@
 #Chilpancingo (80000/20000 POPS)
 2180 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 450
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 4850
 	}
@@ -3343,7 +3343,7 @@
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = beornian
 		religion = catholic
 		size = 4500
 	}
@@ -3353,13 +3353,13 @@
 #Tuxtla (84000/21000 POPS)
 2181 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 450
 	}
 
 	bureaucrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 25
 	}
@@ -3377,13 +3377,13 @@
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 50
 
@@ -3428,7 +3428,7 @@
 #Tapachula (40000/10000 POPS)
 2182 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 225
 	}
@@ -3453,7 +3453,7 @@
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1025
 	}
@@ -3494,14 +3494,14 @@
 #Merida (240000/60000 POPS)
 2183 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1275
 		militancy = 9
 	}
 
 	bureaucrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 200
 		militancy = 9
@@ -3522,7 +3522,7 @@
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 500
 		militancy = 9
@@ -3541,7 +3541,7 @@
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 10000
 	}
@@ -3586,7 +3586,7 @@
 #Camnpeche (108000/27000 POPS)
 2184 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 550
 	}
@@ -3611,7 +3611,7 @@
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 6000
 	}
@@ -3656,7 +3656,7 @@
 #Bacalar (92000/23000 POPS)
 2185 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 475
 	}

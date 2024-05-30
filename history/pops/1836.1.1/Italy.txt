@@ -712,11 +712,15 @@
 		size= 1550
 
 	}
-
 	farmers = {
 		culture = venetian
 		religion = catholic
-		size = 80075
+		size = 40000
+	}
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 40075
 	}
 }
 #Bozen (92000/23000 POPS) #now part of Italy

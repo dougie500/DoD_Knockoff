@@ -3,49 +3,49 @@
 #Gaborone (28000/7000 POPS) 
 2074 = {
     aristocrats = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 570
     }
 
     clergymen = {
-        culture = tswana
+        culture = zulu
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = tswana
+        culture = zulu
         religion = animist
         size = 350
     }
 
     soldiers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 7500
     }
 
     farmers = {
-        culture = tswana
+        culture = zulu
         religion = animist
         size = 6375
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 500
     }
 
     artisans = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 689
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 12000
     }
@@ -75,7 +75,7 @@
     }
 
     soldiers = {
-        culture = sotho
+        culture = zulu
         religion = animist
         size = 25
     }
@@ -89,19 +89,19 @@
 #Nokaneng (12000/3000 POPS) 
 2076 = {
     clergymen = {
-        culture = tswana
+        culture = zulu
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = tswana
+        culture = zulu
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = tswana
+        culture = zulu
         religion = animist
         size = 900
     }
@@ -137,19 +137,19 @@
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 250
     }
 
     artisans = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 300
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 4000
     }
@@ -157,19 +157,19 @@
 #Tshabong (12000/3000 POPS) 
 2077 = {
     clergymen = {
-        culture = tswana
+        culture = zulu
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = tswana
+        culture = zulu
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = tswana
+        culture = zulu
         religion = animist
         size = 1800
     }
@@ -193,19 +193,19 @@
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 150
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 4500
     }
@@ -213,37 +213,37 @@
 #Mochidi (16000/4000 POPS) 
 2574 = {
     clergymen = {
-        culture = tswana
+        culture = zulu
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = tswana
+        culture = zulu
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = tswana
+        culture = zulu
         religion = animist
         size = 3650
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 5000
     }
@@ -270,37 +270,37 @@
     }
 
     clergymen = {
-        culture = tswana
+        culture = zulu
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = tswana
+        culture = zulu
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = tswana
+        culture = zulu
         religion = animist
         size = 1800
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 90
     }
 
     artisans = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 2800
     }

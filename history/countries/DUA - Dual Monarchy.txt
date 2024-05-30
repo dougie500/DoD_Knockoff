@@ -1,7 +1,5 @@
 capital = 425
 primary_culture = anglois
-culture = welsh
-culture = breton
 religion = catholic
 government = prussian_constitutionalism
 plurality = 10

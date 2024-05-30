@@ -242,8 +242,8 @@ political_decisions = {
 				owner = { add_accepted_culture = navajo }
 			}
 			random_owned = {
-				limit = { is_core = THIS any_pop = { has_pop_culture = zapotec } NOT = { owner = { accepted_culture = zapotec } } }
-				owner = { add_accepted_culture = zapotec }
+				limit = { is_core = THIS any_pop = { has_pop_culture  = mayan } NOT = { owner = { accepted_culture  = mayan } } }
+				owner = { add_accepted_culture  = mayan }
 			}
 			random_owned = {
 				limit = { is_core = THIS any_pop = { has_pop_culture = tarascan } NOT = { owner = { accepted_culture = tarascan } } }
@@ -324,8 +324,8 @@ political_decisions = {
 					primary_culture = septiman
 				}
 				AND	= {
-					pop_majority_culture = lotharian
-					primary_culture = lotharian
+					pop_majority_culture  = lotharian
+					primary_culture  = lotharian
 				}
 				AND	= {
 					pop_majority_culture = ganguan
@@ -352,12 +352,12 @@ political_decisions = {
 					primary_culture = livlandian
 				}				
 				AND	= {
-					pop_majority_culture = mexican
-					primary_culture = mexican
+					pop_majority_culture  = beornian
+					primary_culture  = beornian
 				}
 				AND	= {
-					pop_majority_culture = beornian
-					primary_culture = beornian
+					pop_majority_culture  = lotharian
+					primary_culture  = lotharian
 				}
 				AND	= {
 					pop_majority_culture = central_american
@@ -438,8 +438,8 @@ political_decisions = {
 					primary_culture = septiman
 				}
 				AND	= {
-					pop_majority_culture = lotharian
-					primary_culture = lotharian
+					pop_majority_culture  = lotharian
+					primary_culture  = lotharian
 				}
 				AND	= {
 					pop_majority_culture = ganguan
@@ -466,12 +466,12 @@ political_decisions = {
 					primary_culture = livlandian
 				}				
 				AND	= {
-					pop_majority_culture = mexican
-					primary_culture = mexican
+					pop_majority_culture  = beornian
+					primary_culture  = beornian
 				}
 				AND	= {
-					pop_majority_culture = beornian
-					primary_culture = beornian
+					pop_majority_culture  = lotharian
+					primary_culture  = lotharian
 				}
 				AND	= {
 					pop_majority_culture = central_american

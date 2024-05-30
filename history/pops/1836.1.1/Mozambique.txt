@@ -93,25 +93,25 @@
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 138
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 9066
     }
 
     soldiers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 6000
     }
 
     slaves = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 9400
     }
@@ -185,19 +185,19 @@
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 348
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 10158
     }
 
     slaves = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 6300
     }

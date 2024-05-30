@@ -336,7 +336,7 @@
 	farmers = {
 		culture = czech
 		religion = catholic
-		size = 145780
+		size = 105780
 	}
 
 	clergymen = {
@@ -359,7 +359,7 @@
 	}
 
 	farmers = {
-		culture = south_german
+		culture = polish
 		religion = catholic
 		size = 15925
 	}
@@ -555,7 +555,7 @@
 	}
 
 	farmers = {
-		culture = south_german
+		culture = polish
 		religion = catholic
 		size = 13125
 	}
@@ -607,7 +607,7 @@
 	farmers = {
 		culture = czech
 		religion = catholic
-		size = 48375 
+		size = 40375 
 	}
 }
 #Kattowitz (452000/113000 POPS) 
@@ -663,9 +663,9 @@
 	}
 
 	farmers = {
-		culture = south_german
+		culture = polish
 		religion = catholic
-		size = 17825 
+		size = 25000 
 	}
 
 	clergymen = {
@@ -690,7 +690,7 @@
 	farmers = {
 		culture = czech
 		religion = catholic
-		size = 47675
+		size = 35000
 	}
 }
 #under the rule of Austria in 1836  
@@ -1239,9 +1239,13 @@
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 26825
+		size = 45825
 	}
-
+	farmers = {
+		culture = czech
+		religion = protestant
+		size = 10000
+	}
 	clergymen = {
 		culture = polish
 		religion = catholic
@@ -1313,7 +1317,7 @@
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 74800
+		size = 60800
 	}
 }
 #Bromberg (212000/53000 POPS) 
@@ -1668,7 +1672,7 @@
 	clergymen = {
 		culture = polish
 		religion = catholic
-		size = 500 
+		size = 1500 
 	}
 
 	artisans = {
@@ -1680,14 +1684,14 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 500
+		size= 4500
 
 	}
 
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 46500 
+		size = 86500 
 	}
 
 	clergymen = {

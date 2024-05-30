@@ -3,13 +3,13 @@
 #Guatemala City (276000/69000 POPS)
 2186 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 175
 	}
@@ -84,7 +84,7 @@
 #Quetzaltenango (112000/28000 POPS)
 2187 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 175
 	}
@@ -154,7 +154,7 @@
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 50
 	}
@@ -212,7 +212,7 @@
 #Sayaxche (16000/4000 POPS)
 2189 = {
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 100
 	}
@@ -230,7 +230,7 @@
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 200
 	}

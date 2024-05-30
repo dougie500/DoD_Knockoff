@@ -18,7 +18,7 @@ country_event = {
     	political_reform = state_controlled
     	political_reform = secret_ballots
 		prestige = 10
-		primary_culture = mexican
+		primary_culture  = beornian
 		add_accepted_culture = lusitanian
     	add_accepted_culture = central_american
 		add_accepted_culture = granadan
@@ -45,7 +45,7 @@ country_event = {
     		political_reform = state_controlled
     		political_reform = secret_ballots
 		prestige = 5
-		primary_culture = mexican
+		primary_culture  = beornian
 		add_accepted_culture = lusitanian
     	add_accepted_culture = central_american
 		add_accepted_culture = granadan
@@ -68,7 +68,7 @@ country_event = {
 		set_country_flag = granadans_refusal
 		any_pop = {
   			limit = {
-  				NOT = { culture = mexican }
+  				NOT = { culture  = beornian }
   			}
   			militancy = 3
           		consciousness = 3
@@ -95,7 +95,7 @@ country_event = {
 		set_country_flag = granadans_refusal
 		any_pop = {
   			limit = {
-  				NOT = { culture = mexican }
+  				NOT = { culture  = beornian }
   			}
   			militancy = 3
           		consciousness = 3

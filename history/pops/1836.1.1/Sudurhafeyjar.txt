@@ -52,7 +52,7 @@
 		size = 35000
 	}
 
-	clergymen = {
+	clergymen = {	
 		culture = afro_latino
 		religion = protestant
 		size = 200

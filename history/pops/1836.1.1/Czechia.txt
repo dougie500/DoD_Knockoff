@@ -41,13 +41,13 @@
 	clergymen = {
 		culture = czech
 		religion = catholic
-		size = 3625
+		size = 3000
 	}
 
 	artisans = {
 		culture = czech
 		religion = catholic
-		size = 10000
+		size = 8000
 	}
 	
 	artisans = {
@@ -59,7 +59,7 @@
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size= 3000
+		size= 1500
 
 	}
 
@@ -73,7 +73,7 @@
 	farmers = {
 		culture = czech
 		religion = catholic
-		size = 353325
+		size = 280000
 	}
 
 	aristocrats = {
@@ -257,7 +257,7 @@
 	farmers = {
 		culture = czech
 		religion = catholic
-		size = 124800 
+		size = 104800 
 	}
 
 	aristocrats = {
@@ -398,7 +398,7 @@
 	farmers = {
 		culture = czech
 		religion = catholic
-		size = 133100 
+		size = 103100 
 	}
 
 	aristocrats = {
@@ -571,7 +571,7 @@
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size= 1900
+		size= 1000
 
 	} 
 
@@ -596,7 +596,7 @@
 	farmers = {
 		culture = czech
 		religion = catholic
-		size = 203550 
+		size = 153550 
 	}
 
 	aristocrats = {
@@ -632,7 +632,7 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size= 700
+		size= 400
 
 	}
 
@@ -684,7 +684,7 @@
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size= 750
+		size= 400
 
 	}
 

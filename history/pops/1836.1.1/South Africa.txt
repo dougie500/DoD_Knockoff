@@ -107,31 +107,31 @@
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 15
     }
 
     artisans = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 225
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 3793
     }
 
     aristocrats = {
-        culture = sotho
+        culture = zulu
         religion = animist
         size = 70
     }
 
     aristocrats = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 55
     }
@@ -143,7 +143,7 @@
     }
 
     aristocrats = {
-        culture = xhosa
+        culture = zulu
         religion = animist
         size = 28
     }
@@ -155,13 +155,13 @@
     }
 
     soldiers = {
-        culture = sotho
+        culture = zulu
         religion = animist
         size = 70
     }
 
     soldiers = {
-        culture = xhosa
+        culture = zulu
         religion = animist
         size = 17
     }
@@ -229,19 +229,19 @@
     }
 
     clergymen = {
-        culture = sotho
+        culture = zulu
         religion = animist
         size = 35
     }
 
     artisans = {
-        culture = sotho
+        culture = zulu
         religion = animist
         size = 70
     }
 
     farmers = {
-        culture = sotho
+        culture = zulu
         religion = animist
         size = 6755
     }
@@ -271,19 +271,19 @@
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 38
     }
 
     artisans = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 75
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 4905
     }
@@ -375,19 +375,19 @@
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 23
     }
 
     artisans = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 30
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 4403
     }
@@ -497,19 +497,19 @@
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 117
     }
 
     artisans = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 150
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 2867
     }
@@ -537,19 +537,19 @@
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 15
     }
 
     artisans = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 45
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 825
     }
@@ -649,25 +649,25 @@
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 15
     }
 
     artisans = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 30
     }
 
     soldiers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 310
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 1440
     }
@@ -679,7 +679,7 @@
     }
 
     aristocrats = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 8
     }
@@ -691,7 +691,7 @@
     }
 
     soldiers = {
-        culture = sotho
+        culture = zulu
         religion = animist
         size = 17
     }
@@ -717,37 +717,37 @@
     }
 
     clergymen = {
-        culture = sotho
+        culture = zulu
         religion = animist
         size = 17
     }
 
     artisans = {
-        culture = sotho
+        culture = zulu
         religion = animist
         size = 35
     }
 
     farmers = {
-        culture = sotho
+        culture = zulu
         religion = animist
         size = 1312
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 16
     }
 
     artisans = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 30
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 1433
     }
@@ -773,13 +773,13 @@
 #De Aar (30600/7650 POPS) 
 2558 = {
     clergymen = {
-        culture = sotho
+        culture = zulu
         religion = fetishist
         size = 28
     }
  
    farmers = {
-        culture = sotho
+        culture = zulu
         religion = fetishist
         size = 3192
     }
@@ -815,19 +815,19 @@
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 12
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 1368
     }
 
     soldiers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 1000
     }
@@ -836,7 +836,7 @@
 #Kimberley (156000/39000 POPS)
 2094 = {
     clergymen = {
-        culture = tswana
+        culture = zulu
         religion = fetishist
         size = 224
     }
@@ -866,7 +866,7 @@
     }
 
     farmers = {
-        culture = tswana
+        culture = zulu
         religion = fetishist
         size = 16272
     }
@@ -884,13 +884,13 @@
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 96
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 8688
     }
@@ -899,7 +899,7 @@
 #Dikathong (20000/5000 POPS)
 2095 = {
     clergymen = {
-        culture = tswana
+        culture = zulu
         religion = fetishist
         size = 280
     }
@@ -911,19 +911,19 @@
     }
 
     farmers = {
-        culture = tswana
+        culture = zulu
         religion = fetishist
         size = 4604
     }
 	
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 12
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 1116
     }
@@ -951,19 +951,19 @@
     }
 
     clergymen = {
-        culture = xhosa
+        culture = zulu
         religion = fetishist
         size = 24
     }
 
     artisans = {
-        culture = xhosa
+        culture = zulu
         religion = fetishist
         size = 70
     }
 
     farmers = {
-        culture = xhosa
+        culture = zulu
         religion = fetishist
         size = 5730
     }
@@ -1047,25 +1047,25 @@
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 160
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 11328
     }
 
     soldiers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 1328
     }
@@ -1109,13 +1109,13 @@
     }
 
     clergymen = {
-        culture = xhosa
+        culture = zulu
         religion = fetishist
         size = 14
     }
 
     farmers = {
-        culture = xhosa
+        culture = zulu
         religion = fetishist
         size = 2128
     }
@@ -1145,19 +1145,19 @@
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 16
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 2040
     }
 
     soldiers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 4000
     }
@@ -1166,13 +1166,13 @@
 #Bisho (80000/20000 POPS)
 2098 = {
     clergymen = {
-        culture = xhosa
+        culture = zulu
         religion = fetishist
         size = 106
     }
 	
     soldiers = {
-        culture = xhosa
+        culture = zulu
         religion = fetishist
         size = 3000
     }	
@@ -1184,19 +1184,19 @@
     }
 
     farmers = {
-        culture = xhosa
+        culture = zulu
         religion = fetishist
         size = 9152
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 84
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 7208
     }
@@ -1204,31 +1204,31 @@
 #Mathele (80000/20000 POPS)
 2099 = {
     clergymen = {
-        culture = xhosa
+        culture = zulu
         religion = fetishist
         size = 206
     }
 	
     soldiers = {
-        culture = xhosa
+        culture = zulu
         religion = fetishist
         size = 3000
     }	
 
     farmers = {
-        culture = xhosa
+        culture = zulu
         religion = fetishist
         size = 16152
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 4408
     }
@@ -1236,31 +1236,31 @@
 #Umtata (144000/36000 POPS)
 2100 = {
     clergymen = {
-        culture = xhosa
+        culture = zulu
         religion = fetishist
         size = 212
     }
 	
     soldiers = {
-        culture = xhosa
+        culture = zulu
         religion = fetishist
         size = 3000
     }	
 
     farmers = {
-        culture = xhosa
+        culture = zulu
         religion = fetishist
         size = 23240
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 9960
     }
@@ -1289,31 +1289,31 @@
     }
 
     clergymen = {
-        culture = sotho
+        culture = zulu
         religion = fetishist
         size = 266
     }
 
     farmers = {
-        culture = sotho
+        culture = zulu
         religion = fetishist
         size = 24360
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 114
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 10440
     }
 
     soldiers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 1440
     }
@@ -1322,19 +1322,19 @@
 2102 = {
 
     clergymen = {
-        culture = sotho
+        culture = zulu
         religion = fetishist
         size = 126
     }
 	
 	soldiers = {
-        culture = sotho
+        culture = zulu
         religion = protestant
         size = 6000
     }
 
     farmers = {
-        culture = sotho
+        culture = zulu
         religion = fetishist
         size = 10206
     }
@@ -1352,13 +1352,13 @@
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 66
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 5472
     }
@@ -1384,25 +1384,25 @@
     }
 
     clergymen = {
-        culture = sotho
+        culture = zulu
         religion = fetishist
         size = 112
     }
 
     farmers = {
-        culture = sotho
+        culture = zulu
         religion = fetishist
         size = 10458
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 48
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 4482
     }
@@ -1411,7 +1411,7 @@
 2104 = {
 
     clergymen = {
-        culture = sotho
+        culture = zulu
         religion = fetishist
         size = 360
     }
@@ -1423,19 +1423,19 @@
     }
 
     farmers = {
-        culture = sotho
+        culture = zulu
         religion = fetishist
         size = 32226
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 140
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 12954
     }
@@ -1476,25 +1476,25 @@
     }
 
     clergymen = {
-        culture = sotho
+        culture = zulu
         religion = fetishist
         size = 196
     }
 
     farmers = {
-        culture = sotho
+        culture = zulu
         religion = fetishist
         size = 10528
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 84
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 7512
     }
@@ -1526,25 +1526,25 @@
     }
 
     clergymen = {
-        culture = sotho
+        culture = zulu
         religion = fetishist
         size = 140
     }
 
     farmers = {
-        culture = sotho
+        culture = zulu
         religion = fetishist
         size = 5754
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 60
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 5466
     }
@@ -1571,13 +1571,13 @@
     }
 
     clergymen = {
-        culture = tswana
+        culture = zulu
         religion = fetishist
         size = 70
     }
 
     farmers = {
-        culture = tswana
+        culture = zulu
         religion = fetishist
         size = 8918
     }
@@ -1595,13 +1595,13 @@
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 66
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 5940
     }
@@ -1624,7 +1624,7 @@
     }
 
     soldiers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 1000
     }
@@ -1654,25 +1654,25 @@
     }
 
     clergymen = {
-        culture = sotho
+        culture = zulu
         religion = fetishist
         size = 42
     }
 
     farmers = {
-        culture = sotho
+        culture = zulu
         religion = fetishist
         size = 4690
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 30
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 2640
     }
@@ -1717,13 +1717,13 @@
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 30
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 2844
     }
@@ -1750,13 +1750,13 @@
     }
 
     clergymen = {
-        culture = african_minor
+        culture = zulu
         religion = fetishist
         size = 42
     }
 
     farmers = {
-        culture = african_minor
+        culture = zulu
         religion = fetishist
         size = 2632
     }
@@ -1774,13 +1774,13 @@
     }
 
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 30
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 1548
     }
@@ -1809,19 +1809,19 @@
     }
 
     clergymen = {
-        culture = xhosa
+        culture = zulu
         religion = fetishist
         size = 75
     }
 
     artisans = {
-        culture = xhosa
+        culture = zulu
         religion = fetishist
         size = 400
     }
 
     farmers = {
-        culture = xhosa
+        culture = zulu
         religion = fetishist
         size = 7275
     }
@@ -1909,7 +1909,7 @@
     }
 
     aristocrats = {
-        culture = xhosa
+        culture = zulu
         religion = fetishist
         size = 150
     }
@@ -1921,7 +1921,7 @@
     }
 
     soldiers = {
-        culture = xhosa
+        culture = zulu
         religion = fetishist
         size = 75
     }
@@ -1954,13 +1954,13 @@
     }
 	
     clergymen = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 68
     }
 
     farmers = {
-        culture = afro_south_african
+       culture = zulu
         religion = protestant
         size = 6374
     }

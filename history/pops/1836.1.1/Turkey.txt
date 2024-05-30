@@ -3,40 +3,40 @@
 #Edirne (172000/43000 POPS)
 828 = {
 	aristocrats = {
-		culture = turkish
-		religion = sunni
+		culture = venetian
+		religion = orthodox
 		size = 900
 	}
 
 	bureaucrats = {
-		culture = turkish
-		religion = sunni
+		culture = venetian
+		religion = orthodox
 		size = 225
 	}
 
 
 	clergymen = {
-		culture = turkish
-		religion = sunni
+		culture = venetian
+		religion = orthodox
 		size = 175
 	}
 
 	artisans = {
-		culture = turkish
-		religion = sunni
+		culture = venetian
+		religion = orthodox
 		size = 9000
 	}
 
 	soldiers = {
-		culture = turkish
-		religion = sunni
+		culture = venetian
+		religion = orthodox
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = turkish
-		religion = sunni
+		culture = venetian
+		religion = orthodoxi
 		size = 6825
 	}
 
@@ -115,33 +115,33 @@
 #Kirklareli (112000/28000 POPS)
 858 = {
 	aristocrats = {
-		culture = turkish
-		religion = sunni
+		culture = greek
+		religion = orthodox
 		size = 550
 	}
 
 	clergymen = {
-		culture = turkish
-		religion = sunni
+		culture = greek
+		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
-		culture = turkish
-		religion = sunni
+		culture = greek
+		religion = orthodox
 		size = 750
 	}
 
 	soldiers = {
-		culture = turkish
-		religion = sunni
+		culture = greek
+		religion = orthodox
 		size= 300
 
 	}
 
 	farmers = {
-		culture = turkish
-		religion = sunni
+		culture = venetian
+		religion = orthodox
 		size = 11275
 	}
 
@@ -208,36 +208,40 @@
 #Gelibolu (80000/20000 POPS)
 859 = {
 	aristocrats = {
-		culture = turkish
-		religion = sunni
+		culture = venetian
+		religion = orthodox
 		size = 375
 	}
 
 	clergymen = {
-		culture = turkish
-		religion = sunni
+		culture = venetian
+		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
-		religion = sunni
+		culture = venetian
+		religion = orthodox
 		size = 550
 	}
 
 	soldiers = {
-		culture = turkish
-		religion = sunni
+		culture = venetian
+		religion = orthodox
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = turkish
-		religion = sunni
+		culture = venetian
+		religion = orthodox
 		size = 8975
 	}
-
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 5975
+	}
 	artisans = {
 		culture = greek
 		religion = orthodox
@@ -285,67 +289,67 @@
 #Istanbul (764000/191000 POPS)
 860 = {
 	aristocrats = {
-		culture = turkish
+		culture = venetian
 		religion = sunni
 		size = 4000
 	}
 
 	bureaucrats = {
-		culture = turkish
+		culture = venetian
 		religion = sunni
 		size = 1800
 	}
 
 	officers = {
-		culture = turkish
+		culture = venetian
 		religion = sunni
 		size = 600
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = venetian
 		religion = sunni
 		size = 2325
 	}
 
 	artisans = {
-		culture = turkish
+		culture = venetian
 		religion = sunni
 		size = 10000
 	}
 	
 	artisans = {
-		culture = turkish
+		culture = venetian
 		religion = sunni
 		size = 10000
 	}
 	
 	artisans = {
-		culture = turkish
+		culture = venetian
 		religion = sunni
 		size = 10000
 	}
 
 	artisans = {
-		culture = turkish
+		culture = venetian
 		religion = sunni
 		size = 10000
 	}
 
 	artisans = {
-		culture = turkish
+		culture = venetian
 		religion = sunni
 		size = 7500
 	}
 	
 	soldiers = {
-		culture = turkish
+		culture = venetian
 		religion = sunni
 		size = 3000
 	}	
 
 	farmers = {
-		culture = turkish
+		culture = venetian
 		religion = sunni
 		size = 56675
 	}
@@ -411,32 +415,32 @@
 	}
 
 	clergymen = {
-		culture = armenian
-		religion = coptic
+		culture = greek
+		religion = orthodox
 		size = 3000
 	}
 
 	artisans = {
-		culture = armenian
-		religion = coptic
+		culture = greek
+		religion = orthodox
 		size = 10000
 	}
 	
 	artisans = {
-		culture = armenian
-		religion = coptic
+		culture = greek
+		religion = orthodox
 		size = 10000
 	}
 	
 	artisans = {
-		culture = armenian
-		religion = coptic
+		culture = greek
+		religion = orthodox
 		size = 10000
 	}
 
 	farmers = {
-		culture = armenian
-		religion = coptic
+		culture = greek
+		religion = orthodox
 		size = 38775
 	}
 

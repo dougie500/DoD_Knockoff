@@ -302,6 +302,12 @@
 		religion = orthodox
 		size = 1500
 	}
+	
+	farmers = {
+		culture = venetian
+	religion = orthodox
+		size = 50500
+	}
 }
 #Sevastopol (60000/15000 POPS)
 967 = {

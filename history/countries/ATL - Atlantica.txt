@@ -1,5 +1,5 @@
 capital = 2447
-primary_culture = lotharian
+primary_culture  = lotharian
 religion = protestant
 government = democracy
 plurality = 0.0

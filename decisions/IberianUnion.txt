@@ -309,7 +309,7 @@ form_iberia = {
 	
 		effect = {
 			change_tag = SPC
-			add_accepted_culture = mexican
+			add_accepted_culture  = beornian
 			add_accepted_culture = central_american
 			add_accepted_culture = lusitanian
 			add_accepted_culture = granadan			

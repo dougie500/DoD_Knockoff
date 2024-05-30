@@ -1043,13 +1043,13 @@ country_event = {
 		name = "97091.A"
 		random_list = { ###Need to add modifiers
 			50 = { 
-				add_accepted_culture = lotharian
+				add_accepted_culture  = lotharian
 				badboy = -5
 			}
 			50 = { 
 				any_pop = {
 					limit = {
-						culture = lotharian
+						culture  = lotharian
 					}
 					militancy = 5
          			consciousness = 5
@@ -1072,13 +1072,13 @@ country_event = {
 		name = "97092.A"
 		random_list = {
 			70 = { 
-				add_accepted_culture = lotharian
+				add_accepted_culture  = lotharian
 				badboy = -5
 			}
 			30 = { 
 				any_pop = {
 					limit = {
-						culture = lotharian
+						culture  = lotharian
 					}
 					militancy = 5
          			consciousness = 5
@@ -1101,13 +1101,13 @@ country_event = {
 		name = "97093.A"
 		random_list = {
 			95 = { 
-				add_accepted_culture = lotharian
+				add_accepted_culture  = lotharian
 				badboy = -5
 			}
 			5 = { 
 				any_pop = {
 					limit = {
-						culture = lotharian
+						culture  = lotharian
 					}
 					militancy = 5
          			consciousness = 5
@@ -1142,7 +1142,7 @@ country_event = { ######## The Constitution
 	prestige = 10 
 	any_pop = { 
 		limit = { 
-		culture = lotharian 
+		culture  = lotharian 
 			}
 		militancy = -2 
 		}
@@ -1354,7 +1354,7 @@ country_event = {
 	name = "775412.A"
 	inherit = FROM 
 	NAN = { all_core = { add_core = AZL } }
-	add_accepted_culture = beornian 
+	add_accepted_culture  = lotharian 
 	prestige = 30 
 	}
 }
@@ -1403,14 +1403,14 @@ country_event = {
 		name = "775414.A"
 		random_list = {
 			100 = { 
-				add_accepted_culture = beornian
+				add_accepted_culture  = lotharian
 				badboy = -5
 				set_country_flag = beornia_accepted
 			}
 			0 = { 
 				any_pop = {
 					limit = {
-						culture = beornian
+						culture  = lotharian
 					}
 					militancy = 5
          			consciousness = 5
@@ -1854,7 +1854,7 @@ country_event = {
 	years_of_research = 0.5  
 	prestige = 4 
 	any_pop = { 
-	limit = { culture = beornian }
+	limit = { culture  = lotharian }
 	ideology = {
 		value = liberal
 		factor = 0.05
@@ -1892,7 +1892,7 @@ country_event = {
 	years_of_research = 0.1  
 	prestige = -2 
 	any_pop = { 
-	limit = { culture = beornian }
+	limit = { culture  = lotharian }
 	ideology = {
 		value = liberal
 		factor = 0.05

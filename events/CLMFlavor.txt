@@ -872,7 +872,7 @@ country_event = { ######Federation is legitime
 		any_pop = {
 			limit = {
 				OR = { 
-					NOT = { culture = mexican }
+					NOT = { culture  = beornian }
 					NOT = { culture = lusitanian }
 					NOT = { culture = central_american }
 					}
@@ -2056,7 +2056,7 @@ country_event = {
 	name = "CLM61.T"
 	set_country_flag = sequel_coups_1
 	any_pop = { 
-	limit = { culture = mexican }
+	limit = { culture  = beornian }
 	consciousness = 1
 		}
 	}
@@ -2158,7 +2158,7 @@ country_event = {
 	any_pop = { 
 	limit = { 
 		OR = { 
-		culture = mexican
+		culture  = beornian
 		culture = lusitanian 
 		culture = central_american 
 		culture = granadan

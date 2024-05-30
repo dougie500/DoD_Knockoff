@@ -1250,7 +1250,7 @@
 	farmers = {
 		culture = ruthenian
 		religion = orthodox
-		size = 81850
+		size = 61850
 	}
 
 	aristocrats = {
@@ -1281,7 +1281,7 @@
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 8850
+		size = 48850
 	}
 
 	clergymen = {

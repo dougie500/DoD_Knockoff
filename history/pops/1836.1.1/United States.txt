@@ -1033,7 +1033,7 @@
 	}
 
 	bureaucrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 50
 	}
@@ -1051,7 +1051,7 @@
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 100
 	}
@@ -1075,7 +1075,7 @@
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 4500
 	}
@@ -3002,25 +3002,25 @@
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 30
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size= 1200
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 6225
 	}
@@ -3070,31 +3070,31 @@
 	}
 
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 20
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 7000
 	}
@@ -3137,31 +3137,31 @@
 	}
 
 	aristocrats = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 110
 	}
 
 	artisans = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 1200
 	}
 
 	farmers = {
-		culture = mexican
+		culture  = beornian
 		religion = catholic
 		size = 18450
 	}

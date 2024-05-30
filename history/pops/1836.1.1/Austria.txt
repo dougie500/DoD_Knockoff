@@ -179,7 +179,7 @@
     farmers = {
         culture = south_german
         religion = catholic
-        size = 11975
+        size = 21975
     }
 
     artisans = {
@@ -267,7 +267,7 @@
     farmers = {
         culture = south_german
         religion = catholic
-        size = 80675
+        size = 120675
     }
 
     soldiers = {
@@ -293,7 +293,7 @@
     farmers = {
         culture = south_german
         religion = catholic
-        size = 38150
+        size = 48150
     }
 }
 #Klagenfurt (188000/47000 POPS)
@@ -389,7 +389,7 @@
     soldiers = {
         culture = south_german
         religion = catholic
-        size = 9310
+        size = 19310
     }
 
     farmers = {
@@ -451,7 +451,7 @@
     farmers = {
         culture = south_german
         religion = catholic
-        size = 19925
+        size = 49925
     }
 }
 #Krems (240000/60000 POPS)
@@ -459,7 +459,7 @@
     clergymen = {
         culture = south_german
         religion = catholic
-        size = 625
+        size = 1500
     }
 
     artisans = {
@@ -471,7 +471,7 @@
     farmers = {
         culture = south_german
         religion = catholic
-        size = 54700
+        size = 40000
     }
 }
 #Linz (588000/147000 POPS)
@@ -491,7 +491,7 @@
     farmers = {
         culture = south_german
         religion = catholic
-        size = 133900
+        size = 153900
     }
 }
 #Odenburg Region (196000) #see Hungary.txt for balance of region

@@ -24,7 +24,7 @@ political_decisions = {
 			effect = {
 				any_pop = {
   					limit = {
-  					 	NOT = { culture = mexican }
+  					 	NOT = { culture  = beornian }
   			    		}
   				militancy = 3
           			consciousness = 3
@@ -124,12 +124,12 @@ political_decisions = {
 			effect = {
 				any_pop = {
   					limit = {
-  					 	NOT = { culture = mexican }
+  					 	NOT = { culture  = beornian }
   			    		}
   				militancy = 3
           		consciousness = 3
   				}
-    			primary_culture = mexican
+    			primary_culture  = beornian
     			prestige = 30
     			set_global_flag = columbian_unity
     			government = absolute_monarchy
@@ -220,12 +220,12 @@ political_decisions = {
 			effect = {
 				any_pop = {
   					limit = {
-  					 	NOT = { culture = mexican }
+  					 	NOT = { culture  = beornian }
   			    		}
   				militancy = 3
           		consciousness = 3
   				}
-    			primary_culture = mexican
+    			primary_culture  = beornian
     			prestige = 30
     			set_global_flag = columbian_unity
     			government = absolute_monarchy
@@ -294,12 +294,12 @@ political_decisions = {
 			effect = {
 				any_pop = {
   					limit = {
-  					 	NOT = { culture = mexican }
+  					 	NOT = { culture  = beornian }
   			    		}
   				militancy = 3
           			consciousness = 3
   				}
-    				primary_culture = mexican
+    				primary_culture  = beornian
     				prestige = 10
 				capital = 2172
 				change_tag = CLM
@@ -364,8 +364,8 @@ political_decisions = {
 				any_pop = {
 					limit = {
 						OR = {
-							NOT = { culture = mexican }
-							culture = mexican
+							NOT = { culture  = beornian }
+							culture  = beornian
 						}
 					}
            				consciousness = 3
@@ -508,7 +508,7 @@ political_decisions = {
 		effect = {
 			any_pop = {
 				limit = {
-					has_pop_culture = mexican
+					has_pop_culture  = beornian
 						location = {
 							province_id = 99
 						}
@@ -519,7 +519,7 @@ political_decisions = {
 			}
 			any_pop = {
 				limit = {
-					has_pop_culture = mexican
+					has_pop_culture  = beornian
 						location = {
 							province_id = 108
 						}
@@ -530,7 +530,7 @@ political_decisions = {
 			}
 			any_pop = {
 				limit = {
-					has_pop_culture = mexican
+					has_pop_culture  = beornian
 						location = {
 							province_id = 103
 						}
@@ -541,7 +541,7 @@ political_decisions = {
 			}
 			any_pop = {
 				limit = {
-					has_pop_culture = mexican
+					has_pop_culture  = beornian
 						location = {
 							province_id = 109
 						}
@@ -725,7 +725,7 @@ political_decisions = {
 			}
 			any_pop = {
 				limit = { 
-				has_pop_culture = mexican
+				has_pop_culture  = beornian
 				}
 				militancy = -1
 				consciousness = -1
@@ -759,7 +759,7 @@ political_decisions = {
 		literacy = 0.1
 			}
 		any_pop = { 
-		limit = { culture = mexican }
+		limit = { culture  = beornian }
 		literacy = 0.05
 			}
 		social_reform = public 

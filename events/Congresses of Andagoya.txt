@@ -347,7 +347,7 @@ country_event = {
 	
 	option = { 
 	name = "46406.A"
-	any_pop = { limit = { OR = { culture = zapotec culture = nahua culture = quechua culture = tarascan  culture = mayan } } militancy = 4 }
+	any_pop = { limit = { OR = { culture  = mayan culture = nahua culture = quechua culture = tarascan  culture = mayan } } militancy = 4 }
 	set_country_flag = castas
 	RAP = {
 			change_variable = {
@@ -362,7 +362,7 @@ country_event = {
 	
 	option = { 
 	name = "46406.B"
-	any_pop = { limit = { OR = { culture = mexican culture = lusitanian culture = granadan culture = central_american } } militancy = 2 }
+	any_pop = { limit = { OR = { culture  = beornian culture = lusitanian culture = granadan culture = central_american } } militancy = 2 }
 	set_country_flag = castas
 	RAP = {
 			change_variable = {
@@ -492,7 +492,7 @@ country_event = {
 		any_pop = {
 			limit = {
 				OR = { 
-					NOT = { culture = mexican }
+					NOT = { culture  = beornian }
 					NOT = { culture = lusitanian }
 					NOT = { culture = central_american }
 					}
@@ -600,7 +600,7 @@ country_event = {
 		name = "EVTOPTB46410"
 			any_pop = {
 			    limit = {
-			    	NOT = { culture = mexican }
+			    	NOT = { culture  = beornian }
 			    }
 			militancy = 5
          		consciousness = 5
@@ -763,7 +763,7 @@ country_event = {
 		name = "EVTOPTB46412"
 			any_pop = {
 			    limit = {
-			    	NOT = { culture = mexican }
+			    	NOT = { culture  = beornian }
 			    }
 			militancy = 7
          		consciousness = 7
@@ -862,7 +862,7 @@ country_event = {
 		clr_country_flag = thepath_tobe_chosen1
 		any_pop = {
 			limit = {
-				culture = mexican
+				culture  = beornian
 			}
 			militancy = 2
       			consciousness = 2
@@ -943,7 +943,7 @@ country_event = {
 		clr_country_flag = thepath_tobe_chosen2
 		any_pop = {
 			limit = {
-				culture = mexican
+				culture  = beornian
 			}
 			militancy = 3
       			consciousness = 3

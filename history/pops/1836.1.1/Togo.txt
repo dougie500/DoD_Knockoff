@@ -33,37 +33,37 @@
 	}
 
 	aristocrats = {
-		culture = east_kwa
+		culture = hausa
 		religion = animist
 		size = 275
 	}
 
 	clergymen = {
-		culture = east_kwa
+		culture = hausa
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = east_kwa
+		culture = hausa
 		religion = animist
 		size = 600
 	}
 
 	soldiers = {
-		culture = east_kwa
+		culture = hausa
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = east_kwa
+		culture = hausa
 		religion = animist
 		size = 11825
 	}
 
 	slaves = {
-		culture = east_kwa
+		culture = hausa
 		religion = animist
 		size = 7000
 	}
@@ -101,31 +101,31 @@
 	}
 
 	aristocrats = {
-		culture = east_kwa
+		culture = hausa
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = east_kwa
+		culture = hausa
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = east_kwa
+		culture = hausa
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = east_kwa
+		culture = hausa
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = east_kwa
+		culture = hausa
 		religion = animist
 		size = 6375
 	}

@@ -1549,7 +1549,7 @@ country_event = {
 			limit = {
 				owner = { tag = TSW }
 			}
-			owner = { primary_culture = tswana }
+			owner = { primary_culture = zulu }
 		}
 		random_owned = {
 			limit = {
@@ -1577,8 +1577,8 @@ country_event = {
 			}
 			owner = {
 				primary_culture = khoisan
-				add_accepted_culture = sotho
-				add_accepted_culture = xhosa
+				add_accepted_culture = zulu
+				add_accepted_culture = zulu
 				add_accepted_culture = zulu
 				add_accepted_culture = nguni
 			}

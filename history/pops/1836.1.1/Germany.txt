@@ -638,7 +638,7 @@
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 43675  
+		size = 23675  
 	}
 
 	clergymen = {
@@ -1466,7 +1466,7 @@
 	clergymen = {
 		culture = north_german
 		religion = protestant
-		size = 675
+		size = 1675
 	}
 
 	artisans = {
@@ -1485,21 +1485,13 @@
 	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 91350
+		size = 61350
 	}
 
 
-	clergymen = {
-		culture = czech
-		religion = catholic
-		size = 200
-	}
+	
 
-	farmers = {
-		culture = czech
-		religion = catholic
-		size = 10150
-	}
+	
 }
 #Pritzwalk (232000/58000 POPS)
 551 = {
@@ -1552,17 +1544,8 @@
 		size = 3000
 	}
 
-	farmers = {
-		culture = north_german
-		religion = catholic
-		size = 20600
-	}
 
-	farmers = {
-		culture = czech
-		religion = catholic
-		size = 11275
-	}
+
 }
 #Cottbus (344000/86000 POPS)
 552 = {

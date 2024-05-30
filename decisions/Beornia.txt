@@ -103,7 +103,7 @@ political_decisions = {
 				}
 				change_tag = ENL
 				primary_culture = english 
-				add_accepted_culture = beornian
+				add_accepted_culture  = lotharian
 				add_accepted_culture = anglois
 				capital = 300
 			}

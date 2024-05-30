@@ -2370,7 +2370,12 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 133625
+		size = 75000
+	}
+	farmers = {
+		culture = provencal
+		religion = catholic
+		size = 55000
 	}
 }
 #Poitiers (288000/72000 POPS)
@@ -2422,9 +2427,13 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 93200
+		size = 45000
 	}
-
+	farmers = {
+		culture = provencal
+		religion = catholic
+		size = 45000
+	}
 }
 #Limousin Region (1596000)
 #Limoges (288000/72000 POPS)
