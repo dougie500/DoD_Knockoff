@@ -1,6 +1,6 @@
-owner = LOT
-controller = LOT
-add_core = LOT
+owner = NAN
+controller = NAN
+add_core = NAN
 trade_goods = cattle
 terrain = farmlands
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = LOT
-controller = LOT
-add_core = LOT
+owner = NAN
+controller = NAN
+add_core = NAN
 trade_goods = cattle
 life_rating = 35
 1861.1.1 = { 

@@ -1,5 +1,5 @@
-owner = QUI
-controller = QUI
+owner = CLM
+controller = CLM
 add_core = CLM
 add_core = INC
 add_core = QUI

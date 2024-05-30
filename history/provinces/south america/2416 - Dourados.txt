@@ -1,4 +1,6 @@
-
-trade_goods = fruit
+owner = LOT
+controller = LOT
+add_core = LOT
+add_core = AVAtrade_goods = fruit
 terrain = savanna
 life_rating = 25

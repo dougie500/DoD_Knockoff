@@ -1,6 +1,5 @@
-owner = LOT
-controller = LOT
-add_core = LOT
+add_core = ARU
+colonial = 1
 trade_goods = wool
 terrain = dryhills
 life_rating = 15

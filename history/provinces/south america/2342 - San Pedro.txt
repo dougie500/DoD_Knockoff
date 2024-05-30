@@ -1,2 +1,1 @@
-trade_goods = wooll
-ife_rating = 25
+owner = LOTcontroller = LOTadd_core = LOTadd_core = AVAtrade_goods = woollife_rating = 31

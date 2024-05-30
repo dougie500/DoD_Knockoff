@@ -1,6 +1,6 @@
-owner = AMA
-controller = AMA
-add_core = AMA
+owner = LOT
+controller = LOT
+add_core = LOT
 add_core = AVA
 trade_goods = cattle
 life_rating = 31
