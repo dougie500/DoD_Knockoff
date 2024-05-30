@@ -1,5 +1,5 @@
-owner = BRG
-controller = BRG
+owner = SPA
+controller = SPA
 add_core = CRC
 trade_goods = tobacco
 life_rating = 35

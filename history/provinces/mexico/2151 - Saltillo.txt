@@ -1,6 +1,6 @@
-owner = CLM
-controller = CLM
-add_core = CLM
+owner = NAN
+controller = NAN
+add_core = NAN
 add_core = MEX
 add_core = AZT
 trade_goods = dye

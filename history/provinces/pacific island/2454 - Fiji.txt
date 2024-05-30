@@ -1,5 +1,5 @@
-owner = TUI
-controller = TUI
-add_core = TUI
+owner = DNG
+controller = DNG
+add_core = DNG
 trade_goods = fish
 life_rating = 15
