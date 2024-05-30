@@ -1,6 +1,6 @@
 owner = SPA
 controller = SPA
-add_core = SPA
+colonial = 2
 add_core = YUC
 add_core = MEX
 add_core = ELS

@@ -49,3 +49,26 @@ purchase_spanish_pacific = {
 			}
 		}
 	}
+
+
+	SPA_NewPath = {	
+		picture = treaty_signing
+
+		potential = {
+			tag = SPA
+			civilized = yes		
+		}
+		
+		allow = {
+			tag = SPA
+			
+		}
+		
+		effect = {
+			prestige = 1
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}

@@ -1,6 +1,6 @@
 owner = SPA
 controller = SPA
-add_core = SPA
+
 add_core = INC
 add_core = QUI
 add_core = GRA

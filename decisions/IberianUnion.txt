@@ -546,4 +546,78 @@ form_iberia = {
 			factor = 1
 		}
 	}	
+
+	
+	SPA_New_World = {	
+	
+		
+		potential = {
+			tag = SPA
+			civilized = yes		
+		}
+		
+		allow = {
+			tag = SPA
+			
+		}
+		
+		effect = {
+			add_accepted_culture = central_american
+			capital = 2209
+			set_country_flag = new_world_nation
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	SPA_Old_World = {	
+		picture = treaty_signing
+		
+
+		potential = {
+			tag = SPA
+			civilized = yes		
+		}
+		
+		allow = {
+			tag = SPA
+			NOT = {
+				culture = central_american
+			}
+		}
+		
+		effect = {
+		add_accepted_culture = portuguese
+		
+		520 = {
+			add_core = THIS
+		}
+		522 = {
+			add_core = THIS
+		}
+		521 = {
+			add_core = THIS
+		}
+		523 = {
+			add_core = THIS
+		}
+		524 = {
+			add_core = THIS
+		}
+		525 = {
+			add_core = THIS
+		}
+		526 = {
+			add_core = THIS
+		}
+		527 = {
+			add_core = THIS
+		}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

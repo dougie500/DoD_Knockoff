@@ -383,44 +383,44 @@
 #Avila (284000/71000 POPS)
 481 = {
 	aristocrats = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size = 1500
 	}
 
 	officers = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size = 350
 	}
 
 	clergymen = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size = 700
 	}
 
 	artisans = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size = 3500
 	}
 
 	soldiers = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size= 2000
 
 	}
 
 	farmers = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size = 62700
 	}
@@ -721,32 +721,32 @@
 #Siguenza (204000/51000 POPS)
 488 = {
 	aristocrats = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size = 1200
 	}
 
 	clergymen = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size = 500
 	}
 
 	artisans = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size = 45800
 	}
@@ -794,32 +794,32 @@
 #Cuenca (346000/86500 POPS)
 490 = {
 	aristocrats = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size = 1800
 	}
 
 	clergymen = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size = 875
 	}
 
 	artisans = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size = 4200
 	}
 
 	soldiers = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size= 850
 
 	}
 
 	farmers = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size = 78775
 	}
@@ -1645,32 +1645,32 @@
 #Albacete (20000/50000 POPS)
 508 = {
 	aristocrats = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size = 500
 	}
 
 	artisans = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size = 2400
 	}
 
 	soldiers = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size= 500
 
 	}
 
 	farmers = {
-		culture = castilian
+		culture = catalan
 		religion = catholic
 		size = 45600
 	}
