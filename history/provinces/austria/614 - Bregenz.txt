@@ -1,6 +1,6 @@
-owner = SWI
-controller = SWI
-add_core = GER
+owner = AUS
+controller = AUS
+add_core = AUS
 add_core = SWI
 trade_goods = timber
 life_rating = 35

@@ -1,8 +1,6 @@
-owner = CLM
-controller = CLM
-add_core = CLM
-add_core = SAN
-add_core = GRA
+owner = SPA
+controller = SPA
+add_core = SPA
 trade_goods = coffee
 terrain = montane_forest
 life_rating = 35

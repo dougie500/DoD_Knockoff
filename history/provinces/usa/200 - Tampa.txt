@@ -1,1 +1,4 @@
-owner = VENcontroller = VENadd_core = ATStrade_goods = fruitlife_rating = 35colonial = 2
+owner = SPA
+controller = SPA
+add_core = SPA
+trade_goods = fruitlife_rating = 35colonial = 2

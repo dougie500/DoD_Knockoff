@@ -1,2 +1,5 @@
-owner = NANcontroller = NANadd_core = NANtrade_goods = cattleterrain = savanna
+owner = LOT
+controller = LOT
+add_core = LOT
+trade_goods = cattleterrain = savanna
 life_rating = 35

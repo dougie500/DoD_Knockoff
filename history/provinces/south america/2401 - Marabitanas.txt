@@ -1,5 +1,3 @@
-owner = CLM
-controller = CLM
 add_core = CLM
 add_core = CAS
 add_core = SAN
@@ -7,10 +5,3 @@ add_core = GRA
 add_core = TAP
 trade_goods = tobacco
 life_rating = 15
-1835.1.1 = {
-	controller = SPA
-} 
-
-1837.1.1 = {
-	controller = CLM
-}

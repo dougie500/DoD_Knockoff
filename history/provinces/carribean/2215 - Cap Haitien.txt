@@ -1,6 +1,6 @@
-owner = SCA
-controller = SCA
-add_core = SFJ
+owner = SPA
+controller = SPA
+add_core = SPA
 colonial = 2
 trade_goods = tobacco
 life_rating = 35

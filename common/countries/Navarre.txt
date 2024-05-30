@@ -1,4 +1,4 @@
-color =  { 225 22 22 } #from CK2 SWMH
+color =  {41 135 41} #from CK2 SWMH
 graphical_culture = EuropeanGC
 
 party = {

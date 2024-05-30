@@ -1,6 +1,6 @@
-owner = NAN
-controller = NAN
-add_core = NAN
+owner = LOT
+controller = LOT
+add_core = LOT
 add_core = AVA
 trade_goods = timber
 terrain = savanna

@@ -1,6 +1,6 @@
-owner = CLM
-controller = CLM
-add_core = UCA
+owner = SPA
+controller = SPA
+add_core = SPA
 add_core = CLM
 add_core = ELS
 trade_goods = fruit

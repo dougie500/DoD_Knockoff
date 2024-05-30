@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = DEN
+controller = DEN
 add_core = SPA
 terrain = urban
 trade_goods = fish

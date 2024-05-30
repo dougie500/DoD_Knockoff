@@ -1,5 +1,5 @@
-owner = GAL
-controller = GAL
+owner = SPA
+controller = SPA
 add_core = SPA
 add_core = GAL
 naval_base = 1

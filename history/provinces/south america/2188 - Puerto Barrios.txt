@@ -1,6 +1,6 @@
-owner = CLM
-controller = CLM
-add_core = CLM
+owner = SPA
+controller = SPA
+add_core = SPA
 add_core = YUC
 add_core = MEX
 add_core = ELS

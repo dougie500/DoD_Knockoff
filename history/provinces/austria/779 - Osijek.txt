@@ -2,5 +2,6 @@ owner = SER
 controller = SER
 add_core = SER
 add_core = YUG
+add_core = HUN
 trade_goods = cattle
 life_rating = 35

@@ -1,4 +1,6 @@
-owner = CLMcontroller = CLMadd_core = CLMadd_core = UCAadd_core = NIC
+owner = SPA
+controller = SPA
+add_core = SPA
 trade_goods = fish
 life_rating = 31
 1861.1.1 = {

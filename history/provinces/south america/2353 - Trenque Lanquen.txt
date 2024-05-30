@@ -1,5 +1,5 @@
-owner = NAN
-controller = NAN
-add_core = NAN
+owner = LOT
+controller = LOT
+add_core = LOT
 trade_goods = grain
 life_rating = 31
