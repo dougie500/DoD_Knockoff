@@ -1,5 +1,5 @@
-owner = ARA
-controller = ARA
-add_core = ARA
+owner = OCC
+controller = OCC
+add_core = OCC
 trade_goods = grain
 life_rating = 35

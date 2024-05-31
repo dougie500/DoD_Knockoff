@@ -1,82 +1,91 @@
 political_decisions = {
-	picture = dismantle_DUA
-	anschluss_DUA = {
-	potential = { 
-	has_country_flag = anschluss_DUA 
-	DUA = { exists = yes }
-	}
 	
-	allow = {
-		425 = { controlled_by = THIS 
-			province_control_days = 365 }
-		DUA = {
-				all_core = {
-					OR = {
-						controlled_by = THIS
-						controller = { alliance_with = THIS }
-						controller = { has_country_flag = anschluss_DUA }
-						empty = yes
-						province_id = 419
-						province_id = 304
-						controller = {
-							NOT = { war_with = THIS }
-						}
-					}
-				}
-			}	
-	}
 	
-	effect = { 
-	DUA = { country_event = 650290 }
-	}
 	
-	}
 	
-	annex_OCC = { 
-	picture = Occitania
-	potential = { 
-	tag = FRA 
-	government = democracy 
-	is_greater_power = yes 
-	NOT = { has_country_flag = occitania_reclaime }
+
+	integrating_provencal = {
+		picture = provence_castle	
+		potential = {
+			NOT = { has_country_flag = england_path }
+			NOT = { has_country_flag = provencal_acc }
+		tag = DUA 
+		}
+		allow = { 
+			owns = 447
+			owns = 451
+			nationalism_n_imperialism = 1 
 		}
 		
-	allow = { 
-	OCC = { government = democracy } 
-	OCC = { in_sphere = THIS }
+		effect = { 
+		set_country_flag = provencal_acc
+		FRA_448 = {
+			add_core = THIS
 		}
-	
-	effect = { 
-	inherit = OCC
-	OCC = { all_core = { add_core = THIS }}
-	add_accepted_culture = provencal
-	set_country_flag = occitania_reclaime
+		FRA_451 = {
+			add_core = THIS
 		}
-	
-	}
-	
-	claim_OCC = { 
-	picture = Occitania
-	potential = { 
-	tag = FRA 
-	government = democracy 
-	is_greater_power = yes 
-	NOT = { accepted_culture = provencal }
-	NOT = { OCC = { exists = yes } }
-	NOT = { has_country_flag = occitania_reclaime }
+		add_accepted_culture = provencal
 		}
 		
+	}
+
+	annex_OCC = { 	
+	picture = Occitania
+	potential = {
+		NOT = { has_country_flag = england_path }
+		has_country_flag = provencal_acc
+	tag = DUA 
+	}
 	allow = { 
-	455 = { owned_by = THIS }
-		}
 	
+		OR = {
+		owns = 458
+		owns = 455
+		
+		revolution_n_counterrevolution = 1 
+	}
+}
 	effect = { 
-	OCC = { all_core = { add_core = THIS } }
-	add_accepted_culture = provencal 
-	set_country_flag = occitania_reclaime
-		}
+	set_country_flag = provencal_acc
+	FRA_455 = {
+		add_core = THIS
+	}
+	FRA_458 = {
+		add_core = THIS
+	}
+	FRA_461 = {
+		add_core = THIS
+	}
+	FRA_467 = {
+		add_core = THIS
+	}
+	}
 	
 	}
+	
+	# claim_OCC = { 
+	# picture = Occitania
+	# potential = { 
+	# tag = FRA 
+	# government = democracy 
+	# is_greater_power = yes 
+	# NOT = { accepted_culture = provencal }
+	# NOT = { OCC = { exists = yes } }
+	# NOT = { has_country_flag = occitania_reclaime }
+	# 	}
+		
+	# allow = { 
+	# 455 = { owned_by = THIS }
+	# 	}
+	
+	# effect = { 
+	# OCC = { all_core = { add_core = THIS } }
+	# add_accepted_culture = provencal 
+	# set_country_flag = occitania_reclaime
+	# 	}
+	
+	# }
 	
 	savoy_cores_OCC = {
 	picture = piedmont	
@@ -118,28 +127,7 @@ political_decisions = {
 	
 	}
 	
-	integrating_provencal = {
-	picture = provence_castle	
-	potential = {
-	NOT = { has_country_flag = Paris_congress }
-	NOT = { has_country_flag = provencal_acc }
-	NOT = { has_country_flag = DUA_schooling }
-	tag = DUA 
-	OR = { has_country_flag = Anglois_accepted 
-	has_global_flag = french_int }
-	}
 	
-	allow = { 
-	OCC = { all_core = { owned_by = THIS } }
-	nationalism_n_imperialism = 1 
-	}
-	
-	effect = { 
-	set_country_flag = provencal_acc
-	add_accepted_culture = provencal 
-	}
-	
-	}
 	
 	integrating_irish = {
 	picture = bentheim	

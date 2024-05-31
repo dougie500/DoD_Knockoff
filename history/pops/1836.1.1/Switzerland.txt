@@ -299,16 +299,20 @@
 	}
 
 	soldiers = {
-		culture = burgundian
+		culture = provencal
 		religion = protestant
-		size= 2200
+		size= 3200
 
 	}
-
+	farmers = {
+		culture = provencal
+		religion = protestant
+		size = 38550
+	}
 	farmers = {
 		culture = burgundian
 		religion = protestant
-		size = 68550
+		size = 38550
 	}
 }
 #Neuchatel (56000/14000 POPS)
@@ -392,7 +396,7 @@
 	farmers = {
 		culture = provencal
 		religion = protestant
-		size = 7000
+		size = 10000
 	}
 	
 	farmers = {

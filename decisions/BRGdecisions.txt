@@ -2,72 +2,104 @@ political_decisions = {
 
 	pas_de_calais = { 
 	picture = Pas_de_Calais
-	potential = {
+	potential = { 
 			tag = DUA
 			NOT = {
 				has_country_flag = pale_calais
 			}
-		}	
-		allow = {
-			is_greater_power = yes
-			NOT = { war = yes }
-			owns = 400
-		}
-		
-		effect = {
-			prestige = 5
-			set_country_flag = pale_calais
-			400 = {
-				add_core = THIS
-			}
-			401 = {
-				add_core = THIS
-			}
-			399 = {
-				add_core = THIS
-			}
-			404 = { add_core = THIS }
-		}
-	
-	}
-	
-	form_franche_comte = {
-		picture = apanage
-		potential = {
-			tag = DUA
 			NOT = {
-				has_country_flag = franchecomte
+					has_country_flag = 	england_path
+		   }
+			NOT = {
+					has_country_flag = 	dual_integration	
 			}
-		}	
+			}
+		
 		allow = {
-			is_greater_power = yes
-			NOT = { war = yes }
-			owns = 428
+		    owns = 414
+			owns = 400
+			
 		}
 		
 		effect = {
 			prestige = 5
-			set_country_flag = franchecomte
-			428 = {
+		
+			set_country_flag = pale_calais
+			FRA_399 = {
 				add_core = THIS
 			}
-			429 = {
+			BUR_432 = {
 				add_core = THIS
 			}
-			430 = {
-				add_core = THIS
-			}
-			431 = {
-				add_core = THIS
-			}
-			407 = {
-				add_core = THIS
-			}
+		
 		}
-		ai_will_do = {
-			factor = 1
-		}
+	
 	}
+	 Burgundy_Expansion = {
+		
+		potential = { 
+			tag = DUA 
+			has_country_flag = 	french_path
+			NOT = {
+				has_country_flag = Burgundy_Expansion
+			}
+		}
+	
+		allow = {
+		    owns = 413
+			owns = 409
+			
+		}
+	
+		effect = { 
+			FRA_411 = {
+				add_core = THIS
+			}
+			BUR_412 = {
+				add_core = THIS
+			}
+			add_accepted_culture = burgundian
+			set_country_flag = Burgundy_Expansion
+		}
+		
+	}
+	# form_franche_comte = {
+	# 	picture = apanage
+	# 	potential = {
+	# 		tag = DUA
+	# 		NOT = {
+	# 			has_country_flag = franchecomte
+	# 		}
+	# 	}	
+	# 	allow = {
+	# 		is_greater_power = yes
+	# 		NOT = { war = yes }
+	# 		owns = 428
+	# 	}
+		
+	# 	effect = {
+	# 		prestige = 5
+	# 		set_country_flag = franchecomte
+	# 		428 = {
+	# 			add_core = THIS
+	# 		}
+	# 		429 = {
+	# 			add_core = THIS
+	# 		}
+	# 		430 = {
+	# 			add_core = THIS
+	# 		}
+	# 		431 = {
+	# 			add_core = THIS
+	# 		}
+	# 		407 = {
+	# 			add_core = THIS
+	# 		}`
+	# 	}
+	# 	ai_will_do = {
+	# 		factor = 1
+	# 	}
+	# }
 
 	treaty_of_neuchatel = {
 		picture = neuchatel	

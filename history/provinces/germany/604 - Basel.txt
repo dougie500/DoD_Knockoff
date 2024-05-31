@@ -1,5 +1,5 @@
 owner = SWI
-controller = SWI
+controller = SWI 
 add_core = SWI
 add_core = GER
 trade_goods = fruit

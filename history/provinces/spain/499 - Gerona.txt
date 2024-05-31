@@ -1,6 +1,6 @@
-owner = ARA
-controller = ARA
-add_core = ARA
+owner = OCC
+controller = OCC
+add_core = OCC
 trade_goods = fruit
 life_rating = 35
 1861.1.1 = { railroad = 3 }

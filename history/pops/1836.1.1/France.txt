@@ -2209,19 +2209,19 @@
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 53000
+		size = 43000
 	}
 	
 	artisans = {
 		culture = anglois
 		religion = catholic
-		size = 35000
+		size = 25000
 	}
 
 	soldiers = {
 		culture = french
 		religion = catholic
-		size= 15000
+		size= 12000
 
 	}
 	
@@ -2240,7 +2240,7 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 93050
+		size = 53050
 	}
 	
 	farmers = {
@@ -3307,30 +3307,34 @@
 	}
 
 	aristocrats = {
-		culture = catalan
+		culture = provencal
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = catalan
+		culture = provencal
 		religion = catholic
-		size = 275
+		size = 1275
 	}
 
 	artisans = {
-		culture = catalan
+		culture = provencal
 		religion = catholic
 		size = 2250
 	}
 
 	soldiers = {
-		culture = catalan
+		culture = provencal
 		religion = catholic
-		size= 250
+		size= 2250
 
 	}
-
+	farmers = {
+		culture = provencal
+		religion = catholic
+		size = 11000
+	}
 	farmers = {
 		culture = catalan
 		religion = catholic

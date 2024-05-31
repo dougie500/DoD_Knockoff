@@ -589,7 +589,7 @@ form_iberia = {
 		
 		effect = {
 		add_accepted_culture = portuguese
-		
+		add_accepted_culture = basque
 		520 = {
 			add_core = THIS
 		}
