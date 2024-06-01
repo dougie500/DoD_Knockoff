@@ -6715,91 +6715,91 @@
 #St Augustine (48000/12000 POPS)
 199 = {
 	aristocrats = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 550
 	}
 
 	capitalists = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 25
 	}
 
 	officers = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 850
 	}
 
 	artisans = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 4500
 	}
 
 	soldiers = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 12000
 	}
 
 	farmers = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 54350
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = afro_frankish
 		religion = catholic
 		size = 410
 	}
 
 	artisans = {
-		culture = afro_latino
+		culture = afro_frankish
 		religion = catholic
 		size = 3780
 	}
 
 	soldiers = {
-		culture = afro_latino
+		culture = afro_frankish
 		religion = catholic
 		size = 3000
 	}
 	
 	farmers = {
-		culture = afro_latino
+		culture =afro_frankish
 		religion = catholic
 		size = 5010
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = afro_frankish
 		religion = catholic
 		size = 10600
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = afro_frankish
 		religion = sunni
 		size = 7300
 	}
@@ -6813,49 +6813,49 @@
 #Tampa (8000/2000 POPS)
 200 = {
 	aristocrats = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 430
 	}
 
 	clergymen = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 450
 	}
 
 	artisans = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 3200
 	}
 
 	farmers = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 47800
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = afro_frankish
 		religion = catholic
 		size = 145
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = afro_frankish
 		religion = catholic
 		size = 6450
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = afro_frankish
 		religion = catholic
 		size = 5230
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = afro_frankish
 		religion = sunni
 		size = 1270
 	}

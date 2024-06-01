@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = DEN
+controller = DEN
 add_core = ASH
 trade_goods = cattle
 life_rating = 35

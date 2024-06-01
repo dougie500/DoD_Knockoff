@@ -2862,7 +2862,11 @@
 		religion = protestant
 		size = 1600
 	}
-
+	craftsmen = {
+		culture = provencal
+		religion = protestant
+		size = 20000
+	}
 	officers = {
 		culture = provencal
 		religion = protestant
@@ -2948,7 +2952,11 @@
 		religion = protestant
 		size = 7500
 	}
-
+	craftsmen = {
+		culture = provencal
+		religion = protestant
+		size = 20000
+	}
 	farmers = {
 		culture = provencal
 		religion = protestant
@@ -2968,7 +2976,11 @@
 		religion = protestant
 		size = 800
 	}
-
+	craftsmen = {
+		culture = provencal
+		religion = protestant
+		size = 10000
+	}
 	clergymen = {
 		culture = provencal
 		religion = protestant
@@ -3030,7 +3042,7 @@
 	clergymen = {
 		culture = provencal
 		religion = protestant
-		size = 2600
+		size = 3600
 	}
 
 	artisans = {
@@ -3054,7 +3066,7 @@
 	craftsmen = {
 		culture = provencal
 		religion = protestant
-		size = 10000
+		size = 15000
 	}
 
 	soldiers = {
@@ -3070,7 +3082,7 @@
 	}
 	
     farmers = {
-		culture = french
+		culture = provencal
 		religion = catholic
 		size = 50510
 	}
@@ -3078,19 +3090,19 @@
 #Mont de Marsan (556000/139000 POPS)
 459 = {
 	aristocrats = {
-		culture = french
+		culture = provencal
 		religion = catholic
 		size = 1350
 	}
 
 	clergymen = {
-		culture = french
+		culture = provencal
 		religion = catholic
-		size = 1375
+		size = 2375
 	}
 
 	artisans = {
-		culture = french
+		culture = provencal
 		religion = catholic
 		size = 7000
 	}
@@ -3102,7 +3114,7 @@
 	}
     
 	farmers = {
-		culture = french
+		culture = provencal
 		religion = catholic
 		size = 40675
 	}
@@ -3118,7 +3130,7 @@
 	clergymen = {
 		culture = french
 		religion = catholic
-		size = 1250
+		size = 2250
 	}
 
 	artisans = {
@@ -3394,9 +3406,9 @@
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = provencal
 		religion = catholic
-		size = 9000
+		size = 4000
 	}
 
 	farmers = {
@@ -3408,28 +3420,28 @@
     farmers = {
 		culture = provencal
 		religion = protestant
-		size = 27800
+		size = 42000
 	}
 }
 #Provence Region (1268400)
 #Chambery (228400/57100 POPS)
 466 = {
 	aristocrats = {
-		culture = north_italian
+		culture = provencal
 		religion = catholic
 		size = 550
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = provencal
 		religion = catholic
-		size = 575
+		size = 1575
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = provencal
 		religion = catholic
-		size = 2800
+		size = 3800
 	}
 
 	farmers = {
@@ -3441,7 +3453,7 @@
 	farmers = {
 		culture = provencal
 		religion = protestant
-		size = 24175
+		size = 26175
 	}
 
 }

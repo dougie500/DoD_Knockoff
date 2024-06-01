@@ -31,32 +31,11 @@ political_decisions = {
 					}
 				}
 			}
-			WUR = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
-					}
-				}
-			}
-			SWI = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
-					}
-				}
-			}
+			
 		}
 		
 		effect = {
-			primary_culture = south_german
-			add_accepted_culture = north_german
-			add_accepted_culture = rheinish 
+			primary_culture = south_german	
 			prestige = 10
 			any_country = {
 				limit = {
@@ -73,21 +52,7 @@ political_decisions = {
 				}
 				annex_to = THIS
 			}
-			any_country = {
-				limit = {
-					OR = { 
-						primary_culture = south_german
-						primary_culture = north_german
-						primary_culture = rheinish
-					}
-					vassal_of = THIS
-					NOT = {
-						tag = THIS
-						tag = KRL
-					}
-				}
-				annex_to = THIS
-			}
+			
 			any_owned = {
 				limit = {
 					is_core = GER

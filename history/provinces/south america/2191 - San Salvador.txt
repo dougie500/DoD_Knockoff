@@ -1,6 +1,6 @@
 owner = SPA
 controller = SPA
-add_core = SPA
+colonial = 2
 add_core = ELS
 add_core = CLM
 trade_goods = coffee

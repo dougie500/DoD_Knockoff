@@ -1,4 +1,12 @@
 political_decisions = {
+
+##Venice Byzantium path
+
+
+
+
+
+
 	tanzimat_reforms_1 = {
 		picture = tanzimat	
 		potential = {

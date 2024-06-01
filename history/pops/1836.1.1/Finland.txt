@@ -17,7 +17,7 @@
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 300
+        size = 1300
     }
 
     artisans = {
@@ -41,7 +41,7 @@
     farmers = {
         culture = finnish
         religion = protestant
-        size = 13694
+        size = 23694
     }
 
     soldiers = {
@@ -67,7 +67,7 @@
     farmers = {
         culture = finnish
         religion = protestant
-        size = 3464
+        size = 9464
     }
 }
 #Tornio (40000/10000 POPS)
@@ -87,7 +87,7 @@
     farmers = {
         culture = finnish
         religion = protestant
-        size = 8207
+        size = 18207
     }
 
     farmers = {
@@ -201,19 +201,19 @@
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 250
+        size = 500
     }
 
     artisans = {
         culture = finnish
         religion = protestant
-        size = 750
+        size = 1750
     }
 
     farmers = {
         culture = finnish
         religion = protestant
-        size = 55000
+        size = 65000
     }
 
     clergymen = {
@@ -259,19 +259,19 @@
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 700
+        size = 1700
     }
 
     artisans = {
         culture = finnish
         religion = protestant
-        size = 1850
+        size = 2850
     }
 
     farmers = {
         culture = finnish
         religion = protestant
-        size = 32015
+        size = 52015
     }
 
     clergymen = {

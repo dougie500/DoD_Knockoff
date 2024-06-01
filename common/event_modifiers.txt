@@ -2173,6 +2173,10 @@ gateway_to_harbor = {
 	population_growth = 0.002
 	icon = 9
 }
+Toulouse_but_better = {
+	population_growth = 0.002
+	icon = 9
+}
 
 #Expires after 20 years
 gateway_to_russia = {

@@ -388,7 +388,7 @@
 	}
 
 	farmers = {
-		culture = south_german
+		culture =  north_italian
 		religion = catholic
 		size = 5000
 	}
@@ -396,7 +396,7 @@
 	farmers = {
 		culture = provencal
 		religion = protestant
-		size = 10000
+		size = 15000
 	}
 	
 	farmers = {

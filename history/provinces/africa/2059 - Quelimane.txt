@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = MAD
+controller = MAD
 colonial = 1
 add_core = ZIM
 trade_goods = grain

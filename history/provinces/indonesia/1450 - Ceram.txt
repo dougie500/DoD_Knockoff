@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = DNG
+controller = DNG
 add_core = NUS
 add_core = MKS
 trade_goods = grain

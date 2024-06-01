@@ -141,183 +141,37 @@ political_decisions = {
 		picture = elbian_confederation	
 		potential = { 
 			tag = BOH 
-			has_global_flag = liberal_revolutions_should_now_fire
+			
 			NOT = { 
-				government = absolute_monarchy 
 				has_global_flag = cae_formed
 			}
 		}
 		
 	allow = { 
 	is_greater_power = yes 
-	OR = {
-				AND = {
-					HOL = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						}
-					}
-					POM = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						}
-					}
-					HAN = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						}
-					}
-					BRN = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						}
-					}
+	state_n_government = 1 
+	BRN = {
+		all_core = {
+			OR = {
+				owned_by = THIS
+				owner = {
+					in_sphere = THIS
 				}
-				AND = {
-					HAN = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						}
-					}
-					BRA = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						}
-					}
-					THU = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						}
-					}
-					HES = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						}
-					}
-					HEK = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						}
-					}
-					FRI = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						}
-					}
-					OLD = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						}
-					}
-					BEG = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						}
-					}
-					BRE = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						}
-					}
-					MNR = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						}
-					}
-					LIP = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						}
-					}
-					FRM = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						}
-					}
 			}
 		}
 	}
-	
+	POM = {
+		all_core = {
+			OR = {
+				owned_by = THIS
+				owner = {
+					in_sphere = THIS
+				}
+			}
+		}
+	}
+	}
+
 	effect = { 
 	set_global_flag = cae_formed
 	#PRU_572 = { add_core = CAE } 	#Rhineland
@@ -325,19 +179,27 @@ political_decisions = {
 	#PRU_575 = { add_core = CAE }	#Nordrhein
 	#HES_566 = { add_core = CAE }	#Hessen
 	#PRU_581 = { add_core = CAE }	#Westphalia
-	585 = { add_core = CAE } #Detmold
-	582 = { add_core = CAE } #Minden	
-	HAN_534 = { add_core = CAE }	#East Frisia
+
+
 	HAM_528 = { add_core = CAE }	#Hanover
 	PRU_546 = { add_core = CAE }	#Pomerania
-	SAX_1 = { add_core = CAE }		#Thuringia
-	HOL_369 = { add_core = CAE }	#Holstein
 	PRU_553 = { add_core = CAE }	#Anhalt
 	PRU_549 = { add_core = CAE }	#Brandenburg
 	SAX_558 = { add_core = CAE }	#Saxony
 	any_country = {
 				limit = {
-					primary_culture = north_german
+					tag = BRN
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+						tag = KRL
+					}
+				}
+				annex_to = THIS
+			}
+			any_country = {
+				limit = {
+					tag = POM
 					in_sphere = THIS
 					NOT = {
 						tag = THIS
@@ -357,25 +219,23 @@ political_decisions = {
 	integrate_prussia = { 
 	picture = prussia		
 	potential = { 
-	OR = { tag = HLR tag = CAE } 
-	690 = { 
-		owned_by = THIS
-		NOT = { is_core = THIS }
-	}
-	698 = { 
-		owned_by = THIS 
-		NOT = { is_core = THIS }		
-	}
+	OR = { tag = HLR tag = CAE tag = BOH} 
+
+	PRU_690 = { owned_by = THIS }
+	PRU_695 = { owned_by = THIS }
+
 	NOT = { has_country_flag = integrate_prussia }
 	}
 	
 	allow = { 
-	nationalism_n_imperialism = 1 
+		PRU_690 = { owned_by = THIS }
+		PRU_695 = { owned_by = THIS }
 		}
 	effect = { 
-	badboy = 10 
+	
 	PRU_690 = { add_core = THIS }
 	PRU_695 = { add_core = THIS }
+	
 	set_country_flag = integrate_prussia
 		}
 	ai_will_do = { 
@@ -383,50 +243,53 @@ political_decisions = {
 		}
 	}
 	
-	integrate_elsass = { 
-	picture = elsass		
-	potential = { 
-	tag = HLR 
-	409 = { owned_by = THIS }
-	410 = { owned_by = THIS }
-	NOT = { has_country_flag = integrate_elsass	}
-	}
 	
-	allow = { 
-	nationalism_n_imperialism = 1 
-		}
-	
-	effect = { 
-	badboy = 6 
-	409 = { add_core = THIS }
-	410 = { add_core = THIS }
-	set_country_flag = integrate_elsass
-		}
-	ai_will_do = { 
-	factor = 1 
-		}
-	}
 	
 	integrate_rhineland = { 
 	picture = MarzBerlin
-	potential = { 
-	OR = { tag = SGF tag = NGF }
-	NOT = { accepted_culture = rheinish }
-	any_owned_province = { is_core = RHI }
+	potential = {
+	OR = { 
+		tag = CAE
+    tag = SGF
+	}
+
+
 	NOT = { has_country_flag = rheinish_acc }
 	}
 	
 	allow = { 
-	NOT = { citizenship_policy = residency }
+		RHI = {
+			all_core = {
+				OR = {
+				owned_by = THIS
+				in_sphere = THIS
+				}
+			}
+			MNR = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					in_sphere = THIS
+					}
+				}
+			}
+				NAS = {
+					all_core = {
+						OR = {
+						owned_by = THIS
+						in_sphere = THIS
+						}
+					}
+				}
 	}
-	
+}
 	effect = { 
 	set_country_flag = rheinish_acc
 	add_accepted_culture = rheinish 
 	}
 	
-	}
 	
+}
 	integrate_elbe = { 
 	picture = MarzBerlin
 	potential = { 
@@ -865,105 +728,127 @@ political_decisions = {
 		ai_will_do = { factor = 1 }
 	}
 
-	integrate_baltenland = { #Decision for non-dictatorship CAE to annex it's Baltenland puppet
-		picture = treuen_fest
-		potential = { 
-			tag = CAE 
-			NOT = {
-				government = presidential_dictatorship
-				government = absolute_monarchy
-				government = proletarian_dictatorship
-				government = fascist_dictatorship 			
-			}
-			has_country_flag = free_baltic_CAE
-			NOT = { has_country_flag = baltenland_integrated }				
-		}
+	# integrate_baltenland = { #Decision for non-dictatorship CAE to annex it's Baltenland puppet
+	# 	picture = treuen_fest
+	# 	potential = { 
+	# 		tag = CAE 
+	# 		NOT = {
+	# 			government = presidential_dictatorship
+	# 			government = absolute_monarchy
+	# 			government = proletarian_dictatorship
+	# 			government = fascist_dictatorship 			
+	# 		}
+	# 		has_country_flag = free_baltic_CAE
+	# 		NOT = { has_country_flag = baltenland_integrated }				
+	# 	}
 		
-		allow = { 
-			is_greater_power = yes 
-			war = no
-			NOT = { has_recently_lost_war = yes }
-			revolution_n_counterrevolution = 1
-			BLT = { 
-				exists = yes 
-				vassal_of = CAE
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = { vassal_of = THIS }
-					}
-				}
-			}			
-		}
+	# 	allow = { 
+	# 		is_greater_power = yes 
+	# 		war = no
+	# 		NOT = { has_recently_lost_war = yes }
+	# 		revolution_n_counterrevolution = 1
+	# 		BLT = { 
+	# 			exists = yes 
+	# 			vassal_of = CAE
+	# 			all_core = {
+	# 				OR = {
+	# 					owned_by = THIS
+	# 					owner = { vassal_of = THIS }
+	# 				}
+	# 			}
+	# 		}			
+	# 	}
 	
-		effect = {
-			set_country_flag = baltenland_integrated
-			badboy = 20
-			CAE = {
-				inherit = BLT
-			}
-			LIT_698 = { #Memel Region
-				add_core = CAE			
-			}	
-			RUS_354 = { #Latvia
-				add_core = CAE			
-			}	
-			RUS_349 = { #Estonia
-				add_core = CAE			
-			}			
-			PRU_695 = { #Ostpreussen
-				add_core = CAE			
-			}	
-			PRU_690 = { #Pomorskie
-				add_core = CAE			
-			}
-			PRU_701 = { #Poznan
-				add_core = CAE			
-			}			
-			363 = { add_core = CAE } #Panevezys
-			362 = { add_core = CAE } #Marjiampole
-			any_pop = {
-				limit = {
-					is_culture_group = czecho_slovak_culture_group
-				}
-				militancy = 5.0
-			}			
-		}
+	# 	effect = {
+	# 		set_country_flag = baltenland_integrated
+	# 		badboy = 20
+	# 		CAE = {
+	# 			inherit = BLT
+	# 		}
+	# 		LIT_698 = { #Memel Region
+	# 			add_core = CAE			
+	# 		}	
+	# 		RUS_354 = { #Latvia
+	# 			add_core = CAE			
+	# 		}	
+	# 		RUS_349 = { #Estonia
+	# 			add_core = CAE			
+	# 		}			
+	# 		PRU_695 = { #Ostpreussen
+	# 			add_core = CAE			
+	# 		}	
+	# 		PRU_690 = { #Pomorskie
+	# 			add_core = CAE			
+	# 		}
+	# 		PRU_701 = { #Poznan
+	# 			add_core = CAE			
+	# 		}			
+	# 		363 = { add_core = CAE } #Panevezys
+	# 		362 = { add_core = CAE } #Marjiampole
+	# 		any_pop = {
+	# 			limit = {
+	# 				is_culture_group = czecho_slovak_culture_group
+	# 			}
+	# 			militancy = 5.0
+	# 		}			
+	# 	}
 		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.2
-			} 			
-		}		
+	# 	ai_will_do = {
+	# 		factor = 1
+	# 		modifier = {
+	# 			factor = 0
+	# 			badboy = 0.2
+	# 		} 			
+	# 	}		
 	
-	}
+	# }
 
-	reclaim_brandenburg_anhalt = { 
-		picture = brandenburg_anhalt
-		potential = { 
-			tag = BOH
-			has_country_flag = can_reclaim_brandenburg
-		}
+	# reclaim_brandenburg_anhalt = { 
+	# 	picture = brandenburg_anhalt
+	# 	potential = { 
+	# 		tag = BOH
+	# 		has_country_flag = can_reclaim_brandenburg
+	# 	}
 		
-		allow = { 
-			rank = 16 
-			mass_politics = 1
-			NOT = { has_recently_lost_war = yes }
-		}
+	# 	allow = { 
+	# 		rank = 16 
+	# 		mass_politics = 1
+	# 		NOT = { has_recently_lost_war = yes }
+	# 	}
 	
-		effect = {
-			clr_country_flag = can_reclaim_brandenburg
-			PRU_553 = { #Anhalt
-				add_core = BOH			
-			}	
-			PRU_549 = { #Brandenburg
-				add_core = BOH			
-			}
-		}
+	# 	effect = {
+	# 		clr_country_flag = can_reclaim_brandenburg
+	# 		PRU_553 = { #Anhalt
+	# 			add_core = BOH			
+	# 		}	
+	# 		PRU_549 = { #Brandenburg
+	# 			add_core = BOH			
+	# 		}
+	# 	}
 	
-	}		
-	
+	# }		
+	# integrate_elsass = { 
+	# 	picture = elsass		
+	# 	potential = { 
+	# 	tag = HLR 
+	# 	409 = { owned_by = THIS }
+	# 	410 = { owned_by = THIS }
+	# 	NOT = { has_country_flag = integrate_elsass	}
+	# 	}
+		
+	# 	allow = { 
+	# 	nationalism_n_imperialism = 1 
+	# 		}
+		
+	# 	effect = { 
+	# 	badboy = 6 
+	# 	409 = { add_core = THIS }
+	# 	410 = { add_core = THIS }
+	# 	set_country_flag = integrate_elsass
+	# 		}
+	# 	ai_will_do = { 
+	# 	factor = 1 
+	# 		}
+	# 	}
 }
 	

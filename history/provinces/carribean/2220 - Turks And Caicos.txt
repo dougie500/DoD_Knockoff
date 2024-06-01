@@ -1,6 +1,6 @@
-owner = VEN
-controller = VEN
-add_core = ATS
+owner = SPA
+controller = SPA
+colonial = 2
 trade_goods = cotton
 life_rating = 35
 colonial = 2

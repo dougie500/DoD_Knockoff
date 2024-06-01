@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = MAD
+controller = MAD
 add_core = MAT
 colonial = 1
 trade_goods = cattle

@@ -1,5 +1,5 @@
 capital = 313
-primary_culture = norwegian
+primary_culture = scandinavian
 religion = protestant
 government = hms_government
 plurality = 0.0
@@ -31,7 +31,8 @@ school_reforms = low_schools
 conscription = one_year_draft
 debt_law = debtors_prisons
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = protestant_country
@@ -108,7 +109,7 @@ school_reforms = low_schools
 	strategic_mobility = 1
 	point_defense_system = 1
 	flintlock_rifles = 1
-	muzzle_loaded_rifles = 1
+		le_loaded_rifles = 1
 	bronze_muzzle_loaded_artillery = 1
 	iron_muzzle_loaded_artillery = 1
 	iron_breech_loaded_artillery = 1

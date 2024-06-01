@@ -3,5 +3,5 @@ controller =DEN
 add_core = DEN
 trade_goods = iron
 terrain = montane_tundra
-life_rating = 20
+life_rating = 35
 naval_base = 1

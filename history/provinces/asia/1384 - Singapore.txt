@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = BRG
+controller = BRG
 add_core = JOH
 add_core = NUS
 trade_goods = tropical_wood

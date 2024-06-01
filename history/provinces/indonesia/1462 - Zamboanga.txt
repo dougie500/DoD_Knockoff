@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = DNG
+controller = DNG
 add_core = SUL
 add_core = TON
 trade_goods = iron
