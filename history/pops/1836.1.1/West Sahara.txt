@@ -3,29 +3,29 @@
 #Al Aiyun (12000/3000 POPS)  aguia el-Hamra
 1773 = {
     aristocrats = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 30
     }
 
     soldiers = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 75
     }
     clergymen = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 15
     }
 
     artisans = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 50
     }
     farmers = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 1200
     }
@@ -69,19 +69,19 @@
     }
 
     clergymen = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 30
     }
 
     artisans = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 900
     }

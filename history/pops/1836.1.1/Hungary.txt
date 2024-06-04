@@ -499,13 +499,13 @@
 	}
 
 	farmers = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 6750
 	}
 	
 	serfs = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 5000
 	}	
@@ -1064,13 +1064,13 @@
 	}
 
 	farmers = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 5800
 	}
 	
 	serfs = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 4800
 	}	
@@ -1215,13 +1215,13 @@
 	}
 
 	farmers = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 3361
 	}
 
 	serfs = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 1914
 	}	
@@ -1360,7 +1360,7 @@
 	}
 	
 	farmers = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 550 
 	}	
@@ -1530,13 +1530,13 @@
 	}
 
 	farmers = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 975 
 	}
 
 	serfs = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 650 
 	}	
@@ -1683,7 +1683,7 @@
 	}
 	
 	farmers = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 1100 
 	}	
@@ -1845,13 +1845,13 @@
 	}
 	
 	farmers = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 1725  
 	}
 	
 	serfs = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 1400  
 	}	
@@ -2002,13 +2002,13 @@
 	}
 
 	farmers = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 750  
 	}
 
 	serfs = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 400  
 	}	

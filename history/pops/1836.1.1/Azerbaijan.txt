@@ -136,49 +136,49 @@
 	}
 	
 	aristocrats = {
-		culture = tat
+		culture = turkoman
 		religion = shiite
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = tat
+		culture = turkoman
 		religion = shiite
 		size = 10
 	}
 
 	clergymen = {
-		culture = tat
+		culture = turkoman
 		religion = shiite
 		size = 220
 	}
 
 	artisans = {
-		culture = tat
+		culture = turkoman
 		religion = shiite
 		size = 4200
 	}
 
 	soldiers = {
-		culture = tat
+		culture = turkoman
 		religion = shiite
 		size = 250
 	}
 
 	farmers = {
-		culture = tat
+		culture = turkoman
 		religion = shiite
 		size = 36985
 	}
 
 	clergymen = {
-		culture = tat
+		culture = turkoman
 		religion = jewish
 		size = 90
 	}
 
 	artisans = {
-		culture = tat
+		culture = turkoman
 		religion = jewish
 		size = 2410
 	}
@@ -432,49 +432,49 @@
 	}	
 	
 	aristocrats = {
-		culture = tat
+		culture = turkoman
 		religion = shiite
 		size = 325
 	}
 
 	clergymen = {
-		culture = tat
+		culture = turkoman
 		religion = shiite
 		size = 305
 	}
 
 	artisans = {
-		culture = tat
+		culture = turkoman
 		religion = shiite
 		size = 5350
 	}
 
 	soldiers = {
-		culture = tat
+		culture = turkoman
 		religion = shiite
 		size = 1425
 	}
 
 	farmers = {
-		culture = tat
+		culture = turkoman
 		religion = shiite
 		size = 15400
 	}
 
 	clergymen = {
-		culture = tat
+		culture = turkoman
 		religion = jewish
 		size = 20
 	}
 
 	artisans = {
-		culture = tat
+		culture = turkoman
 		religion = jewish
 		size = 3750
 	}
 	
 	farmers = {
-		culture = tat
+		culture = turkoman
 		religion = jewish
 		size = 1500
 	}
@@ -617,19 +617,19 @@
 	}
 	
 	artisans = {
-		culture = tat
+		culture = turkoman
 		religion = shiite
 		size = 1400
 	}
 
 	soldiers = {
-		culture = tat
+		culture = turkoman
 		religion = shiite
 		size = 1025
 	}
 
 	farmers = {
-		culture = tat
+		culture = turkoman
 		religion = shiite
 		size = 7700
 	}
@@ -851,43 +851,43 @@
 	}
 	
 	bureaucrats = {
-		culture = tat
+		culture = turkoman
 		religion = shiite
 		size = 40
 	}
 
 	clergymen = {
-		culture = tat
+		culture = turkoman
 		religion = shiite
 		size = 5
 	}	
 	
 	artisans = {
-		culture = tat
+		culture = turkoman
 		religion = shiite
 		size = 15
 	}	
 	
 	artisans = {
-		culture = tat
+		culture = turkoman
 		religion = sunni
 		size = 600
 	}
 	
 	soldiers = {
-		culture = tat
+		culture = turkoman
 		religion = shiite
 		size = 40
 	}	
 
 	farmers = {
-		culture = tat
+		culture = turkoman
 		religion = sunni
 		size = 1985
 	}
 	
 	farmers = {
-		culture = tat
+		culture = turkoman
 		religion = shiite
 		size = 2285
 	}

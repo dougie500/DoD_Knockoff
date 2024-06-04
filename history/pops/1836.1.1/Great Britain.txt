@@ -948,7 +948,7 @@
 	farmers = {
 		culture = english
 		religion = catholic
-		size = 46000
+		size = 29000
 	}
 	
 	farmers = {
@@ -972,7 +972,7 @@
 	farmers = {
 		culture = scottish
 		religion = catholic
-		size = 4600
+		size = 22600
 	}
 }
 #Yorkshire-Northumbria Region : 2190000
@@ -1011,7 +1011,7 @@
 	labourers = {
 		culture = english
 		religion = catholic
-		size = 61850
+		size = 21850
 	}
 	
 	soldiers = {
@@ -1037,12 +1037,12 @@
 		religion = catholic
 		size = 2000
 	}
-	
-	farmers = {
+	labourers = {
 		culture = scottish
-		religion = catholic
-		size = 20600
+		religion = protestant
+		size = 40000
 	}
+	
 }
 #Hull (512000/128000 POPS)
 281 = {

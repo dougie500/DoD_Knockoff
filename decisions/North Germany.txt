@@ -1,5 +1,49 @@
 political_decisions = {
 
+	Frisia_annex = {
+		
+		potential = { 
+			 tag = BRG
+			
+				
+			
+			
+			NOT = {
+				has_country_flag = Frisia_annex
+			
+				
+			}
+		}
+	
+		allow = {
+		romanticism = 1 
+		
+		}
+		effect = { 
+		
+			random_country = { 
+				limit = {
+					tag = FRI
+					
+				}
+				annex_to = THIS
+			}
+			NET_385= {
+				add_core = THIS
+			}
+			HAN_534= {
+				add_core = THIS
+			}
+			set_country_flag = Frisia_annex
+		
+			
+			
+		}
+		
+	}
+
+
+
 	kingdom_of_hanover = {
 		picture = hanover	
         potential = {

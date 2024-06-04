@@ -1,6 +1,7 @@
-owner = MUS
-controller = MUS
-add_core = MUS
+owner = UKR
+controller = UKR
+add_core = UKR
+add_core = PLC
 add_core = RUS
 add_core = RUT
 trade_goods = coal

@@ -1,10 +1,10 @@
 capital = 1417
 primary_culture = javan
-culture = champa
+culture = vietnamese
 culture = malay
 culture = moluccan
 culture = filipino
-culture = min
+culture = nanfaren
 culture = melanesian
 culture = hawaiian
 culture = polynesian

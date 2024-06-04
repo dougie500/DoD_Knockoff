@@ -60,7 +60,7 @@
     }
 
     farmers = {
-        culture = zanj
+        culture = maghrebi
         religion = catholic
         size = 5000
     }
@@ -105,7 +105,7 @@
     }
 
     slaves = {
-        culture = zanj
+        culture = maghrebi
         religion = catholic
         size = 2000
     }
@@ -190,7 +190,7 @@
     }
 
     slaves = {
-        culture = zanj
+        culture = maghrebi
         religion = animist
         size = 35000
     }
@@ -222,7 +222,7 @@
     }	
 
     slaves = {
-        culture = zanj
+        culture = maghrebi
         religion = animist
         size = 12000
     }
@@ -272,7 +272,7 @@
     }	
 
     slaves = {
-        culture = zanj
+        culture = maghrebi
         religion = animist
         size = 5000
     }
@@ -304,7 +304,7 @@
     }
 
     slaves = {
-        culture = zanj
+        culture = maghrebi
         religion = animist
         size = 4000
     }

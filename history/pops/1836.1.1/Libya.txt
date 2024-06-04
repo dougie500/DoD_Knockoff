@@ -52,7 +52,7 @@
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = animist
 		size = 6500
 	}
@@ -134,7 +134,7 @@
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = animist
 		size = 2000
 	}
@@ -204,7 +204,7 @@
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = animist
 		size = 5000
 	}
@@ -267,7 +267,7 @@
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = animist
 		size = 4000
 	}
@@ -351,7 +351,7 @@
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = animist
 		size = 6000
 	}
@@ -407,7 +407,7 @@
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = animist
 		size = 2000
 	}
@@ -477,7 +477,7 @@
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = animist
 		size = 3000
 	}
@@ -710,7 +710,7 @@
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = animist
 		size = 500
 	}
@@ -792,7 +792,7 @@
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = animist
 		size = 1100
 	}
@@ -863,7 +863,7 @@
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = animist
 		size = 2000
 	}
@@ -934,7 +934,7 @@
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = animist
 		size = 1100
 	}

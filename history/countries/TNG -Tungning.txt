@@ -1,7 +1,7 @@
 capital = 1485
 primary_culture = nanfaren
 culture = beifaren
-culture = min
+culture = nanfaren
 religion = mahayana
 government = prussian_constitutionalism
 plurality = 0.0

@@ -3,6 +3,6 @@ controller = OCC
 add_core = OCC
 add_core = GNV
 trade_goods = grain
-life_rating = 33
+life_rating = 35
 fort = 2
 1861.1.1 = { railroad = 1 }

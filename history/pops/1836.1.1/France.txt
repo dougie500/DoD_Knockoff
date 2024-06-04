@@ -3715,7 +3715,7 @@
 #Corsica (210000/52500 POPS)
 473 = {
 	aristocrats = {
-		culture = catalan
+		culture = provencal
 		religion = catholic
 		size = 400
 	}
@@ -3727,19 +3727,19 @@
 	}
 
 	officers = {
-		culture = catalan
+		culture = provencal
 		religion = catholic
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = catalan
+		culture = provencal
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = catalan
+		culture = provencal
 		religion = catholic
 		size = 500
 	}
@@ -3751,13 +3751,13 @@
 	}
 
 	artisans = {
-		culture = catalan
+		culture = provencal
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = catalan
+		culture = provencal
 		religion = catholic
 		size = 20800
 	}

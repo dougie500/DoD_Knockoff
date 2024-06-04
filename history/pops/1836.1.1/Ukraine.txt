@@ -730,7 +730,7 @@
 	farmers = {
 		culture = ruthenian
 		religion = orthodox
-		size = 184200
+		size = 144200
 	}
 
 	aristocrats = {
@@ -742,7 +742,7 @@
 	clergymen = {
 		culture = polish
 		religion = catholic
-		size = 700
+		size = 1700
 	}
 
 	artisans = {
@@ -761,7 +761,7 @@
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 56700
+		size = 96700
 	}
 
 	clergymen = {
@@ -1167,7 +1167,7 @@
 	farmers = {
 		culture = ruthenian
 		religion = orthodox
-		size = 83775
+		size = 53775
 	}
 
 	aristocrats = {
@@ -1198,7 +1198,7 @@
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 10375
+		size = 40375
 	}
 
 	clergymen = {
@@ -1229,19 +1229,19 @@
 #Kovel (444000/111000 POPS)
 957 = {
 	clergymen = {
-		culture = ruthenian
+		culture = polish
 		religion = orthodox
 		size = 825
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = polish
 		religion = orthodox
 		size = 2350
 	}
 
 	soldiers = {
-		culture = ruthenian
+		culture = polish
 		religion = orthodox
 		size= 1000
 
@@ -1250,7 +1250,7 @@
 	farmers = {
 		culture = ruthenian
 		religion = orthodox
-		size = 61850
+		size = 51850
 	}
 
 	aristocrats = {
@@ -1281,7 +1281,7 @@
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 48850
+		size = 60850
 	}
 
 	clergymen = {

@@ -3,49 +3,49 @@
 #Nouakchott (92000/23000 POPS) 
 1775 = {
     aristocrats = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 490
     }
 
     bureaucrats = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 23
     }
 
     officers = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 5
     }
 
     clergymen = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 225
     }
 
     artisans = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 925
     }
 
     soldiers = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 275
     }
 
     farmers = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 18125
     }
 
     slaves = {
-        culture = zanj
+        culture = maghrebi
         religion = animist
         size = 3000
     }
@@ -53,43 +53,43 @@
 #Rosso (72000/18000 POPS) 
 1776 = {
     aristocrats = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 740
     }
 
     clergymen = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 175
     }
 
     artisans = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 900
     }
 
     soldiers = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 2895
     }
 
     farmers = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 11400
     }
 
     slaves = {
-        culture = zanj
+        culture = maghrebi
         religion = animist
         size = 5000
     }
 
     bureaucrats = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 10
     }
@@ -98,31 +98,31 @@
 #Aleg (84000/21000 POPS) 
 1777 = {
     officers = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 5
     }
 
     clergymen = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 200
     }
 
     artisans = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 850
     }
 
     farmers = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 13325
     }
 
     slaves = {
-        culture = zanj
+        culture = maghrebi
         religion = animist
         size = 6000
     }
@@ -130,37 +130,37 @@
 #Maghama (28000/7000 POPS) 
 1778 = {
     aristocrats = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 275
     }
 
     soldiers = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 630
     }
 
     farmers = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 3475
     }
 
     slaves = {
-        culture = zanj
+        culture = maghrebi
         religion = animist
         size = 3000
     }
@@ -170,25 +170,25 @@
 #Shingit (12000/3000 POPS) 
 1779 = {
     officers = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 7
     }
 
     clergymen = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 150
     }
 
     farmers = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 2700
     }
@@ -197,31 +197,31 @@
 #Walata (28000/7000 POPS) -- Combined with PROV1780 pops
 1781 = {
     aristocrats = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 150
     }
 
     clergymen = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 150
     }
 
     artisans = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 300
     }
 
     soldiers = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 75
     }
 
     farmers = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 5400
     }
@@ -291,19 +291,19 @@
     }
 
     clergymen = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 150
     }
 
     farmers = {
-        culture = maures
+        culture = tuareg
         religion = sunni
         size = 2200
     }

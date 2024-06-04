@@ -1,5 +1,5 @@
 political_decisions = {
-	create_british_empire = {
+	
 	
 	
 	Scotland_Expansion = {
@@ -324,10 +324,13 @@ political_decisions = {
 		}
 		}
 		effect = { 
-			limit = {
-				tag = POM
+			random_country = { 
+				limit = {
+					tag = POM
+					
+				}
+				annex_to = THIS
 			}
-			annex_to = DEN
 			
 			
 			set_country_flag = Pommern_Expansion 

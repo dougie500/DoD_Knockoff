@@ -3,19 +3,19 @@
 #Grodno (288000/72000 POPS)
 936 = {
 	clergymen = {
-		culture = ruthenian
+		culture = polish
 		religion = orthodox
 		size = 425
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = polish
 		religion = orthodox
 		size = 550
 	}
 
 	soldiers = {
-		culture = ruthenian
+		culture = polish
 		religion = orthodox
 		size= 450
 
@@ -24,7 +24,7 @@
 	farmers = {
 		culture = ruthenian
 		religion = orthodox
-		size = 32775
+		size = 22775
 	}
 
 	aristocrats = {
@@ -55,7 +55,7 @@
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 28575
+		size = 38575
 	}
 
 	clergymen = {
@@ -543,7 +543,7 @@
 	}
 
 	farmers = {
-		culture = polish
+		culture = ruthenian
 		religion = catholic
 		size = 21500
 	}
@@ -853,7 +853,7 @@
 	farmers = {
 		culture = russian
 		religion = orthodox
-		size = 30000
+		size = 50000
 	}
 
 	clergymen = {
@@ -878,7 +878,7 @@
 	farmers = {
 		culture = ruthenian
 		religion = orthodox
-		size = 54700
+		size = 34700
 	}
 
 	clergymen = {
@@ -930,7 +930,7 @@
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 49825
 	}
@@ -973,37 +973,37 @@
 	}
 
 	farmers = {
-		culture = russian
+		culture = ruthenian
 		religion = orthodox
 		size = 3200
 	}
 
 	aristocrats = {
-		culture = polish
+		culture = ruthenian
 		religion = catholic
 		size = 500
 	}
 
 	bureaucrats = {
-		culture = polish
+		culture = ruthenian
 		religion = catholic
 		size = 150
 	}
 
 	officers = {
-		culture = polish
+		culture = ruthenian
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = polish
+		culture = ruthenian
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = polish
+		culture = ruthenian
 		religion = catholic
 		size= 25
 
@@ -1058,7 +1058,12 @@
 	farmers = {
 		culture = ruthenian
 		religion = orthodox
-		size = 119075
+		size = 69075
+	}
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 79075
 	}
 
 	aristocrats = {

@@ -1,8 +1,8 @@
 capital = 1550
 primary_culture = nanfaren
 culture = beifaren
-culture = yue 
-culture = hakka
+culture = nanfaren 
+culture = nanfaren
 religion = taiping
 government = absolute_monarchy
 plurality = 0.0

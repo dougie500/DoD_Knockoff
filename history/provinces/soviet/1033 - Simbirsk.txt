@@ -1,8 +1,8 @@
-owner = NOG
-controller =NOG
+owner = MUS
+controller =MUS
 add_core = RUS
 
 add_core = MRD
-add_core = SIB
+add_core = MUS
 trade_goods = cattle
 life_rating = 35

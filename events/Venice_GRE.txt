@@ -1,576 +1,648 @@
-country_event = { # Venice becomes Greece if they have lost their Italian holdings
-	id = 222120
-	title = "222120.T"
-	desc = "222120.D"
-	major = yes
-
-	trigger = {
-		tag = VEN
-		NOT = { is_greater_power = yes }
-		NOT = { owns = 729 } # Venice
-		NOT = { war = yes }
-		owns = 834 # Athens
-		owns = 839 # Nafplion
-		NOT = { exists = GRE }
-		NOT = { has_country_flag = VEN_GRE }
-	}
-
-	mean_time_to_happen = {
-		months = 1
-	}
-	
-	option = {
-		name = "222120.A"
-		prestige = -10
-		release = ATS
-		primary_culture = greek
-		add_accepted_culture = venetian
-		government = democracy
-		set_country_flag = VEN_GRE
-		capital = 834
-		any_owned = {
-				limit = {
-						is_core = THIS
-					}
-					add_core = GRE
-			}
-		any_country = {
-				any_owned = {
-						limit = {
-							is_core = THIS
-					}
-				remove_core = VEN
-			}
-		}
-		change_tag = GRE
-	}
-}
-
-###### Greek Nationalism and Council of Athens #######
-
-country_event = { ## Greek Demands ? 
-
-	id = 100601
-	title = "GRE1.T"
-	desc = "GRE1.D"
-	
-	fire_only_once = yes 
-
-	trigger = { 
-		tag = VEN 
-		has_global_flag = liberal_revolution_somewhere
-		owns = 834 
-		NOT = { GRE = { exists = yes } }
-		}
-		
-	mean_time_to_happen = { 
-		months = 12 
-		}
-		
-	option = { 
-	name = "100601.A"
-	set_country_flag = VEN_accepts 
-	ai_chance = { 
-		factor = 75
-		modifier = { 
-			factor = 0.5 
-			ruling_party_ideology = liberal
-			}
-		modifier = { 
-			factor = 1.25
-			ruling_party_ideology = conservative
-			}	
-		}
-	}
-	
-	option = { 
-	name = "100601.B"
-	set_country_flag = no_council 
-	prestige = 5 
-		}
-}	
-
-country_event = { ## The council of Athens 
-
-	id = 100602
-	title = "GRE2.T"
-	desc = "GRE2.D"
-	picture = "vouli"
-	
-	major = yes 
+## Venice greece or italian efforts
+country_event = { 
+	id = 144469
+	title = "144469.T"
+	desc = "144469.D"
 	fire_only_once = yes 
 	
-	trigger = { 
-	tag = VEN
-	has_country_flag = VEN_accepts 
-	NOT = { GRE = { exists = yes } }
-	}
-	
-	mean_time_to_happen = { 
-		days = 60
-		}
-	
-	option = { 
-	name = "100602.A" 
-	clr_country_flag = VEN_accepts 
-	set_country_flag = council_opened 
-	}
-}
-
-country_event = { ## The council of Athens : the vote
-
-	id = 100603
-	title = "GRE3.T"
-	desc = "GRE3.D"
-	picture = "vouli"
-	
-	fire_only_once = yes
-	
-	trigger = { 
-	tag = VEN 
-	has_country_flag = council_opened 
-	NOT = { GRE = { exists = yes } }
-	}
-	
-	mean_time_to_happen = { 
-		days = 120
-		} 
-		
-	option = { 
-	name = "100603.A"
-	clr_country_flag = council_opened 
-	random_list = { 
-			25 = { country_event = 100604 }
-			30 = { country_event = 100605 }
-			10 = { country_event = 100607 }
-			35 = { country_event = 100609 }
-		}
-	}
-}
-
-country_event = { ## The council of Athens : Secession 
-
-	id = 100604
-	title = "GRE4.T"
-	desc = "GRE4.D"
-	picture = "zimisceses"
-	
-	major = yes 
-	
-	is_triggered_only = yes
-	
-	option = { 
-	name = "100604.A" 
-	set_country_flag = greek_rebellion
-	any_owned = {
-			limit = {
-				OR = {
-					province_id = 840
-					province_id = 841
-					province_id = 842
-					province_id = 839
-					province_id = 845 #Cyclades
-					region = TUR_832 #Thessalia
-					region = GRE_837 #Attica
-				}
-			}
-			secede_province = GRE
-		}
-		any_pop = {
-			limit = {
-				culture = greek
-			}
-			militancy = 2
-		}
-		any_pop = {
-			limit = {
-				culture = greek
-				location = {
-					is_core = GRE
-				}
-			}
-			militancy = 4
-		}
-		any_country = {
-			limit = {
-				is_greater_power = yes
-				capital_scope = { continent = europe }
-			}
-			leave_alliance = VEN
-			}
-		GRE = {
-			capital = 834
-			government = presidential_dictatorship
-			any_pop = {
-				limit = {
-					culture = greek
-				}
-				militancy = -8
-				}
-			}
-		war = {
-			target = GRE
-			attacker_goal = {
-				casus_belli = annex_core_country
-			}
-			call_ally = yes
-		}
-	}
-}
-	
-country_event = { ## The council of Athens : Autonomy
-
-	id = 100605
-	title = "GRE5.T"
-	desc = "GRE5.D"
-	
-	major = yes 
-	is_triggered_only = yes
-	
-	option = {
-	name = "100605.A" 
-	any_owned = {
-			limit = {
-				OR = {
-					province_id = 840
-					province_id = 841
-					province_id = 842
-					province_id = 839
-					region = TUR_832 #Thessalia
-					region = GRE_837 #Attica
-				}
-			}
-			secede_province = GRE
-		}
-	create_vassal = GRE
-	prestige = -5 
-	}
-	
-	option = { 
-	name = "100605.B" 
-	prestige = 10
-	country_event = 100606
-	}
-}
-	
-country_event = { ## Failure of Home Rule
-
-	id = 100606
-	title = "GRE6.T"
-	desc = "GRE6.D"
-	picture = "zimisceses"
-	
-	major = yes 
-	is_triggered_only = yes
-		
-	option = { 
-	name = "100606.A" 
-	set_country_flag = greek_rebellion
-	any_owned = {
-			limit = {
-				OR = {
-					province_id = 840
-					province_id = 841
-					province_id = 842
-					province_id = 839
-					province_id = 845 #Cyclades
-					region = TUR_832 #Thessalia
-					region = GRE_837 #Attica
-				}
-			}
-			secede_province = GRE
-		}
-		any_pop = {
-			limit = {
-				culture = greek
-			}
-			militancy = 2
-		}
-		any_pop = {
-			limit = {
-				culture = greek
-				location = {
-					is_core = GRE
-				}
-			}
-			militancy = 4
-		}
-		any_country = {
-			limit = {
-				is_greater_power = yes
-				capital_scope = { continent = europe }
-			}
-			leave_alliance = VEN
-			}
-		GRE = {
-			capital = 834
-			government = presidential_dictatorship
-			any_pop = {
-				limit = {
-					culture = greek
-				}
-				militancy = -8
-				}
-			}
-		war = {
-			target = GRE
-			attacker_goal = {
-				casus_belli = annex_core_country
-			}
-		}
-	}
-}
-
-country_event = { ## Result : Integration 
-
-	id = 100607
-	title = "GRE7.T"
-	desc = "GRE7.D"
-	
-	major = yes 
-	is_triggered_only = yes
-	
-	option = {
-	name = "100607.A"
-	prestige = -10 
-	add_accepted_culture = greek
-	government = democracy 
-	ruling_party_ideology = liberal
-	political_reform = universal_voting
-	political_reform = population_equal_weight
-	political_reform = yes_meeting
-	political_reform = free_press
-	set_country_flag = greek_integration 
-	GRE = {
-				all_core = {
-					add_core = THIS
-				}
-			}
-		ai_chance = { 
-			factor = 70
-		}
-	}
-	
-	option = { 
-	name = "100607.B"
-	country_event = 100608
-	prestige = 5
-	}
-}
-
-country_event = { ## Failure of the Pireans 
-
-	id = 100608
-	title = "GRE8.T"
-	desc = "GRE8.D"
-	
-	major = yes 
-	is_triggered_only = yes
-	
-	option = { 
-	name = "100608.A" 
-	set_country_flag = greek_rebellion
-	any_owned = {
-			limit = {
-				OR = {
-					province_id = 840
-					province_id = 841
-					province_id = 842
-					province_id = 839
-					province_id = 845 #Cyclades
-					region = TUR_832 #Thessalia
-					region = GRE_837 #Attica
-				}
-			}
-			secede_province = GRE
-		}
-		any_pop = {
-			limit = {
-				culture = greek
-			}
-			militancy = 2
-		}
-		any_pop = {
-			limit = {
-				culture = greek
-				location = {
-					is_core = GRE
-				}
-			}
-			militancy = 4
-		}
-		any_country = {
-			limit = {
-				is_greater_power = yes
-				capital_scope = { continent = europe }
-			}
-			leave_alliance = VEN
-			}
-		GRE = {
-			capital = 834
-			government = presidential_dictatorship
-			any_pop = {
-				limit = {
-					culture = greek
-				}
-				militancy = -8
-				}
-			}
-		war = {
-			target = GRE
-			attacker_goal = {
-				casus_belli = annex_core_country
-			}
-		}
-	}
-}
-
-country_event = { ## No majority 
-
-	id = 100609
-	title = "GRE9.T"
-	desc = "GRE9.D"
-	
-	picture = "zimisceses"
-	
-	major = yes 
-	is_triggered_only = yes
-	
-	option = { 
-	name = "100609.A"
-	set_country_flag = greek_rebellion
-	any_owned = {
-			limit = {
-				OR = {
-					region = TUR_832 #Thessalia
-					region = GRE_837 #Attica
-				}
-			}
-			secede_province = GRE
-		}
-		any_pop = {
-			limit = {
-				culture = greek
-			}
-			militancy = 2
-		}
-		any_pop = {
-			limit = {
-				culture = greek
-				location = {
-					is_core = GRE
-				}
-			}
-			militancy = 4
-		}
-		GRE = {
-			capital = 834
-			government = presidential_dictatorship
-			any_pop = {
-				limit = {
-					culture = greek
-				}
-				militancy = -8
-				}
-			}
-		war = {
-			target = GRE
-			attacker_goal = {
-				casus_belli = annex_core_country
-			}
-		}
-	}
-}
-
-
-###The Greek Rebellion ####
-country_event = { # Mobilization of ressources 
-	id = 100610
-	title = "GRE10.T"
-	desc = "GRE10.D"
-	picture = "zimisceses"
-	
- 	trigger = {
-		tag = GRE
-		exists = yes
-		war_with = VEN
-	}
-	
-	fire_only_once = yes
-	
-	option = {
-		name = "100610.A"
-		define_general = {
-		name = "Konstantinos Zimisces"
-		personality = charismatic
-		background = brilliant_strategist
-		}
-		small_arms = 100
-		canned_food = 200
-		artillery = 50
-		luxury_clothes = 50
-		wine = 50
-		liquor = 50
-		ammunition = 100
-		money = 10000
-	}
-}
-
-country_event = { # Question of Crete 
-	id = 100611
-	title = "GRE11.T"
-	desc = "GRE11.D"
-
-	fire_only_once = yes
-	
 	trigger = {
-		tag = VEN
-		war_with = GRE
-		}
-	
-	mean_time_to_happen = { 
-		days = 500
-		} 
+				tag = VEN
+				date = 1839
+			}
 		
-	option = { 
-	name = "100611.A" 
-	random_list = { 
-		45 = { country_event = 100612 }
-		35 = { country_event = 100613 }
-		20 = { country_event = 100614 }
-		}
+			mean_time_to_happen = {
+				days = 15
+			}
+	option = {
+	name = "144469.A" 
+	set_country_flag = Greek_Path
 	}
+	option = {
+		name = "144469.B" 
+		add_accepted_culture = north_italian
+		}																		
+		
 }
 
-country_event = { 
-	id = 100612 
-	title = "GRE12.T"
-	desc = "GRE12.D"
-	
-	is_triggered_only = yes
-	
-	option = { 
-	name = "100612.A" 
-	prestige = 5 
-	}
-}
+## Poland, should we persue bohemia? 
 
 country_event = { 
-	id = 100613
-	title = "GRE13.T"
-	desc = "GRE13.D"
+	id = 144401
+	title = "144401.T"
+	desc = "144401.D"
+	is_triggered_only = yes 
 	
-	is_triggered_only = yes
-	
-	option = { 
-	name = "100613.A" 
-	prestige = -5 
-	release = CRE
-	CRE = { 
-		set_country_flag = waiting_end_rebellion
-		}
+
+	option = {
+	name = "144401.A" 
+	PRU_682 = {
+		add_core = THIS
 	}
+	AUS_626 = {
+		add_core = THIS
+	}
+	RUS_718  = {
+		remove_core = THIS
+	}
+	RUS_977 = {
+		remove_core = THIS
+	}
+	RUS_958 = {
+		remove_core = THIS
+	}
+	set_country_flag = plc_bohemia_path
+	}
+	option = {
+	name = "144401.B" 
+		
+	}																		
+		
 }
+
+
+
+
+
+
+
+
+
+
+
+
+# country_event = { # Venice becomes Greece if they have lost their Italian holdings
+# 	id = 222120
+# 	title = "222120.T"
+# 	desc = "222120.D"
+# 	major = yes
+
+# 	trigger = {
+# 		tag = VEN
+# 		NOT = { is_greater_power = yes }
+# 		NOT = { owns = 729 } # Venice
+# 		NOT = { war = yes }
+# 		owns = 834 # Athens
+# 		owns = 839 # Nafplion
+# 		NOT = { exists = GRE }
+# 		NOT = { has_country_flag = VEN_GRE }
+# 	}
+
+# 	mean_time_to_happen = {
+# 		months = 1
+# 	}
+	
+# 	option = {
+# 		name = "222120.A"
+# 		prestige = -10
+# 		release = ATS
+# 		primary_culture = greek
+# 		add_accepted_culture = venetian
+# 		government = democracy
+# 		set_country_flag = VEN_GRE
+# 		capital = 834
+# 		any_owned = {
+# 				limit = {
+# 						is_core = THIS
+# 					}
+# 					add_core = GRE
+# 			}
+# 		any_country = {
+# 				any_owned = {
+# 						limit = {
+# 							is_core = THIS
+# 					}
+# 				remove_core = VEN
+# 			}
+# 		}
+# 		change_tag = GRE
+# 	}
+# }
+
+# ###### Greek Nationalism and Council of Athens #######
+
+# country_event = { ## Greek Demands ? 
+
+# 	id = 100601
+# 	title = "GRE1.T"
+# 	desc = "GRE1.D"
+	
+# 	fire_only_once = yes 
+
+# 	trigger = { 
+# 		tag = VEN 
+# 		has_global_flag = liberal_revolution_somewhere
+# 		owns = 834 
+# 		NOT = { GRE = { exists = yes } }
+# 		}
+		
+# 	mean_time_to_happen = { 
+# 		months = 12 
+# 		}
+		
+# 	option = { 
+# 	name = "100601.A"
+# 	set_country_flag = VEN_accepts 
+# 	ai_chance = { 
+# 		factor = 75
+# 		modifier = { 
+# 			factor = 0.5 
+# 			ruling_party_ideology = liberal
+# 			}
+# 		modifier = { 
+# 			factor = 1.25
+# 			ruling_party_ideology = conservative
+# 			}	
+# 		}
+# 	}
+	
+# 	option = { 
+# 	name = "100601.B"
+# 	set_country_flag = no_council 
+# 	prestige = 5 
+# 		}
+# }	
+
+# country_event = { ## The council of Athens 
+
+# 	id = 100602
+# 	title = "GRE2.T"
+# 	desc = "GRE2.D"
+# 	picture = "vouli"
+	
+# 	major = yes 
+# 	fire_only_once = yes 
+	
+# 	trigger = { 
+# 	tag = VEN
+# 	has_country_flag = VEN_accepts 
+# 	NOT = { GRE = { exists = yes } }
+# 	}
+	
+# 	mean_time_to_happen = { 
+# 		days = 60
+# 		}
+	
+# 	option = { 
+# 	name = "100602.A" 
+# 	clr_country_flag = VEN_accepts 
+# 	set_country_flag = council_opened 
+# 	}
+# }
+
+# country_event = { ## The council of Athens : the vote
+
+# 	id = 100603
+# 	title = "GRE3.T"
+# 	desc = "GRE3.D"
+# 	picture = "vouli"
+	
+# 	fire_only_once = yes
+	
+# 	trigger = { 
+# 	tag = VEN 
+# 	has_country_flag = council_opened 
+# 	NOT = { GRE = { exists = yes } }
+# 	}
+	
+# 	mean_time_to_happen = { 
+# 		days = 120
+# 		} 
+		
+# 	option = { 
+# 	name = "100603.A"
+# 	clr_country_flag = council_opened 
+# 	random_list = { 
+# 			25 = { country_event = 100604 }
+# 			30 = { country_event = 100605 }
+# 			10 = { country_event = 100607 }
+# 			35 = { country_event = 100609 }
+# 		}
+# 	}
+# }
+
+# country_event = { ## The council of Athens : Secession 
+
+# 	id = 100604
+# 	title = "GRE4.T"
+# 	desc = "GRE4.D"
+# 	picture = "zimisceses"
+	
+# 	major = yes 
+	
+# 	is_triggered_only = yes
+	
+# 	option = { 
+# 	name = "100604.A" 
+# 	set_country_flag = greek_rebellion
+# 	any_owned = {
+# 			limit = {
+# 				OR = {
+# 					province_id = 840
+# 					province_id = 841
+# 					province_id = 842
+# 					province_id = 839
+# 					province_id = 845 #Cyclades
+# 					region = TUR_832 #Thessalia
+# 					region = GRE_837 #Attica
+# 				}
+# 			}
+# 			secede_province = GRE
+# 		}
+# 		any_pop = {
+# 			limit = {
+# 				culture = greek
+# 			}
+# 			militancy = 2
+# 		}
+# 		any_pop = {
+# 			limit = {
+# 				culture = greek
+# 				location = {
+# 					is_core = GRE
+# 				}
+# 			}
+# 			militancy = 4
+# 		}
+# 		any_country = {
+# 			limit = {
+# 				is_greater_power = yes
+# 				capital_scope = { continent = europe }
+# 			}
+# 			leave_alliance = VEN
+# 			}
+# 		GRE = {
+# 			capital = 834
+# 			government = presidential_dictatorship
+# 			any_pop = {
+# 				limit = {
+# 					culture = greek
+# 				}
+# 				militancy = -8
+# 				}
+# 			}
+# 		war = {
+# 			target = GRE
+# 			attacker_goal = {
+# 				casus_belli = annex_core_country
+# 			}
+# 			call_ally = yes
+# 		}
+# 	}
+# }
+	
+# country_event = { ## The council of Athens : Autonomy
+
+# 	id = 100605
+# 	title = "GRE5.T"
+# 	desc = "GRE5.D"
+	
+# 	major = yes 
+# 	is_triggered_only = yes
+	
+# 	option = {
+# 	name = "100605.A" 
+# 	any_owned = {
+# 			limit = {
+# 				OR = {
+# 					province_id = 840
+# 					province_id = 841
+# 					province_id = 842
+# 					province_id = 839
+# 					region = TUR_832 #Thessalia
+# 					region = GRE_837 #Attica
+# 				}
+# 			}
+# 			secede_province = GRE
+# 		}
+# 	create_vassal = GRE
+# 	prestige = -5 
+# 	}
+	
+# 	option = { 
+# 	name = "100605.B" 
+# 	prestige = 10
+# 	country_event = 100606
+# 	}
+# }
+	
+# country_event = { ## Failure of Home Rule
+
+# 	id = 100606
+# 	title = "GRE6.T"
+# 	desc = "GRE6.D"
+# 	picture = "zimisceses"
+	
+# 	major = yes 
+# 	is_triggered_only = yes
+		
+# 	option = { 
+# 	name = "100606.A" 
+# 	set_country_flag = greek_rebellion
+# 	any_owned = {
+# 			limit = {
+# 				OR = {
+# 					province_id = 840
+# 					province_id = 841
+# 					province_id = 842
+# 					province_id = 839
+# 					province_id = 845 #Cyclades
+# 					region = TUR_832 #Thessalia
+# 					region = GRE_837 #Attica
+# 				}
+# 			}
+# 			secede_province = GRE
+# 		}
+# 		any_pop = {
+# 			limit = {
+# 				culture = greek
+# 			}
+# 			militancy = 2
+# 		}
+# 		any_pop = {
+# 			limit = {
+# 				culture = greek
+# 				location = {
+# 					is_core = GRE
+# 				}
+# 			}
+# 			militancy = 4
+# 		}
+# 		any_country = {
+# 			limit = {
+# 				is_greater_power = yes
+# 				capital_scope = { continent = europe }
+# 			}
+# 			leave_alliance = VEN
+# 			}
+# 		GRE = {
+# 			capital = 834
+# 			government = presidential_dictatorship
+# 			any_pop = {
+# 				limit = {
+# 					culture = greek
+# 				}
+# 				militancy = -8
+# 				}
+# 			}
+# 		war = {
+# 			target = GRE
+# 			attacker_goal = {
+# 				casus_belli = annex_core_country
+# 			}
+# 		}
+# 	}
+# }
+
+# country_event = { ## Result : Integration 
+
+# 	id = 100607
+# 	title = "GRE7.T"
+# 	desc = "GRE7.D"
+	
+# 	major = yes 
+# 	is_triggered_only = yes
+	
+# 	option = {
+# 	name = "100607.A"
+# 	prestige = -10 
+# 	add_accepted_culture = greek
+# 	government = democracy 
+# 	ruling_party_ideology = liberal
+# 	political_reform = universal_voting
+# 	political_reform = population_equal_weight
+# 	political_reform = yes_meeting
+# 	political_reform = free_press
+# 	set_country_flag = greek_integration 
+# 	GRE = {
+# 				all_core = {
+# 					add_core = THIS
+# 				}
+# 			}
+# 		ai_chance = { 
+# 			factor = 70
+# 		}
+# 	}
+	
+# 	option = { 
+# 	name = "100607.B"
+# 	country_event = 100608
+# 	prestige = 5
+# 	}
+# }
+
+# country_event = { ## Failure of the Pireans 
+
+# 	id = 100608
+# 	title = "GRE8.T"
+# 	desc = "GRE8.D"
+	
+# 	major = yes 
+# 	is_triggered_only = yes
+	
+# 	option = { 
+# 	name = "100608.A" 
+# 	set_country_flag = greek_rebellion
+# 	any_owned = {
+# 			limit = {
+# 				OR = {
+# 					province_id = 840
+# 					province_id = 841
+# 					province_id = 842
+# 					province_id = 839
+# 					province_id = 845 #Cyclades
+# 					region = TUR_832 #Thessalia
+# 					region = GRE_837 #Attica
+# 				}
+# 			}
+# 			secede_province = GRE
+# 		}
+# 		any_pop = {
+# 			limit = {
+# 				culture = greek
+# 			}
+# 			militancy = 2
+# 		}
+# 		any_pop = {
+# 			limit = {
+# 				culture = greek
+# 				location = {
+# 					is_core = GRE
+# 				}
+# 			}
+# 			militancy = 4
+# 		}
+# 		any_country = {
+# 			limit = {
+# 				is_greater_power = yes
+# 				capital_scope = { continent = europe }
+# 			}
+# 			leave_alliance = VEN
+# 			}
+# 		GRE = {
+# 			capital = 834
+# 			government = presidential_dictatorship
+# 			any_pop = {
+# 				limit = {
+# 					culture = greek
+# 				}
+# 				militancy = -8
+# 				}
+# 			}
+# 		war = {
+# 			target = GRE
+# 			attacker_goal = {
+# 				casus_belli = annex_core_country
+# 			}
+# 		}
+# 	}
+# }
+
+# country_event = { ## No majority 
+
+# 	id = 100609
+# 	title = "GRE9.T"
+# 	desc = "GRE9.D"
+	
+# 	picture = "zimisceses"
+	
+# 	major = yes 
+# 	is_triggered_only = yes
+	
+# 	option = { 
+# 	name = "100609.A"
+# 	set_country_flag = greek_rebellion
+# 	any_owned = {
+# 			limit = {
+# 				OR = {
+# 					region = TUR_832 #Thessalia
+# 					region = GRE_837 #Attica
+# 				}
+# 			}
+# 			secede_province = GRE
+# 		}
+# 		any_pop = {
+# 			limit = {
+# 				culture = greek
+# 			}
+# 			militancy = 2
+# 		}
+# 		any_pop = {
+# 			limit = {
+# 				culture = greek
+# 				location = {
+# 					is_core = GRE
+# 				}
+# 			}
+# 			militancy = 4
+# 		}
+# 		GRE = {
+# 			capital = 834
+# 			government = presidential_dictatorship
+# 			any_pop = {
+# 				limit = {
+# 					culture = greek
+# 				}
+# 				militancy = -8
+# 				}
+# 			}
+# 		war = {
+# 			target = GRE
+# 			attacker_goal = {
+# 				casus_belli = annex_core_country
+# 			}
+# 		}
+# 	}
+# }
+
+
+# ###The Greek Rebellion ####
+# country_event = { # Mobilization of ressources 
+# 	id = 100610
+# 	title = "GRE10.T"
+# 	desc = "GRE10.D"
+# 	picture = "zimisceses"
+	
+#  	trigger = {
+# 		tag = GRE
+# 		exists = yes
+# 		war_with = VEN
+# 	}
+	
+# 	fire_only_once = yes
+	
+# 	option = {
+# 		name = "100610.A"
+# 		define_general = {
+# 		name = "Konstantinos Zimisces"
+# 		personality = charismatic
+# 		background = brilliant_strategist
+# 		}
+# 		small_arms = 100
+# 		canned_food = 200
+# 		artillery = 50
+# 		luxury_clothes = 50
+# 		wine = 50
+# 		liquor = 50
+# 		ammunition = 100
+# 		money = 10000
+# 	}
+# }
+
+# country_event = { # Question of Crete 
+# 	id = 100611
+# 	title = "GRE11.T"
+# 	desc = "GRE11.D"
+
+# 	fire_only_once = yes
+	
+# 	trigger = {
+# 		tag = VEN
+# 		war_with = GRE
+# 		}
+	
+# 	mean_time_to_happen = { 
+# 		days = 500
+# 		} 
+		
+# 	option = { 
+# 	name = "100611.A" 
+# 	random_list = { 
+# 		45 = { country_event = 100612 }
+# 		35 = { country_event = 100613 }
+# 		20 = { country_event = 100614 }
+# 		}
+# 	}
+# }
+
+# country_event = { 
+# 	id = 100612 
+# 	title = "GRE12.T"
+# 	desc = "GRE12.D"
+	
+# 	is_triggered_only = yes
+	
+# 	option = { 
+# 	name = "100612.A" 
+# 	prestige = 5 
+# 	}
+# }
+
+# country_event = { 
+# 	id = 100613
+# 	title = "GRE13.T"
+# 	desc = "GRE13.D"
+	
+# 	is_triggered_only = yes
+	
+# 	option = { 
+# 	name = "100613.A" 
+# 	prestige = -5 
+# 	release = CRE
+# 	CRE = { 
+# 		set_country_flag = waiting_end_rebellion
+# 		}
+# 	}
+# }
 
 country_event = { 
 	id = 100614

@@ -1636,8 +1636,8 @@ pan_nationalist_rebels = {
 				culture = misri
 				culture = mashriqi
 				culture = bedouin
-				culture = berber
-				culture = maures
+				culture = maghrebi
+				culture = tuareg
 				culture = sudanese
 			}
 			NOT = {

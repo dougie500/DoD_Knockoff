@@ -1,65 +1,10 @@
-SWI = {
+OLD = {
 	value = 75		#relation
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 100
-}
-
-JOH = {
-	value = 120		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-
-BRE = {
-	value = 100		#relation
-	level = 4		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 50
-}
-
-HAN = {
-	value = 95		#relation
-	level = 4		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 50
 }
 
 LIP = {
-	value = 75		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 100
-}
-
-FRM = {
-	value = 75		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 100
-}
-
-NAS = {
-	value = 75		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 100
-}
-
-BAD = {
-	value = 75		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 100
-}
-
-WUR = {
-	value = 75		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 100
-}
-
-FRI = {
-	value = 75		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 100
-}
-
-
-BEG = {
 	value = 75		#relation
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 100
@@ -70,14 +15,42 @@ MNR = {
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 100
 }
-
-HYD = { 
-
-	value = 125		#relation
+RHI = {
+	value = 75		#relation
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
+	influence_value = 100
 }
 
+
+FRM = {
+	value = 75		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+NAS = {
+	value = 75		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+
+
+FRI = {
+	value = 75		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+
+HES = {
+	value = 75		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+
+BEG = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
 
 leader = {
 	name = "Tristan Duras"

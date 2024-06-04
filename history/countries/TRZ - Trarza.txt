@@ -1,6 +1,6 @@
 capital = 1775
 primary_culture = maures
-culture = berber
+culture = maghrebi
 culture = bedouin
 culture = hausa
 culture = hausa

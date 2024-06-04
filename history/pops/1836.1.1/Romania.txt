@@ -547,31 +547,31 @@
 	}
 
 	bureaucrats = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 475 
 	}
 
 	clergymen = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 800   
 	}
 
 	artisans = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 4500   
 	}
 
 	farmers = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 42416  
 	}
 	
 	serfs = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 22058  
 	}		

@@ -18,7 +18,7 @@ political_decisions = {
 				government = hms_government
 			}
 			prestige = 50
-			ITA = {
+			TUS = {
 				all_core = {
 					OR = {
 						owned_by = THIS

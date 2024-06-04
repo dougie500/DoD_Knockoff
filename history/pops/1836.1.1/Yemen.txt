@@ -177,7 +177,7 @@
 	}
 
 	slaves = {
-		culture = zanj
+		culture = maghrebi
 		religion = animist
 		size = 2000
 	}

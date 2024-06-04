@@ -1244,7 +1244,7 @@
 	farmers = {
 		culture = czech
 		religion = protestant
-		size = 10000
+		size = 20000
 	}
 	clergymen = {
 		culture = polish
@@ -1529,9 +1529,14 @@
 	}
 
 	farmers = {
+		culture = czech
+		religion = catholic
+		size = 12000
+	}
+	farmers = {
 		culture = polish
 		religion = catholic
-		size = 89625
+		size = 79625
 	}
 }
 #under the rule of Russia in 1836 (496000) 

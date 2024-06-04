@@ -673,13 +673,13 @@
 	}
 
 	farmers = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 2300 
 	}
 	
 	serfs = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 1445 
 	}	
@@ -1002,7 +1002,7 @@
 	}
 
 	farmers = {
-		culture = bosniak
+		culture = serbian
 		religion = sunni
 		size = 1000 
 	}	

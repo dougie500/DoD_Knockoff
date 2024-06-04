@@ -2,6 +2,29 @@
 # scriptable and usable for event-system below.
 ##################################################################################################
 
+no_potato_:3 = {
+	farm_RGO_eff = -0.5
+	immigrant_push = 0.50
+	population_growth = -0.01
+	icon = 20
+}
+Prussian_occupation = {
+	mobilisation_size = -0.015
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 french_liberal_school = {
 	max_tariff = -0.25
 	administrative_efficiency_modifier = 0.2

@@ -15,6 +15,11 @@ MNR = {
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 100
 }
+RHI = {
+	value = 75		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
 
 
 FRM = {
@@ -23,21 +28,7 @@ FRM = {
 	influence_value = 100
 }
 
-NAS = {	#Claim on Mainz
-	value = -50		#relation
-}
 
-BAD = {
-	value = 75		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 100
-}
-
-WUR = {
-	value = 75		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 100
-}
 
 FRI = {
 	value = 75		#relation

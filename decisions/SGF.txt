@@ -102,4 +102,40 @@ political_decisions = {
 			factor = 1
 		}
 	}
+	AUS_Hungary = {
+		
+		potential = { 
+			 tag = AUS
+			
+
+			NOT = {
+				has_country_flag = AUS_Hungary
+			
+	
+			}
+		}
+	
+		allow = {
+			AUS_623 = { owned_by = THIS }
+			AUS_641 = { owned_by = THIS }
+		}
+		effect = { 
+		
+			set_country_flag = AUS_Hungary
+			any_owned = {
+				limit = {
+					is_core = HUN
+				}
+				add_core = THIS
+	
+			}
+			AUS_771 = {
+				add_core = THIS
+			}
+
+			add_accepted_culture = hungarian
+			add_accepted_culture = slovak
+		}
+		
+	}
 }

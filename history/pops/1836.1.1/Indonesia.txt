@@ -34,32 +34,32 @@
 	}
 
 	bureaucrats = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 50
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 25
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 750
 	}
 
 	soldiers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size= 25
 
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 150
 	}
@@ -129,26 +129,26 @@
 #Tanjungpinang (100000/25000 POPS)
 1402 = {
 	clergymen = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 25
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 800
 	}
 
 	soldiers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size= 25
 
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 150
 	}
@@ -280,26 +280,26 @@
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 2350
 	}
 
 	soldiers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size= 50
 
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 550
 	}
@@ -470,19 +470,19 @@
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 25
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 950
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 1025
 	}
@@ -552,19 +552,19 @@
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 25
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 700
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 1275
 	}
@@ -640,19 +640,19 @@
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 25
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 1100
 	}
 
 	labourers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 975
 	}
@@ -694,44 +694,44 @@
 #Banda Aceh (128000/32000 POPS)
 1405 = {
 	aristocrats = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size = 125
 	}
 
 	officers = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size = 175
 	}
 
 	artisans = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size = 1250
 	}
 
 	soldiers = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size = 20650
 	}
@@ -768,7 +768,7 @@
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 500
 	}
@@ -776,32 +776,32 @@
 #Medan (160000/40000 POPS)
 1406 = {
 	aristocrats = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size = 250
 	}
 
 	artisans = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size = 22500
 	}
@@ -838,7 +838,7 @@
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 1100
 	}
@@ -846,32 +846,32 @@
 #Tapaktuan (156000/39000 POPS)
 1407 = {
 	aristocrats = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size = 275
 	}
 
 	artisans = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size = 1250
 	}
 
 	soldiers = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size = 20725
 	}
@@ -908,7 +908,7 @@
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 500
 	}
@@ -961,26 +961,26 @@
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 25
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 750
 	}
 
 	soldiers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size= 25
 
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 200
 	}
@@ -1050,57 +1050,57 @@
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 25
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 1750
 	}
 
 	soldiers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size= 25
 
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 200
 	}
 
 	aristocrats = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size = 1250
 	}
 
 	clergymen = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size = 875
 	}
 
 	artisans = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size = 3750
 	}
 
 	soldiers = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = acehnese
+		culture = malay
 		religion = sunni
 		size = 87125
 	}
@@ -1139,32 +1139,32 @@
 	}
 
 	bureaucrats = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 50
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 750
 	}
 
 	soldiers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size= 25
 
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 1125
 	}
@@ -1367,25 +1367,25 @@
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 225
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 10000
 	}
 	
 	artisans = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 5000
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 18775
 	}
@@ -1450,32 +1450,32 @@
 #Cirebon (968000/242000 POPS)
 1415 = {
 	aristocrats = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 100
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 75
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 3000
 	}
 
 	soldiers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size= 100
 
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 4725
 	}
@@ -1683,32 +1683,32 @@
 	}
 
 	aristocrats = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 100
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 75
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 500
 	}
 
 	soldiers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size= 100
 
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 9225
 	}
@@ -1778,32 +1778,32 @@
 	}
 
 	aristocrats = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 75
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 3250
 	}
 
 	soldiers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size= 100
 
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 5625
 	}
@@ -2001,26 +2001,26 @@
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 100
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 2000
 	}
 
 	soldiers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size= 100
 
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 6800
 	}
@@ -2346,7 +2346,7 @@
 #Pontianak (148000/37000 POPS)
 1426 = {
 	aristocrats = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 50
 	}
@@ -2414,49 +2414,49 @@
 	}
 
 	bureaucrats = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 60
 	}
 	
 	bureaucrats = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 35
 	}
 
 	clergymen = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 55
 	}
 
 	artisans = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 4100
 	}
 
 	soldiers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size= 60
 
 	}
 
 	farmers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 7200
 	}
 	
 	artisans = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size = 800
 	}
 	soldiers = {
-		culture = tionghoa
+		culture = malay
 		religion = mahayana
 		size= 3000
 	}
@@ -2931,51 +2931,51 @@
 	}
 
 	aristocrats = {
-		culture = balinese
+		culture = javan
 		religion = hindu
 		size = 1500
 	}
 
 	bureaucrats = {
-		culture = balinese
+		culture = javan
 		religion = hindu
 		size = 125
 	}
 
 	officers = {
-		culture = balinese
+		culture = javan
 		religion = hindu
 		size = 200
 	}
 
 	clergymen = {
-		culture = balinese
+		culture = javan
 		religion = hindu
 		size = 1425
 	}
 
 	artisans = {
-		culture = balinese
+		culture = javan
 		religion = hindu
 		size = 7000
 	}
 
 	soldiers = {
-		culture = balinese
+		culture = javan
 		religion = hindu
 		size= 3000
 
 	}
 
 	soldiers = {
-		culture = balinese
+		culture = javan
 		religion = hindu
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = balinese
+		culture = javan
 		religion = hindu
 		size = 129750
 	}
