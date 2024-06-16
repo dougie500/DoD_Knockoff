@@ -31,11 +31,31 @@ political_decisions = {
 					}
 				}
 			}
-			
+			WUR = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			BAD = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
 		}
 		
 		effect = {
-			primary_culture = south_german	
+			add_accepted_culture = south_german
+			add_accepted_culture = rheinish
 			prestige = 10
 			any_country = {
 				limit = {

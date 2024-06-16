@@ -989,49 +989,49 @@
 3321 = {
 
 	clergymen = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = jewish
 		size = 710
 	}
 
 	artisans = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = jewish
 		size = 4025
 	}
 
 	farmers = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = jewish
 		size = 565
 	}
 
 	aristocrats = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 450
 	}
 
 	officers = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 75
 	}
 	
 	clergymen = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 650
 	}
 
 	artisans = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 6150
 	}
 
 	farmers = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 11750
 	}
@@ -1323,19 +1323,19 @@
 3322 = {
 
 	clergymen = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 20
 	}
 
 	artisans = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 1050
 	}
 
 	farmers = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 750
 	}

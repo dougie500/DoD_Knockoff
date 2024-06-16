@@ -1376,7 +1376,7 @@ country_event = {
 				any_state = {
 					any_owned_province = {
 						is_core = BOS
-						culture = serbian
+						culture = serb
 						literacy = 0.25
 					}
 					average_militancy = 3
@@ -1387,7 +1387,7 @@ country_event = {
 				any_state = {
 					any_owned_province = {
 						is_core = BOS
-						culture = serbian
+						culture = serb
 						literacy = 0.5
 					}
 					average_militancy = 7
@@ -1442,7 +1442,7 @@ country_event = {
 			militancy = 3
 		}
 		any_owned = {
-			limit = { culture = serbian }
+			limit = { culture = serb }
 			add_province_modifier = {
 				name = nationalist_agitation
 				duration = 365

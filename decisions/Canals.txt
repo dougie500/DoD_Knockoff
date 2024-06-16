@@ -4,6 +4,7 @@ political_decisions = {
 		picture = build_kiel_canal
 		potential = {
 			NOT = { is_canal_enabled = 1 }
+			owns = 369
 			is_greater_power = yes
 			NOT = { has_global_flag = kiel_canal_global }
 		}
@@ -30,6 +31,7 @@ political_decisions = {
 		picture = suezcanal
 		potential = {
 			NOT = { is_canal_enabled = 2 }
+			owns = 1755
 			OR = {
 				is_greater_power = yes
 				AND = {

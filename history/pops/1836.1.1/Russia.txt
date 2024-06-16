@@ -1420,7 +1420,7 @@
 	bureaucrats = {
 		culture = finnish
 		religion = protestant
-		size = 1750
+		size = 750
 	}
 
 	officers = {
@@ -1991,7 +1991,11 @@
 		religion = protestant
 		size = 575
 	}
-
+	craftsmen= {
+		culture = finnish
+		religion = protestant
+		size = 10000
+	}
 	officers = {
 		culture = finnish
 		religion = protestant

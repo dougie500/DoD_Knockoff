@@ -136,49 +136,49 @@
 	}
 	
 	aristocrats = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 10
 	}
 
 	clergymen = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 220
 	}
 
 	artisans = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 4200
 	}
 
 	soldiers = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 250
 	}
 
 	farmers = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 36985
 	}
 
 	clergymen = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = jewish
 		size = 90
 	}
 
 	artisans = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = jewish
 		size = 2410
 	}
@@ -432,49 +432,49 @@
 	}	
 	
 	aristocrats = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 325
 	}
 
 	clergymen = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 305
 	}
 
 	artisans = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 5350
 	}
 
 	soldiers = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 1425
 	}
 
 	farmers = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 15400
 	}
 
 	clergymen = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = jewish
 		size = 20
 	}
 
 	artisans = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = jewish
 		size = 3750
 	}
 	
 	farmers = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = jewish
 		size = 1500
 	}
@@ -617,19 +617,19 @@
 	}
 	
 	artisans = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 1400
 	}
 
 	soldiers = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 1025
 	}
 
 	farmers = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 7700
 	}
@@ -851,43 +851,43 @@
 	}
 	
 	bureaucrats = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 40
 	}
 
 	clergymen = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 5
 	}	
 	
 	artisans = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 15
 	}	
 	
 	artisans = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = sunni
 		size = 600
 	}
 	
 	soldiers = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 40
 	}	
 
 	farmers = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = sunni
 		size = 1985
 	}
 	
 	farmers = {
-		culture = turkoman
+		culture = azerbaijani
 		religion = shiite
 		size = 2285
 	}

@@ -69,31 +69,31 @@
     }		
 	
 	aristocrats = {
-		culture = scandinavian
+		culture = finnish
 		religion = protestant
 		size = 700
 	}
 
     clergymen = {
-        culture = scandinavian
+        culture = finnish
         religion = protestant
         size = 450
     }
 
     artisans = {
-        culture = scandinavian
+        culture = finnish
         religion = protestant
         size = 4300
     }
 
     soldiers = {
-        culture = scandinavian
+        culture = finnish
         religion = protestant
         size = 1500
     }
 
     farmers = {
-        culture = scandinavian
+        culture = finnish
         religion = protestant
         size = 4372
     }

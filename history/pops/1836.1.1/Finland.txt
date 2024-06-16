@@ -301,11 +301,15 @@
         religion = protestant
         size = 50
     }
-
+    craftsmen = {
+        culture = finnish
+        religion = protestant
+        size = 20000
+    }
     bureaucrats = {
         culture = finnish
         religion = protestant
-        size = 150
+        size = 550
     }
 
     clergymen = {

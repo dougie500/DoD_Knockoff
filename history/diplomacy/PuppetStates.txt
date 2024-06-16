@@ -36,13 +36,12 @@ vassal = {
 }
 
 
-# Oldenburg - Personal Union under Scandinavia
-
+# Moldovia
 vassal = {
-	first = SCA
-	second = OLD
+	first = PLC
+	second = MOL
 	start_date = 1815.11.9
-	end_date = 1864.1.1
+	end_date = 1937.1.1
 }
 
 # Japanese Protectorate of Ainu

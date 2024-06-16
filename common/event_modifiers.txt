@@ -9,7 +9,7 @@ no_potato_:3 = {
 	icon = 20
 }
 Prussian_occupation = {
-	mobilisation_size = -0.015
+	mobilisation_size = -0.015	
 }
 
 

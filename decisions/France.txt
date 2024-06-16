@@ -3,210 +3,116 @@ political_decisions = {
 	
 	
 	
-
-	integrating_provencal = {
+### DUAL Monarchy ---> occitania
+	provencal_cores = {
 		picture = provence_castle	
 		potential = {
 			NOT = { has_country_flag = england_path }
-			NOT = { has_country_flag = provencal_acc }
+			NOT = { has_country_flag = provencal_cores }
 		tag = DUA 
 		}
 		allow = { 
-			owns = 447
-			owns = 451
+			FRA_448 = { owned_by = THIS }
+			FRA_451 = { owned_by = THIS }
+			FRA_458 = { owned_by = THIS }
 			nationalism_n_imperialism = 1 
 		}
 		
 		effect = { 
-		set_country_flag = provencal_acc
+		set_country_flag = provencal_cores
 		FRA_448 = {
 			add_core = THIS
 		}
 		FRA_451 = {
 			add_core = THIS
 		}
-		add_accepted_culture = provencal
+		FRA_458 = {
+			add_core = THIS
+		}
+		FRA_455= {
+			add_core = THIS
+		}
+		FRA_461= {
+			add_core = THIS
+		}
+		FRA_467 = {
+			add_core = THIS
+		}
 		}
 		
 	}
-
-	annex_OCC = { 	
+	
+	annex_OCC_Fra = { 	
 	picture = Occitania
 	potential = {
+		has_country_flag = dual_integration
+		has_country_flag = provencal_cores 
+		NOT = { has_country_flag = annex_OCC_Fra }
+		NOT = { has_country_flag = annex_OCC_Dua }
 		NOT = { has_country_flag = england_path }
-		has_country_flag = provencal_acc
 	tag = DUA 
 	}
 	allow = { 
 	
-		OR = {
-		owns = 458
-		owns = 455
+		
+		FRA_455 = { owned_by = THIS }
 		
 		revolution_n_counterrevolution = 1 
+		}
+	
+	effect = { 
+	set_country_flag = annex_OCC
+	add_accepted_culture = provencal 
 	}
 }
-	effect = { 
-	set_country_flag = provencal_acc
-	FRA_455 = {
-		add_core = THIS
-	}
-	FRA_458 = {
-		add_core = THIS
-	}
-	FRA_461 = {
-		add_core = THIS
-	}
-	FRA_467 = {
-		add_core = THIS
-	}
-	}
-	
-	}
-	
-	# claim_OCC = { 
-	# picture = Occitania
-	# potential = { 
-	# tag = FRA 
-	# government = democracy 
-	# is_greater_power = yes 
-	# NOT = { accepted_culture = provencal }
-	# NOT = { OCC = { exists = yes } }
-	# NOT = { has_country_flag = occitania_reclaime }
-	# 	}
-		
-	# allow = { 
-	# 455 = { owned_by = THIS }
-	# 	}
-	
-	# effect = { 
-	# OCC = { all_core = { add_core = THIS } }
-	# add_accepted_culture = provencal 
-	# set_country_flag = occitania_reclaime
-	# 	}
-	
-	# }
-	
-	
-	
-	
-	# integrating_irish = {
-	# picture = bentheim	
-	# potential = {
-	# NOT = { has_country_flag = Paris_congress }
-	# NOT = { has_country_flag = irish_acc }
-	# NOT = { has_country_flag = DUA_schooling }
-	# tag = DUA 
-	# OR = { has_country_flag = Anglois_accepted 
-	# has_global_flag = english_int }
-	# }
-	
-	# allow = { 
-	# IRE = { all_core = { owned_by = THIS } }
-	# nationalism_n_imperialism = 1 
-	# }
-	
-	# effect = { 
-	# set_country_flag = irish_acc
-	# add_accepted_culture = irish 
-	# 	}
-	
-	# }
-	
-	# integrate_scotland = {
-	# picture = scotland_claim	
-	# 	potential = {
-	# 		tag = DUA 
-	# 		NOT = { has_country_flag = Paris_congress }
-	# 		NOT = { has_country_flag = scotland_acc }
-	# 		OR = { 
-	# 			has_global_flag = english_int
-	# 			has_country_flag = Anglois_accepted
-	# 		}
-	# 	}
-	
-	# 	allow = { 
-	# 		SCO = { all_core = { owned_by = THIS } }
-	# 	}
-	
-	# 	effect = { 
-	# 		set_country_flag = scotland_acc 
-	# 		SCO = { all_core = { add_core = THIS } }
-	# 	}
-	
-	# }
-	
-	# integrating_scottish = {
-	# picture = glasgow	
-	# 	potential = {
-	# 		NOT = { has_country_flag = Paris_congress }
-	# 		NOT = { has_country_flag = scottish_acc }
-	# 		NOT = { has_country_flag = DUA_schooling }
-	# 		tag = DUA 
-	# 		has_country_flag = scotland_acc
-	# 	}
-	
-	# 	allow = { 
-	# 		SCO = { all_core = { owned_by = THIS } }
-	# 		nationalism_n_imperialism = 1 
-	# 	}
-	
-	# 	effect = { 
-	# 		set_country_flag = scottish_acc
-	# 		add_accepted_culture = scottish 
-	# 	}
-	
-	# }
-	
-	# integrating_basque = {
-	# picture = bank_vitoria	
-	# potential = {
-	# NOT = { has_country_flag = Paris_congress }
-	# NOT = { has_country_flag = basque_acc }
-	# NOT = { has_country_flag = DUA_schooling }
-	# tag = DUA 
-	# has_global_flag = end_bourbon
-	# }
-	
-	# allow = { 
-	# NAV = { all_core = { owned_by = THIS } }
-	# nationalism_n_imperialism = 1 
-	# }
-	
-	# effect = { 
-	# set_country_flag = basque_acc
-	# add_accepted_culture = basque 
-	# 	}
-	# }
-	
-	anglois_language_schooling = {
-	picture = vergonha	
+	annex_OCC_Dua = { 	
+		picture = Occitania
 		potential = {
-			tag = DUA
-			OR = { has_global_flag = english_int has_global_flag = french_int has_country_flag = Anglois_accepted }
-			NOT = {
-				has_country_flag = enacted_anglois_schooling
-				education = elite
-			}
+			has_country_flag = french_path
+			has_country_flag = provencal_cores 
+			NOT = { has_country_flag = annex_OCC_Fra }
+			NOT = { has_country_flag = annex_OCC_Dua }
+			NOT = { has_country_flag = england_path }
+		tag = DUA 
 		}
+		allow = { 
 		
-		allow = {
-			war = no
-			invention = biased_multiculturalism
-			invention = social_darwinism
-		}
+			FRA_455 = { owned_by = THIS }
+			
+			empiricism = 1 
 		
+	}
 		effect = { 
-		set_country_flag = enacted_anglois_schooling
-		random_owned = {
-				limit = {
-					owner = { education = church }
-				}
-				owner = { social_reform = public }
-			}
-		country_event = 650330
+		set_country_flag = annex_OCC
+		add_accepted_culture = provencal
 		}
 	}
+	
+
+	## Dual monarchy dual path accepted
+
+	dual_integration_accepted = { 	
+		
+		potential = {
+			has_country_flag = dual_integration
+
+		tag = DUA 
+		}
+		allow = { 
+		
+			
+			nationalism_n_imperialism = 1 
+		
+		}
+		effect = { 
+		add_accepted_culture = french
+		add_accepted_culture = english
+		}
+	  }
+	
+	
+	
+	
 
 
 
