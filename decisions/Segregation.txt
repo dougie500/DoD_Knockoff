@@ -328,8 +328,8 @@ political_decisions = {
 					primary_culture  = lotharian
 				}
 				AND	= {
-					pop_majority_culture = ganguan
-					primary_culture = ganguan
+					pop_majority_culture = qingqiuan
+					primary_culture = qingqiuan
 				}
 				AND	= {
 					pop_majority_culture = qingqiuan
@@ -442,8 +442,8 @@ political_decisions = {
 					primary_culture  = lotharian
 				}
 				AND	= {
-					pop_majority_culture = ganguan
-					primary_culture = ganguan
+					pop_majority_culture = qingqiuan
+					primary_culture = qingqiuan
 				}
 				AND	= {
 					pop_majority_culture = qingqiuan

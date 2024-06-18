@@ -4,6 +4,7 @@ add_core = ARA
 trade_goods = cattle
 life_rating = 40
 naval_base = 3
+terrain = mountain
 state_building = {
 	level = 2
 	building = winery

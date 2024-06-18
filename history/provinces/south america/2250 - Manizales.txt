@@ -3,4 +3,4 @@ controller = SPA
 colonial = 2
 trade_goods = fruit
 terrain = montane_forest
-life_rating = 32
+life_rating = 33

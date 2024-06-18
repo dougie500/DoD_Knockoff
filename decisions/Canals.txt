@@ -7,6 +7,7 @@ political_decisions = {
 			owns = 369
 			is_greater_power = yes
 			NOT = { has_global_flag = kiel_canal_global }
+			steam_turbine = 1
 		}
 		allow = {
 			owns = 369
@@ -75,6 +76,10 @@ political_decisions = {
 		picture = build_panama_canal
 		potential = {
 			NOT = { is_canal_enabled = 3 }
+			OR = {
+				1723 = { owner = { in_sphere = THIS } }
+				owns = 1723
+			}
 			OR = {
 				is_greater_power = yes
 				AND = {

@@ -1,5 +1,5 @@
-owner = BRG
-controller = BRG
+owner = DNG
+controller = DNG
 add_core = PPU
 trade_goods = fish
 life_rating = 30

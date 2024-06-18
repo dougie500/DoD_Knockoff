@@ -1199,7 +1199,7 @@
 	clergymen = {
 		culture = greek
 		religion = orthodox
-		size = 100
+		size = 200
 	}
 
 	artisans = {
@@ -1218,7 +1218,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 8900
+		size = 18900
 	}
 }
 #Missolonghi (140000/35000 POPS)
@@ -1394,7 +1394,7 @@
 	clergymen = {
 		culture = greek
 		religion = orthodox
-		size = 100
+		size = 300
 	}
 
 	artisans = {
@@ -1413,7 +1413,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 7400
+		size = 27400
 	}
 }
 #Aegean Islands Region (184000)  

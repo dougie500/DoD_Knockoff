@@ -312,26 +312,26 @@
 #Sevastopol (60000/15000 POPS)
 967 = {
 	aristocrats = {
-		culture = crimean
-		religion = sunni
+		culture = venetian
+		religion = orthodox
 		size = 750
 	}
 
 	clergymen = {
-		culture = crimean
-		religion = sunni
+		culture = venetian
+		religion = orthodox
 		size = 300
 	}
 
 	artisans = {
-		culture = crimean
-		religion = sunni
+		culture = venetian
+		religion = orthodox
 		size = 525
 	}
 
 	soldiers = {
-		culture = crimean
-		religion = sunni
+	culture = venetian
+	religion = orthodox
 		size= 3800
 
 	}
@@ -339,9 +339,13 @@
 	farmers = {
 		culture = crimean
 		religion = sunni
-		size = 27000
+		size = 17000
 	}
-
+   farmers = {
+		culture = venetian
+	    religion = orthodox
+		size = 17000
+	}
 	aristocrats = {
 		culture = greek
 		religion = orthodox

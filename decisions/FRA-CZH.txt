@@ -163,42 +163,6 @@ political_decisions = {
 		}
 	}
 
-	meddle_in_italy = {
-		picture = DUA_italy
-		potential = {
-			tag = DUA
-			NOT = { has_country_flag = meddle_in_italy }
-		}
-		
-		allow = {
-			PRV = { exists = no }
-			NOT = { war = yes }
-			is_greater_power = yes
-			PRV = { 
-				all_core = { 
-					owned_by = THIS
-				}
-			}	
-		}
-		
-		effect = {
-			prestige = 5	
-			relation = { who = ARA value = -200 }	
-			set_country_flag = meddle_in_italy
-			PRV = { 
-				all_core = { 
-					add_core = DUA
-				}
-			}
-			any_owned = { 
-			limit = { is_core = PRV } 
-			remove_core = PRV }
-		}
-			
-		ai_will_do = {
-			factor = 1
-		}
-	}
 
 	the_question_of_italy = {
 		picture = DUA_italy

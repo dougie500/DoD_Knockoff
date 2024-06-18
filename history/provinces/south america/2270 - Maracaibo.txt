@@ -2,7 +2,7 @@ owner = SPA
 controller = SPA
 colonial = 2
 trade_goods = cattle
-life_rating = 32
+life_rating = 33
 1835.1.1 = {
 	controller = SPA
 } 

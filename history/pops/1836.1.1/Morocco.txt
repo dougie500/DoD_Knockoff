@@ -923,11 +923,6 @@
 		size = 400
 	}
 	
-	soldiers = {
-		culture = castilian
-		religion = catholic
-		size = 3500
-	}
 	
 	farmers = {
 		culture = castilian
@@ -971,18 +966,6 @@
 		size = 1300
 	}
 	
-	soldiers = {
-		culture = maghrebi
-		religion = sunni
-		size = 1500
-
-	}
-
-	soldiers = {
-		culture = maghrebi
-		religion = catholic
-		size = 1500
-	}
 	
 	farmers = {
 		culture = maghrebi

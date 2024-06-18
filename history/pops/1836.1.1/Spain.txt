@@ -528,7 +528,7 @@
 	soldiers = {
 		culture = castilian
 		religion = catholic
-		size= 3600
+		size= 2400
 
 	}
 
@@ -561,7 +561,7 @@
 	soldiers = {
 		culture = castilian
 		religion = catholic
-		size= 3500
+		size= 2300
 
 	}
 
@@ -594,7 +594,7 @@
 	soldiers = {
 		culture = castilian
 		religion = catholic
-		size= 3450
+		size= 1800
 
 	}
 

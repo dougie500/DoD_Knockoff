@@ -29,16 +29,10 @@
 	soldiers = {
 		culture = castilian
 		religion = catholic
-		size= 3200
+		size= 5000
 
 	}
 	
-	soldiers = {
-		culture = castilian
-		religion = catholic
-		size= 3300
-
-	}	
 
 	aristocrats = {
 		culture = caribeno
@@ -70,12 +64,6 @@
 		size = 4000
 	}
 
-	soldiers = {
-		culture = caribeno
-		religion = catholic
-		size= 3000
-
-	}
 
 	soldiers = {
 		culture = caribeno
@@ -95,12 +83,6 @@
 		size = 6000
 	}
 
-	soldiers = {
-		culture = afro_latino
-		religion = catholic
-		size= 500
-
-	}
 
 	farmers = {
 		culture = afro_latino
@@ -137,7 +119,7 @@
 	soldiers = {
 		culture = caribeno
 		religion = catholic
-		size= 250
+		size= 1250
 
 	}
 
@@ -195,7 +177,7 @@
 	soldiers = {
 		culture = caribeno
 		religion = catholic
-		size= 150
+		size= 1150
 
 	}
 

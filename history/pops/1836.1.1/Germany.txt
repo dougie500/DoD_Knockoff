@@ -482,37 +482,37 @@
 #Schwerin (484000/121000 POPS)
 544 = {
 	aristocrats = {
-		culture = north_german
+		culture = scandinavian
 		religion = protestant
 		size = 1225 
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = scandinavian
 		religion = protestant
 		size = 275 
 	}
 
 	officers = {
-		culture = north_german
+		culture = scandinavian
 		religion = protestant
 		size = 150 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = scandinavian
 		religion = protestant
 		size = 1200 
 	}
 
 	artisans = {
-		culture = north_german
+		culture = scandinavian
 		religion = protestant
 		size = 6000
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = scandinavian
 		religion = protestant
 		size= 3000
 

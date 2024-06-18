@@ -1,6 +1,6 @@
 owner = OCC
 controller = OCC
 add_core = OCC
-add_core = ITA
+
 trade_goods = coal
 life_rating = 31

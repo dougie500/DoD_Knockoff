@@ -42,7 +42,7 @@ Prussian_Occ = {
 		set_country_flag = Prussian_Occ
 		add_country_modifier = {
 			name = Prussian_occupation 
-			duration = 2700
+			duration = 1900
 		}
 		
 		

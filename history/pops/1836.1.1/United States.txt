@@ -7,7 +7,16 @@
 		religion = shinto
 		size = 50
 	}
-
+	 bureaucrats = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 100
+    }
+  farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 15325
+    }
 	clergymen = {
 		culture = kaiganese
 		religion = shinto
@@ -21,8 +30,8 @@
 	}
 
 	soldiers = {
-		culture = kaiganese
-		religion = shinto
+		  culture = qingqiuan
+        religion = mahayana
 		size= 1000
 
 	}
@@ -71,7 +80,11 @@
 		religion = shinto
 		size = 10
 	}
-
+farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 9325
+    }
 	clergymen = {
 		culture = kaiganese
 		religion = shinto
@@ -116,7 +129,11 @@
 		religion = shinto
 		size = 5
 	}
-
+farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 5325
+    }
 	clergymen = {
 		culture = native_american_minor
 		religion = animist
@@ -303,7 +320,11 @@
 		religion = animist
 		size = 15
 	}
-
+farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 5325
+    }
 	artisans = {
 		culture = native_american_minor
 		religion = animist
@@ -6759,7 +6780,7 @@
 	soldiers = {
 		culture = afro_latino
 		religion = catholic
-		size = 12000
+		size = 2000
 	}
 
 	farmers = {
@@ -6783,7 +6804,7 @@
 	soldiers = {
 		culture = afro_frankish
 		religion = catholic
-		size = 3000
+		size = 2000
 	}
 	
 	farmers = {
@@ -6817,7 +6838,11 @@
 		religion = catholic
 		size = 430
 	}
-
+	soldiers = {
+		culture = afro_frankish
+		religion = catholic
+		size = 2000
+	}
 	clergymen = {
 		culture = afro_latino
 		religion = catholic

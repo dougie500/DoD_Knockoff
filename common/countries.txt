@@ -4,6 +4,7 @@
 REB 	= 	"countries/rebels.txt"
 
 ##DoD
+RLT     = "countries/Regnum Lotharii.txt"
 HLR		= "countries/Holy Roman Empire.txt"
 ARC		= "countries/Arcadia.txt" 
 TRO		= "countries/Terra d'Oro.txt"

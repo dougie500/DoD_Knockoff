@@ -18,7 +18,7 @@ political_decisions = {
 				government = hms_government
 			}
 			prestige = 50
-			TUS = {
+			ITA = {
 				all_core = {
 					OR = {
 						owned_by = THIS
@@ -258,7 +258,7 @@ political_decisions = {
 	
 	}
 	
-	latin_empire = {
+	latin_empire = {	
 		picture = cat_occitania		
 		potential = {
 			tag = ARI

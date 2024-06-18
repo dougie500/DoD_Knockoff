@@ -175,7 +175,7 @@ country_migration_target = {
 		OR = {
 			continent = north_america
 			continent = south_america
-			primary_culture = ganguan
+			primary_culture = qingqiuan
 			has_country_flag = NZ_immigration			
 		}
 		OR = {
@@ -193,7 +193,7 @@ country_migration_target = {
 		OR = {
 			continent = north_america
 			continent = south_america
-			primary_culture = ganguan
+			primary_culture = qingqiuan
 			has_country_flag = NZ_immigration
 		}
 		OR = {

@@ -9,11 +9,7 @@ TUS = {
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 100
 }
-VEN = {
-	value = 125		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
+
 
 FRR = {
 	value = 125		#relation
@@ -103,7 +99,7 @@ leader = {
 
 #Army
 army = {
-	name = "Exèrcit del Regne"
+	name = "Exï¿½rcit del Regne"
 	location = 498
 	regiment = {
 		name= "1. Granaders del Rei"
@@ -149,7 +145,7 @@ army = {
 }
 
 army = {
-	name = "Exèrcit del Sud"
+	name = "Exï¿½rcit del Sud"
 	location = 503
 
 	regiment = {
@@ -184,7 +180,7 @@ army = {
 }
 
 army = {
-	name = "Exèrcit Italià"
+	name = "Exï¿½rcit Italiï¿½"
 	location = 754
 	regiment = {
 		name= "1. Granaders del Rei"
@@ -230,7 +226,7 @@ army = {
 }
 
 army = {
-	name = "Exèrcit d'Alger"
+	name = "Exï¿½rcit d'Alger"
 	location = 1700
 
 	regiment = {
@@ -274,7 +270,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Hespérides"
+		name = "Hespï¿½rides"
 		type = manowar
 	}
 	
@@ -284,7 +280,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Aragó"
+		name = "Aragï¿½"
 		type = manowar
 	}
 	
@@ -304,7 +300,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Nàpols"
+		name = "Nï¿½pols"
 		type = manowar
 	}
 	
@@ -314,7 +310,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Tunísia"
+		name = "Tunï¿½sia"
 		type = manowar
 	}
 	
@@ -324,17 +320,17 @@ navy = {
 	}
 	
 	ship = {
-		name = "Sicília"
+		name = "Sicï¿½lia"
 		type = manowar
 	}
 		
 	ship = {
-		name = "Ítaca"
+		name = "ï¿½taca"
 		type = manowar
 	}
 	
 	ship = {
-		name = "Índia"
+		name = "ï¿½ndia"
 		type = frigate
 	}
 	
@@ -349,12 +345,12 @@ navy = {
 	}
 	
 	ship = {
-		name = "Lleó"
+		name = "Lleï¿½"
 		type = frigate
 	}
 	
 	ship = {
-		name = "València"
+		name = "Valï¿½ncia"
 		type = frigate
 	}
 	
@@ -389,7 +385,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Còrsega"
+		name = "Cï¿½rsega"
 		type = frigate
 	}
 	
@@ -404,12 +400,12 @@ navy = {
 	}
 	
 	ship = {
-		name = "Ibèria"
+		name = "Ibï¿½ria"
 		type = frigate
 	}
 	
 	ship = {
-		name = "Itàlia"
+		name = "Itï¿½lia"
 		type = frigate
 	}
 	
@@ -480,7 +476,7 @@ navy = {
 }
 
 navy = {
-	name = "Flota de Nàpols"
+	name = "Flota de Nï¿½pols"
 	location = 754
 	
 	ship = {
@@ -489,17 +485,17 @@ navy = {
 	}
 	
 	ship = {
-		name = "Amèriga"
+		name = "Amï¿½riga"
 		type = manowar
 	}
 	
 	ship = {
-		name = "Arcàdia"
+		name = "Arcï¿½dia"
 		type = manowar
 	}
 	
 	ship = {
-		name = "Hispània"
+		name = "Hispï¿½nia"
 		type = manowar
 	}
 	
@@ -514,12 +510,12 @@ navy = {
 	}
 	
 	ship = {
-		name = "Hèrcules"
+		name = "Hï¿½rcules"
 		type = manowar
 	}
 	
 	ship = {
-		name = "Tità"
+		name = "Titï¿½"
 		type = manowar
 	}
 	
@@ -529,7 +525,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Grècia"
+		name = "Grï¿½cia"
 		type = manowar
 	}
 	
@@ -539,12 +535,12 @@ navy = {
 	}
 	
 	ship = {
-		name = "Venècia"
+		name = "Venï¿½cia"
 		type = manowar
 	}
 	
 	ship = {
-		name = "Roselló"
+		name = "Rosellï¿½"
 		type = manowar
 	}
 	
@@ -564,12 +560,12 @@ navy = {
 	}
 	
 	ship = {
-		name = "Armènia"
+		name = "Armï¿½nia"
 		type = frigate
 	}
 	
 	ship = {
-		name = "Calàbria"
+		name = "Calï¿½bria"
 		type = frigate
 	}
 	
@@ -609,7 +605,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Algèria"
+		name = "Algï¿½ria"
 		type = frigate
 	}
 	
@@ -619,12 +615,12 @@ navy = {
 	}
 	
 	ship = {
-		name = "Tartària"
+		name = "Tartï¿½ria"
 		type = frigate
 	}
 	
 	ship = {
-		name = "Sereníssima"
+		name = "Serenï¿½ssima"
 		type = frigate
 	}
 	
@@ -649,7 +645,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Jònica"
+		name = "Jï¿½nica"
 		type = frigate
 	}
 	
@@ -669,7 +665,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Àfrica"
+		name = "ï¿½frica"
 		type = frigate
 	}
 	

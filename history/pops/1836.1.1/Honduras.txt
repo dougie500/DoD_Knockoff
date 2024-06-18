@@ -12,7 +12,7 @@
 	bureaucrats = {
 		culture = central_american
 		religion = catholic
-		size = 125
+		size = 325
 	}
 
 	officers = {
@@ -46,7 +46,7 @@
 	farmers = {
 		culture = central_american
 		religion = catholic
-		size = 20675
+		size = 30675
 		militancy = 5
 	}
 
@@ -89,7 +89,7 @@
 	farmers = {
 		culture = central_american
 		religion = catholic
-		size = 10850
+		size = 20850
 		militancy = 9
 	}
 
@@ -132,7 +132,7 @@
 	farmers = {
 		culture = central_american
 		religion = catholic
-		size = 10375
+		size = 20375
 		militancy = 9
 	}
 

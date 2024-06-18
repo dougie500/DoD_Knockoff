@@ -255,7 +255,7 @@ Occitan_France1 = {
 	NOT = { has_global_flag =  Occitan_Lock_In }
 	NOT = { has_global_flag =  Form_Occitaly }
 	tag = OCC
-	
+	has_global_flag =  Occitan_France1 	
 	}
 	
 	allow = { 
@@ -292,6 +292,7 @@ Occitan_France1 = {
 	potential = { 
 	NOT = { has_global_flag =  Occitan_Anglois}
 	NOT = { has_global_flag =  Form_Occitaly }
+	has_global_flag =  Occitan_Lock_In
 	tag = OCC
 	
 	}

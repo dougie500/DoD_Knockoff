@@ -1,6 +1,6 @@
-owner = CRI
-controller = CRI
-add_core = CRI
+owner = VEN
+controller = VEN
+add_core = VEN
 add_core = TAR
 trade_goods = fish
 life_rating = 35

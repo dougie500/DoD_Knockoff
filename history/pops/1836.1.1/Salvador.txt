@@ -33,7 +33,7 @@
 	artisans = {
 		culture = central_american
 		religion = catholic
-		size = 2250
+		size = 3250
 		militancy = 9
 	}
 
@@ -48,7 +48,7 @@
 	farmers = {
 		culture = central_american
 		religion = catholic
-		size = 18350
+		size = 28350
 		militancy = 4
 	}
 
@@ -110,14 +110,14 @@
 	farmers = {
 		culture = central_american
 		religion = catholic
-		size = 11950
+		size = 31950
 		militancy = 4
 	}
 
 	clergymen = {
 		culture = afro_latino
 		religion = catholic
-		size = 35
+		size = 95
 	}
 
 	farmers = {

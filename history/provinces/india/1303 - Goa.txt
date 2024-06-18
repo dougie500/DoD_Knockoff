@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = DEN
+controller = DEN
 add_core = DRA
 add_core = VIJ
 add_core = BHO

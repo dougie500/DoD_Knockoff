@@ -6,4 +6,5 @@ add_core = YUC
 add_core = ELS
 add_core = UCA 
 trade_goods = grain
-life_rating = 301835.1.1 = {	controller = SPA} 1837.1.1 = {	controller = CLM}
+life_rating = 35
+1835.1.1 = {	controller = SPA} 1837.1.1 = {	controller = CLM}

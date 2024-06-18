@@ -33,18 +33,26 @@
         size = 600
     }
 
-    soldiers = {
-        culture = maori
-        religion = animist
-        size = 1125
+ soldiers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 400
     }
-
+    farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 5325
+    }
     farmers = {
         culture = maori
         religion = animist
         size = 11475
     }
-
+   farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 5325
+    }
     soldiers = {
         culture = aborigine
         religion = animist
@@ -71,6 +79,26 @@
         religion = animist
         size = 5325
     }
+    farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 15325
+    }
+    artisans = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 2325
+    }
+    bureaucrats = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 200
+    }
+    soldiers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 500
+    }
 }
 #Napier (12000/3000 POPS)
 2511 = {
@@ -79,7 +107,11 @@
         religion = animist
         size = 225
     }
-
+    farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 5325
+    }
     artisans = {
         culture = maori
         religion = animist
@@ -99,13 +131,21 @@
         religion = animist
         size = 225
     }
-
+ farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 5325
+    }
     artisans = {
         culture = maori
         religion = animist
         size = 450
     }
-
+ soldiers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 100
+    }
     farmers = {
         culture = maori
         religion = animist
@@ -119,7 +159,11 @@
         religion = animist
         size = 225
     }
-
+ farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 5325
+    }
     artisans = {
         culture = maori
         religion = animist
@@ -141,13 +185,21 @@
 		religion = animist
 		size = 50
 	}
-
+    farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 5325
+    }
 	artisans = {
 		culture = maori
 		religion = animist
 		size = 50
 	}
-
+    soldiers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 100
+    }
 	soldiers = {
 		culture = maori
 		religion = animist
