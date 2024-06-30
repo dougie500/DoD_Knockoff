@@ -1,6 +1,5 @@
-owner = CHG
-controller = CHG
+owner = KOK
+controller = KOK
 add_core = KOK
-add_core = CHG
 trade_goods = wool
 life_rating = 35

@@ -3,21 +3,32 @@ political_decisions = {
 	Frisia_annex = {
 		
 		potential = { 
-			 tag = BRG
-			
-				
+			OR = {
+
+		
+			tag = BRG
+			 tag = RLT
+			}
 			
 			
 			NOT = {
 				has_country_flag = Frisia_annex
-			
-				
+	
 			}
 		}
 	
 		allow = {
 		romanticism = 1 
-		
+			FRI = {	
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
 		}
 		effect = { 
 		
@@ -103,30 +114,7 @@ political_decisions = {
         }
     }
 	
-	united_frisia = {
-		picture = frisa_coa	
-		potential = {
-			tag = FRI
-			NOT = { has_country_flag = united_frisia }
-		}
-
-		allow = {
-			war = no
-			owns = 385
-		}
-
-		effect = {
-			prestige = 10
-			NET_385 = { add_core = FRI }
-			HAN_534 = { add_core = FRI }
-			add_accepted_culture = dutch
-			set_country_flag = united_frisia
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
+	
 	
 	form_westphalia = {
 		picture = westphalia		

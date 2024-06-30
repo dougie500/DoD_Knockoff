@@ -55,9 +55,6 @@ PLC_zapadoslavia = {
 	potential = { 
 		 tag = PLC
 		
-			
-
-		
 		NOT = {
 			has_country_flag = PLC_zapadoslavia
 		

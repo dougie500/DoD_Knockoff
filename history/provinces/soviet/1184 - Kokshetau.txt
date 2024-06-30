@@ -1,6 +1,6 @@
-owner = CHG
-controller = CHG
-add_core = CHG
+owner = KZH
+controller = KZH
+
 add_core = KZH
 trade_goods = iron
 life_rating = 35

@@ -1,31 +1,45 @@
 political_decisions = {
 
 #Burgundy decisions
+
+BRG_Core_Bourgogne = {	
+	potential = { 
+		OR = {
+			tag = BRG
+			tag = RLT
+		}
+		NOT = { has_global_flag = BRG_Core_Bourgogne }
+   }
+   allow = {
+	FRA_428 = {
+		owned_by = THIS
+	}
+}
+	effect = { 
+		FRA_428= {
+			add_core = THIS
+		}
+		set_country_flag = BRG_Core_Bourgogne
+	}
+}
+
 Lotharingia_Form = {
 		
 	potential = { 
 		 tag = BRG
-		
 		 NOT = { has_global_flag = Lotharingia_Form }
 	}
 
 	allow = {
 		state_n_government = 1
-	OR = {
-		RHI = {	
-			all_core = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
-					}
-				}
-			}
+		OR = {
+		FRA_428 = {
+			owned_by = THIS
 		}
 		nationalism_n_imperialism = 1 
 
-	}
-}
+		}
+   }
 	
 	effect = { 
 	
@@ -50,6 +64,96 @@ Lotharingia_Form = {
 	}
 }
 
+
+#Lotharingia paths
+
+BRG_West_Francia1 = {
+	potential = { 
+		tag = RLT
+	   
+		NOT = { has_global_flag = BRG_West_Francia1 }
+   }
+
+   allow = {
+	  FRA_404 = {
+		   owned_by = THIS
+	   }
+	   OR = {
+		FRA_418 = {
+			owned_by = THIS
+		}
+		FRA_438 = {
+			owned_by = THIS
+		}
+		FRA_445 = {
+			owned_by = THIS
+		}
+	   }
+	   
+
+   }
+
+   
+   effect = { 
+   
+	FRA_418= {
+		   add_core = THIS
+	   }
+	   FRA_425 = {
+		   add_core = THIS
+	   }
+	  
+	   set_country_flag = BRG_West_Francia1
+ 
+   }
+
+
+}
+BRG_West_Francia2 = {
+	potential = { 
+		tag = RLT
+		has_global_flag = BRG_West_Francia1
+		NOT = { has_global_flag = BRG_West_Francia2 }
+   }
+
+   allow = {
+	   FRA_404 = {
+		   owned_by = THIS
+	   }				
+		FRA_418 = {
+			owned_by = THIS
+		}
+		FRA_425= {
+			owned_by = THIS
+		}  
+	   
+   }
+
+   
+   effect = { 
+   
+	FRA_418 = {
+		   add_core = THIS
+	   }
+	FRA_438 = {
+		   add_core = THIS
+	   }
+	   FRA_445  = {
+		add_core = THIS
+	}
+
+	  add_accepted_culture = french
+	   set_country_flag = BRG_West_Francia2
+  
+   }
+
+
+}
+#BRG_East_Francia1= {
+
+
+
+	#}
 
 
 
