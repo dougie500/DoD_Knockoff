@@ -1,6 +1,6 @@
-owner = MUS
-controller = MUS
-add_core = MUS
+owner = NOG
+controller = NOG
+add_core = NOG
 add_core = SIB
 add_core = MRL
 add_core = CHV

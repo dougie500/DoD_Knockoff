@@ -1,6 +1,6 @@
-owner = PLC
-controller = PLC
-add_core = POL
+owner = UKR
+controller = UKR
+add_core = UKR
 add_core = PLC
 add_core = RUT
 trade_goods = grain

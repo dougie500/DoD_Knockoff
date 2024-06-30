@@ -1,6 +1,6 @@
-owner = CIR
-controller = CIR
-add_core = CIR
+owner = CRI
+controller = CRI
+add_core = CRI
 add_core = ASK
 add_core = TAR
 trade_goods = grain

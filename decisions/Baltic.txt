@@ -18,7 +18,7 @@ Prussian_Occ = {
 
 	allow = {
 	
-		date = 1837
+		year = 1838
 		PRU = {
 			all_core = {
 				OR = {
