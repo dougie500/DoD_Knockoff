@@ -1,5 +1,11 @@
 #PLC substates
 
+vassal = {
+	first = NOV
+	second = MRL
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
 substate = {
 	first = PLC
 	second = UKR
@@ -53,34 +59,6 @@ vassal = {
 }
 
 
-# Caucasus 
-vassal = {
-	first = ASK
-	second = CIR
-	start_date = 1830.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = AZB
-	second = SAM
-	start_date = 1830.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = AZB
-	second = IME
-	start_date = 1830.1.1
-	end_date = 1937.1.1
-}
-
-substate = {
-	first = AZB
-	second = KMY
-	start_date = 1830.1.1
-	end_date = 1937.1.1
-}
 
 # Kalat Tributary
 vassal = {
@@ -110,3 +88,4 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+

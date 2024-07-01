@@ -1,7 +1,7 @@
-owner = KMY
-controller = KMY
-add_core = KMY
+owner = AZB
+controller = AZB
 add_core = AZB
+
 add_core = ASK
 add_core = DAG
 add_core = AVR

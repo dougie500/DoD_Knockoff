@@ -1,5 +1,5 @@
-owner = CIR
-controller = CIR
+owner = ASK
+controller = ASK
 add_core = ASK
 add_core = CIR
 add_core = OSS

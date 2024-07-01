@@ -1,6 +1,6 @@
-owner = NOV
-controller = NOV
-add_core = NOV
+owner = PLC
+controller = PLC
+add_core = PLC
 add_core = LAT
 trade_goods = fish
 life_rating = 40

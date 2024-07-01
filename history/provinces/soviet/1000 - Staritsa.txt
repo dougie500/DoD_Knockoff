@@ -1,6 +1,6 @@
-owner = MRL
-controller = MRL
-add_core = MRL
+owner = NOV
+controller = NOV
+add_core = NOV
 add_core = RUS
 
 
