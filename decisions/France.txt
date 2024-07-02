@@ -99,9 +99,7 @@ political_decisions = {
 		tag = DUA 
 		}
 		allow = { 
-		
-			
-			nationalism_n_imperialism = 1 
+		year = 1857
 		
 		}
 		effect = { 
@@ -123,7 +121,7 @@ Renovate_Toulouse = {
 	picture = ponte_liberta
 
 	potential = { 
-	NOT = { has_global_flag = Toulouse_but_better }
+	NOT = {has_country_flag = Toulouse_but_better }
 	tag = OCC
 	}
 	
@@ -149,8 +147,8 @@ Renovate_Toulouse = {
 
 
 	potential = { 
-	NOT = { has_global_flag =  Form_Occitaly  }
-	NOT = { has_global_flag =  Occitan_Lock_In   }
+	NOT = { has_country_flag =  Form_Occitaly  }
+	NOT = {has_country_flag =  Occitan_Lock_In   }
 
 	tag = OCC
 
@@ -206,7 +204,7 @@ Renovate_Toulouse = {
 		
 		
 
-
+		change_tag = GEN
 		set_country_flag = Form_Occitaly
 	}
   }
@@ -215,7 +213,7 @@ Occitan_France1 = {
 
 
 	potential = { 
-	NOT = { has_global_flag =  Occitan_France1  }
+	NOT = { has_country_flag =  Occitan_France1  }
 	tag = OCC
 
 	}
@@ -252,10 +250,10 @@ Occitan_France1 = {
 
 
 	potential = { 
-	NOT = { has_global_flag =  Occitan_Lock_In }
-	NOT = { has_global_flag =  Form_Occitaly }
+	NOT = { has_country_flag =  Occitan_Lock_In }
+	NOT = { has_country_flag =  Form_Occitaly }
 	tag = OCC
-	has_global_flag =  Occitan_France1 	
+		
 	}
 	
 	allow = { 
@@ -265,20 +263,21 @@ Occitan_France1 = {
 			
 				FRA_442 = { owned_by = THIS }
 				FRA_445 = { owned_by = THIS }
-			
-		state_n_government = 1
+				FRA_428 = { owned_by = THIS }
+				FRA_438 = { owned_by = THIS }
+		
 	}
 
 	effect = { 
 
 
-		FRA_435 = {
-			add_core = THIS
-		}
 		FRA_428 = {
 			add_core = THIS
 		}
 		FRA_438 = {
+			add_core = THIS
+		}
+		FRA_425 = {
 			add_core = THIS
 		}
 		add_accepted_culture = french		
@@ -286,12 +285,45 @@ Occitan_France1 = {
 		
 	}
   }
+   Occitan_form_france = { 
+	
+
+
+	potential = { 
+	has_country_flag =  Occitan_Lock_In
+	NOT = { has_country_flag =  Occitan_form_france }
+	NOT = { has_country_flag =  Form_Occitaly }
+	tag = OCC
+		
+	}
+	
+	allow = { 
+		NOT = { war = yes }
+
+				FRA_442 = { owned_by = THIS }
+				FRA_445 = { owned_by = THIS }
+				FRA_428 = { owned_by = THIS }
+				FRA_438 = { owned_by = THIS }
+				FRA_425 = {owned_by = THIS}
+
+		nationalism_n_imperialism = 1
+	}
+
+	effect = { 
+
+    change_tag = FRA
+		add_accepted_culture = breton	
+		add_accepted_culture = anglois	
+		set_country_flag = Occitan_form_france
+		
+	}
+  }
   Occitan_Anglois = { 
 	
 
 	potential = { 
-	NOT = { has_global_flag =  Occitan_Anglois}
-	NOT = { has_global_flag =  Form_Occitaly }
+	NOT = { has_country_flagg =  Occitan_Anglois}
+	NOT = { has_country_flag =  Form_Occitaly }
 	has_global_flag =  Occitan_Lock_In
 	tag = OCC
 	

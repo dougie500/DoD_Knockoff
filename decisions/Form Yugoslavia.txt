@@ -307,6 +307,7 @@ political_decisions = {
 	create_yugoslavia = {
 		picture = form_yugoslavia
 		potential = {
+			has_global_flag = Decision_on_hold
 			NOT = {
 				exists = YUG
 				is_culture_group = south_slavic

@@ -238,27 +238,27 @@
 #Pinsk (276000/69000 POPS)
 940 = {
 	clergymen = {
-		culture = ruthenian
-		religion = orthodox
+			culture = lithuanian
+		religion = catholic
 		size = 450
 	}
 
 	artisans = {
-		culture = ruthenian
-		religion = orthodox
+			culture = lithuanian
+		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
-		culture = ruthenian
-		religion = orthodox
+			culture = lithuanian
+		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = ruthenian
-		religion = orthodox
+			culture = lithuanian
+		religion = catholic
 		size = 45200
 	}
 
@@ -342,27 +342,27 @@
 #Minsk (468000/117000 POPS)
 718 = {
 	clergymen = {
-		culture = ruthenian
-		religion = orthodox
+			culture = lithuanian
+		religion = catholic
 		size = 1650
 	}
 
 	artisans = {
-		culture = ruthenian
-		religion = orthodox
+		culture = lithuanian
+		religion = catholic
 		size = 4200
 	}
 
 	soldiers = {
-		culture = ruthenian
-		religion = orthodox
+			culture = lithuanian
+		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = ruthenian
-		religion = orthodox
+			culture = lithuanian
+		religion = catholic
 		size = 91000
 	}
 
@@ -543,9 +543,9 @@
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = lithuanian
 		religion = catholic
-		size = 21500
+		size = 31500
 	}
 
 	clergymen = {
@@ -576,27 +576,27 @@
 #Baranovichi (196000/49000 POPS)
 939 = {
 	clergymen = {
-		culture = ruthenian
-		religion = orthodox
+		culture = lithuanian
+		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = ruthenian
-		religion = orthodox
+		culture = lithuanian
+		religion = catholic
 		size = 1400
 	}
 
 	soldiers = {
-		culture = ruthenian
-		religion = orthodox
+			culture = lithuanian
+		religion = catholic
 		size= 375
 
 	}
 
 	farmers = {
-		culture = ruthenian
-		religion = orthodox
+			culture = lithuanian
+		religion = catholic
 		size = 33875
 	}
 
@@ -659,27 +659,27 @@
 #Slutsk (204000/51000 POPS)
 941 = {
 	clergymen = {
-		culture = ruthenian
-		religion = orthodox
+		culture = lithuanian
+		religion = catholic
 		size = 400
 	}
 
 	artisans = {
-		culture = ruthenian
-		religion = orthodox
+			culture = lithuanian
+		religion = catholic
 		size = 1550
 	}
 
 	soldiers = {
-		culture = ruthenian
-		religion = orthodox
+		culture = lithuanian
+		religion = catholic
 		size= 425
 
 	}
 
 	farmers = {
-		culture = ruthenian
-		religion = orthodox
+		culture = lithuanian
+		religion = catholic
 		size = 40200
 	}
 
@@ -736,8 +736,8 @@
 #Mozyr (308000/77000 POPS)
 942 = {
 	clergymen = {
-		culture = ruthenian
-		religion = orthodox
+		culture = lithuanian
+		religion = catholic
 		size = 400
 	}
 
@@ -755,9 +755,9 @@
 	}
 
 	farmers = {
-		culture = ruthenian
-		religion = orthodox
-		size = 42725
+		culture = lithuanian
+		religion = catholic
+		size = 37725
 	}
 
 	aristocrats = {
@@ -796,7 +796,11 @@
 		religion = jewish
 		size = 3875
 	}
-
+	farmers = {
+		culture = ruthenian
+		religion = orthodox
+		size = 25000
+	}
 	clergymen = {
 		culture = ruthenian
 		religion = orthodox

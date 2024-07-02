@@ -1663,6 +1663,7 @@ political_decisions = {
 		picture = vassal_payment
 		alert = no
 		potential = {
+			has_country_flag = Decision_on_hold
 			ai = no
 			any_neighbor_country = {
 				vassal_of = THIS
@@ -1692,8 +1693,9 @@ political_decisions = {
 		picture = vassal_payment
 		alert = no
 		potential = {
+			has_country_flag = Decision_on_hold
 			ai = no
-			has_country_flag = vassals_dont_need_to_pay
+		 	has_country_flag = vassals_dont_need_to_pay
 			num_of_vassals_no_substates = 1
 		}
 		
@@ -1716,6 +1718,7 @@ political_decisions = {
 	vassal_stop_paying_vassal_payments = {
 		picture = vassal_payment
 		potential = {
+			has_country_flag = Decision_on_hold
 			is_vassal = yes
 			overlord = { has_country_flag = vassals_dont_need_to_pay }
 			NOT = { has_country_flag = exempt_from_vassal_contribution }

@@ -601,28 +601,28 @@
 #Stryi (404000/101000 POPS) #now part of Ukraine  
 951 = {
 	clergymen = {
-		culture = ruthenian
+		culture = polish
 		religion = orthodox
 		size = 475
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = polish
 		religion = orthodox
 		size = 2550
 	}
 
 	soldiers = {
-		culture = ruthenian
+		culture = polish
 		religion = orthodox
 		size= 500
 
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = polish
 		religion = orthodox
-		size = 47475
+		size = 57475
 	}
 
 	aristocrats = {
@@ -638,7 +638,7 @@
 	}
 
 	artisans = {
-		culture = polish
+		culture = ruthenian
 		religion = catholic
 		size = 2100
 	}
@@ -651,9 +651,9 @@
 	}
 
 	farmers = {
-		culture = polish
+		culture = ruthenian
 		religion = catholic
-		size = 34025
+		size = 24025
 	}
 
 	clergymen = {
@@ -1248,7 +1248,7 @@
 	}
 
 	farmers = {
-		culture = ruthenian
+			culture = polish
 		religion = orthodox
 		size = 51850
 	}
@@ -1478,9 +1478,13 @@
 	farmers = {
 		culture = ruthenian
 		religion = orthodox
-		size = 83425
+		size = 52425
 	}
-
+farmers = {
+		culture = polish
+		religion = catholic
+		size = 45425
+	}
 	aristocrats = {
 		culture = polish
 		religion = catholic

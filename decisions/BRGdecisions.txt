@@ -198,8 +198,16 @@ BRG_West_Francia2 = {
 	 Burgundy_Expansion = {
 		
 		potential = { 
-			tag = DUA 
-			has_country_flag = 	french_path
+			OR = {
+				tag = DUA 
+				tag = FRA
+			}
+			NOT = {
+				has_country_flag = england_path
+			}
+			NOT = {
+				has_country_flag = dual_integration
+			}
 			NOT = {
 				has_country_flag = Burgundy_Expansion
 			}
