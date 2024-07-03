@@ -42,12 +42,12 @@ political_decisions = {
 		
 	}
 	
-	annex_OCC_Fra = { 	
-	picture = Occitania
+	annex_OCC_Dua = { 	
+	picture = provence
 	potential = {
 		has_country_flag = dual_integration
 		has_country_flag = provencal_cores 
-		NOT = { has_country_flag = annex_OCC_Fra }
+		NOT = { has_country_flag = annex_OCC_Dua}
 		NOT = { has_country_flag = annex_OCC_Dua }
 		NOT = { has_country_flag = england_path }
 	tag = DUA 
@@ -61,12 +61,12 @@ political_decisions = {
 		}
 	
 	effect = { 
-	set_country_flag = annex_OCC
+	set_country_flag = annex_OCC_Dua
 	add_accepted_culture = provencal 
 	}
 }
-	annex_OCC_Dua = { 	
-		picture = Occitania
+	annex_OCC_Fra= { 	
+		picture = provence
 		potential = {
 			has_country_flag = french_path
 			has_country_flag = provencal_cores 
@@ -83,7 +83,7 @@ political_decisions = {
 		
 	}
 		effect = { 
-		set_country_flag = annex_OCC
+		set_country_flag = annex_OCC_Fra
 		add_accepted_culture = provencal
 		}
 	}
@@ -92,7 +92,7 @@ political_decisions = {
 	## Dual monarchy dual path accepted
 
 	dual_integration_accepted = { 	
-		
+		picture = DUA_italy
 		potential = {
 			has_country_flag = dual_integration
 
@@ -143,7 +143,7 @@ Renovate_Toulouse = {
 	}
   }
  Form_Occitaly = { 
-	
+	picture = Occitaly_picture
 
 
 	potential = { 
@@ -188,6 +188,9 @@ Renovate_Toulouse = {
 		}TUS_744 = {
 			add_core = THIS
 		}
+		PAP_752 = {
+			add_core = THIS
+		}
 		any_country = {
 			limit = {
 				OR = { 
@@ -205,9 +208,65 @@ Renovate_Toulouse = {
 		
 
 		change_tag = GEN
+		add_accepted_culture = north_italian
 		set_country_flag = Form_Occitaly
 	}
   }
+  Occitaly_Venetian = { 
+	
+	potential = { 
+	NOT = { has_country_flag =  Occitaly_Venetian }
+	tag = GEN
+
+	}
+	
+	allow = { 
+		NOT = { war = yes }
+
+				AUS_729= { owned_by = THIS }
+				
+			
+		
+	}
+	
+	effect = { 
+		
+
+
+		AUS_729 = {
+			add_core = THIS
+		}
+		
+		
+	add_accepted_culture = venetian	
+		set_country_flag = Occitaly_Venetian
+	}
+  }
+ Occitaly_SouthItalian = { 
+	
+	potential = { 
+	NOT = { has_country_flag =  Occitaly_SouthItalian   }
+	tag = GEN
+
+	}
+	
+	allow = { 
+		NOT = { war = yes }
+
+				SIC_753 = { owned_by = THIS }
+				SIC_754 = { owned_by = THIS }
+			
+		
+	}
+	
+	effect = { 
+		
+	add_accepted_culture = south_italian	
+		set_country_flag = Occitaly_SouthItalian 
+	}
+  }
+
+
 Occitan_France1 = { 
 	
 

@@ -1,6 +1,6 @@
 owner = MUS
 controller = MUS
-life_rating = 40
+life_rating = 35
 add_core = MUS
 add_core = PLC
 add_core = RUT

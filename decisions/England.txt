@@ -1,7 +1,7 @@
 political_decisions = {
 	
 	Irish_Expansion = {
-		picture = ireland_potato
+		picture = ireland_claim
 		potential = { 
 			tag = DUA 
 			
@@ -35,9 +35,8 @@ political_decisions = {
 			tag = DUA 
 			has_country_flag = 	dual_integration
 			NOT = {
-				#has_country_flag = Scotland_Expansion
-				
-				
+				has_country_flag = Scotland_Expansion
+			
 			}
 		}
 	
@@ -60,10 +59,10 @@ political_decisions = {
 	}
 
 	Scotland_Expansion_Plus = {
-		picture = scotland_meme
+		picture = scotland_claim
 		potential = { 
 			tag = DUA 
-			has_country_flag = 	england_path
+			has_country_flag = england_path
 			NOT = {
 				has_country_flag = Scotland_Expansion
 				

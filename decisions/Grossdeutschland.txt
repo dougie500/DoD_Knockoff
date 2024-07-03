@@ -138,7 +138,7 @@ political_decisions = {
 	}
 	
 	form_elbian_confederation = { 
-		picture = elbian_confederation	
+		picture = elbia_picture
 		potential = { 
 			tag = BOH 
 			

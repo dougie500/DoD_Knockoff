@@ -32,7 +32,7 @@ party = {
 }
 
 party = {
-	name = "OCC_liberal" # Iou Félibrige
+	name = "OCC_liberal" # Iou Fï¿½librige
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -77,7 +77,7 @@ party = {
 }
 
 party = {
-	name = "OCC_socialist" # Pòble d'Òc 
+	name = "OCC_socialist" # Pï¿½ble d'ï¿½c 
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -92,7 +92,7 @@ party = {
 }
 
 party = { 
-	name = "OCC_liberal" #Esquèrra Republicana Occitana
+	name = "OCC_liberal" #Esquï¿½rra Republicana Occitana
 	start_date = 1880.1.1
 	end_date = 2000.1.1
 	
@@ -168,30 +168,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		 "Saint Aunix-Langros" "Saint Clar" "Sainte Christie" "Saint Griède" "Saint Lary" "Saint Puy" "Sainte Radegonde" "Saint Sever"
+		 "Saint Aunix-Langros" "Saint Clar" "Sainte Christie" "Saint Griï¿½de" "Saint Lary" "Saint Puy" "Sainte Radegonde" "Saint Sever"
 	}
 	ironclad = {
-		 "Saint Aunix-Langros" "Saint Clar" "Sainte Christie" "Saint Griède" "Saint Lary" "Saint Puy" "Sainte Radegonde" "Saint Sever"
+		 "Saint Aunix-Langros" "Saint Clar" "Sainte Christie" "Saint Griï¿½de" "Saint Lary" "Saint Puy" "Sainte Radegonde" "Saint Sever"
 	}
 	manowar = {
-		 "Saint Aunix-Langros" "Saint Clar" "Sainte Christie" "Saint Griède" "Saint Lary" "Saint Puy" "Sainte Radegonde" "Saint Sever"
+		 "Saint Aunix-Langros" "Saint Clar" "Sainte Christie" "Saint Griï¿½de" "Saint Lary" "Saint Puy" "Sainte Radegonde" "Saint Sever"
 	}
 	cruiser = {
-		 "Saint Aunix-Langros" "Saint Clar" "Sainte Christie" "Saint Griède" "Saint Lary" "Saint Puy" "Sainte Radegonde" "Saint Sever"
+		 "Saint Aunix-Langros" "Saint Clar" "Sainte Christie" "Saint Griï¿½de" "Saint Lary" "Saint Puy" "Sainte Radegonde" "Saint Sever"
 	}
 	frigate = {
-		 "Saint Aunix-Langros" "Saint Clar" "Sainte Christie" "Saint Griède" "Saint Lary" "Saint Puy" "Sainte Radegonde" "Saint Sever"
+		 "Saint Aunix-Langros" "Saint Clar" "Sainte Christie" "Saint Griï¿½de" "Saint Lary" "Saint Puy" "Sainte Radegonde" "Saint Sever"
 	}
 	monitor = {
-		 "Saint Aunix-Langros" "Saint Clar" "Sainte Christie" "Saint Griède" "Saint Lary" "Saint Puy" "Sainte Radegonde" "Saint Sever"
+		 "Saint Aunix-Langros" "Saint Clar" "Sainte Christie" "Saint Griï¿½de" "Saint Lary" "Saint Puy" "Sainte Radegonde" "Saint Sever"
 	}
 	clipper_transport = { 
-		 "Saint Aunix-Langros" "Saint Clar" "Sainte Christie" "Saint Griède" "Saint Lary" "Saint Puy" "Sainte Radegonde" "Saint Sever"
+		 "Saint Aunix-Langros" "Saint Clar" "Sainte Christie" "Saint Griï¿½de" "Saint Lary" "Saint Puy" "Sainte Radegonde" "Saint Sever"
 	}
 	steam_transport = { 
-		 "Saint Aunix-Langros" "Saint Clar" "Sainte Christie" "Saint Griède" "Saint Lary" "Saint Puy" "Sainte Radegonde" "Saint Sever"
+		 "Saint Aunix-Langros" "Saint Clar" "Sainte Christie" "Saint Griï¿½de" "Saint Lary" "Saint Puy" "Sainte Radegonde" "Saint Sever"
 	}
 	commerce_raider = {
-		 "Saint Aunix-Langros" "Saint Clar" "Sainte Christie" "Saint Griède" "Saint Lary" "Saint Puy" "Sainte Radegonde" "Saint Sever"
+		 "Saint Aunix-Langros" "Saint Clar" "Sainte Christie" "Saint Griï¿½de" "Saint Lary" "Saint Puy" "Sainte Radegonde" "Saint Sever"
 	}
 }

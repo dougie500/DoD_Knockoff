@@ -3,6 +3,7 @@ political_decisions = {
 #Burgundy decisions
 
 BRG_Core_Bourgogne = {	
+	picture = Bourgogne_picture
 	potential = { 
 		OR = {
 			tag = BRG
@@ -24,7 +25,7 @@ BRG_Core_Bourgogne = {
 }
 
 Lotharingia_Form = {
-		
+	picture = Lothair_picture
 	potential = { 
 		 tag = BRG
 		 NOT = { has_global_flag = Lotharingia_Form }
@@ -96,13 +97,10 @@ BRG_West_Francia1 = {
    
    effect = { 
    
-	FRA_418= {
+	FRA_404= {
 		   add_core = THIS
 	   }
-	   FRA_425 = {
-		   add_core = THIS
-	   }
-	  
+	   add_accepted_culture = french
 	   set_country_flag = BRG_West_Francia1
  
    }
@@ -133,16 +131,13 @@ BRG_West_Francia2 = {
    effect = { 
    
 	FRA_418 = {
-		   add_core = THIS
-	   }
-	FRA_438 = {
-		   add_core = THIS
-	   }
-	   FRA_445  = {
-		add_core = THIS
+		owned_by = THIS
 	}
+	FRA_425= {
+		owned_by = THIS
+	}  
 
-	  add_accepted_culture = french
+	 
 	   set_country_flag = BRG_West_Francia2
   
    }
@@ -196,7 +191,7 @@ BRG_West_Francia2 = {
 	
 	}
 	 Burgundy_Expansion = {
-		
+		picture = burgundy_picture
 		potential = { 
 			OR = {
 				tag = DUA 
@@ -448,6 +443,7 @@ BRG_West_Francia2 = {
 	# }
 
 #	form_lotharingia = {
+	
 #		potential = {
 #			tag = BRG
 #			NOT = {
@@ -659,7 +655,9 @@ BRG_West_Francia2 = {
 	
 	accept_rhenish_BRG = { 
 		picture = froehliche_rheinland	
+		
 		potential = { 
+			has_country_flag = Decision_on_hold
 			tag = BRG 
 			NOT = { has_country_flag = BRG_rhein }
 			NOT = { GER = { exists = yes } } 

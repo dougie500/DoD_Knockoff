@@ -14,7 +14,109 @@ Prussian_occupation = {
 	administrative_efficiency_modifier = -0.05
 }
 
+#traditions
 
+DUA_tradition = {
+	icon = 3
+
+	global_population_growth = -0.001
+	administrative_efficiency_modifier = 0.05
+	prestige = 0.02
+	industry_tech_research_bonus = 0.05
+}
+OCC_tradition = {
+	icon = 3
+
+
+	prestige = 0.01
+	culture_tech_research_bonus = 0.1
+	mobilisation_size = 0.005
+}
+MUS_tradition = {
+	icon = 3
+
+
+	global_population_growth = 0.001
+	mobilisation_size = 0.01
+	reinforce_rate = 0.05
+	army_tech_research_bonus = -0.05
+	culture_tech_research_bonus = -0.05
+	land_unit_start_experience = -0.05
+	supply_consumption = -0.05
+
+}
+DEN_tradition = {
+	icon = 3
+
+
+	navy_tech_research_bonus = 0.1
+	naval_unit_start_experience = 10
+	local_ship_build = -0.1
+	tax_efficiency = 0.01
+	land_unit_start_experience = 5
+	
+}
+NOV_tradition = {
+	icon = 3
+
+
+	land_unit_start_experience = 10
+	army_tech_research_bonus = 0.05
+	factory_output = 0.1
+	mine_RGO_eff = 0.1
+	farm_RGO_eff = 0.1
+	supply_consumption = 0.05
+}
+SPA_tradition = {
+	icon = 3
+
+
+	tax_efficiency = 0.01
+	commerce_tech_research_bonus = 0.05
+	navy_tech_research_bonus = 0.05
+	industry_tech_research_bonus = -0.05
+	farm_rgo_size = 0.05
+	mobilisation_size = -0.005
+}
+ARA_tradition = {
+	icon = 3
+
+
+	factory_output = 0.05
+	factory_throughput = 0.05
+	education_efficiency_modifier = 0.01
+}
+PLC_tradition = {
+	icon = 3
+    prestige = 0.01
+	research_points_modifier = 0.05
+	mine_RGO_eff = 0.1
+	education_efficiency_modifier = 0.1
+	
+}
+BOH_tradition = {
+	icon = 3
+	tax_efficiency = -0.01
+	administrative_efficiency_modifier = 0.05
+	mobilisation_size = -0.01
+}
+VEN_tradition = {
+	icon = 3
+	tax_efficiency = -0.01
+	factory_output = -0.05
+	army_tech_research_bonus = -0.05
+	commerce_tech_research_bonus = 0.1
+	navy_tech_research_bonus = 0.05
+}
+TUR_tradition = {
+	icon = 3
+	global_population_growth = 0.001
+	mobilisation_size = 0.005
+	farm_rgo_size = 0.1
+	industry_tech_research_bonus = -0.05
+	naval_unit_start_experience = -10
+	local_ship_build = 0.1
+}
 
 
 

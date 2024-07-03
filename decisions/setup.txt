@@ -1,5 +1,101 @@
 political_decisions = {
 
+Traditions_setup = {
+		potential = {
+			tag = BHU
+			NOT = { has_country_flag = Traditions_setup }
+			
+		}
+		allow = {
+			tag = BHU
+		}
+		effect = {
+			set_country_flag = Traditions_setup
+			DUA = {
+			add_country_modifier = {
+				name = DUA_tradition
+				duration = -1
+			}
+		}
+			OCC = {
+				add_country_modifier = {
+					name = OCC_tradition
+					duration = -1
+				}
+			}
+			MUS = {
+				add_country_modifier = {
+					name = MUS_tradition
+					duration = -1
+				}
+			}
+			DEN = {
+				add_country_modifier = {
+					name = DEN_tradition
+					duration = -1
+				}
+			}	
+			NOV= {
+				add_country_modifier = {
+					name = NOV_tradition
+					duration = -1
+				}
+			}
+			SPA= {
+				add_country_modifier = {
+					name = SPA_tradition
+					duration = -1
+				}
+			}	
+			ARA= {
+				add_country_modifier = {
+					name = ARA_tradition
+					duration = -1
+				}
+			}	
+			PLC= {
+				add_country_modifier = {
+					name = PLC_tradition
+					duration = -1
+				}
+			}
+			BOH= {
+				add_country_modifier = {
+					name = BOH_tradition
+					duration = -1
+				}
+			}
+			VEN= {
+				add_country_modifier = {
+					name = VEN_tradition
+					duration = -1
+				}
+			}	
+			TUR= {
+				add_country_modifier = {
+					name = TUR_tradition
+					duration = -1
+				}
+			}		
+	 	 }		
+			
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	# enable_options = {
 	# 	alert = no
 	# 	potential = {
