@@ -1,6 +1,6 @@
-owner = MAD
-controller = MAD
-add_core = MAT
+owner = DEN
+controller = DEN
+
 colonial = 1
 trade_goods = cattle
 terrain = savanna

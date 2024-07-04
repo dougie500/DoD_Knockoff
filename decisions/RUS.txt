@@ -366,6 +366,7 @@ political_decisions = {
 	moscow_expansion_steppes = { 
 	picture = RUS_tsar
 	potential = { 
+		has_country_flag = Decision_on_hold
 	tag = MUS
 	NOT = { has_country_flag = steppes_conquest }
 	NOT = { TAR = { exists = yes }}

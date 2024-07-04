@@ -1,4 +1,4 @@
-political_decisions = {
+#political_decisions = {
 	gtfo_on = { picture = gtfo alert = no potential = { num_of_vassals_no_substates = 1 NOT = { has_country_flag = gtfo } } allow = { ai = no } effect = { set_country_flag = gtfo } }
 	gtfo_off = { picture = gtfo alert = no potential = { has_country_flag = gtfo } allow = { ai = no } effect = { clr_country_flag = gtfo } }
 	gtfo_ASH = { picture = gtfo alert = no potential = { has_country_flag = gtfo ASH = { vassal_of = THIS NOT = { substate_of = THIS } } } allow = { ai = no } effect = { random_owned = { limit = { owner = { NOT = { prestige = 200 } } } owner = { prestige_factor = -0.05 } } random_owned = { limit = { owner = { prestige = 200 } } owner = { prestige = -10 } } release_vassal = ASH diplomatic_influence = { who = ASH value = -200 } } }
@@ -334,4 +334,4 @@ political_decisions = {
 	gtfo_GAN = { picture = gtfo alert = no potential = { has_country_flag = gtfo GAN = { vassal_of = THIS NOT = { substate_of = THIS } } } allow = { ai = no } effect = { random_owned = { limit = { owner = { NOT = { prestige = 200 } } } owner = { prestige_factor = -0.05 } } random_owned = { limit = { owner = { prestige = 200 } } owner = { prestige = -10 } } release_vassal = GAN diplomatic_influence = { who = GAN value = -200 } } }
 	gtfo_TUI = { picture = gtfo alert = no potential = { has_country_flag = gtfo TUI = { vassal_of = THIS NOT = { substate_of = THIS } } } allow = { ai = no } effect = { random_owned = { limit = { owner = { NOT = { prestige = 200 } } } owner = { prestige_factor = -0.05 } } random_owned = { limit = { owner = { prestige = 200 } } owner = { prestige = -10 } } release_vassal = TUI diplomatic_influence = { who = TUI value = -200 } } }
 	gtfo_PPU = { picture = gtfo alert = no potential = { has_country_flag = gtfo PPU = { vassal_of = THIS NOT = { substate_of = THIS } } } allow = { ai = no } effect = { random_owned = { limit = { owner = { NOT = { prestige = 200 } } } owner = { prestige_factor = -0.05 } } random_owned = { limit = { owner = { prestige = 200 } } owner = { prestige = -10 } } release_vassal = PPU diplomatic_influence = { who = PPU value = -200 } } }
-}
+#}

@@ -161,19 +161,19 @@
 	}
 	
 	clergymen = {
-		culture = assyrian
+		culture = turkish
 		religion = assyrian
 		size = 200
 	}
 
 	artisans = {
-		culture = assyrian
+		culture = turkish
 		religion = assyrian
 		size = 1600
 	}
 
 	farmers = {
-		culture = assyrian
+		culture = turkish
 		religion = assyrian
 		size = 17000
 	}
@@ -248,19 +248,19 @@
 	}
 
 	clergymen = {
-		culture = assyrian
+		culture = turkish
 		religion = assyrian
 		size = 350
 	}
 
 	artisans = {
-		culture = assyrian
+		culture = turkish
 		religion = assyrian
 		size = 2200
 	}
 
 	farmers = {
-		culture = assyrian
+		culture = turkish
 		religion = assyrian
 		size = 34200
 	}
@@ -657,7 +657,11 @@
 		religion = sunni
 		size = 9225
 	}
-
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 18225
+	}
 	clergymen = {
 		culture = syriac
 		religion = coptic

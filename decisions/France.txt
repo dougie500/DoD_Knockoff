@@ -381,7 +381,7 @@ Occitan_France1 = {
 	
 
 	potential = { 
-	NOT = { has_country_flagg =  Occitan_Anglois}
+	NOT = { has_country_flag =  Occitan_Anglois}
 	NOT = { has_country_flag =  Form_Occitaly }
 	has_global_flag =  Occitan_Lock_In
 	tag = OCC

@@ -3,6 +3,7 @@ political_decisions = {
 		picture = return_cores_img
 		alert = no 
 		potential = {
+			has_country_flag = Decision_on_hold
 			OR = {
 				num_of_vassals_no_substates = 1
 				is_greater_power = yes

@@ -514,6 +514,7 @@ political_decisions = {
 	move_capital_to_ankara = {
 	picture = move_capital_to_ankara	
 		potential = {
+			has_country_flag = Decision_on_hold
 			tag = TUR
 			NOT = { capital = 876 }
 			owns = 876
