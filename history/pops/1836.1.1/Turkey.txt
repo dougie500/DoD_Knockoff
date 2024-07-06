@@ -534,7 +534,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 24250
+		size = 44250
 	}
 
 	clergymen = {

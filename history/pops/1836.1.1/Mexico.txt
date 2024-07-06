@@ -296,7 +296,7 @@
 	soldiers = {
 		culture = beornian
 		religion = catholic
-		size = 1500
+		size = 500
 	}
 
 	farmers = {
@@ -366,7 +366,7 @@
 	soldiers = {
 		culture = beornian
 		religion = catholic
-		size= 2000
+		size= 1000
 
 	}
 
@@ -1031,7 +1031,7 @@
 	farmers = {
 		culture  = beornian
 		religion = catholic
-		size = 4575
+		size = 14575
 	}
 
 	clergymen = {
@@ -1153,7 +1153,7 @@
 	farmers = {
 		culture  = beornian
 		religion = catholic
-		size = 6325
+		size = 26325
 	}
 
 	clergymen = {
@@ -1204,7 +1204,7 @@
 	farmers = {
 		culture  = beornian
 		religion = catholic
-		size = 5450
+		size = 15450
 	}
 
 	clergymen = {
@@ -1995,22 +1995,16 @@
 		culture = nahua
 		religion = catholic
 		size = 2800
-		militancy = 9
+		
 	}
 
-	soldiers = {
-		culture = nahua
-		religion = catholic
-		size= 3000
-
-		militancy = 9
-	}
+	
 
 	farmers = {
 		culture = nahua
 		religion = catholic
 		size = 28275
-		militancy = 9
+		
 	}
 
 	clergymen = {
@@ -2117,14 +2111,7 @@
 		militancy = 5
 	}
 
-	soldiers = {
-		culture = nahua
-		religion = catholic
-		size= 225
-
-		militancy = 5
-	}
-
+	
 	farmers = {
 		culture = nahua
 		religion = catholic
@@ -2179,7 +2166,7 @@
 	farmers = {
 		culture  = beornian
 		religion = catholic
-		size = 12300
+		size = 22300
 	}
 
 	clergymen = {
@@ -2478,12 +2465,6 @@
 		size = 1200
 	}
 
-	soldiers = {
-		culture  = beornian
-		religion = catholic
-		size= 3000
-
-	}
 
 	farmers = {
 		culture  = beornian
@@ -2923,7 +2904,7 @@
 	soldiers = {
 		culture  = beornian
 		religion = catholic
-		size = 3500
+		size = 3000
 	}
 
 	farmers = {
@@ -3101,12 +3082,6 @@
 		size = 1750
 	}
 
-	soldiers = {
-		culture  = beornian
-		religion = catholic
-		size= 3000
-
-	}
 
 	farmers = {
 		culture  = beornian
@@ -3251,7 +3226,7 @@
 	farmers = {
 		culture  = beornian
 		religion = catholic
-		size = 13250
+		size = 23250
 	}
 
 	clergymen = {
@@ -3266,16 +3241,12 @@
 		size = 1050
 	}
 
-	soldiers = {
-		culture = tarascan
-		religion = catholic
-		size = 3000
-	}
+	
 
 	farmers = {
 		culture = tarascan
 		religion = catholic
-		size = 19625
+		size = 29625
 	}
 
 	slaves = {

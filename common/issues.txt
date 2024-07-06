@@ -272,7 +272,7 @@ political_reforms = {
 			rich_vote = 1
 			middle_vote = 0
 			poor_vote = 0
-			global_immigrant_attract = 0.01
+			global_immigrant_attract = 0.05
 			allow = { NOT = { has_country_flag = theocratic_government } }
 		}
 		wealth_weighted_voting = {
@@ -280,28 +280,28 @@ political_reforms = {
 			middle_vote = 1
 			poor_vote = 0
 			
-			global_immigrant_attract = 0.02
+			global_immigrant_attract = 0.10
 		}
 		wealth_voting = {
 			rich_vote = 1
 			middle_vote = 1
 			poor_vote = 0
 
-			global_immigrant_attract = 0.08
+			global_immigrant_attract = 0.15
 		}
 		universal_weighted_voting = {
 			rich_vote = 3
 			middle_vote = 2
 			poor_vote = 1
 			
-			global_immigrant_attract = 0.30
+			global_immigrant_attract = 0.20
 		}
 		universal_voting = {
 			rich_vote = 1
 			middle_vote = 1
 			poor_vote = 1
 			
-			global_immigrant_attract = 0.55
+			global_immigrant_attract = 0.30
 		}
 	}
 	
@@ -410,16 +410,16 @@ political_reforms = {
 		}
 		gerrymandering = {
 			ruling_party_support = 0.10
-			global_immigrant_attract = 0.03
+			global_immigrant_attract = 0.04
 			allow = { NOT = { vote_franschise = none_voting } }
 		}
 		non_secret_ballots = {
 			ruling_party_support = 0.05
-			global_immigrant_attract = 0.04
+			global_immigrant_attract = 0.06
 			allow = { NOT = { vote_franschise = none_voting } }
 		}
 		secret_ballots = {
-			global_immigrant_attract = 0.05
+			global_immigrant_attract = 0.08
 			allow = { NOT = { vote_franschise = none_voting } }
 		}
 	}
@@ -719,27 +719,31 @@ social_reforms = {
 		no_health_care = {
 		}
 		trinket_health_care = {
-			global_population_growth = 0.001
+			global_population_growth = 0.00
 			administrative_multiplier = 1
-			global_immigrant_attract = 0.01
+			factory_output = 0.02
+			global_immigrant_attract = 0.02	
 			allow = { has_country_flag = medicine_invented }
 		}
 		low_health_care = {
-			global_population_growth = 0.002
+			global_population_growth = 0.001
 			administrative_multiplier = 2
-			global_immigrant_attract = 0.02
+			factory_output = 0.04
+			global_immigrant_attract = 0.04
 			allow = { has_country_flag = germs_invented }
 		}
 		acceptable_health_care = {
-			global_population_growth = 0.003
+			global_population_growth = 0.001
 			administrative_multiplier = 3
-			global_immigrant_attract = 0.03
+			factory_output = 0.06
+			global_immigrant_attract = 0.06
 			allow = { has_country_flag = gaslights_invented }
 		}
 		good_health_care = {
-			global_population_growth = 0.004
+			global_population_growth = 0.002
 			administrative_multiplier = 4
-			global_immigrant_attract = 0.04
+			factory_output = 0.08
+			global_immigrant_attract = 0.08
 			allow = { has_country_flag = electricity_invented }
 		}
 	}

@@ -727,32 +727,32 @@ farmers = {
 #Sacramento (9600/2400 POPS)
 84 = {
 	aristocrats = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 610
 	}
 
 	bureaucrats = {
-		culture = qingqiuan
-		religion = mahayana
+	culture  = beornian
+		religion = catholic
 		size = 1000
 	}
 
 	officers = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 200
 	} 
 
 	craftsmen = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 7000
 	}
   
   capitalists = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 300
 	}
   
@@ -763,100 +763,114 @@ farmers = {
 	}
 
 	clergymen = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 810
 	}
 
 	artisans = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size= 2000
 	}
 
 	farmers = {
+		culture  = beornian
+		religion = catholic
+		size = 37550
+	}
+	farmers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 47550
+		size = 17550
 	}
 }
 #Eureka (4000/1000 POPS)
 85 = {
 	aristocrats = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 210
 	}
 
 	clergymen = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 7600
 	}
 
 	soldiers = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 1000
 	}
-
+	farmers = {
+		culture  = beornian
+		religion = catholic
+		size = 13200
+	}
 	farmers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 43200
+		size = 33200
 	}
+	
 }
 #Sacramento (12000/3000 POPS)
 86 = {
 
 	aristocrats = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = qingqiuan
-		religion = mahayana
+	   culture  = beornian
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 3400
 	}
 
 	soldiers = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
 		culture = qingqiuan
 		religion = mahayana
-		size = 23450
+		size = 13450
 	}
-
+	farmers = {
+		culture  = beornian
+		religion = catholic
+		size = 12450
+	}
 	aristocrats = {
 		culture = native_american_minor
 		religion = animist
@@ -897,70 +911,70 @@ farmers = {
 #Monterey (6400/1600 POPS)
 87 = {
 	aristocrats = {
-		culture = qingqiuan
-		religion = mahayana
+	culture  = beornian
+		religion = catholic
 		size = 140
 	}
 
 	clergymen = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = qingqiuan
-		religion = mahayana
+	culture  = beornian
+		religion = catholic
 		size = 5600
 	}
 
 	soldiers = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 34200
 	}
 }
 #Mariposa (8000/2000 POPS)
 88 = {
 	aristocrats = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 200
 	}
 
 	officers = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 4500
 	}
 
 	soldiers = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 400
 	}
 
 	farmers = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 23200
 	}
 
@@ -1003,45 +1017,45 @@ farmers = {
 #Los Angeles (12000/3000 POPS)
 89 = {
 	aristocrats = {
-		culture = qingqiuan
-		religion = mahayana
+	culture  = beornian
+		religion = catholic
 		size = 310
 	}
 
 	officers = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = qingqiuan
-		religion = mahayana
+	culture  = beornian
+		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size = 5600
 	}
 
 	soldiers = {
-		culture = qingqiuan
-		religion = mahayana
+		culture  = beornian
+		religion = catholic
 		size= 1500
 
 	}
 
 	farmers = {
-		culture = qingqiuan
-		religion = mahayana
+	 culture  = beornian
+		religion = catholic
 		size = 43900
 	}
 }
@@ -1090,7 +1104,7 @@ farmers = {
 	}
 
 	farmers = {
-		culture = lusitanian
+		culture  = beornian
 		religion = catholic
 		size = 12900
 	}
@@ -1098,7 +1112,7 @@ farmers = {
 	farmers = {
 		culture  = beornian
 		religion = catholic
-		size = 4500
+		size = 14500
 	}
 	
 	aristocrats = {

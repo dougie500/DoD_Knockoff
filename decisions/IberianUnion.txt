@@ -141,7 +141,7 @@ form_iberia = {
 
 	##Spanish new world
 	SPA_New_World = {	
-	
+	 picture = cuba
 		
 		potential = {
 			tag = SPA
@@ -182,7 +182,7 @@ form_iberia = {
 	}
 	SPA_Granadan = {	
 	
-		
+		picture = colombia_map
 		potential = {
 			tag = SPA
 			civilized = yes	
@@ -225,7 +225,7 @@ form_iberia = {
 		}
 	}
 	SPA_End_Racism = {	
-	
+	    picture = native_removal_act
 		
 		potential = {
 			tag = SPA
@@ -280,7 +280,7 @@ form_iberia = {
 	##Spanish old world
 	
 	SPA_Old_World = {	
-		picture = treaty_signing
+		picture = iberian
 		
 
 		potential = {

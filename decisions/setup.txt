@@ -76,6 +76,18 @@ Traditions_setup = {
 					name = TUR_tradition
 					duration = -1
 				}
+			}	
+			BRG = {
+				add_country_modifier = {
+					name = BRG_tradition
+					duration = -1
+				}
+			}	
+			AUS = {
+				add_country_modifier = {
+					name = AUS_tradition
+					duration = -1
+				}
 			}		
 	 	 }		
 			

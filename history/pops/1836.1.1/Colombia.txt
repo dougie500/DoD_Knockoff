@@ -369,7 +369,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 1100
+		size= 500
 
 	}
 
@@ -522,7 +522,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 1100
+		size= 300
 
 	}
 
@@ -714,7 +714,7 @@
 	soldiers = {
 		culture = granadan
 		religion = catholic
-		size= 1100
+		size= 500
 
 	}
 

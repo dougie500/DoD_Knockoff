@@ -31,6 +31,7 @@ OCC_tradition = {
 	prestige = 0.01
 	culture_tech_research_bonus = 0.1
 	mobilisation_size = 0.005
+	education_efficiency_modifier = 0.05
 }
 MUS_tradition = {
 	icon = 3
@@ -52,7 +53,7 @@ DEN_tradition = {
 	navy_tech_research_bonus = 0.1
 	naval_unit_start_experience = 10
 	local_ship_build = -0.1
-	tax_efficiency = 0.01
+	tax_efficiency = 0.02
 	land_unit_start_experience = 5
 	
 }
@@ -66,16 +67,18 @@ NOV_tradition = {
 	mine_RGO_eff = 0.1
 	farm_RGO_eff = 0.1
 	supply_consumption = 0.05
+	research_points_modifier = 0.10
 }
 SPA_tradition = {
 	icon = 3
 
 
-	tax_efficiency = 0.01
+	
 	commerce_tech_research_bonus = 0.05
-	navy_tech_research_bonus = 0.05
-	industry_tech_research_bonus = -0.05
-	farm_rgo_size = 0.05
+	navy_tech_research_bonus = 0.1
+	industry_tech_research_bonus = -0.1
+	farm_RGO_eff = 0.07
+	farm_rgo_size = 0.07
 	mobilisation_size = -0.005
 }
 ARA_tradition = {
@@ -84,7 +87,7 @@ ARA_tradition = {
 
 	factory_output = 0.05
 	factory_throughput = 0.05
-	education_efficiency_modifier = 0.01
+	education_efficiency_modifier = 0.1
 }
 PLC_tradition = {
 	icon = 3
@@ -96,16 +99,18 @@ PLC_tradition = {
 }
 BOH_tradition = {
 	icon = 3
-	tax_efficiency = -0.01
+	farm_RGO_eff = -0.01
+	army_tech_research_bonus = 0.1
 	administrative_efficiency_modifier = 0.05
-	mobilisation_size = -0.01
+	mobilisation_size = -0.005
+	land_unit_start_experience = 5
 }
 VEN_tradition = {
 	icon = 3
 	tax_efficiency = -0.01
 	factory_output = -0.05
 	army_tech_research_bonus = -0.05
-	commerce_tech_research_bonus = 0.1
+	commerce_tech_research_bonus = 0.15
 	navy_tech_research_bonus = 0.05
 }
 TUR_tradition = {
@@ -117,7 +122,20 @@ TUR_tradition = {
 	naval_unit_start_experience = -10
 	local_ship_build = 0.1
 }
-
+BRG_tradition = {
+	icon = 3
+	administrative_efficiency_modifier = -0.05
+	culture_tech_research_bonus = 0.05
+	factory_input = 0.05
+}
+AUS_tradition = {
+	icon = 3
+	
+	commerce_tech_research_bonus = -0.05
+	culture_tech_research_bonus = 0.1
+	farm_RGO_eff = -0.05
+	factory_output = 0.1
+}
 
 
 

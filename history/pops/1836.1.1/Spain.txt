@@ -97,14 +97,14 @@
 	soldiers = {
 		culture = castilian
 		religion = catholic
-		size= 3100
+		size= 2100
 
 	}
 
 	farmers = {
 		culture = castilian
 		religion = catholic
-		size = 10850
+		size = 20850
 	}
 
 	clergymen = {
@@ -271,7 +271,7 @@
 	soldiers = {
 		culture = castilian
 		religion = catholic
-		size= 3400
+		size= 2400
 
 	}
 
@@ -323,7 +323,7 @@
 	soldiers = {
 		culture = castilian
 		religion = catholic
-		size= 3600
+		size= 2600
 
 	}
 
@@ -698,12 +698,6 @@
 		size = 3000
 	}
 
-	soldiers = {
-		culture = castilian
-		religion = catholic
-		size= 3000
-
-	}
 
 	soldiers = {
 		culture = castilian
@@ -778,12 +772,7 @@
 
 	}
 
-	soldiers = {
-		culture = castilian
-		religion = catholic
-		size= 3000
-
-	}
+	
 
 	farmers = {
 		culture = castilian
@@ -1997,7 +1986,7 @@
 	soldiers = {
 		culture = castilian
 		religion = catholic
-		size= 3100
+		size= 2100
 
 	}
 
