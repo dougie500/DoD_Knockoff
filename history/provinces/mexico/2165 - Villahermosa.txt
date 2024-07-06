@@ -1,5 +1,6 @@
-owner = SPA
-controller = SPA
+owner = NAN
+controller = NAN
+add_core = NAN
 colonial = 2
 add_core = YUC
 add_core = MEX

@@ -1,6 +1,6 @@
-owner = MIG
-controller = MIG   
-add_core = TNG
+owner = TAI
+controller = TAI
+add_core = TAI
 add_core = MIG
 add_core = CHI
 trade_goods = timber

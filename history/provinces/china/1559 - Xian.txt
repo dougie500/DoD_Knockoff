@@ -1,8 +1,5 @@
-owner = MCK
-controller = MCK 
-add_core = MCK
-add_core = XBI
+owner = SHU
+controller = SHU
 add_core = SHU
-add_core = CHI
 trade_goods = timber
 life_rating = 32

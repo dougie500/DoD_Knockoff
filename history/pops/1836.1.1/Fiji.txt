@@ -3,44 +3,44 @@
 #Fiji (88000/22000 POPS) 
 2454 = {
     aristocrats = {
-        culture = melanesian
-        religion = animist
+       culture = qingqiuan
+		religion = mahayana
         size = 425
     }
 
     clergymen = {
-        culture = melanesian
-        religion = animist
+        culture = qingqiuan
+		religion = mahayana
         size = 225
     }
 
     bureaucrats = {
-        culture = melanesian
-        religion = animist
+        culture = qingqiuan
+		religion = mahayana
         size = 12
     }
 
     officers = {
-        culture = melanesian
-        religion = animist
+        culture = qingqiuan
+		religion = mahayana
         size = 10
     }
 
     artisans = {
-        culture = melanesian
-        religion = animist
+        culture = qingqiuan
+		religion = mahayana
         size = 1100
     }
 
     soldiers = {
-        culture = melanesian
-        religion = animist
+        culture = qingqiuan
+		religion = mahayana
         size = 225
     }
 
     farmers = {
-        culture = melanesian
-        religion = animist
+        culture = qingqiuan
+		religion = mahayana
         size = 20025
     }
 }

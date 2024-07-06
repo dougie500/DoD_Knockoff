@@ -1,6 +1,5 @@
-owner = VIN
-controller = VIN
-add_core = VIN
-add_core = ANI
+owner = IRO
+controller = IRO
+add_core = IRO
 trade_goods = cattle
 life_rating = 30

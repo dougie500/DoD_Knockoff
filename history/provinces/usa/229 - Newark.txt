@@ -1,6 +1,6 @@
-owner = NBG
-controller = NBG
-add_core = NBG
+owner = VIN
+controller = VIN
+add_core = VIN
 trade_goods = iron
 life_rating = 35
 railroad = 1

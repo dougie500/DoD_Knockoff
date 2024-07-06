@@ -3,45 +3,45 @@
 #Hawaii (100000/25000 POPS)
 658 = {
     aristocrats = {
-        culture = polynesian
-        religion = animist
+    culture = qingqiuan
+		religion = mahayana
         size = 450
     }
 
     bureaucrats = {
-        culture = polynesian
-        religion = animist
+       culture = qingqiuan
+		religion = mahayana
         size = 75
     }
 
     officers = {
-        culture = polynesian
-        religion = animist
+     culture = qingqiuan
+		religion = mahayana
         size = 25
     }
 
     clergymen = {
-        culture = polynesian
-        religion = animist
+      culture = qingqiuan
+		religion = mahayana
         size = 275
     }
 
     artisans = {
-        culture = polynesian
-        religion = animist
+        culture = qingqiuan
+		religion = mahayana
         size = 1250
     }
 
     soldiers = {
-        culture = polynesian
-        religion = animist
-        size = 1000
+        culture = qingqiuan
+		religion = mahayana
+        size = 2000
     }
 
     farmers = {
-        culture = polynesian
-        religion = animist
-        size = 22025
+     culture = qingqiuan
+		religion = mahayana
+        size = 42025
     }
 }
 #uncolonized in 1836

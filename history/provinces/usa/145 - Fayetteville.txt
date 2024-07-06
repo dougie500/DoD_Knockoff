@@ -1,6 +1,6 @@
-add_core = PLA
-owner = PLA
-controller = PLA
+owner = IRO
+controller = IRO
+add_core = IRO
 trade_goods = timber
 life_rating = 35
 colonial = 1

@@ -1,6 +1,5 @@
-owner = LST
-controller = LST
-add_core = LST
-add_core = PLA
+owner = NAN
+controller = NAN
+add_core = NAN
 trade_goods = sulphur
 life_rating = 35

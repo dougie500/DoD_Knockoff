@@ -1,7 +1,6 @@
-owner = MCK
-controller = MCK
-add_core = CHI
-add_core = MCK
+owner = MGL
+controller = MGL
+add_core = MGL
 trade_goods = tea
 life_rating = 32
 naval_base = 1

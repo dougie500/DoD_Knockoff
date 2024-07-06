@@ -1,9 +1,4 @@
-owner = TAP
-controller = TAP
-add_core = CLM
-add_core = CAS
-add_core = SAN
-add_core = GRA
-add_core = TAP
-trade_goods = fruit
 life_rating = 20
+colonial = 1
+trade_goods = fruit
+
