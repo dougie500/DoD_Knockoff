@@ -145,7 +145,22 @@ From;To;Type;Through;Data;Comment
 
 #
 # Impassables
-#
+
+
+#China impassables 
+1617;1616;impassable;0;0;scary mountain
+1612;1616;impassable;0;0;scary mountain
+1612;1576;impassable;0;0;scary mountain
+1618;1576;impassable;0;0;scary mountain
+1618;1572;impassable;0;0;scary mountain
+1614;1572;impassable;0;0;scary mountain
+1614;1574;impassable;0;0;scary mountain
+1615;1574;impassable;0;0;scary mountain
+
+
+
+
+
 1326;1589;impassable;0;0;scary mountain
 1326;1592;impassable;0;0;scary mountain
 1328;1589;impassable;0;0;scary mountain
