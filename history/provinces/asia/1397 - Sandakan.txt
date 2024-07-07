@@ -1,6 +1,5 @@
-owner = SUL
-controller = SUL
-add_core = SUL
+owner = DNG
+controller = DNG
 add_core = NUS
 trade_goods = grain
 life_rating = 31

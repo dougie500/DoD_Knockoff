@@ -1,7 +1,6 @@
-owner = MUG
-controller = MUG
+owner = NAG
+controller = NAG
 add_core = NAG
-add_core = MUG
 #add_core = VIJ
 add_core = HND
 trade_goods = grain

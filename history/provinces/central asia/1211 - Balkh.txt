@@ -1,6 +1,6 @@
-owner = AFG
-controller = AFG
-add_core = AFG  
+owner = QAJ
+controller = QAJ
+add_core = QAJ  
 add_core = ARY
 terrain = dryhills
 trade_goods = grain

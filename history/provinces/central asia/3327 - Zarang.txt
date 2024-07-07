@@ -1,6 +1,6 @@
-owner = KAL
-controller = KAL
-add_core = KAL    
+owner = QAJ
+controller = QAJ
+add_core = QAJ  
 add_core = AFG    
 add_core = ARY
 trade_goods = wool

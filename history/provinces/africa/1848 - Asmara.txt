@@ -1,8 +1,6 @@
-owner = AMT
-controller = AMT
-add_core = AMT
+owner = ETH
+controller = ETH
 add_core = ETH
-add_core = ERI
 trade_goods = fruit
 life_rating = 35
 1861.1.1 = {
