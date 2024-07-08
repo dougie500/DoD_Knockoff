@@ -83,6 +83,8 @@ SPA_tradition = {
 }
 ARA_tradition = {
 	icon = 3
+
+
 	factory_output = 0.05
 	factory_throughput = 0.05
 	education_efficiency_modifier = 0.1
@@ -93,7 +95,7 @@ PLC_tradition = {
 	research_points_modifier = 0.05
 	mine_RGO_eff = 0.1
 	education_efficiency_modifier = 0.1
-	badboy = 0.02
+	
 }
 BOH_tradition = {
 	icon = 3
@@ -125,11 +127,10 @@ BRG_tradition = {
 	administrative_efficiency_modifier = -0.05
 	culture_tech_research_bonus = 0.05
 	factory_input = 0.05
-	
 }
 AUS_tradition = {
 	icon = 3
-	badboy = -0.02
+	
 	commerce_tech_research_bonus = -0.05
 	culture_tech_research_bonus = 0.1
 	farm_RGO_eff = -0.05

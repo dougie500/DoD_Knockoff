@@ -267,12 +267,12 @@ Renovate_Toulouse = {
   }
 
 
-Occitan_Poitou = { 
+Occitan_France1 = { 
 	
-picture = restore_order_GC
+
 
 	potential = { 
-	NOT = { has_country_flag =  Occitan_Poitou  }
+	NOT = { has_country_flag =  Occitan_France1  }
 	tag = OCC
 
 	}
@@ -283,7 +283,7 @@ picture = restore_order_GC
 	
 			
 				FRA_442 = { owned_by = THIS }
-				
+				FRA_445 = { owned_by = THIS }
 			
 		
 	}
@@ -296,18 +296,20 @@ picture = restore_order_GC
 		FRA_442 = {
 			add_core = THIS
 		}
-		
+		FRA_445 = {
+			add_core = THIS
+		}
 		
 
-		set_country_flag = Occitan_Poitou 
+		set_country_flag = Occitan_France1 
 	}
   }
-  Occitan_France = { 
+  Occitan_Lock_In = { 
 	
-	picture = france_1350
+
 
 	potential = { 
-	NOT = { has_country_flag =  Occitan_France }
+	NOT = { has_country_flag =  Occitan_Lock_In }
 	NOT = { has_country_flag =  Form_Occitaly }
 	tag = OCC
 		
@@ -338,13 +340,13 @@ picture = restore_order_GC
 			add_core = THIS
 		}
 		add_accepted_culture = french		
-		set_country_flag = Occitan_France
+		set_country_flag = Occitan_Lock_In
 		
 	}
   }
    Occitan_form_france = { 
 	
-	
+
 
 	potential = { 
 	has_country_flag =  Occitan_Lock_In

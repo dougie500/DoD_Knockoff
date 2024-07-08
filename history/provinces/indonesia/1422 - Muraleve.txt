@@ -1,6 +1,6 @@
-owner = KTI
-controller = KTI
-add_core = KTI
+owner = KLM
+controller = KLM
+add_core = KLM
 add_core = NUS
 trade_goods = grain
 life_rating = 15

@@ -1,6 +1,6 @@
-owner = AIN
-controller = AIN
-add_core = AIN
+owner = MGL
+controller = MGL
+add_core = MGL
 trade_goods = grain
 life_rating = 32
 1861.1.1 = {
