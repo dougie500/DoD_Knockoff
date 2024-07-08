@@ -1,6 +1,5 @@
-owner = VIJ
-controller = VIJ
-add_core = VIJ
+owner = TRA
+controller = TRA
 add_core = TRA
 add_core = HYD
 add_core = ADR

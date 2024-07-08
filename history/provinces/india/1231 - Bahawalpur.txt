@@ -1,5 +1,5 @@
-owner = SIN
-controller = SIN
+owner = AFG
+controller = AFG
 add_core = PNJ
 add_core = HND
 trade_goods = cattle

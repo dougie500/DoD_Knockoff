@@ -1,9 +1,5 @@
-owner = HYD
-controller = HYD
-add_core = HYD
-add_core = DRA
-#add_core = VIJ
-add_core = ADR
+owner = ORI
+controller = ORI
 add_core = ORI
 trade_goods = grain
 life_rating = 32

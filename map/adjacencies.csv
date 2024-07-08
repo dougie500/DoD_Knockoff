@@ -166,6 +166,7 @@ From;To;Type;Through;Data;Comment
 1523;1562;impassable;0;0;scary mountain
 1581;1562;impassable;0;0;scary mountain
 1581;1579;impassable;0;0;scary mountain
+
 1583;1579;impassable;0;0;scary mountain
 1583;1584;impassable;0;0;scary mountain
 1580;1584;impassable;0;0;scary mountain
@@ -174,11 +175,13 @@ From;To;Type;Through;Data;Comment
 1585;1586;impassable;0;0;scary mountain
 1602;1586;impassable;0;0;scary mountain
 1602;1588;impassable;0;0;scary mountain
+
 1602;1590;impassable;0;0;scary mountain
 1602;1341;impassable;0;0;scary mountain
 1602;1342;impassable;0;0;scary mountain
 1602;1340;impassable;0;0;scary mountain
 1602;1338;impassable;0;0;scary mountain
+
 1603;1338;impassable;0;0;scary mountain
 1603;1356;impassable;0;0;scary mountain
 1603;1372;impassable;0;0;scary mountain
