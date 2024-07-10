@@ -2,6 +2,7 @@ political_decisions = {
 form_iberia = {
 		picture = iberian	
 		potential = {
+			has_country_flag = Decision_on_hold
 			tag = SPA
 			NOT = {
 				exists = POR
@@ -80,7 +81,9 @@ form_iberia = {
 	
 	integrate_navarra = {
 		picture = euskadia	
+
 		potential = {
+			has_country_flag = Decision_on_hold
 			tag = SPA
 			OR = { 
 				exists = NAV
@@ -142,7 +145,7 @@ form_iberia = {
 	##Spanish new world
 	SPA_New_World = {	
 	 picture = cuba
-		
+	 
 		potential = {
 			tag = SPA
 			civilized = yes	
@@ -157,6 +160,7 @@ form_iberia = {
 		
 		allow = {
 			tag = SPA
+			year = 1840
 			
 		}
 		
@@ -284,6 +288,7 @@ form_iberia = {
 		
 
 		potential = {
+			
 			tag = SPA
 			civilized = yes	
 			NOT = {
@@ -295,6 +300,7 @@ form_iberia = {
 		
 		allow = {
 			tag = SPA
+			year = 1840
 			NOT = {
 				culture = central_american
 			}

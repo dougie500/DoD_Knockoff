@@ -110,7 +110,7 @@ leader = {
 #Army
 army = {
 	name = "Ejército Real"
-	location = 487
+	location = 480
 	regiment = {
 		name= "1. Granaderos del Rey"
 		type = infantry
@@ -131,56 +131,61 @@ army = {
   
 	regiment = {
 		name= "2. Granaderos del Rey"
-		type = dragoon
+		type = hussar
 		home = 518
 	}
-}
-  
-army = {
-	name = "Ejército Colombiano" 
-	location = 2183 
-
+	regiment = {
+		name= "1. Granaderos del Rey"
+		type = artillery
+		home = 2973
+	}
 	regiment = {
 		name= "1. Brigada de Infantería 'El Ramillete'"
-		type = infantry
+		type = artillery
 		home = 477
 	}
-
+	
 	regiment = {
 		name= "2. Brigada de Infantería"
 		type = infantry
 		home = 478
 	}
-
+	
 	regiment = {
 		name= "3. Brigada de Infantería"
 		type = artillery
 		home = 479
-	}        
+	}  
+	
+	regiment = {
+		name= "3. Brigada de Infantería"
+		type = artillery
+		home = 487
+	} 
 
 	regiment = {
 		name= "3. Infantería Real"
-		type = infantry
+		type = artillery
 		home = 516
-	}   
+	}  
+}
+  
+army = {
+	name = "Ejército Colombiano" 
+	location = 483 
+    
 
 	regiment = {
 		name= "1. Granaderos del Rey"
-		type = hussar
+		type = infantry
 		home = 515
 	}
   
 	regiment = {
 		name= "3. Granaderos del Rey"
-		type = dragoon
+		type = infantry
 		home = 518
 	}
-}
-
-army = {
-	name = "Ejército de Rabat"
-	location = 1685
-	
 	regiment = {
 		name= "4. Brigada de Infantería 'San Jorge'"
 		type = infantry
@@ -192,41 +197,48 @@ army = {
 		type = infantry
 		home = 513
 	}
-	
-	regiment = {
-		name= "5. Brigada de Infantería"
-		type = infantry
-		home = 512
-	}
-  
 
 	regiment = {
 		name= "9. Brigada de Infantería"
 		type = hussar
 		home = 1688
 	}
-}
-
-army = {
-	name = "Ejército del Sur"
-	location = 2270
+	
+	regiment = {
+		name= "5. Brigada de Infantería"
+		type = artillery
+		home = 512
+	}
 	regiment = {
 		name= "1. Granaderos del Rey"
-		type = infantry
+		type = artillery
 		home = 510
 	}
 
 	regiment = {
 		name= "2. Granaderos del Rey"
-		type = infantry
-		home = 525
+		type = artillery
+		home = 491
 	}
 
 	regiment = {
-		name= "3. infantryia Real"
-		type = infantry
+		name= "sus 2"
+		type = artillery
 		home = 484
 	}
+
+	regiment = {
+		name= "sus"
+		type = artillery
+		home = 509
+	}
+}
+
+
+army = {
+	name = "Ejército del Sur"
+	location = 477
+	
 
 	regiment = {
 		name= "1. Brigada de Infantería 'El Ramillete'"
@@ -241,49 +253,54 @@ army = {
 	}
 
 	regiment = {
-		name= "3. Brigada de Infantería"
-		type = artillery
-		home = 487
+		name= "3. Granaderos del Rey"
+		type = infantry
+		home = 519
 	}
 
 	regiment = {
-		name= "1. Granaderos del Rey"
+		name= "4. Granaderos del Rey"
+		type = infantry
+		home = 489
+	}
+	
+	regiment = {
+		name= "5. Granaderos del Rey"
 		type = hussar
 		home = 487
 	}
-
-	regiment = {
-		name= "2. Granaderos del Rey"
-		type = dragoon
-		home = 488
-	}
-
-	regiment = {
-		name= "3. Granaderos del Rey"
-		type = dragoon
-		home = 489
-	}
-}
-
-army = { 
-
-	name = "Ejercito de Andagoya" 
-	location = 2204 
-
-
-
+	
 	regiment = {
 		name= "1. Brigada de Infantería"
-		type = infantry
+		type = artillery
 		home = 489
 	}
 
 		regiment = {
 		name= "2. Brigada de Infantería"
-		type = infantry
-		home = 521
+		type = artillery
+		home = 476
 	}
+	regiment = {
+		name= "3. Brigada de Artillería"
+		type = artillery
+		home = 2291
+	}
+	
+	regiment = {
+		name= "4. Brigada de Infantería"
+		type = artillery
+		home = 2257
+	}            
+	
+	regiment = {
+		name= "5. Brigada de Infantería"
+		type = artillery
+		home = 2209
+	}     
 }
+
+
 army = {
 	name = "Ejército de la Habana"
 	location = 132
@@ -294,23 +311,7 @@ army = {
 		home = 521
 	}
 
-	regiment = {
-		name= "1. Brigada de Artillería"
-		type = infantry
-		home = 1685
-	}
-	
-	regiment = {
-		name= "5. Brigada de Infantería"
-		type = infantry
-		home = 1685
-	}            
-	
-	regiment = {
-		name= "5. Brigada de Infantería"
-		type = infantry
-		home = 2209
-	}           
+      
 	
 	regiment = {
 		name= "8. Brigada de Infantería 'La Granja'"
@@ -338,7 +339,7 @@ army = {
 
 navy = {
 	name = "Armada Real Española"
-	location = 517
+	location = 518
 	ship = {
 		name= "San Raimundo"
 		type = manowar
@@ -574,7 +575,7 @@ navy = {
 
 navy = {
 	name = "Armada de la Habana"
-	location = 2209
+	location = 518
 
 	ship = {
 		name= "Juan"
@@ -719,7 +720,7 @@ navy = {
 
 navy = {
 	name = "Armada de las Indias"
-	location = 1303
+	location = 518
 	
 	ship = {
 		name = "Deus"

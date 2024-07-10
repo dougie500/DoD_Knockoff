@@ -360,13 +360,13 @@
 	}
 
 	farmers = {
-		culture = turkish
+		culture = south_german
 		religion = sunni
 		size = 5000 
 	}
 	
 	serfs = {
-		culture = turkish
+		culture = south_german
 		religion = sunni
 		size = 3500 
 	}	
@@ -725,13 +725,13 @@
 	}
 
 	farmers = {
-		culture = turkish
+		culture = south_german
 		religion = sunni
 		size = 8200
 	}
 	
 	serfs = {
-		culture = turkish
+		culture = south_german
 		religion = sunni
 		size = 5450
 	}
@@ -914,13 +914,13 @@
 	}
 
 	farmers = {
-		culture = turkish
+		culture = south_german
 		religion = sunni
 		size = 2400 
 	}
 	
 	serfs = {
-		culture = turkish
+		culture = south_german
 		religion = sunni
 		size = 1100 
 	}
@@ -1052,13 +1052,13 @@
 	}
 	
 	farmers = {
-		culture = turkish
+		culture = south_german
 		religion = sunni
 		size = 4735
 	}
 	
 	serfs = {
-		culture = turkish
+		culture = south_german
 		religion = sunni
 		size = 1200
 	}
@@ -1518,13 +1518,13 @@
 	}	
 	
 	farmers = {
-		culture = turkish
+		culture = south_german
 		religion = sunni
 		size = 2500 
 	}
 
 	serfs = {
-		culture = turkish
+		culture = south_german
 		religion = sunni
 		size = 1750 
 	}

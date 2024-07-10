@@ -1,6 +1,6 @@
-owner = BRG
-controller = BRG
-add_core = JOH
+owner = CAM
+controller = CAM
+add_core = CAM
 #add_core = PAT
 add_core = NUS
 trade_goods = timber
