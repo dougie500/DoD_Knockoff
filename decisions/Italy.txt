@@ -561,6 +561,9 @@ political_decisions = {
 			TUR_674 = {
 				add_core = THIS
 			}
+			GRE_837 = {
+				add_core = THIS
+			}
 			random_country = { 
 				limit = {
 					tag = GRE

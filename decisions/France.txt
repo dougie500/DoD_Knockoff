@@ -270,7 +270,7 @@ Renovate_Toulouse = {
 Occitan_France1 = { 
 	
 
-
+picture = occ_poitou
 	potential = { 
 	NOT = { has_country_flag =  Occitan_France1  }
 	tag = OCC
@@ -283,7 +283,7 @@ Occitan_France1 = {
 	
 			
 				FRA_442 = { owned_by = THIS }
-				FRA_445 = { owned_by = THIS }
+				
 			
 		
 	}
@@ -296,16 +296,13 @@ Occitan_France1 = {
 		FRA_442 = {
 			add_core = THIS
 		}
-		FRA_445 = {
-			add_core = THIS
-		}
-		
+	
 
 		set_country_flag = Occitan_France1 
 	}
   }
   Occitan_Lock_In = { 
-	
+	picture = military_parade
 
 
 	potential = { 
@@ -345,7 +342,7 @@ Occitan_France1 = {
 	}
   }
    Occitan_form_france = { 
-	
+	picture = Paris_taken
 
 
 	potential = { 

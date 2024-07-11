@@ -255,12 +255,6 @@ form_iberia = {
 			MEX_2161  = {
 				add_core = THIS
 			}
-			MEX_2183= {
-				add_core = THIS
-			}
-			ENG_203 = {
-				add_core = THIS
-			}
 			NA_16= {
 				add_core = THIS
 			}
@@ -327,6 +321,7 @@ form_iberia = {
 
 
 	SPA_Catalonia_1 = {
+		picture = aragon_map
 		potential = { 
 			 tag = SPA
 			has_country_flag = SPA_Old_World
@@ -340,6 +335,7 @@ form_iberia = {
 			SPA_492 = { owned_by = THIS }
 			SPA_506 = { owned_by = THIS }
 			SPA_503 = { owned_by = THIS }
+			ESK_1 = { owned_by = THIS }
 		}
 		effect = { 
 			set_country_flag = SPA_Catalonia_1
@@ -355,9 +351,13 @@ form_iberia = {
 			SPA_498= {
 				add_core = THIS
 			}
+			ESK_1= {
+				add_core = THIS
+			}
 		}
 	}
 	SPA_Catalonia_2 = {
+		picture = create_iberia
 		potential = { 
 			 tag = SPA
 			has_country_flag = SPA_Catalonia_1
