@@ -221,8 +221,8 @@ civ_nation = {
 }
 
 unciv_nation = {
-	mobilisation_size = -0.2
-	diplomatic_points_modifier = -0.25
+	mobilisation_size = -0.01
+	diplomatic_points_modifier = -0.1
 	cb_generation_speed_modifier = 0.8
 }
 

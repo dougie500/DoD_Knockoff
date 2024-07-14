@@ -221,16 +221,21 @@ political_decisions = {
 		
 		}
 		effect = { 
-			limit = {
-				tag = SWE
-				owns = 332
+			random_country = { 
+				limit = {
+					tag = SWE
+					owns = 322
+				}
+				annex_to = THIS
 			}
-			annex_to = DEN
-			limit = {
-				tag = POM
-				owns = 332
+
+			random_country = { 
+				limit = {
+					tag = PAP
+					owns = 546
+				}
+				annex_to = THIS
 			}
-			annex_to = DEN
 			
 			set_country_flag = Baltic_empire
 			
@@ -241,18 +246,12 @@ political_decisions = {
 				add_core = THIS
 
 			}
-			any_owned = {
-				limit = {
-					is_core = POM
-				}
-				add_core = THIS
-
-			}
+			
 		}
 		
 	}
 	Finnish_Expansion = {
-		
+		picture = old_finnish_map
 		potential = { 
 			has_country_flag = Baltic_empire
 			tag = DEN
@@ -264,47 +263,16 @@ political_decisions = {
 		
 		allow = {
 			RUS_340 = { owned_by = THIS }
-			SCA_345 = { owned_by = THIS }
+			RUS_336 = { owned_by = THIS }
+			RUS_349 = { owned_by = THIS }
 		}
 		effect = { 
-			RUS_340 = {
-				add_core = THIS
-			}
-			SCA_345 = {
-				add_core = THIS
-			}
-			RUS_336 = {
-				add_core = THIS
-			}
-			RUS_349 = {
-				add_core = THIS
-			}
-			RUS_354 = {
-				add_core = THIS
-			}
-			LIT_698 = {
-				add_core = THIS
-			}
-			PRU_690 = {
-				add_core = THIS
-			}
-			PRU_695 = {
-				add_core = THIS
-			}
+			
 			
 			add_accepted_culture = finnish
 			add_accepted_culture = estonian
 			set_country_flag = Finnish_Expansion
-			
-			any_owned = {
-				limit = {
-					is_core = SWE
-				}
-				add_core = THIS
-
-			}
-		 
-			
+		
 		}
 		
 	}
@@ -312,7 +280,7 @@ political_decisions = {
 
 
 	DEN_elbian = {
-		
+		picture = elbian_confederation
 		potential = { 
 			has_country_flag = Baltic_empire
 				tag = DEN
@@ -359,68 +327,41 @@ political_decisions = {
 		effect = { 
 			random_country = { 
 				limit = {
-					tag = POM
-					
+					tag = DEN
+					owns = 534
 				}
 				annex_to = THIS
-			}
-			random_country = { 
-				limit = {
-					tag = BRN
-					
-				}
-				annex_to = THIS
-			}
-			random_country = { 
-				limit = {
-					tag = BRA
-					
-				}
-				annex_to = THIS
-			}
-			random_country = { 
-				limit = {
-					tag = HAN
-					
-				}
-				annex_to = THIS
-			}
-			set_country_flag = DEN_elbian
-			
-			any_owned = {
-				limit = {
-					is_core = POM
-				}
-				add_core = THIS
-
-			}
-			any_owned = {
-				limit = {
-					is_core = BRN
-				}
-				add_core = THIS
-
-			}
-			any_owned = {
-				limit = {
-					is_core = BRA
-				}
-				add_core = THIS
-
-			}
-			any_owned = {
-				limit = {
-					is_core = HAN
-				}
-				add_core = THIS
-
 			}
 			add_accepted_culture = elbian
 		}
 		
 	}
 
-	
+	Lithuanian_Expansion = {
+		picture = lithuania
+		potential = { 
+			has_country_flag = Baltic_empire
+			tag = DEN
+			
+			NOT = {
+				has_country_flag = Lithuanian_Expansion
+			}
+		}
+		
+		allow = {
+			RUS_349 = { owned_by = THIS }
+			RUS_360 = { owned_by = THIS }
+			
+		}
+		effect = { 
+			
+			add_accepted_culture = lithuanian
+			set_country_flag = Lithuanian_Expansion
+		
+		}
+		
+	}
+
 	
 		
 	

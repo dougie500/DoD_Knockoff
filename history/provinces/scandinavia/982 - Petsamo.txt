@@ -4,3 +4,4 @@ add_core = NOV
 add_core = FIN
 trade_goods = iron
 life_rating = 25
+terrain = boreal

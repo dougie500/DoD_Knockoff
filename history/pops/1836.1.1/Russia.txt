@@ -574,7 +574,7 @@
 	farmers = {
 		culture = finnish
 		religion = protestant
-		size = 35000
+		size = 45000
 	}
 	farmers = {
 		culture = russian
@@ -651,7 +651,7 @@
 	farmers = {
 		culture = finnish
 		religion = protestant
-		size = 1335
+		size = 11335
 	}
 
 	clergymen = {
@@ -690,7 +690,7 @@
 	farmers = {
 		culture = finnish
 		religion = protestant
-		size = 1825
+		size = 11825
 	}
 
 	clergymen = {
@@ -831,7 +831,7 @@
 	farmers = {
 		culture = finnish
 		religion = protestant
-		size = 3000
+		size = 13000
 	}
 	clergymen = {
 		culture = ugrian
@@ -1577,7 +1577,7 @@ farmers = {
 	farmers = {
 		culture = finnish
 		religion = protestant
-		size = 17275
+		size = 47275
 	}
 
 	clergymen = {
@@ -1741,7 +1741,7 @@ farmers = {
 	farmers = {
 		culture = finnish
 		religion = protestant
-		size = 12000
+		size = 32000
 	}
 	artisans = {
 		culture = ugrian
@@ -1799,7 +1799,7 @@ farmers = {
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 1000
+		size= 2000
 
 	}
 
@@ -1812,7 +1812,7 @@ farmers = {
 	serfs = {
 		culture = russian
 		religion = orthodox
-		size = 136143
+		size = 96143
 	}	
 	
 }
@@ -1987,7 +1987,7 @@ farmers = {
 	serfs = {
 		culture = russian
 		religion = orthodox
-		size = 84252
+		size = 64252
 	}	
 }
 #Novgorod Region (1532000)
@@ -2852,7 +2852,7 @@ clergymen = {
 	farmers = {
 		culture = russian
 		religion = orthodox
-		size = 123775
+		size = 83775
 	}
 }
 #Kostorma (312000/78000 POPS)

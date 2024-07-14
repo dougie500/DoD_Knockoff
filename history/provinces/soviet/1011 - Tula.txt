@@ -4,4 +4,4 @@ add_core = RUS
 add_core = MUS
 trade_goods = coal
 terrain = mining_district
-life_rating = 37
+life_rating = 35

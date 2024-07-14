@@ -52,19 +52,19 @@
 	}
 
 	clergymen = {
-		culture = druze
+		culture = mashriqi
 		religion = druze
 		size = 50
 	}
 
 	artisans = {
-		culture = druze
+		culture = mashriqi
 		religion = druze
 		size = 400
 	}
 
 	farmers = {
-		culture = druze
+		culture = mashriqi
 		religion = druze
 		size = 4350
 	}
@@ -221,19 +221,19 @@
 	}
 
 	clergymen = {
-		culture = druze
+		culture = mashriqi
 		religion = druze
 		size = 35
 	}
 
 	artisans = {
-		culture = druze
+		culture = mashriqi
 		religion = druze
 		size = 200
 	}
 
 	farmers = {
-		culture = druze
+		culture = mashriqi
 		religion = druze
 		size = 1875
 	}

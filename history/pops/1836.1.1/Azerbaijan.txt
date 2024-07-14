@@ -786,25 +786,25 @@
 	}
 	
 	aristocrats = {
-		culture = caspian
+		culture = persian
 		religion = shiite
 		size = 200
 	}
 
 	clergymen = {
-		culture = caspian
+		culture = persian
 		religion = shiite
 		size = 125
 	}
 
 	artisans = {
-		culture = caspian
+		culture = persian
 		religion = shiite
 		size = 2500
 	}
 
 	farmers = {
-		culture = caspian
+		culture = persian
 		religion = shiite
 		size = 17500
 	}	

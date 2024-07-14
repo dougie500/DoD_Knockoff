@@ -65,13 +65,13 @@
 	}
 
 	clergymen = {
-		culture = druze
+		culture = mashriqi
 		religion = druze
 		size = 75
 	}
 
 	artisans = {
-		culture = druze
+		culture = mashriqi
 		religion = druze
 		size = 1000
 	}

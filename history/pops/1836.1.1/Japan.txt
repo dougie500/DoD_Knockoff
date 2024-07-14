@@ -1541,266 +1541,256 @@
 #under the rule of Japan in 1836
 #Sendai (628000/157000 POPS)
 1668 = {
-    officers = {
-        culture = japanese
-        religion = mahayana
-        size = 825
-    }
-
     clergymen = {
-        culture = japanese
-        religion = mahayana
-        size = 1175
+        culture = ainu
+        religion = animist
+        size = 750
     }
-
+    soldiers = {
+        culture = ainu
+        religion = mahayana
+        size = 1075
+    }
     artisans = {
         culture = japanese
         religion = mahayana
-        size = 5850
-    }
-
-    farmers = {
-        culture = japanese
-        religion = mahayana
-        size = 105075
-    }
-
-    clergymen = {
-        culture = japanese
-        religion = shinto
-        size = 425
+        size = 400
     }
 
     artisans = {
         culture = japanese
         religion = shinto
-        size = 2000
+        size = 400
+    }
+
+    artisans = {
+        culture = ainu
+        religion = animist
+        size = 3000
     }
 
     farmers = {
         culture = japanese
         religion = shinto
-        size = 36425
+        size = 7425
+    }
+
+    farmers = {
+        culture = ainu
+        religion = animist
+        size = 68350
     }
 }
 #Fukushima (576000/147000 POPS)
 1669 = {
     clergymen = {
-        culture = japanese
-        religion = mahayana
-        size = 1025
+        culture = ainu
+        religion = animist
+        size = 750
     }
-
+    soldiers = {
+        culture = ainu
+        religion = mahayana
+        size = 1075
+    }
     artisans = {
         culture = japanese
         religion = mahayana
-        size = 5150
-    }
-
-    farmers = {
-        culture = japanese
-        religion = mahayana
-        size = 93750
-    }
-
-    clergymen = {
-        culture = japanese
-        religion = shinto
-        size = 450
+        size = 400
     }
 
     artisans = {
         culture = japanese
         religion = shinto
-        size = 2200
+        size = 400
+    }
+
+    artisans = {
+        culture = ainu
+        religion = animist
+        size = 3000
     }
 
     farmers = {
         culture = japanese
         religion = shinto
-        size = 40050
+        size = 30425
+    }
+
+    farmers = {
+        culture = ainu
+        religion = animist
+        size = 38350
     }
 }
 #Morioka (316000/79000 POPS)
 1670 = {
     clergymen = {
-        culture = japanese
-        religion = mahayana
-        size = 550
+        culture = ainu
+        religion = animist
+        size = 750
     }
-
+    soldiers = {
+        culture = ainu
+        religion = mahayana
+        size = 1075
+    }
     artisans = {
         culture = japanese
         religion = mahayana
-        size = 2800
-    }
-
-    farmers = {
-        culture = japanese
-        religion = mahayana
-        size = 50975
-    }
-
-    clergymen = {
-        culture = japanese
-        religion = shinto
-        size = 225
+        size = 400
     }
 
     artisans = {
         culture = japanese
         religion = shinto
-        size = 1150
+        size = 400
+    }
+
+    artisans = {
+        culture = ainu
+        religion = animist
+        size = 3000
     }
 
     farmers = {
         culture = japanese
         religion = shinto
-        size = 20950
+        size = 7425
+    }
+
+    farmers = {
+        culture = ainu
+        religion = animist
+        size = 68350
     }
 }
 #Akita (392000/98000 POPS)
 1671 = {
+   
     clergymen = {
-        culture = japanese
-        religion = mahayana
-        size = 700
+        culture = ainu
+        religion = animist
+        size = 750
     }
-
+    soldiers = {
+        culture = ainu
+        religion = mahayana
+        size = 1075
+    }
     artisans = {
         culture = japanese
         religion = mahayana
-        size = 3450
-    }
-
-    farmers = {
-        culture = japanese
-        religion = mahayana
-        size = 63800
-    }
-
-    clergymen = {
-        culture = japanese
-        religion = shinto
-        size = 300
+        size = 400
     }
 
     artisans = {
         culture = japanese
         religion = shinto
-        size = 1450
+        size = 400
+    }
+
+    artisans = {
+        culture = ainu
+        religion = animist
+        size = 3000
     }
 
     farmers = {
         culture = japanese
         religion = shinto
-        size = 26400
+        size = 7425
+    }
+
+    farmers = {
+        culture = ainu
+        religion = animist
+        size = 68350
     }
 }
 #Aomori (372000/93000 POPS)
 1672 = {
-    aristocrats = {
-        culture = japanese
-        religion = mahayana
-        size = 10000
-    }
-
+    
     clergymen = {
-        culture = japanese
-        religion = mahayana
+        culture = ainu
+        religion = animist
         size = 750
     }
-
+    soldiers = {
+        culture = ainu
+        religion = mahayana
+        size = 1075
+    }
     artisans = {
         culture = japanese
         religion = mahayana
-        size = 3150
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = mahayana
-        size = 5150
-    }
-
-    farmers = {
-        culture = japanese
-        religion = mahayana
-        size = 57400
-    }
-
-    aristocrats = {
-        culture = japanese
-        religion = shinto
-        size = 3700
-    }
-
-    clergymen = {
-        culture = japanese
-        religion = shinto
-        size = 325
+        size = 400
     }
 
     artisans = {
         culture = japanese
         religion = shinto
-        size = 1500
+        size = 400
     }
 
-    soldiers = {
-        culture = japanese
-        religion = shinto
-        size = 1975
+    artisans = {
+        culture = ainu
+        religion = animist
+        size = 3000
     }
 
     farmers = {
         culture = japanese
         religion = shinto
-        size = 27325
+        size = 7425
     }
 
-    bureaucrats = {
-        culture = japanese
-        religion = mahayana
-        size = 575
+    farmers = {
+        culture = ainu
+        religion = animist
+        size = 78350
     }
 }
 #Yamagata (512000/128000 POPS)
 1673 = {
     clergymen = {
-        culture = japanese
-        religion = mahayana
-        size = 1000
+        culture = ainu
+        religion = animist
+        size = 750
     }
-
+    soldiers = {
+        culture = ainu
+        religion = mahayana
+        size = 1075
+    }
     artisans = {
         culture = japanese
         religion = mahayana
-        size = 4900
-    }
-
-    farmers = {
-        culture = japanese
-        religion = mahayana
-        size = 89150
-    }
-
-    clergymen = {
-        culture = japanese
-        religion = shinto
-        size = 325
+        size = 400
     }
 
     artisans = {
         culture = japanese
         religion = shinto
-        size = 1500
+        size = 400
+    }
+
+    artisans = {
+        culture = ainu
+        religion = animist
+        size = 3000
     }
 
     farmers = {
         culture = japanese
         religion = shinto
-        size = 27325
+        size = 7425
+    }
+
+    farmers = {
+        culture = ainu
+        religion = animist
+        size = 68350
     }
 }
 #Utsunomiya (412000/103000 POPS)

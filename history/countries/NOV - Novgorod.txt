@@ -78,6 +78,7 @@ enlightenment_thought = 1
 experimental_railroad = 1 
 mechanical_production = 1 
 puddling_proccess = 1 
+positivism = 1 
 #Inventions
 #corvettes = yes
 commerce_raiders = yes

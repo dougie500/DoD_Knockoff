@@ -233,7 +233,7 @@
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = scandinavian
 		religion = protestant
 		size = 20
 	}
@@ -245,26 +245,26 @@
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = scandinavian
 		religion = protestant
 		size = 150
 	}
 
 	artisans = {
-		culture = north_german
+		culture = scandinavian
 		religion = protestant
 		size = 2500
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = scandinavian
 		religion = protestant
 		size= 1500
 
 	}
 
 	farmers = {
-		culture = north_german
+		culture = scandinavian
 		religion = protestant
 		size = 14850
 	}

@@ -1,5 +1,5 @@
 capital = 1135
-primary_culture = lurish
+primary_culture = persian
 culture = persian
 religion = shiite
 government = absolute_monarchy

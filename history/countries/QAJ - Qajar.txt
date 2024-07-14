@@ -1,5 +1,5 @@
 capital = 1115
-primary_culture = caspian
+primary_culture = persian
 culture = persian
 religion = shiite
 government = absolute_monarchy

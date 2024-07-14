@@ -40,7 +40,7 @@
 	}
 
 	farmers = {
-		culture = north_german
+		culture = scandinavian
 		religion = protestant
 		size = 34650
 	}
@@ -65,8 +65,8 @@
 	}
 
 	farmers = {
-		culture = north_german
-		religion = catholic
+		culture = scandinavian
+		religion = protestant
 		size = 1825 
 	}
 
@@ -77,8 +77,8 @@
 	}
 
 	artisans = {
-		culture = ashkenazi
-		religion = jewish
+		culture = scandinavian
+		religion = protestant
 		size = 490
 	}
 
@@ -161,7 +161,7 @@
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 31825
+		size = 21825
 	}
 
 	aristocrats = {
@@ -179,7 +179,7 @@
 	farmers = {
 		culture = scandinavian
 		religion = protestant
-		size = 1675
+		size = 24675
 	}
 	
 }
@@ -212,7 +212,7 @@
 	}
 
 	artisans = {
-		culture = north_german
+		culture = scandinavian
 		religion = protestant
 		size = 10000
 	}
@@ -222,21 +222,21 @@
 		size = 2000
 	}
 	craftsmen= {
-		culture = north_german
+		culture = scandinavian
 		religion = protestant
 		size = 18000
 	}
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size= 1000
+		size= 2000
 
 	}
 
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 16250
+		size = 6250
 	}
 
 	clergymen = {
@@ -272,7 +272,7 @@
 	farmers = {
 		culture = scandinavian
 		religion = protestant
-		size = 2150
+		size = 22150
 	}
 }
 #Under rule of Hannover 1836 (396000)
@@ -457,7 +457,7 @@
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 12395 
+		size = 13395 
 	}
 
 	clergymen = {
@@ -475,7 +475,7 @@
 	farmers = {
 		culture = scandinavian
 		religion = protestant
-		size = 4200 
+		size = 21200 
 	}
 }
 #under the Rule of Mecklenburg 1836 
@@ -498,7 +498,11 @@
 		religion = protestant
 		size = 150 
 	}
-
+	farmers = {
+		culture = scandinavian
+		religion = protestant
+		size = 54200 
+	}
 	clergymen = {
 		culture = scandinavian
 		religion = protestant
@@ -521,7 +525,7 @@
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 109800 
+		size = 69800 
 	}
 
 	clergymen = {

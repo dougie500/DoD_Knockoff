@@ -46,22 +46,11 @@ vassal = {
 
 
 # Japanese Protectorate of Ainu
-vassal = {
-	first = JAP
-	second = AIN
-	start_date = 1827.11.9
-	end_date = 1845.1.1
-}
 
 
 
 # Kalat Tributary
-vassal = {
-	first = SIN
-	second = KAL
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
+
 
 # Dahomey Tributary
 vassal = {

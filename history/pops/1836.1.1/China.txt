@@ -5515,13 +5515,9 @@
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 1100
+		size = 3100
 	}
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 1050
-	}
+	
 }
 #Jirim Chuulghan (152000/38000 POPS)
 1533 = {
@@ -5654,7 +5650,7 @@
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size = 1125
+		size = 2500
 	}
 }
 #Jiangsu Region (37612000)
@@ -8782,11 +8778,15 @@
 		religion = mahayana
 		size = 2200
 	}
-
+	farmers = {
+		culture = mongol
+		religion = mahayana
+		size = 40000
+	}
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 80000
+		size = 50000
 	}
 }
 #Sichuan Region (34604000)
