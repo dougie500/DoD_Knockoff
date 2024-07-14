@@ -148,18 +148,15 @@ From;To;Type;Through;Data;Comment
 
 
 #China impassables 
-1617;1616;impassable;0;0;scary mountain
-1612;1616;impassable;0;0;scary mountain
-1612;1576;impassable;0;0;scary mountain
-1618;1576;impassable;0;0;scary mountain
-1618;1572;impassable;0;0;scary mountain
-1614;1572;impassable;0;0;scary mountain
-1614;1574;impassable;0;0;scary mountain
-1615;1574;impassable;0;0;scary mountain
-1515;1574;impassable;0;0;scary mountain
-1511;1574;impassable;0;0;scary mountain
-1511;1575;impassable;0;0;scary mountain
-1510;1575;impassable;0;0;scary mountain
+1510;2062;impassable;0;0;scary mountain 
+1510;1575;impassable;0;0;scary mountain 
+1567;1570;impassable;0;0;scary mountain 
+1568;1563;impassable;0;0;scary mountain 
+1568;1515;impassable;0;0;scary mountain 
+1564;1515;impassable;0;0;scary mountain 
+1508;1515;impassable;0;0;scary mountain
+1508;1511;impassable;0;0;scary mountain
+1510;1511;impassable;0;0;scary mountain
 1510;2602;impassable;0;0;scary mountain
 1510;1562;impassable;0;0;scary mountain
 1513;1562;impassable;0;0;scary mountain

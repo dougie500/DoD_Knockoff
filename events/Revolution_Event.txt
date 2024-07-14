@@ -177,7 +177,7 @@ country_event = {
 		
 		random_owned = { 
 			limit = { owner = { tag = XIN } } 
-			owner = { remove_accepted_culture = uighur }
+			owner = { remove_accepted_culture = mongol }
 		}
 		
 		random_owned = {

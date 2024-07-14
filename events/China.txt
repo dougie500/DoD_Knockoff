@@ -394,7 +394,7 @@ country_event = {
 	BDK = { government = khanate }	
 	UZB = { government = khanate }
 	remove_accepted_culture = uzbek 
-	remove_accepted_culture = uighur 
+	remove_accepted_culture = mongol 
 	remove_accepted_culture = kazak  
 	ai_chance = { factor = 60 }
 	}

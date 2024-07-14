@@ -1,5 +1,5 @@
 owner = CHG
-controller = CHG   
+controller = CHG
 add_core = CHG
 add_core = TNT
 trade_goods = coal

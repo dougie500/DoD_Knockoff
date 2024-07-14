@@ -3564,7 +3564,7 @@ clergymen = {
 	}
 	
 	farmers = {
-		culture = bashkir
+		culture = tatar
 		religion = sunni
 		size = 1850
 	}
@@ -4045,37 +4045,37 @@ clergymen = {
 	}
 
 	aristocrats = {
-		culture = bashkir
+		culture = tatar
 		religion = sunni
 		size = 1750
 	}
 
 	officers = {
-		culture = bashkir
+		culture = tatar
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = bashkir
+		culture = tatar
 		religion = sunni
 		size = 750
 	}
 
 	artisans = {
-		culture = bashkir
+		culture = tatar
 		religion = sunni
 		size = 4000
 	}
 
 	soldiers = {
-		culture = bashkir
+		culture = tatar
 		religion = sunni
 		size = 800
 	}
 
 	farmers = {
-		culture = bashkir
+		culture = tatar
 		religion = sunni
 		size = 40600
 	}	
@@ -4154,7 +4154,7 @@ clergymen = {
 	}
 
 	farmers = {
-		culture = bashkir
+		culture = tatar
 		religion = sunni
 		size = 5800
 	}	

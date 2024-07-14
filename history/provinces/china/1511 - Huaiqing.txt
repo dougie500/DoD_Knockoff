@@ -1,6 +1,6 @@
-owner = MCK
-controller = MCK 
-add_core = MCK
+owner = MIG
+controller = MIG 
+add_core = MIG
 add_core = SHU
 add_core = CHI
 trade_goods = tea

@@ -223,7 +223,7 @@ country_event = {
 		tag = KOK
 		post_napoleonic_thought = 1
 		any_neighbor_country = {
-			any_owned_province = { culture = kirgiz }
+			any_owned_province = { culture = kazak }
 			OR = {
 				AND = {
 					civilized = no
@@ -244,7 +244,7 @@ country_event = {
 			factor = 0.1
 			any_neighbor_country = {
 				war = yes
-				any_owned_province = { culture = kirgiz }
+				any_owned_province = { culture = kazak }
 				OR = {
 					AND = {
 						civilized = no
@@ -273,7 +273,7 @@ country_event = {
 		random_country = {
 			limit = {
 				neighbour = THIS
-				any_owned_province = { culture = kirgiz }
+				any_owned_province = { culture = kazak }
 				OR = {
 					AND = {
 						civilized = no
@@ -300,7 +300,7 @@ country_event = {
 		random_country = {
 			limit = {
 				neighbour = THIS
-				any_owned_province = { culture = kirgiz }
+				any_owned_province = { culture = kazak }
 				OR = {
 					AND = {
 						civilized = no

@@ -3,19 +3,19 @@
 #Bishkek (236000/59000 POPS) #now part of Kirghizstan   
 1189 = {
     clergymen = {
-        culture = kirgiz
+        culture = kazak
         religion = sunni
         size = 425
     }
 
     artisans = {
-        culture = kirgiz
+        culture = kazak
         religion = sunni
         size = 2000
     }
 
     farmers = {
-        culture = kirgiz
+        culture = kazak
         religion = sunni
         size = 33775
     }
@@ -39,19 +39,19 @@
     }
 
     clergymen = {
-        culture = uighur
+        culture = mongol
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = uighur
+        culture = mongol
         religion = sunni
         size = 350
     }
 
     farmers = {
-        culture = uighur
+        culture = mongol
         religion = sunni
         size = 7375
     }
@@ -59,61 +59,61 @@
 #Naryn (56000/14000 POPS) #now part of Kirghizstan    
 1190 = {
     aristocrats = {
-        culture = kirgiz
+        culture = kazak
         religion = sunni
         size = 1525
     }
 
     clergymen = {
-        culture = kirgiz
+        culture = kazak
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = kirgiz
+        culture = kazak
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = kirgiz
+        culture = kazak
         religion = sunni
         size = 12150
     }
 
     farmers = {
-        culture = kirgiz
+        culture = kazak
         religion = sunni
         size = 2775
     }
 
     aristocrats = {
-        culture = kirgiz
+        culture = kazak
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = kirgiz
+        culture = kazak
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = kirgiz
+        culture = kazak
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = kirgiz
+        culture = kazak
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = kirgiz
+        culture = kazak
         religion = animist
         size = 4575
     }
@@ -149,7 +149,7 @@
     }
 
     aristocrats = {
-        culture = uighur
+        culture = mongol
         religion = sunni
         size = 125
     }
@@ -167,7 +167,7 @@
     }
 
     soldiers = {
-        culture = uighur
+        culture = mongol
         religion = sunni
         size = 75
     }
@@ -213,19 +213,19 @@
     }
 
     clergymen = {
-        culture = kirgiz
+        culture = kazak
         religion = sunni
         size = 175
     }
 
     artisans = {
-        culture = kirgiz
+        culture = kazak
         religion = sunni
         size = 900
     }
 
     farmers = {
-        culture = kirgiz
+        culture = kazak
         religion = sunni
         size = 13550
     }

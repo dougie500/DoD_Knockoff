@@ -41,7 +41,7 @@
     farmers = {
         culture = mongol
         religion = gelugpa
-        size = 84350
+        size = 124350
     }
 
     bureaucrats = {
@@ -65,7 +65,7 @@
     soldiers = {
         culture = beifaren
         religion = mahayana
-        size = 100
+        size = 400
     }
 
     farmers = {
@@ -103,19 +103,29 @@
     clergymen = {
         culture = mongol
         religion = gelugpa
-        size = 550
+        size = 375
+    }
+    bureaucrats = {
+        culture = mongol
+        religion = gelugpa
+        size = 200
+    }
+    soldiers = {
+        culture = mongol
+        religion = gelugpa
+        size = 2000
     }
 
     artisans = {
         culture = mongol
         religion = gelugpa
-        size = 2650
+        size = 2875
     }
 
     farmers = {
         culture = mongol
         religion = gelugpa
-        size = 48200
+        size = 46200
     }
 }
 #Bayan Tumen (176000/44000 POPS)   
@@ -131,7 +141,11 @@
         religion = gelugpa
         size = 2050
     }
-
+    soldiers = {
+        culture = mongol
+        religion = gelugpa
+        size = 1500
+    }
     farmers = {
         culture = mongol
         religion = gelugpa
@@ -158,46 +172,37 @@
 }
 #Uliastai (140000/35000 POPS)   
 1468 = {
-    aristocrats = {
-        culture = oirat
+    clergymen = {
+        culture = mongol
         religion = gelugpa
-        size = 8000
+        size = 375
     }
-
     bureaucrats = {
-        culture = oirat
+        culture = mongol
         religion = gelugpa
-        size = 100
+        size = 200
     }
-
-    officers = {
-        culture = oirat
+    soldiers = {
+        culture = mongol
         religion = gelugpa
         size = 1000
     }
 
-    clergymen = {
-        culture = oirat
-        religion = gelugpa
-        size = 350
-    }
-
     artisans = {
-        culture = oirat
+        culture = mongol
         religion = gelugpa
-        size = 1750
-    }
-
-    soldiers = {
-        culture = oirat
-        religion = gelugpa
-        size = 4000
+        size = 9875
     }
 
     farmers = {
-        culture = oirat
+        culture = mongol
         religion = gelugpa
-        size = 31900
+        size = 36200
+    }
+    officers = {
+        culture = mongol
+        religion = gelugpa
+        size = 200
     }
 }
 #Sainshand (71100/17775 POPS)   
@@ -205,38 +210,48 @@
     clergymen = {
         culture = mongol
         religion = gelugpa
-        size = 175
+        size = 375
+    }
+    bureaucrats = {
+        culture = mongol
+        religion = gelugpa
+        size = 200
+    }
+    soldiers = {
+        culture = mongol
+        religion = gelugpa
+        size = 1500
     }
 
     artisans = {
         culture = mongol
         religion = gelugpa
-        size = 875
+        size = 9875
     }
 
     farmers = {
         culture = mongol
         religion = gelugpa
-        size = 16200
+        size = 36200
     }
 }
 
 #Khatgal (152000/38000 POPS)   
 2608 = {
     clergymen = {
-        culture = oirat
+        culture = mongol
         religion = gelugpa
         size = 375
     }
 
     artisans = {
-        culture = oirat
+        culture = mongol
         religion = gelugpa
         size = 1500
     }
 
     farmers = {
-        culture = oirat
+        culture = mongol
         religion = gelugpa
         size = 35000
     }
@@ -244,90 +259,90 @@
 #Bulgan (84000/21000 POPS)   
 2678 = {
     clergymen = {
-        culture = oirat
+        culture = mongol
+        religion = gelugpa
+        size = 375
+    }
+    bureaucrats = {
+        culture = mongol
         religion = gelugpa
         size = 200
     }
+    soldiers = {
+        culture = mongol
+        religion = gelugpa
+        size = 1000
+    }
 
     artisans = {
-        culture = oirat
+        culture = mongol
         religion = gelugpa
-        size = 1050
+        size = 9875
     }
 
     farmers = {
-        culture = oirat
+        culture = mongol
         religion = gelugpa
-        size = 17125
+        size = 36200
     }
 }
 #Khovd (120000/30000 POPS)   
 2679 = {
     clergymen = {
-        culture = oirat
+        culture = mongol
         religion = gelugpa
-        size = 175
+        size = 375
+    }
+    bureaucrats = {
+        culture = mongol
+        religion = gelugpa
+        size = 200
+    }
+    soldiers = {
+        culture = mongol
+        religion = gelugpa
+        size = 1000
     }
 
     artisans = {
-        culture = oirat
+        culture = mongol
         religion = gelugpa
-        size = 900
+        size = 9875
     }
 
     farmers = {
-        culture = oirat
+        culture = mongol
         religion = gelugpa
-        size = 16400
-    }
-
-    clergymen = {
-        culture = kazak
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = kazak
-        religion = sunni
-        size = 600
-    }
-
-    farmers = {
-        culture = kazak
-        religion = sunni
-        size = 10975
+        size = 36200
     }
 }
 #Uliatai / Uriankhai (32000/8000 POPS) #now Tuva Republic of Russia  Tatar = Tuvan   
 1469 = {
-    aristocrats = {
-        culture = tatar
-        religion = gelugpa
-        size = 150
-    }
-
     clergymen = {
-        culture = tatar
+        culture = mongol
         religion = gelugpa
-        size = 75
+        size = 375
+    }
+    bureaucrats = {
+        culture = mongol
+        religion = gelugpa
+        size = 200
+    }
+    soldiers = {
+        culture = mongol
+        religion = gelugpa
+        size = 1000
     }
 
     artisans = {
-        culture = tatar
+        culture = mongol
         religion = gelugpa
-        size = 400
-    }
-
-    soldiers = {
-        culture = tatar
-        religion = gelugpa
-        size = 75
+        size = 9875
     }
 
     farmers = {
-        culture = tatar
+        culture = mongol
         religion = gelugpa
-        size = 7300
+        size = 36200
     }
 }
