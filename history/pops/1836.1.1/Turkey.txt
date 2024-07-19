@@ -2172,7 +2172,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 21125
+		size = 31125
 	}
 
 	clergymen = {
@@ -2190,7 +2190,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 8925
+		size = 18925
 	}
 	
 	soldiers = {
@@ -3793,7 +3793,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 20175
+		size = 40175
 	}
 
 	aristocrats = {

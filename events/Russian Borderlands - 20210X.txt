@@ -233,15 +233,15 @@ country_event = {
 		}
 		RUS_2685 = {
 			remove_core = NOV
-			add_core = MUS
+			add_core = RUT
 		}
 		RUS_1064 = {
 			remove_core = NOV
-			add_core = MUS
+			add_core = RUT
 		}
 		RUS_1065 = {
 			remove_core = NOV
-			add_core = MUS
+			add_core = RUT
 		}
 		any_owned = {
 			limit = {
@@ -253,7 +253,7 @@ country_event = {
 				}
 			}
 			remove_core = NOV
-			add_core = MUS
+			add_core = RUT
 		}
 		any_owned = {
 			limit = {
@@ -261,7 +261,7 @@ country_event = {
 				is_core = NOV
 			}
 			remove_core = NOV
-			add_core = MUS
+			add_core = RUT
 			}
 		any_owned = {
 			limit = {
@@ -269,7 +269,7 @@ country_event = {
 				is_core = NOV
 			}
 			remove_core = NOV
-			add_core = MUS
+			add_core = RUT
 		}
 		any_owned = {
 			limit = {
@@ -277,7 +277,7 @@ country_event = {
 				is_core = NOV
 			}
 			remove_core = NOV
-			add_core = MUS
+			add_core = RUT
 		}
 		any_owned = {
 			limit = {
@@ -285,7 +285,7 @@ country_event = {
 				is_core = NOV
 			}
 			remove_core = NOV
-			add_core = MUS
+			add_core = RUT
 		}
 		any_owned = {
 			limit = {
@@ -293,7 +293,7 @@ country_event = {
 				is_core = NOV
 			}
 			remove_core = NOV
-			add_core = MUS
+			add_core = RUT
 		}
 		any_owned = {
 			limit = {
@@ -301,7 +301,7 @@ country_event = {
 				is_core = NOV
 			}
 			remove_core = NOV
-			add_core = MUS
+			add_core = RUT
 		}
 	}
 }

@@ -1,7 +1,7 @@
-owner = MUS
-controller = MUS
+owner = RUT
+controller = RUT
 life_rating = 40
-add_core = MUS
 add_core = RUT
+
 add_core = TAR
 trade_goods = fish

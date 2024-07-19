@@ -1,5 +1,225 @@
 political_decisions = {
+#NOV Decision
+
+NOV_Tver = {
+		
+	potential = { 
+		 tag = NOV
+		
+		NOT = {
+			has_country_flag = NOV_Tver
+			
+		}
+	}
+
+	allow = {
+		MRL = { 
+		     	exists = yes 
+			 	vassal_of = NOV
+			 	all_core = {
+					OR = {
+			 			owned_by = THIS
+						owner = { vassal_of = THIS }
+					}
+				}
+			}
 	
+	}
+	effect = { 
+	
+		set_country_flag = NOV_Tver
+		any_owned = {
+			limit = {
+				is_core = MRL
+			}
+			add_core = THIS
+
+		}
+		random_country = { 
+			limit = {
+				tag = MRL
+				
+			}
+			annex_to = THIS
+		}
+	}
+	
+}
+NOV_Russian = {
+	
+	potential = {
+		tag = NOV
+	
+		has_country_flag = NOV_Tver
+		NOT = { has_country_flag = NOV_Sweden }
+		NOT = { has_country_flag = NOV_Russian }
+	}
+
+	allow = {
+		war = no
+		nationalism_n_imperialism = 1
+		RUS_943 = { owned_by = THIS }
+		RUS_1009 = { owned_by = THIS }
+		RUS_1008 = { owned_by = THIS }
+		RUS_1020 = { owned_by = THIS }
+
+	}
+
+	effect = {
+		set_country_flag = NOV_Russian
+		prestige = 10
+		add_accepted_culture = russian 
+		RUS_943 = {
+			add_core = THIS
+		}
+		RUS_1009 = {
+			add_core = THIS
+		}
+		RUS_1008 = {
+			add_core = THIS
+		}
+		RUS_1020 = {
+			add_core = THIS
+		}
+
+	}
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+NOV_Lithuanian = {
+	
+	potential = {
+		tag = NOV
+
+		NOT = { has_country_flag = NOV_Lithuanian }
+	}
+
+	allow = {
+		war = no
+		
+		RUS_360 = { owned_by = THIS }
+		LIT_698 = { owned_by = THIS }
+		
+
+	}
+
+	effect = {
+		set_country_flag = NOV_Lithuanian
+		prestige = 10
+		add_accepted_culture = lithuanian 
+		RUS_360 = {
+			add_core = THIS
+		}
+		LIT_698 = {
+			add_core = THIS
+		}
+
+	}
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+NOV_Sweden = {
+	
+	potential = {
+		tag = NOV
+		NOT = { has_country_flag = NOV_Sweden }
+		NOT = { has_country_flag = NOV_Russian }
+	}
+
+	allow = {
+		war = no
+		SWE = { 
+			exists = yes 
+			all_core = {
+			   OR = {
+				   owned_by = THIS
+				   owner = { vassal_of = THIS }
+			   }
+		   }
+	   }
+	   
+
+
+	}
+
+	effect = {
+		set_country_flag = NOV_Sweden
+		
+		add_accepted_culture = swedish 
+		random_country = { 
+			limit = {
+				tag = SWE
+				
+			}
+			annex_to = THIS
+		}
+		any_owned = {
+			limit = {
+				is_core = SWE
+			}
+			add_core = THIS
+	
+		}
+
+	}
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+
+NOV_Scandi = {
+	
+	potential = {
+		tag = NOV
+	has_country_flag = NOV_Sweden
+		NOT = { has_country_flag = NOV_Scandi }
+	}
+
+	allow = {
+		war = no
+		
+		RUS_360 = { owned_by = THIS }
+		LIT_698 = { owned_by = THIS }
+		
+
+	}
+
+	effect = {
+		set_country_flag = NOV_Scandi
+		prestige = 10
+		add_accepted_culture = scandinavian 
+		RUS_360 = {
+			add_core = THIS
+		}
+		LIT_698 = {
+			add_core = THIS
+		}
+
+	}
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 #PLC Decision
 Prussian_Occ = {
 		
@@ -123,10 +343,11 @@ Core_poz= {
 		picture = PLC_union	
 		potential = {
 			tag = PLC 
-			NOT = { has_country_flag = lublin_new 
-		
-			has_country_flag = plc_bohemia_path
+			NOT = { has_country_flag = lublin_new }
+			
+			NOT = { has_country_flag = plc_bohemia_path
 		}
+
 			OR = {
 				BLR = { substate_of = PLC }
 				UKR = { substate_of = PLC }
@@ -134,15 +355,11 @@ Core_poz= {
 		}
 	
 		allow = { 
+			state_n_government = 1
 			OR = {
-				AND = {
-					is_greater_power = yes
-					state_n_government = 1
-				}
-				AND = {
-					rank = 12
-					mass_politics = 1
-				}
+			nationalism_n_imperialism = 1
+			is_greater_power = yes
+					
 			}
 			OR = {
 				BLR = { substate_of = PLC }
@@ -150,7 +367,6 @@ Core_poz= {
 			}
 			
 			war = no
-			690 = { owned_by = THIS }
 		}
 	
 		effect = {
@@ -175,12 +391,6 @@ Core_poz= {
 				}
 				militancy = 2
 			}
-			relation = { who = MUS value = -200 }
-			relation = { who = RUS value = -200 }
-			relation = { who = DEN value = -100 }
-			relation = { who = BOH value = -100 }
-			relation = { who = CAE value = -100 }
-			relation = { who = HLR value = -100 }
 			set_country_flag = lublin_new
 		}
 	
@@ -188,7 +398,50 @@ Core_poz= {
 			factor = 1
 		}
 	}
+	Form_The_Polish_Lithuanian_Ukranian_Commonwealth = {
+		potential = { 
+			tag = PLC 
+
+			NOT = {
+				has_country_flag = Form_The_Polish_Lithuanian_Ukranian_Commonwealth
+				
+			}
+		}
 	
+		allow = {
+		RUS_958 = { owned_by = THIS }
+		RUS_965 = { owned_by = THIS }
+		RUS_977 = { owned_by = THIS }
+		RUS_1037 = { owned_by = THIS }
+
+		}
+	
+		effect = { 
+			RUS_958 = {
+				add_core = THIS
+			}
+			RUS_965 = {
+				add_core = THIS
+			}
+			RUS_977 = {
+				add_core = THIS
+			}
+			RUS_1037 = {
+				add_core = THIS
+			}
+			AUS_702 = {
+				add_core = THIS
+			}
+			RUS_955 = {
+				add_core = THIS
+			}
+			change_tag = RUT
+			set_country_flag = Form_The_Polish_Lithuanian_Ukranian_Commonwealth
+		}
+		
+	}
+
+
 	romanian_cherson = {
 		picture = cherson	
 		potential = { 
@@ -217,30 +470,26 @@ Core_poz= {
 		potential = {
 			tag = PLC
 			has_country_flag = lublin_new
-			owns = 354
+			
 			NOT = { has_country_flag = my_latvian_brother }
 		}
 	
 		allow = {
 			war = no
-			government = hms_government
-			OR = {
-				citizens_rights = culture_voting_only
-				citizens_rights = all_voting_pops
-			}
-			OR = {
-				vote_franschise = universal_weighted_voting
-				vote_franschise = universal_voting
-			}
+			
 			nationalism_n_imperialism = 1
-			owns = 354
-			owns = 349
+			RUS_349 = { owned_by = THIS }
+
 		}
 	
 		effect = {
 			set_country_flag = my_latvian_brother
 			prestige = 10
 			add_accepted_culture = estonian 
+			RUS_349 = {
+				add_core = THIS
+			}
+
 		}
 
 		ai_will_do = {
@@ -258,18 +507,7 @@ Core_poz= {
 		}
 
 		allow = {
-			public_meetings = yes_meeting
-			OR = { 
-			vote_franschise = wealth_weighted_voting
-			vote_franschise = wealth_voting
-			vote_franschise = universal_weighted_voting
-			vote_franschise = universal_voting
-			}
-			NOT = { religious_policy = moralism }
 			nationalism_n_imperialism = 1
-			owns = 958 
-			owns = 718 
-			owns = 946
 		}
 	
 		effect = { 
@@ -511,24 +749,9 @@ Core_poz= {
 		}
 	}
 	
-	annex_ruthenia = { 
-		picture = rus_trident		
-		potential = { 
-		tag = RUS 
-		RUT = { exists = yes }
-		}
-		
-		allow = { 
-		RUT = {	in_sphere = THIS }
-		revolution_n_counterrevolution = 1 
-		war = no 
-		}
-		
-		effect = { 
-		inherit = RUT 
-		badboy = 6 
-		}
-		
-	}
+
+
+
+
 
 }	

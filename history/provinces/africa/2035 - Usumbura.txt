@@ -1,6 +1,6 @@
-owner = BUG
-controller = BUG
-add_core = BUG
+owner = SIK
+controller = SIK
+add_core = SIK
 trade_goods = cotton
 terrain = montane_forest
 life_rating = 10

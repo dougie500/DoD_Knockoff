@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = BUR
+controller = BUR
 add_core = BUR
 colonial = 2 
 trade_goods = fish

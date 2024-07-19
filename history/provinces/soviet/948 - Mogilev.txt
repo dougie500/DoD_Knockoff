@@ -1,7 +1,7 @@
 owner = BLR
 controller = BLR
 add_core = BLR
-add_core = RUT
+
 add_core = RUS
 add_core = PLC
 trade_goods = grain

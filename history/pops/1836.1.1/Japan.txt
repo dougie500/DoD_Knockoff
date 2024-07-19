@@ -1248,9 +1248,9 @@
     }
 
     farmers = {
-        culture = japanese
+        culture = korean
         religion = mahayana
-        size = 166550
+        size = 116550
     }
 
     clergymen = {
@@ -1274,7 +1274,7 @@
     farmers = {
         culture = japanese
         religion = shinto
-        size = 63750
+        size = 113750
     }
 }
 #Kagoshima (660000/165000 POPS)

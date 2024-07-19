@@ -33,7 +33,7 @@ OCC_tradition = {
 	mobilisation_size = 0.005
 	education_efficiency_modifier = 0.05
 }
-MUS_tradition = {
+RUT_tradition = {
 	icon = 3
 
 
@@ -130,11 +130,12 @@ BRG_tradition = {
 }
 AUS_tradition = {
 	icon = 3
-	
+	army_tech_research_bonus = -0.05=
 	commerce_tech_research_bonus = -0.05
 	culture_tech_research_bonus = 0.1
 	farm_RGO_eff = -0.05
-	factory_output = 0.1
+	factory_output = 0.05
+	education_efficiency_modifier = -0.05
 }
 
 

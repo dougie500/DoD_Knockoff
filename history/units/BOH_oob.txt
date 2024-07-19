@@ -1,13 +1,4 @@
-BAD = {
-	value = 75		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 100
-}
-BAV = {
-	value = 75		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 100
-}
+
 AUS = {
 	value = 75		#relation
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
@@ -26,11 +17,6 @@ PLC = {
 	influence_value = 100
 }
 
-HEK = {
-	value = 100		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 100
-}
 BRN = {
 	value = 100		#relation
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
@@ -42,21 +28,7 @@ HAN = {
 	level = 3		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 0
 }
-WUR = {
-	value = 100		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 100
-}
-WUR = {
-	value = 100		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 100
-}
-BAD = {
-	value = 75		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 100
-}
+
 
 BRA = {
 	value = 75		#relation

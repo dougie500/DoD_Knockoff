@@ -2,12 +2,12 @@ political_decisions = {
 
 Traditions_setup = {
 		potential = {
-			tag = BHU
+			tag = SIK
 			NOT = { has_country_flag = Traditions_setup }
 			
 		}
 		allow = {
-			tag = BHU
+			tag = SIK
 		}
 		effect = {
 			set_country_flag = Traditions_setup
@@ -23,7 +23,7 @@ Traditions_setup = {
 					duration = -1
 				}
 			}
-			MUS = {
+			RUT = {
 				add_country_modifier = {
 					name = MUS_tradition
 					duration = -1
@@ -87,6 +87,7 @@ Traditions_setup = {
 				add_country_modifier = {
 					name = AUS_tradition
 					duration = -1
+
 				}
 			}		
 	 	 }		

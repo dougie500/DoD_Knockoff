@@ -231,7 +231,7 @@ political_decisions = {
 
 			random_country = { 
 				limit = {
-					tag = PAP
+					tag = POM
 					owns = 546
 				}
 				annex_to = THIS
@@ -244,8 +244,14 @@ political_decisions = {
 					is_core = SWE
 				}
 				add_core = THIS
-
 			}
+			any_owned = {
+				limit = {
+					is_core = POM
+				}
+				add_core = THIS
+			}
+
 			
 		}
 		
@@ -327,10 +333,20 @@ political_decisions = {
 		effect = { 
 			random_country = { 
 				limit = {
-					tag = DEN
+					tag = HAN
 					owns = 534
 				}
 				annex_to = THIS
+			}
+
+			HAN_534 = {
+				add_core = THIS
+			}
+			HAM_528 = {
+				add_core = THIS
+			}
+			PRU_549 = {
+				add_core = THIS
 			}
 			add_accepted_culture = elbian
 		}

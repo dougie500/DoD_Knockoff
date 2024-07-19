@@ -1,6 +1,6 @@
-owner = MUS
-controller = MUS
-add_core = MUS
+owner = RUT
+controller = RUT
+add_core = RUT
 add_core = RUS
 add_core = TAR
 trade_goods = iron
