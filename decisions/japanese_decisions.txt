@@ -312,7 +312,7 @@ political_decisions = {
 #			YKT = { 
 #				set_country_flag = civilize_after_release 
 #				primary_culture = THIS
-#				add_accepted_culture = yakut
+#				add_accepted_culture = ugrian
 #			}
 #		}
 #	}

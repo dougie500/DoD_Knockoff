@@ -1,7 +1,7 @@
 capital = 1302
-primary_culture = kannada
-culture = malayalam
-culture = tamil
+primary_culture = telegu
+culture = telegu
+culture = telegu
 culture = telegu
 culture = marathi
 religion = hindu

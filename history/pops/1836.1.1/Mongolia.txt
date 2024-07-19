@@ -75,25 +75,25 @@
     }
 
     aristocrats = {
-        culture = yakut
+        culture = ugrian
         religion = animist
         size = 50
     }
 
     aristocrats = {
-        culture = kazak
+        culture = mongol
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = yakut
+        culture = ugrian
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = kazak
+        culture = mongol
         religion = sunni
         size = 125
     }
@@ -153,19 +153,19 @@
     }
 
     clergymen = {
-        culture = yakut
+        culture = ugrian
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = yakut
+        culture = ugrian
         religion = animist
         size = 125
     }
 
     farmers = {
-        culture = yakut
+        culture = ugrian
         religion = animist
         size = 2750
     }

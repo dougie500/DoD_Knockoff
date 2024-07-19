@@ -52,19 +52,19 @@
 	}
 
 	clergymen = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 50
 	}
 
 	artisans = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 300
 	}
 
 	farmers = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 4925
 	}
@@ -135,43 +135,43 @@
 	}
 
 	clergymen = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 75
 	}
 
 	artisans = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 250
 	}
 
 	farmers = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 4075
 	}
 
 	aristocrats = {
-		culture = syriac
+		culture = mashriqi
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = syriac
+		culture = mashriqi
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = syriac
+		culture = mashriqi
 		religion = catholic
 		size = 1450
 	}
 
 	farmers = {
-		culture = syriac
+		culture = mashriqi
 		religion = catholic
 		size = 10350
 	}
@@ -258,19 +258,19 @@
 	}
 
 	clergymen = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 60
 	}
 
 	artisans = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 300
 	}
 
 	farmers = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 5875
 	}
@@ -309,43 +309,43 @@
 	}
 
 	clergymen = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 50
 	}
 
 	artisans = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 195
 	}
 
 	farmers = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 6625
 	}
 
 	aristocrats = {
-		culture = syriac
+		culture = mashriqi
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = syriac
+		culture = mashriqi
 		religion = catholic
 		size = 65
 	}
 
 	artisans = {
-		culture = syriac
+		culture = mashriqi
 		religion = catholic
 		size = 400
 	}
 
 	farmers = {
-		culture = syriac
+		culture = mashriqi
 		religion = catholic
 		size = 8050
 	}

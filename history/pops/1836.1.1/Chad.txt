@@ -408,37 +408,37 @@
 	}
 
 	aristocrats = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 300
 	}
 	
 	bureaucrats = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 20183
 	}
@@ -641,31 +641,31 @@
 #Mao (149453/37362 POPS)
 1824 = {
 	aristocrats = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 300
 	}
 
 	clergymen = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 300
 	}
 
 	farmers = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 9216
 	}
@@ -721,31 +721,31 @@
 #Zouar (72000/18000 POPS)
 1825 = {
 	aristocrats = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 1380
 	}
@@ -754,31 +754,31 @@
 #Faya (56000/14000 POPS)
 1826 = {
 	aristocrats = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 1080
 	}

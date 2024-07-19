@@ -5,43 +5,43 @@
 #Cape Town (173000/43250 POPS)
 2087 = {
     clergymen = {
-        culture = khoisan
+        culture = zulu
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = khoisan
+        culture = zulu
         religion = protestant
         size = 750
     }
 
     soldiers = {
-        culture = khoisan
+        culture = zulu
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = khoisan
+        culture = zulu
         religion = protestant
         size = 4050
     }
 
     clergymen = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 35
     }
 
     artisans = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 525
     }
 
     farmers = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 8748
     }
@@ -137,7 +137,7 @@
     }
 
     aristocrats = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 17
     }
@@ -149,7 +149,7 @@
     }
 
     aristocrats = {
-        culture = nguni
+        culture = zulu
         religion = animist
         size = 10
     }
@@ -167,7 +167,7 @@
     }
 
     soldiers = {
-        culture = nguni
+        culture = zulu
         religion = animist
         size = 7
     }
@@ -175,37 +175,37 @@
 #Worcester (117700/29425 POPS)
 2089 = {
     clergymen = {
-        culture = khoisan
+        culture = zulu
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = khoisan
+        culture = zulu
         religion = protestant
         size = 250
     }
 
     farmers = {
-        culture = khoisan
+        culture = zulu
         religion = protestant
         size = 7600
     }
 
     clergymen = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 52
     }
 
     artisans = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 105
     }
 
     farmers = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 690
     }
@@ -291,19 +291,19 @@
 #Swettenham (69700/17425 POPS)
 2090 = {
     clergymen = {
-        culture = khoisan
+        culture = zulu
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = khoisan
+        culture = zulu
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = khoisan
+        culture = zulu
         religion = protestant
         size = 6625
     }
@@ -327,13 +327,13 @@
     }
 
     clergymen = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 52
     }
 
     artisans = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 70
     } 
@@ -425,37 +425,37 @@
     }
 
     clergymen = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 24
     }
 
     artisans = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 35
     }
 
     farmers = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 2023
     }
 
     clergymen = {
-        culture = khoisan
+        culture = zulu
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = khoisan
+        culture = zulu
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = khoisan
+        culture = zulu
         religion = protestant
         size = 1450
     }
@@ -519,19 +519,19 @@
 #Springbok (12000/3000 POPS)
 2088 = {
     clergymen = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 35
     }
 
     artisans = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 105
     }
 
     farmers = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 1925
     }
@@ -607,25 +607,25 @@
     }
 
     clergymen = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 35
     }
 
     artisans = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 70
     }
 
     soldiers = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 52
     }
 
     farmers = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 3360
     }
@@ -699,19 +699,19 @@
 #Calvinia (23300/5825 POPS)
 2093 = {
     clergymen = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 17
     }
 
     artisans = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 35
     }
 
     farmers = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 2030
     }
@@ -969,31 +969,31 @@
     }
 
     clergymen = {
-        culture = nguni
+        culture = zulu
         religion = fetishist
         size = 10
     }
 
     farmers = {
-        culture = nguni
+        culture = zulu
         religion = fetishist
         size = 672
     }
 
     clergymen = {
-        culture = khoisan
+        culture = zulu
         religion = fetishist
         size = 17
     }
 
     artisans = {
-        culture = khoisan
+        culture = zulu
         religion = fetishist
         size = 35
     }
 
     farmers = {
-        culture = khoisan
+        culture = zulu
         religion = fetishist
         size = 1030
     }
@@ -1121,25 +1121,25 @@
     }
 
     clergymen = {
-        culture = nguni
+        culture = zulu
         religion = fetishist
         size = 8
     }
 
     farmers = {
-        culture = nguni
+        culture = zulu
         religion = fetishist
         size = 476
     }
 
     clergymen = {
-        culture = khoisan
+        culture = zulu
         religion = fetishist
         size = 14
     }
 
     farmers = {
-        culture = khoisan
+        culture = zulu
         religion = fetishist
         size = 2156
     }
@@ -1340,13 +1340,13 @@
     }
 
     clergymen = {
-        culture = nguni
+        culture = zulu
         religion = fetishist
         size = 28
     }
 
     farmers = {
-        culture = nguni
+        culture = zulu
         religion = fetishist
         size = 2562
     }
@@ -1583,13 +1583,13 @@
     }
 
     clergymen = {
-        culture = nguni
+        culture = zulu
         religion = fetishist
         size = 84
     }
 
     farmers = {
-        culture = nguni
+        culture = zulu
         religion = fetishist
         size = 4942
     }
@@ -1642,13 +1642,13 @@
     }
 
     clergymen = {
-        culture = nguni
+        culture = zulu
         religion = fetishist
         size = 28
     }
 
     farmers = {
-        culture = nguni
+        culture = zulu
         religion = fetishist
         size = 1470
     }
@@ -1705,13 +1705,13 @@
     }
 
     clergymen = {
-        culture = nguni
+        culture = zulu
         religion = fetishist
         size = 700
     }
 
     farmers = {
-        culture = nguni
+        culture = zulu
         religion = fetishist
         size = 11636
     }
@@ -1762,13 +1762,13 @@
     }
 
     clergymen = {
-        culture = nguni
+        culture = zulu
         religion = fetishist
         size = 28
     }
 
     farmers = {
-        culture = nguni
+        culture = zulu
         religion = fetishist
         size = 980
     }
@@ -1942,13 +1942,13 @@
     }
 
     clergymen = {
-        culture = nguni
+        culture = zulu
         religion = fetishist
         size = 240
     }
 
     farmers = {
-        culture = nguni
+        culture = zulu
         religion = fetishist
         size = 23236
     }

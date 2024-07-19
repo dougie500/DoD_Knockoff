@@ -1,8 +1,8 @@
 capital = 2058
-primary_culture = nguni
-culture = tonga
-culture = sena
-culture = southern_bantu
+primary_culture = zulu
+culture = zulu
+culture = zulu
+culture = zulu
 religion = animist
 government = absolute_monarchy
 plurality = 0.0
@@ -33,7 +33,8 @@ school_reforms = no_schools
 conscription = no_draft
 debt_law = serfdom
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = animist_country

@@ -1,6 +1,6 @@
 capital = 2068
-primary_culture = shona
-culture = nguni
+primary_culture = zulu
+culture = zulu
 religion = fetishist
 government = feudal_monarchy
 plurality = 0.0

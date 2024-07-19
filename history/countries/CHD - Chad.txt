@@ -1,7 +1,7 @@
 capital = 1818
 primary_culture = hausa
 culture = bedouin
-culture = teda
+culture = tuareg
 culture = hausa
 culture = baguirmi
 culture = fur

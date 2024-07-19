@@ -30,8 +30,8 @@ political_decisions = {
 			}
 			religion = coptic
 			1864 = { secede_province = THIS }
-			add_accepted_culture = tigray
-			add_accepted_culture = amhara
+			add_accepted_culture = somali
+			add_accepted_culture = somali
 			set_country_flag = amatsa
 			capital = 1859
 		}
@@ -71,8 +71,8 @@ political_decisions = {
 				add_core = ETH
 			}
 			1864 = { secede_province = THIS }
-			add_accepted_culture = tigray
-			add_accepted_culture = amhara
+			add_accepted_culture = somali
+			add_accepted_culture = somali
 		}
 		ai_will_do = {
 			factor = 1
@@ -110,8 +110,8 @@ political_decisions = {
 				add_core = ETH
 			}
 			change_tag = ETH
-			add_accepted_culture = oromo
-			add_accepted_culture = amhara
+			add_accepted_culture = somali
+			add_accepted_culture = somali
 			capital = 1859
 		}
 		ai_will_do = {

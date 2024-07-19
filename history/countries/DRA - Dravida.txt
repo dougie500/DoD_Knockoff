@@ -1,8 +1,8 @@
 capital = 1304
-primary_culture = tamil
+primary_culture = telegu
 culture = marathi
-culture = malayalam
-culture = kannada
+culture = telegu
+culture = telegu
 culture = telegu
 
 religion = hindu

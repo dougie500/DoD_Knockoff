@@ -374,37 +374,37 @@
 	}
 
 	aristocrats = {
-		culture = makua
+		culture = zulu
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = makua
+		culture = zulu
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = makua
+		culture = zulu
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = makua
+		culture = zulu
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = makua
+		culture = zulu
 		religion = animist
 		size = 7275
 	}
 
 	slaves = {
-		culture = makua
+		culture = zulu
 		religion = animist
 		size = 8000
 	}

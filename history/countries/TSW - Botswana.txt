@@ -1,8 +1,8 @@
 capital = 2074
 primary_culture = zulu
-culture = nguni
-culture = herero
-culture = khoisan
+culture = zulu
+culture = zulu
+culture = zulu
 religion = animist
 government = democracy
 plurality = 0.0

@@ -45,37 +45,37 @@
 	}
 
 	aristocrats = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 50
 	}
 
 	clergymen = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 75
 	}
 
 	artisans = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 200
 	}
 
 	soldiers = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 25
 	}
 
 	serfs = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 3650
 	}
 
 	slaves = {
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size = 7000
 	}

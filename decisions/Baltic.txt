@@ -13,6 +13,7 @@ NOV_Tver = {
 	}
 
 	allow = {
+		state_n_government = 1
 		MRL = { 
 		     	exists = yes 
 			 	vassal_of = NOV
@@ -192,7 +193,7 @@ NOV_Scandi = {
 
 	effect = {
 		set_country_flag = NOV_Scandi
-		prestige = 10
+		
 		add_accepted_culture = scandinavian 
 		RUS_360 = {
 			add_core = THIS

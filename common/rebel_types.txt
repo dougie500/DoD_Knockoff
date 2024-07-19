@@ -1638,7 +1638,7 @@ pan_nationalist_rebels = {
 				culture = bedouin
 				culture = maghrebi
 				culture = tuareg
-				culture = sudanese
+				culture = somali
 			}
 			NOT = {
 				country = { has_global_flag = arab_call_to_union }

@@ -1,6 +1,6 @@
 capital = 1322
-primary_culture = sinhala
-culture = tamil
+primary_culture = telegu
+culture = telegu
 religion = theravada
 government = absolute_monarchy
 plurality = 0.0

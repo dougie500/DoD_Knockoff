@@ -1,8 +1,8 @@
 capital = 2078
-primary_culture = khoisan
-culture = herero
+primary_culture = zulu
 culture = zulu
-culture = kavango
+culture = zulu
+culture = zulu
 culture = lunda
 religion = animist
 government = absolute_monarchy

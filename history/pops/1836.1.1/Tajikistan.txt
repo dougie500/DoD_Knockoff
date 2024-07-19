@@ -3,19 +3,19 @@
 #Khujand (200000/50000 POPS) #now part of persianistan  
 1201 = {
     clergymen = {
-        culture = uzbek
+        culture = turkmen
         religion = sunni
         size = 400
     }
 
     artisans = {
-        culture = uzbek
+        culture = turkmen
         religion = sunni
         size = 2000
     }
 
     farmers = {
-        culture = uzbek
+        culture = turkmen
         religion = sunni
         size = 36425
     }
@@ -85,25 +85,25 @@
     }
 
     aristocrats = {
-        culture = uzbek
+        culture = turkmen
         religion = sunni
         size = 775
     }
 
     aristocrats = {
-        culture = kazak
+        culture = mongol
         religion = sunni
         size = 75
     }
 
     soldiers = {
-        culture = uzbek
+        culture = turkmen
         religion = sunni
         size = 400
     }
 
     soldiers = {
-        culture = kazak
+        culture = mongol
         religion = sunni
         size = 25
     }
@@ -129,19 +129,19 @@
     }
 
     clergymen = {
-        culture = kazak
+        culture = mongol
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = kazak
+        culture = mongol
         religion = sunni
         size = 175
     }
 
     farmers = {
-        culture = kazak
+        culture = mongol
         religion = sunni
         size = 3650
     }

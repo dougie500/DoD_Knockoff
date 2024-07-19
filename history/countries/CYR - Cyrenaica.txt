@@ -1,7 +1,7 @@
 capital = 1735
 primary_culture = maghrebi
 culture = bedouin
-culture = teda
+culture = tuareg
 culture = maghrebi
 culture = tuareg
 religion = sunni

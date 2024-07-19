@@ -1,11 +1,11 @@
 capital = 2574
 primary_culture = afro_south_african
 culture = zulu
-culture = khoisan
 culture = zulu
-culture = nguni
 culture = zulu
-culture = herero
+culture = zulu
+culture = zulu
+culture = zulu
 culture = zulu
 culture = zulu
 religion = protestant

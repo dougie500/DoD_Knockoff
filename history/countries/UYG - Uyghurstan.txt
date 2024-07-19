@@ -1,7 +1,7 @@
 capital = 1594
 primary_culture = mongol
-culture = kazak
-culture = kazak
+culture = mongol
+culture = mongol
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

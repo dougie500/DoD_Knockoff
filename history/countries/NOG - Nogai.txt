@@ -1,6 +1,6 @@
 capital = 1182
 primary_culture = tatar
-culture = kazak
+culture = mongol
 religion = sunni
 government = khanate
 plurality = 0.0

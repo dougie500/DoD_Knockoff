@@ -28,7 +28,7 @@ country_event = {
 		name = "EVTOPTA126100"
 		any_pop = {
 			limit = {
-				has_pop_culture = oromo
+				has_pop_culture = somali
 			}
 		militancy = 5
 		consciousness = 2

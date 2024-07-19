@@ -1,6 +1,6 @@
 capital = 2068
-primary_culture = shona
-culture = nguni
+primary_culture = zulu
+culture = zulu
 religion = animist
 government = presidential_dictatorship
 plurality = 0.0
@@ -30,7 +30,8 @@ school_reforms = no_schools
 conscription = no_draft
 debt_law = peonage
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = animist_country

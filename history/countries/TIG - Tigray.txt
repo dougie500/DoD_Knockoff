@@ -1,6 +1,6 @@
 capital = 1857
-primary_culture = tigray
-culture = amhara
+primary_culture = somali
+culture = somali
 culture = cushitic
 culture = nilotic
 religion = coptic
@@ -33,7 +33,8 @@ school_reforms = no_schools
 conscription = no_draft
 debt_law = peonage
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = coptic_country

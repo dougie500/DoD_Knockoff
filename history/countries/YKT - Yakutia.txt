@@ -1,5 +1,5 @@
 capital = 2672
-primary_culture = yakut
+primary_culture = ugrian
 religion = animist
 government = absolute_monarchy
 plurality = 0.0

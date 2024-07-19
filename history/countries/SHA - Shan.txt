@@ -1,6 +1,6 @@
 capital = 1338
 primary_culture = shan
-culture = thai
+culture = khmer
 culture = burmese
 religion = theravada
 government = absolute_monarchy

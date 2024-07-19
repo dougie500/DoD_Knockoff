@@ -285,61 +285,61 @@
 	}
 
 	aristocrats = {
-		culture = nguni
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = nguni
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = nguni
+		culture = zulu
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = nguni
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = nguni
+		culture = zulu
 		religion = animist
 		size = 4575
 	}
 
 	aristocrats = {
-		culture = sena
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = sena
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = sena
+		culture = zulu
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = sena
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = sena
+		culture = zulu
 		religion = animist
 		size = 3650
 	}
@@ -459,37 +459,37 @@
 	}
 
 	aristocrats = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 900
 	}
 
 	slaves = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 2000
 	}
@@ -557,7 +557,7 @@
 	}
 
 	slaves = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 3000
 	}

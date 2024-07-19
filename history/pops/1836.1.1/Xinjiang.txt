@@ -46,32 +46,32 @@
 	}
 
 	aristocrats = {
-		culture = kazak
+		culture = mongol
 		religion = animist
 		size = 85
 	}
 
 	clergymen = {
-		culture = kazak
+		culture = mongol
 		religion = animist
 		size = 45
 	}
 
 	artisans = {
-		culture = kazak
+		culture = mongol
 		religion = animist
 		size = 212
 	}
 
 	soldiers = {
-		culture = kazak
+		culture = mongol
 		religion = animist
 		size= 37
 
 	}
 
 	farmers = {
-		culture = kazak
+		culture = mongol
 		religion = animist
 		size = 4060
 	}
@@ -95,13 +95,13 @@
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size = 360
 	}
@@ -194,13 +194,13 @@
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size = 615
 	}
@@ -487,32 +487,32 @@
 	}
 
 	aristocrats = {
-		culture = kazak
+		culture = mongol
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = kazak
+		culture = mongol
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = kazak
+		culture = mongol
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = kazak
+		culture = mongol
 		religion = sunni
 		size= 50
 
 	}
 
 	farmers = {
-		culture = kazak
+		culture = mongol
 		religion = sunni
 		size = 3600
 	}

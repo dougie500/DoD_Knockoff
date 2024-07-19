@@ -7,7 +7,7 @@ political_decisions = {
 			OR = { 
 				is_culture_group = semitic
 				primary_culture = fur
-				primary_culture = sudanese
+				primary_culture = somali
 			}
 			NOT = { primary_culture = berber }
 			NOT = { primary_culture = maghrebi }
@@ -95,7 +95,7 @@ political_decisions = {
 		effect = {
 			prestige = 20
 			add_accepted_culture = bedouin
-			add_accepted_culture = sudanese
+			add_accepted_culture = somali
 			add_accepted_culture = misri
 			add_accepted_culture = mashriqi
 			all_core = {
@@ -582,7 +582,7 @@ political_decisions = {
 			prestige = -15 
 			set_country_flag = syria_all 
 			add_accepted_culture = mashriqi 
-			add_accepted_culture = syriac 
+			add_accepted_culture = mashriqi 
 			any_pop = { 
 				scaled_militancy = {
 					issue = moralism

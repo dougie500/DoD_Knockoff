@@ -233,7 +233,7 @@
 	}
 
 	slaves = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 17300
 	}

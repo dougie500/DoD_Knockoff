@@ -3,44 +3,44 @@
 #Muscat (32000/8000 POPS)   
 1166 = {
 	aristocrats = {
-		culture = khaliji
+		culture = bedouin
 		religion = ibadi
 		size = 150
 	}
 
 	bureaucrats = {
-		culture = khaliji
+		culture = bedouin
 		religion = ibadi
 		size = 25
 	}
 
 	officers = {
-		culture = khaliji
+		culture = bedouin
 		religion = ibadi
 		size = 50
 	}
 
 	clergymen = {
-		culture = khaliji
+		culture = bedouin
 		religion = ibadi
 		size = 50
 	}
 
 	artisans = {
-		culture = khaliji
+		culture = bedouin
 		religion = ibadi
 		size = 400
 	}
 
 	soldiers = {
-		culture = khaliji
+		culture = bedouin
 		religion = ibadi
 		size= 3000
 
 	}
 
 	soldiers = {
-		culture = khaliji
+		culture = bedouin
 		religion = ibadi
 		size= 1000
 
@@ -350,37 +350,37 @@
 #Salalah (20000/5000 POPS)   
 1174 = {
 	aristocrats = {
-		culture = khaliji
+		culture = bedouin
 		religion = ibadi
 		size = 65
 	}
 
 	bureaucrats = {
-		culture = khaliji
+		culture = bedouin
 		religion = ibadi
 		size = 5
 	}
 
 	officers = {
-		culture = khaliji
+		culture = bedouin
 		religion = ibadi
 		size = 5
 	}
 
 	clergymen = {
-		culture = khaliji
+		culture = bedouin
 		religion = ibadi
 		size = 75
 	}
 
 	artisans = {
-		culture = khaliji
+		culture = bedouin
 		religion = ibadi
 		size = 250
 	}
 
 	soldiers = {
-		culture = khaliji
+		culture = bedouin
 		religion = ibadi
 		size= 1000
 

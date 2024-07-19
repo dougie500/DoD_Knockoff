@@ -3,51 +3,51 @@
 #Khartoum (344000/86000 POPS)
 1827 = {
 	aristocrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 1350
 	}
 
 	bureaucrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 90
 	}
 
 	officers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 175
 	}
 
 	clergymen = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 675
 	}
 
 	artisans = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 4525
 	}
 
 	soldiers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size= 3000
 
 	}
 
 	soldiers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 65150
 	}
@@ -101,7 +101,7 @@
 	}
 
 	slaves = {
-		culture = nubian
+		culture = somali
 		religion = sunni
 		size = 45000
 	}
@@ -115,45 +115,45 @@
 #Wadi Madani (136000/34000 POPS)
 1828 = {
 	aristocrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 475
 	}
 
 	clergymen = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 295
 	}
 
 	artisans = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 1950
 	}
 
 	soldiers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size= 3000
 
 	}
 
 	soldiers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 30250
 	}
 
 	slaves = {
-		culture = nubian
+		culture = somali
 		religion = sunni
 		size = 20500
 	}
@@ -167,98 +167,98 @@
 #Kassala (252000/63000 POPS)
 1829 = {
 	aristocrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 450
 	}
 
 	clergymen = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 265
 	}
 
 	artisans = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 2150
 	}
 
 	soldiers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 24225
 	}
 
 	aristocrats = {
-		culture = nubian
+		culture = somali
 		religion = sunni
 		size = 695
 	}
 
 	clergymen = {
-		culture = nubian
+		culture = somali
 		religion = sunni
 		size = 365
 	}
 
 	artisans = {
-		culture = nubian
+		culture = somali
 		religion = sunni
 		size = 1750
 	}
 
 	soldiers = {
-		culture = nubian
+		culture = somali
 		religion = sunni
 		size= 740
 	}
 
 	farmers = {
-		culture = nubian
+		culture = somali
 		religion = sunni
 		size = 32225
 	}
 
 	slaves = {
-		culture = nubian
+		culture = somali
 		religion = sunni
 		size = 15000
 	}
 
 	aristocrats = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size= 500
 	}
 
 	farmers = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 14625
 	}
@@ -266,32 +266,32 @@
 #Sennar (160000/40000 POPS)
 1830 = {
 	aristocrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 675
 	}
 
 	clergymen = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 350
 	}
 
 	artisans = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 2150
 	}
 
 	soldiers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 41925
 	}
@@ -366,32 +366,32 @@
 #Rabak (128000/32000 POPS)
 1831 = {
 	aristocrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 520
 	}
 
 	clergymen = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 250
 	}
 
 	artisans = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 2075
 	}
 
 	soldiers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 28475
 	}
@@ -435,31 +435,31 @@
 #Fashoda (132000/33000 POPS)  
 1832 = {
 	aristocrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 175
 	}
 
 	clergymen = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 315
 	}
 
 	artisans = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 575
 	}
 
 	soldiers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size= 2000
 	}
 
 	farmers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 10750
 	}
@@ -496,32 +496,32 @@
 	}
 
 	aristocrats = {
-		culture = nuer
+		culture = somali
 		religion = animist
 		size = 1010
 	}
 
 	clergymen = {
-		culture = nuer
+		culture = somali
 		religion = animist
 		size = 625
 	}
 
 	artisans = {
-		culture = nuer
+		culture = somali
 		religion = animist
 		size = 2900
 	}
 
 	soldiers = {
-		culture = nuer
+		culture = somali
 		religion = animist
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = nuer
+		culture = somali
 		religion = animist
 		size = 68750
 	}
@@ -567,43 +567,43 @@
 #Suakin (60000/15000 POPS) #now part of Sudan 
 1833 = {
 	aristocrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 125
 	}
 
 	bureaucrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 50
 	}
 
 	officers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 65
 	}
 
 	clergymen = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 315
 	}
 
 	soldiers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size= 150
 	}
 
 	farmers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 4575
 	}
@@ -639,44 +639,44 @@
 	}
 
 	aristocrats = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 55
 	}
 
 	clergymen = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 155
 	}
 
 	soldiers = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size= 300
 
 	}
 
 	farmers = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 2600
 	}
 
 	farmers = {
-		culture = nubian
+		culture = somali
 		religion = sunni
 		size = 3075
 	}
 
 	slaves = {
-		culture = nubian
+		culture = somali
 		religion = sunni
 		size = 3500
 	}
@@ -702,32 +702,32 @@
 #Halaib (48000/12000 POPS) #now part of Sudan 
 1834 = {
 	aristocrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 90
 	}
 
 	artisans = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 410
 	}
 
 	soldiers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size= 150
 
 	}
 
 	farmers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 4575
 	}
@@ -763,38 +763,38 @@
 	}
 
 	aristocrats = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 210
 	}
 
 	soldiers = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size= 300
 
 	}
 
 	farmers = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 4100
 	}
 
 	farmers = {
-		culture = nubian
+		culture = somali
 		religion = sunni
 		size = 3715
 	}
@@ -804,44 +804,44 @@
 #Dunqulah (84000/21000 POPS)
 1835 = {
 	aristocrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 85
 	}
 
 	bureaucrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 35
 	}
 
 	officers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 70
 	}
 
 	clergymen = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 105
 	}
 
 	artisans = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 270
 	}
 
 	soldiers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size= 500
 
 	}
 
 	farmers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 4100
 	}
@@ -877,43 +877,43 @@
 	}
 
 	farmers = {
-		culture = nubian
+		culture = somali
 		religion = sunni
 		size = 15650
 	}
 
 	slaves = {
-		culture = nubian
+		culture = somali
 		religion = sunni
 		size = 6725
 	}
 
 	aristocrats = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 30
 	}
 
 	clergymen = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 45
 	}
 
 	artisans = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 90
 	}
 
 	soldiers = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size= 100
 	}
 
 	farmers = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 2295
 	}
@@ -921,31 +921,31 @@
 #Hayya (104000/26000 POPS)
 1836 = {
 	aristocrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 85
 	}
 
 	artisans = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 245
 	}
 
 	soldiers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size= 150
 	}
 
 	farmers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 4725
 	}
@@ -981,38 +981,38 @@
 	}
 
 	aristocrats = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 385
 	}
 
 	clergymen = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 215
 	}
 
 	artisans = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size= 600
 
 	}
 
 	farmers = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 22400
 	}
 
 	farmers = {
-		culture = nubian
+		culture = somali
 		religion = sunni
 		size = 9500
 	}
@@ -1020,31 +1020,31 @@
 #Atbarah (40000/1000 POPS)
 1837 = {
 	aristocrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 40
 	}
 
 	artisans = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 75
 	}
 
 	soldiers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 175
 	}
 
 	farmers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 1300
 	}
@@ -1080,37 +1080,37 @@
 	}
 
 	aristocrats = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 115
 	}
 
 	artisans = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 4100
 	}
 
 	farmers = {
-		culture = nubian
+		culture = somali
 		religion = sunni
 		size = 3630
 	}
@@ -1150,31 +1150,31 @@
 #Taoudenni - Now Bayuda (8000/2000 POPS)
 1806 = {
 	aristocrats = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = beja
+		culture = somali
 		religion = sunni
 		size = 500
 	}
@@ -1184,43 +1184,43 @@
 #Obeid (180000/45000 POPS)
 1838 = {
 	aristocrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 660
 	}
 
 	bureaucrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 55
 	}
 
 	officers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 145
 	}
 
 	clergymen = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 295
 	}
 
 	artisans = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 1200
 	}
 
 	soldiers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size= 3000
 	}
 
 	farmers = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 26675
 	}
@@ -1275,13 +1275,13 @@
 #Nuhud (164000/41000 POPS)
 1839 = {
 	aristocrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 135
 	}
 	
 	bureaucrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 45
 	}	
@@ -1361,13 +1361,13 @@
 #Kaduqli (180000/45000 POPS)
 1840 = {
 	aristocrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 300
 	}
 	
 	bureaucrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 100
 	}
@@ -1550,7 +1550,7 @@
 		size = 15925
 	}
 	slaves = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 4000
 	}
@@ -1617,7 +1617,7 @@
 		size = 14650
 	}
 	slaves = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 20400
 	}
@@ -1732,43 +1732,43 @@
 #Bor (344000/86000 POPS)
 1844 = {
 	aristocrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 670
 	}
 	
 	bureaucrats = {
-		culture = sudanese
+		culture = somali
 		religion = sunni
 		size = 225
 	}	
 	
 	aristocrats = {
-		culture = nuer
+		culture = somali
 		religion = animist
 		size = 495
 	}
 
 	clergymen = {
-		culture = nuer
+		culture = somali
 		religion = animist
 		size = 390
 	}
 
 	artisans = {
-		culture = nuer
+		culture = somali
 		religion = animist
 		size = 950
 	}
 
 	soldiers = {
-		culture = nuer
+		culture = somali
 		religion = animist
 		size= 3000
 	}
 
 	farmers = {
-		culture = nuer
+		culture = somali
 		religion = animist
 		size = 30675
 	}
@@ -1971,31 +1971,31 @@
 	}
 
 	aristocrats = {
-		culture = nuer
+		culture = somali
 		religion = animist
 		size = 605
 	}
 
 	clergymen = {
-		culture = nuer
+		culture = somali
 		religion = animist
 		size = 295
 	}
 
 	artisans = {
-		culture = nuer
+		culture = somali
 		religion = animist
 		size = 1900
 	}
 
 	soldiers = {
-		culture = nuer
+		culture = somali
 		religion = animist
 		size= 2000
 	}
 
 	farmers = {
-		culture = nuer
+		culture = somali
 		religion = animist
 		size = 35400
 	}

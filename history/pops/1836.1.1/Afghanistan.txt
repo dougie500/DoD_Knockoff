@@ -741,31 +741,31 @@
 	}
 
 	aristocrats = {
-		culture = kalash
+		culture = pashtun
 		religion = animist
 		size = 1485
 	}
 
 	clergymen = {
-		culture = kalash
+		culture = pashtun
 		religion = animist
 		size = 680
 	}
 
 	artisans = {
-		culture = kalash
+		culture = pashtun
 		religion = animist
 		size = 1950
 	}
 
 	soldiers = {
-		culture = kalash
+		culture = pashtun
 		religion = animist
 		size= 1500
 	}
 
 	farmers = {
-		culture = kalash
+		culture = pashtun
 		religion = animist
 		size = 11985
 	}
@@ -805,25 +805,25 @@
 	}
 
 	aristocrats = {
-		culture = nuristani
+		culture = pashtun
 		religion = animist
 		size = 1485
 	}
 
 	clergymen = {
-		culture = nuristani
+		culture = pashtun
 		religion = animist
 		size = 500
 	}
 
 	artisans = {
-		culture = nuristani
+		culture = pashtun
 		religion = animist
 		size = 1950
 	}
 
 	farmers = {
-		culture = nuristani
+		culture = pashtun
 		religion = animist
 		size = 38985
 	}
@@ -897,32 +897,32 @@
 #Faizabad (340000/85000 POPS)
 1210 = {
 	aristocrats = {
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size = 63
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size = 5512
 	}

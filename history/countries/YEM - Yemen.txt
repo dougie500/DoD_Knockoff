@@ -1,5 +1,5 @@
 capital = 1178
-primary_culture = khaliji
+primary_culture = bedouin
 culture = bedouin
 religion = sunni
 government = absolute_monarchy
@@ -31,7 +31,8 @@ school_reforms = no_schools
 conscription = no_draft
 debt_law = peonage
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = open_borders
 
 ruling_party = AAA_conservative_3

@@ -51,25 +51,25 @@
     }
 
     aristocrats = {
-        culture = nguni
+        culture = zulu
         religion = animist
         size = 250
     }
 
     aristocrats = {
-        culture = shona
+        culture = zulu
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = nguni
+        culture = zulu
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = shona
+        culture = zulu
         religion = animist
         size = 25
     }
@@ -81,7 +81,7 @@
     }
 
     bureaucrats = {
-        culture = nguni
+        culture = zulu
         religion = animist
         size = 5
     }
@@ -107,31 +107,31 @@
     }
 
     clergymen = {
-        culture = herero
+        culture = zulu
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = herero
+        culture = zulu
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = herero
+        culture = zulu
         religion = animist
         size = 1800
     }
 
     officers = {
-        culture = herero
+        culture = zulu
         religion = animist
         size = 20
     }
 
     bureaucrats = {
-        culture = herero
+        culture = zulu
         religion = animist
         size = 20
     }
@@ -175,19 +175,19 @@
     }
 
     clergymen = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = khoisan
+        culture = zulu
         religion = animist
         size = 900
     }
@@ -252,19 +252,19 @@
 #Serowe (16000/4000 POPS) 
 2075 = {
     clergymen = {
-        culture = nguni
+        culture = zulu
         religion = animist
         size = 30
     }
 
     artisans = {
-        culture = nguni
+        culture = zulu
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = nguni
+        culture = zulu
         religion = animist
         size = 1800
     }

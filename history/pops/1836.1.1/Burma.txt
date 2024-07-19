@@ -3,32 +3,32 @@
 #Rangoon (344000/86000 POPS)
 1330 = {
 	aristocrats = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size = 200
 	}
 
 	clergymen = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size = 250
 	}
 
 	artisans = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size = 1200
 	}
 
 	soldiers = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size= 250
 
 	}
 
 	farmers = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size = 22000
 	}
@@ -157,32 +157,32 @@
 #Pegu (560000/140000 POPS)
 1332 = {
 	aristocrats = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size = 400
 	}
 
 	clergymen = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size = 500
 	}
 
 	artisans = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size = 2400
 	}
 
 	soldiers = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size= 500
 
 	}
 
 	farmers = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size = 44200
 	}
@@ -265,32 +265,32 @@
 #Toungoo (308000/77000 POPS)
 1333 = {
 	aristocrats = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size = 300
 	}
 
 	clergymen = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size = 325
 	}
 
 	artisans = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size = 1600
 	}
 
 	soldiers = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size= 350
 
 	}
 
 	farmers = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size = 29425
 	}
@@ -1006,32 +1006,32 @@
 #Moulmein (272000/68000 POPS)
 1343 = {
 	aristocrats = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size = 400
 	}
 
 	clergymen = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size = 350
 	}
 
 	artisans = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size = 1100
 	}
 
 	soldiers = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size= 300
 
 	}
 
 	farmers = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size = 30950
 	}
@@ -1102,63 +1102,63 @@
 #Mergui (332000/83000 POPS)
 1344 = {
 	aristocrats = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size = 400
 	}
 
 	clergymen = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size = 375
 	}
 
 	artisans = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size = 1100
 	}
 
 	soldiers = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size= 400
 
 	}
 
 	farmers = {
-		culture = karen
+		culture = khmer
 		religion = theravada
 		size = 34825
 	}
 
 	aristocrats = {
-		culture = thai
+		culture = khmer
 		religion = theravada
 		size = 100
 	}
 
 	clergymen = {
-		culture = thai
+		culture = khmer
 		religion = theravada
 		size = 200
 	}
 
 	artisans = {
-		culture = thai
+		culture = khmer
 		religion = theravada
 		size = 1250
 	}
 
 	soldiers = {
-		culture = thai
+		culture = khmer
 		religion = theravada
 		size= 200
 
 	}
 
 	farmers = {
-		culture = thai
+		culture = khmer
 		religion = theravada
 		size = 17250
 	}

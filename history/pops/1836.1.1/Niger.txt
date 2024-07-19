@@ -629,7 +629,7 @@
 	}
 
 	slaves = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 1000
 	}
@@ -872,31 +872,31 @@
 	}
 
 	aristocrats = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 800
 	}

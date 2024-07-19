@@ -1,4 +1,96 @@
 political_decisions = {
+
+#Oirat decisions
+CHG_tatar = {
+	
+	potential = {
+		tag = CHG
+
+		NOT = { has_country_flag = CHG_tatar }
+	}
+
+	allow = {
+		war = no
+		
+
+	}
+
+	effect = {
+		set_country_flag = CHG_tatar
+		
+		add_accepted_culture = tatar 
+
+	}
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+CHG_Yuan = {
+	
+	potential = {
+		tag = CHG
+
+		NOT = { has_country_flag = CHG_Yuan }
+	}
+
+	allow = {
+		war = no
+		
+
+	}
+
+	effect = {
+		set_country_flag = CHG_Yuan
+		prestige = 5
+		add_accepted_culture = beifaren 
+
+	}
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+
+CHG_Turkmen = {
+	
+	potential = {
+		tag = CHG
+
+		NOT = { has_country_flag = CHG_Turkmen }
+	}
+
+	allow = {
+		war = no
+		
+
+	}
+
+	effect = {
+		set_country_flag = CHG_Turkmen
+		prestige = 5
+		add_accepted_culture = turkmen 
+
+	}
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
 	form_china_chagatai = {
       picture = form_china
   		potential = {

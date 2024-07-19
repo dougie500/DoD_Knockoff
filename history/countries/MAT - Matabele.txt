@@ -1,9 +1,9 @@
 capital = 2108
-primary_culture = nguni
+primary_culture = zulu
 culture = zulu
-culture = shona
 culture = zulu
-culture = southern_bantu
+culture = zulu
+culture = zulu
 religion = animist
 government = absolute_monarchy
 plurality = 0.0

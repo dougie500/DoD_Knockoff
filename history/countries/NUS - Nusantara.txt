@@ -8,7 +8,7 @@ culture = nanfaren
 culture = melanesian
 culture = hawaiian
 culture = polynesian
-culture = malagasy
+culture = zulu
 culture = maori
 
 religion = sunni

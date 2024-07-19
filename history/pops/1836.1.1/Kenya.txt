@@ -362,31 +362,31 @@
 	}
 	
 	aristocrats = {
-		culture = oromo
+		culture = somali
 		religion = coptic
 		size = 100
 	}
 
 	clergymen = {
-		culture = oromo
+		culture = somali
 		religion = coptic
 		size = 100
 	}
 
 	artisans = {
-		culture = oromo
+		culture = somali
 		religion = coptic
 		size = 250
 	}
 
 	soldiers = {
-		culture = oromo
+		culture = somali
 		religion = coptic
 		size = 100
 	}
 
 	farmers = {
-		culture = oromo
+		culture = somali
 		religion = coptic
 		size = 4575
 	}

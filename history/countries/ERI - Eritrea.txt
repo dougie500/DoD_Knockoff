@@ -1,5 +1,5 @@
 capital = 1848
-primary_culture = tigray
+primary_culture = somali
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

@@ -39,11 +39,11 @@ country_event = {
 			owner = {
 				add_accepted_culture = avadhi
 				add_accepted_culture = marathi
-				add_accepted_culture = rajput
-				add_accepted_culture = bihari
+				add_accepted_culture = avadhi
 				add_accepted_culture = bengali
-				add_accepted_culture = kanauji
-				add_accepted_culture = panjabi
+				add_accepted_culture = bengali
+				add_accepted_culture = marathi
+				add_accepted_culture = avadhi
 			}
 		}
 		change_tag = culture

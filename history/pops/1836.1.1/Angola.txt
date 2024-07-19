@@ -93,37 +93,37 @@
     }
 
 	aristocrats = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 8600
 	}
 
 	slaves = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 2000
 	}
@@ -198,37 +198,37 @@
 	}
 
 	aristocrats = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 700
 	}
 
 	soldiers = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 13250
 	}
 
 	slaves = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 3500
 	}
@@ -236,37 +236,37 @@
 #Quibala (120000/30000 POPS)
 2002 = {
 	aristocrats = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 300
 	}
 
 	clergymen = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 1200
 	}
 
 	soldiers = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 300
 	}
 
 	farmers = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 21950
 	}
 
 	slaves = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 6000
 	}
@@ -387,37 +387,37 @@
 #Mocamedes (116000/29000 POPS)
 2004 = {
 	aristocrats = {
-		culture = herero
+		culture = zulu
 		religion = animist
 		size = 300
 	}
 
 	clergymen = {
-		culture = herero
+		culture = zulu
 		religion = animist
 		size = 600
 	}
 
 	artisans = {
-		culture = herero
+		culture = zulu
 		religion = animist
 		size = 750
 	}
 
 	soldiers = {
-		culture = herero
+		culture = zulu
 		religion = animist
 		size = 300
 	}
 
 	farmers = {
-		culture = herero
+		culture = zulu
 		religion = animist
 		size = 21250
 	}
 
 	slaves = {
-		culture = khoisan
+		culture = zulu
 		religion = animist
 		size = 5800
 	}
@@ -540,31 +540,31 @@
 	}
 
 	aristocrats = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 175
 	}
 
 	clergymen = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 800
 	}
 
 	soldiers = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 11450
 	}
@@ -614,37 +614,37 @@
 	}
 
 	aristocrats = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 4275
 	}
 
 	slaves = {
-		culture = khoisan
+		culture = zulu
 		religion = animist
 		size = 1250
 	}
@@ -655,37 +655,37 @@
 #Malanje (44000/11000 POPS)
 2009 = {
 	aristocrats = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 4350
 	}
 
 	slaves = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 1200
 	}
@@ -831,7 +831,7 @@
 	}
 
 	slaves = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 800
 	}
@@ -905,7 +905,7 @@
 	}
 
 	slaves = {
-		culture = kavango
+		culture = zulu
 		religion = animist
 		size = 1100
 	}

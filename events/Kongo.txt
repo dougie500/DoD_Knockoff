@@ -187,9 +187,9 @@ country_event = {
 		add_accepted_culture = rundi
 		add_accepted_culture = sukuma
 		#add_accepted_culture = yao
-		#add_accepted_culture = makua
-		#add_accepted_culture = shona
-		#add_accepted_culture = southern_bantu
+		#add_accepted_culture = zulu
+		#add_accepted_culture = zulu
+		#add_accepted_culture = zulu
 		ai_chance = {
 			factor = 100
 		}	

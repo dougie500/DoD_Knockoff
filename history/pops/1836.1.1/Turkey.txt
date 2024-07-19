@@ -4172,19 +4172,19 @@
 	}
 
 	clergymen = {
-		culture = syriac
+		culture = mashriqi
 		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
-		culture = syriac
+		culture = mashriqi
 		religion = orthodox
 		size = 850
 	}
 
 	farmers = {
-		culture = syriac
+		culture = mashriqi
 		religion = orthodox
 		size = 4475
 	}

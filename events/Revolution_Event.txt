@@ -1503,7 +1503,7 @@ country_event = {
 			limit = {
 				owner = { tag = MOZ }
 			}
-			owner = { primary_culture = shona }
+			owner = { primary_culture = zulu }
 		}
 		random_owned = {
 			limit = {
@@ -1576,11 +1576,11 @@ country_event = {
 				owner = { tag = SAF }
 			}
 			owner = {
-				primary_culture = khoisan
+				primary_culture = zulu
 				add_accepted_culture = zulu
 				add_accepted_culture = zulu
 				add_accepted_culture = zulu
-				add_accepted_culture = nguni
+				add_accepted_culture = zulu
 			}
 		}
 		any_pop = {

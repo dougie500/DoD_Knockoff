@@ -2,7 +2,7 @@ political_decisions = {
 	form_rajputana = {
     picture = rajputana
         potential = {
-			primary_culture = rajput
+			primary_culture = avadhi
 			NOT = { has_global_flag = rajputana_formed }
 			NOT = { tag = HND }
 		}

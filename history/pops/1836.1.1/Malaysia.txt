@@ -40,7 +40,7 @@
 	}
 
 	artisans = {
-		culture = tamil
+		culture = telegu
 		religion = hindu
 		size = 1100
 	}

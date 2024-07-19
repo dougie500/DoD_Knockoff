@@ -438,19 +438,19 @@
 	}
 
 	clergymen = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 200
 	}
 
 	artisans = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 5800
 	}
 
 	farmers = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 18325
 	}
@@ -532,19 +532,19 @@
 	}
 
 	clergymen = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 75
 	}
 
 	artisans = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 345
 	}
 
 	farmers = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 3575
 	}
@@ -608,19 +608,19 @@
 	}
 
 	clergymen = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 50
 	}
 
 	artisans = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 150
 	}
 
 	farmers = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 6975
 	}
@@ -663,19 +663,19 @@
 		size = 18225
 	}
 	clergymen = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 75
 	}
 
 	artisans = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 400
 	}
 
 	farmers = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 7525
 	}
@@ -745,19 +745,19 @@
 	}
 
 	clergymen = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 75
 	}
 
 	artisans = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 200
 	}
 
 	farmers = {
-		culture = syriac
+		culture = mashriqi
 		religion = coptic
 		size = 3725
 	}
