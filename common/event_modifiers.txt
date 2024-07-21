@@ -42,7 +42,7 @@ RUT_tradition = {
 	reinforce_rate = 0.05
 	army_tech_research_bonus = -0.05
 	culture_tech_research_bonus = -0.05
-	land_unit_start_experience = -0.05
+	land_unit_start_experience = -5.00
 	supply_consumption = -0.05
 
 }
