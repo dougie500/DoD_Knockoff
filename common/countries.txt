@@ -4,6 +4,11 @@
 REB 	= 	"countries/rebels.txt"
 
 ##DoD
+POH    = "countries/Pohjola.txt"
+ZPS    = "countries/Zapadoslavia.txt"
+YUA     = "countries/Yuan.txt"
+AUH     = "countries/Austria-Hungary.txt"
+HYP     = "countries/Hyperborea.txt"
 RLT     = "countries/Regnum Lotharii.txt"
 HLR		= "countries/Holy Roman Empire.txt"
 ARC		= "countries/Arcadia.txt" 

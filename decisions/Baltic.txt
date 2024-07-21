@@ -271,13 +271,13 @@ Prussian_Occ = {
 	
 }
 
-PLC_zapadoslavia = {
+PLC_zapadoslavia1 = {
 		
 	potential = { 
 		 tag = PLC
 		
 		NOT = {
-			has_country_flag = PLC_zapadoslavia
+			has_country_flag = PLC_zapadoslavia1
 		
 			
 		}
@@ -286,30 +286,63 @@ PLC_zapadoslavia = {
 	allow = {
 		PRU_682 = { owned_by = THIS }
 		AUS_626 = { owned_by = THIS }
-		AUS_625 = { owned_by = THIS }
+		PRU_701 = { owned_by = THIS }
 	}
 	effect = { 
 	
-		set_country_flag = PLC_zapadoslavia
-		any_owned = {
-			limit = {
-				is_core = BOH
-			}
+		set_country_flag = PLC_zapadoslavia1
+		AUS_626  = {
 			add_core = THIS
-
 		}
-		RUS_718  = {
+		PRU_701  = {
+			add_core = THIS
+		}
+		AUS_662  = {
 			remove_core = THIS
 		}
-		RUS_977 = {
+		RUS_955 = {
 			remove_core = THIS
 		}
-		RUS_958 = {
+		RUS_947 = {
+			remove_core = THIS
+		}
+		RUS_943 = {
 			remove_core = THIS
 		}
 	}
 	
 }
+PLC_zapadoslavia2 = {
+		
+	potential = { 
+		 tag = PLC
+		has_country_flag = PLC_zapadoslavia1
+		NOT = {
+			has_country_flag = PLC_zapadoslavia2
+		
+			
+		}
+	}
+
+	allow = {
+		
+		AUS_625 = { owned_by = THIS }
+		SAX_558 = { owned_by = THIS }
+	}
+	effect = { 
+		AUS_625  = {
+			add_core = THIS
+		}
+		SAX_558  = {
+			add_core = THIS
+		}
+		add_accepted_culture = czech
+		set_country_flag = PLC_zapadoslavia2
+	
+	}
+	
+}
+
 Core_poz= {
 		
 	potential = { 
@@ -399,7 +432,7 @@ Core_poz= {
 			factor = 1
 		}
 	}
-	Form_The_Polish_Lithuanian_Ukranian_Commonwealth = {
+	Declare_The_Polish_Lithuanian_Ukranian_Commonwealth = {
 		potential = { 
 			tag = PLC 
 
@@ -436,7 +469,7 @@ Core_poz= {
 			RUS_955 = {
 				add_core = THIS
 			}
-			change_tag = RUT
+			
 			set_country_flag = Form_The_Polish_Lithuanian_Ukranian_Commonwealth
 		}
 		

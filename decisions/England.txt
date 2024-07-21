@@ -218,6 +218,7 @@ political_decisions = {
 						}
 					}
 				}
+				state_n_government = 1
 		
 		}
 		effect = { 
@@ -251,8 +252,8 @@ political_decisions = {
 				}
 				add_core = THIS
 			}
-
-			
+	add_accepted_culture = swedish
+			change_tag = SCA
 		}
 		
 	}
@@ -299,7 +300,9 @@ political_decisions = {
 				all_core = {
 					OR = {
 					owned_by = THIS
-					in_sphere = THIS
+					owner = {
+						in_sphere = THIS
+					}
 					}
 				}
 			}
@@ -307,7 +310,9 @@ political_decisions = {
 				all_core = {
 					OR = {
 					owned_by = THIS
-					in_sphere = THIS
+					owner = {
+						in_sphere = THIS
+					}
 					}
 				}
 			}
@@ -315,7 +320,9 @@ political_decisions = {
 				all_core = {
 					OR = {
 					owned_by = THIS
-					in_sphere = THIS
+					owner = {
+						in_sphere = THIS
+					}
 					}
 				}
 			}
@@ -323,7 +330,9 @@ political_decisions = {
 				all_core = {
 					OR = {
 					owned_by = THIS
-					in_sphere = THIS
+					owner = {
+						in_sphere = THIS
+					}
 					}
 				}
 			}
@@ -348,7 +357,8 @@ political_decisions = {
 			PRU_549 = {
 				add_core = THIS
 			}
-			add_accepted_culture = elbian
+			add_accepted_culture = north_german
+			set_country_flag = DEN_elbian
 		}
 		
 	}
@@ -373,7 +383,7 @@ political_decisions = {
 			
 			add_accepted_culture = lithuanian
 			set_country_flag = Lithuanian_Expansion
-		
+			empiricism = 1
 		}
 		
 	}

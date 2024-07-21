@@ -1,13 +1,13 @@
 political_decisions = {
 
 	Frisia_annex = {
-		
+		picture = Frisia_Pic
 		potential = { 
 			OR = {
 
 		
 			tag = BRG
-			 tag = RLT
+			tag = RLT
 			}
 			
 			

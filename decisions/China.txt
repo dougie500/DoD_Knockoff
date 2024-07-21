@@ -11,7 +11,7 @@ CHG_tatar = {
 
 	allow = {
 		war = no
-		
+		civilized = yes
 
 	}
 
@@ -37,7 +37,7 @@ CHG_Yuan = {
 
 	allow = {
 		war = no
-		
+		civilized = yes
 
 	}
 
@@ -45,7 +45,7 @@ CHG_Yuan = {
 		set_country_flag = CHG_Yuan
 		prestige = 5
 		add_accepted_culture = beifaren 
-
+	change_tag = YUA
 	}
 
 	ai_will_do = {
@@ -64,7 +64,7 @@ CHG_Turkmen = {
 
 	allow = {
 		war = no
-		
+		civilized = yes
 
 	}
 

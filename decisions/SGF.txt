@@ -146,7 +146,7 @@ political_decisions = {
 		effect = { 
 		
 			set_country_flag = AUS_Hungary
-	
+			change_tag = AUH
 			add_accepted_culture = hungarian
 			
 		}

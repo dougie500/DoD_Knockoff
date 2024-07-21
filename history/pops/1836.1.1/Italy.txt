@@ -144,11 +144,16 @@
 		size= 2000
 
 	}
+	farmers = {
+		culture = provencal
+		religion = protestant	
+		size = 16525
+	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 46525
+		size = 36525
 	}
 }
 #Alessandria (326000/79000 POPS)
@@ -177,11 +182,15 @@
 		size= 2000
 
 	}
-
+	farmers = {
+		culture = provencal
+		religion = protestant	
+		size = 16525
+	}
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 65200
+		size = 55200
 	}
 }
 #Liguria Region (960000)
@@ -234,9 +243,13 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 140000
+		size = 120000
 	}
-
+	farmers = {
+		culture = provencal
+		religion = protestant	
+		size = 26525
+	}
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
@@ -275,11 +288,17 @@
 		size= 2000
 
 	}
+	
+	farmers = {
+		culture = provencal
+		religion = protestant
+		size = 25700
+	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 70700
+		size = 55700
 	}
 }
 #Lombardy Region (2512000)

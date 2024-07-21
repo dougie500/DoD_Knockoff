@@ -25,7 +25,7 @@ Traditions_setup = {
 			}
 			RUT = {
 				add_country_modifier = {
-					name = MUS_tradition
+					name = RUT_tradition
 					duration = -1
 				}
 			}

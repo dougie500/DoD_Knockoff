@@ -3348,7 +3348,7 @@
 		size = 11000
 	}
 	farmers = {
-		culture = catalan
+		culture = provencal
 		religion = catholic
 		size = 24975
 	}
@@ -3445,7 +3445,7 @@
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = provencal
 		religion = catholic
 		size = 28175
 	}
