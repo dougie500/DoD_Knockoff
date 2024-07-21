@@ -748,7 +748,7 @@ become_catholic_desc;The Catholics have grown in our country to the point we can
 end_the_javanese_sultanates_title;End the Javanese Sultanates;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 end_the_javanese_sultanates_desc;The Sultanates of Yogyakarta and Surakarta have long been under our protection. It would be in our best interests to convince them to come under our direct rule, so we might bring civilization to their people more effectively, and so that we might secure their lands from other powers.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 change_national_value_on_title;Change National Value (Active);;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-change_national_value_on_desc;ERM, THIS ISN'T FINISHED YET SO DONT LOOK AT IT PWEASE :3.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+change_national_value_on_desc;Descriptions are still wrong, but feel free to check out the new NV's.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 change_national_value_off_title;Change National Value (Inactive);;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 change_national_value_off_desc;Turn off the function to change the National Value.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 switch_to_order_title;Embrace the Ideal of Order;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
@@ -3943,4 +3943,16 @@ Lithuanian_Expansion_desc;By formalizing the Lithuanian lands as a part of our r
 DEN_elbian_title;Elbian Integration;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 DEN_elbian_desc;The Elbians of Holstein have been part of our realm for hundreds of years. By proclaiming ourselves as the protector of Elbia, we can lay claim to strategic regions along the baltic coast. ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Prussian_Occ_title;Prussian Occupation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Prussian_OCC_desc;In the last few years, our puppet state in Prussia has become increasingly vocal about greater autonomy. To protect the large polish minority in the region, we must instead tighten our grip, and incorporate Prussia directly into the Polish crown. ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Prussian_Occ_desc;In the last few years, our puppet state in Prussia has become increasingly vocal about greater autonomy. To protect the large polish minority in the region, we must instead tighten our grip, and incorporate Prussia directly into the Polish crown. ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PLC_zapadoslavia1_title;Reclaim Silesia;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PLC_zapadoslavia1_desc;Silesia is historical polish clay, and our new rivalry with Bohemia is a perfect reason to reclaim our lands. (This decision commits you to the Zapadoslavia path, exclusive to the PLC union) ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PLC_zapadoslavia2_title;Form Zapadoslavia;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PLC_zapadoslavia2_desc;With Bohemia completely defeated we should proclaim a new nation, a grand union of west Slavic peoples!  ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PLC_zapadoslavia3_title;Claim Slovakia;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PLC_zapadoslavia3_desc;We will liberate our brethren in Slovakia from the vile Hapsburgs.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PLC_zapadoslavia4_title;Claim Elbia;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PLC_zapadoslavia4_desc;With the HRE Emperor gone, Elbia has been left without a true protector. We could fill this void, and in doing so reclaim our ancient Slavic lands.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Core_poz_title;Core Poznan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Core_poz_desc;Today our nation celebrates! Poznan has been returned to us and the polish people are united!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Declare_The_Polish_Lithuanian_Ukranian_Commonwealth;Declare the Polish-Lithuanian-Ukrainian_Commonwealth;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Declare_The_Polish_Lithuanian_Ukranian_Commonwealth;The Lithuanian crown has long held lands in Ruthenia for centuries, but recent expansion has left us with a sizeable Ruthenian population. It is time we form the Crown of Ukraine, and truly add the people of Ruthenia to our commonwealth.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

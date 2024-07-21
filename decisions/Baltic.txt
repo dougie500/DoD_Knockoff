@@ -223,7 +223,7 @@ NOV_Scandi = {
 
 #PLC Decision
 Prussian_Occ = {
-		
+		picture = prussia
 	potential = { 
 		 tag = PLC
 		
@@ -272,15 +272,17 @@ Prussian_Occ = {
 }
 
 PLC_zapadoslavia1 = {
-		
+		picture = silesia
 	potential = { 
 		 tag = PLC
 		
 		NOT = {
 			has_country_flag = PLC_zapadoslavia1
-		
-			
 		}
+		NOT = {
+			has_country_flag = lublin_new
+		}
+		
 	}
 
 	allow = {
@@ -294,7 +296,7 @@ PLC_zapadoslavia1 = {
 		AUS_626  = {
 			add_core = THIS
 		}
-		PRU_701  = {
+		PRU_682  = {
 			add_core = THIS
 		}
 		AUS_662  = {
@@ -309,18 +311,18 @@ PLC_zapadoslavia1 = {
 		RUS_943 = {
 			remove_core = THIS
 		}
+		add_core = 625
 	}
 	
 }
 PLC_zapadoslavia2 = {
-		
+			picture = Zapado
 	potential = { 
 		 tag = PLC
 		has_country_flag = PLC_zapadoslavia1
 		NOT = {
 			has_country_flag = PLC_zapadoslavia2
 		
-			
 		}
 	}
 
@@ -337,14 +339,71 @@ PLC_zapadoslavia2 = {
 			add_core = THIS
 		}
 		add_accepted_culture = czech
+		add_accepted_culture = polish
 		set_country_flag = PLC_zapadoslavia2
+		change_tag = ZPS
+	}
+	
+}
+PLC_zapadoslavia3 = {
+		picture = slovakia
+	potential = { 
+		 tag = ZPS
+	
+		NOT = {
+			has_country_flag = PLC_zapadoslavia3
+		
+		}
+	}
+
+	allow = {
+		nationalism_n_imperialism = 1 
+		AUS_633 = { owned_by = THIS }
+		
+	}
+	effect = { 
+		AUS_633  = {
+			add_core = THIS
+		}
+		
+		add_accepted_culture = slovak
+		set_country_flag = PLC_zapadoslavia3
+	
+	}
+	
+}
+PLC_zapadoslavia4 = {
+		picture = elbian_confederation
+	potential = { 
+		 tag = ZPS
+	
+		NOT = {
+			has_country_flag = PLC_zapadoslavia4
+		
+		}
+	}
+
+	allow = {
+		revolution_n_counterrevolution = 1 
+		PRU_549 = { owned_by = THIS }
+		PRU_546 = { owned_by = THIS }
+	}
+	effect = { 
+		PRU_549  = {
+			add_core = THIS
+		}
+		PRU_546  = {
+			add_core = THIS
+		}
+		add_accepted_culture = north_german
+		set_country_flag = PLC_zapadoslavia4
 	
 	}
 	
 }
 
 Core_poz= {
-		
+		picture = posen
 	potential = { 
 		 tag = PLC
 		 PRU_701 = { owned_by = THIS }
@@ -366,7 +425,7 @@ Core_poz= {
 			add_core = THIS
 		}
 		set_country_flag = Core_poz
-		country_event = 144401
+		#country_event = 144401
 		
 	}
 	
@@ -379,7 +438,7 @@ Core_poz= {
 			tag = PLC 
 			NOT = { has_country_flag = lublin_new }
 			
-			NOT = { has_country_flag = plc_bohemia_path
+			NOT = { has_country_flag = PLC_zapadoslavia1
 		}
 
 			OR = {
@@ -433,12 +492,13 @@ Core_poz= {
 		}
 	}
 	Declare_The_Polish_Lithuanian_Ukranian_Commonwealth = {
+		picture = ukraine
 		potential = { 
 			tag = PLC 
 
 			NOT = {
 				has_country_flag = Form_The_Polish_Lithuanian_Ukranian_Commonwealth
-				
+				has_country_flag = PLC_zapadoslavia1
 			}
 		}
 	
@@ -463,12 +523,8 @@ Core_poz= {
 			RUS_1037 = {
 				add_core = THIS
 			}
-			AUS_702 = {
-				add_core = THIS
-			}
-			RUS_955 = {
-				add_core = THIS
-			}
+			
+			
 			
 			set_country_flag = Form_The_Polish_Lithuanian_Ukranian_Commonwealth
 		}
@@ -577,98 +633,6 @@ Core_poz= {
 		}
 	}
 
-	integrate_germans = {
-		picture = greifswald
-		potential = {
-			tag = SCA
-			is_greater_power = yes
-			OR = {
-				has_country_flag = baltic_claimed
-				year = 1890
-			}
-			NOT = { has_country_flag = north_integration }
-		}
-
-		allow = {
-			industrial_score = 200
-			press_rights = free_press
-			public_meetings = yes_meeting
-			OR = {
-				vote_franschise = wealth_weighted_voting
-				vote_franschise = wealth_voting
-				vote_franschise = universal_weighted_voting
-				vote_franschise = universal_voting
-			}
-			OR = {
-				549 = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
-						owner = {
-							vassal_of = THIS
-						}
-					}
-				}
-				534 = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
-						owner = {
-							vassal_of = THIS
-						}
-					}
-				}
-				695 = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
-						owner = {
-							vassal_of = THIS
-						}
-					}
-				}
-
-			}
-		}
-
-		effect = {
-			prestige = 20
-			set_country_flag = north_integration
-			add_accepted_culture = north_german
-			any_pop = {
-				limit = {
-					culture = scandinavian
-				}
-				militancy = 3
-				consciousness = 3
-				ideology = {
-					factor = 0.2
-					value = reactionary
-				}
-			}
-			any_pop = {
-				limit = {
-					culture = north_german
-				}
-				consciousness = -1
-				militancy = -3
-				ideology = {
-					factor = 0.1
-					value = liberal
-				}
-			}
-		}
-
-		ai_will_do = {
-			factor = 1
-		}
-	}
 			
 
 

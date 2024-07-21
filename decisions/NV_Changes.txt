@@ -2,9 +2,10 @@ political_decisions = {
 
 	change_national_value_on = {
 		alert = yes
+		
 		picture = national_value
 		potential = {
-			
+			ai = no
 			NOT = {	has_country_flag = nv_change }
 			civilized = yes
 		}
@@ -80,7 +81,31 @@ political_decisions = {
 		
 		ai_will_do = { factor = 1 }
 	}
-	
+	switch_to_education = {
+		
+		potential = {
+			NOT = { has_country_flag = switched_nv }
+			has_country_flag = nv_change
+		}
+		
+		allow = {
+			war = no
+			NOT = { has_country_modifier = national_confusion }
+		}
+		
+		effect = {
+			clr_country_flag = nv_change
+			set_country_flag = switched_nv
+			nationalvalue = nv_education
+			add_country_modifier = {
+				name = national_confusion
+				duration = 3650
+			}
+		}
+		
+		ai_will_do = { factor = 1 }
+	}
+
 	switch_to_production = {
 		picture = switch_to_productivity
 		potential = {

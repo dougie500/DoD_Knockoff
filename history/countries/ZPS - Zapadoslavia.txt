@@ -1,5 +1,5 @@
 capital = 706
-primary_culture = polish
+primary_culture = czech
 religion = catholic
 government = prussian_constitutionalism
 plurality = 0.2
