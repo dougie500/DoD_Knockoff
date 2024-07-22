@@ -2358,8 +2358,9 @@ military_staff_system = {
 	army_base = {
 		default_organisation = 5
 		supply_consumption = 0.10
+		
 	}
-	
+	mobilisation_size = 0.02
 	ai_chance = {
 		factor = 1.5
 		modifier = {
@@ -2770,7 +2771,7 @@ military_logistics = {
 		default_organisation = 5
 		supply_consumption = 0.20
 	}
-	mobilisation_size = 0.05
+	mobilisation_size = 0.03
 	
 	ai_chance = {
 		factor = 1.5

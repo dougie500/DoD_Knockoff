@@ -3247,7 +3247,11 @@
 		religion = protestant
 		size = 1200
 	}
-
+	soldiers = {
+		culture = provencal
+		religion = protestant
+		size = 3000
+	}
 	clergymen = {
 		culture = provencal
 		religion = protestant
@@ -3285,7 +3289,11 @@
 		religion = protestant
 		size = 4500
 	}
-
+	soldiers = {
+		culture = provencal
+		religion = protestant
+		size = 2000
+	}
 	farmers = {
 		culture = provencal
 		religion = protestant
@@ -3540,20 +3548,9 @@
 	soldiers = {
 		culture = provencal
 		religion = protestant
-		size = 3000
+		size = 4000
 	}
 	
-	soldiers = {
-		culture = provencal
-		religion = protestant
-		size = 3000
-	}
-	
-	soldiers = {
-		culture = provencal
-		religion = protestant
-		size = 3000
-	}
 	
 	soldiers = {
 		culture = provencal
@@ -3719,7 +3716,11 @@
 		religion = catholic
 		size = 400
 	}
-
+	soldiers = {
+		culture = provencal
+		religion = protestant
+		size = 1000
+	}
 	aristocrats = {
 		culture = north_italian
 		religion = catholic

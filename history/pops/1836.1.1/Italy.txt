@@ -1513,7 +1513,7 @@
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 40150
+		size = 80150
 	}
 }
 #Umbria-Abruzzi Region (1056000)
@@ -1560,7 +1560,7 @@
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 94750
+		size = 54750
 	}
 }
 #Ancona (180000/45000 POPS)

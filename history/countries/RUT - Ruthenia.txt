@@ -1,4 +1,4 @@
-capital = 958
+capital = 963
 primary_culture = ruthenian
 culture = russian
 religion = orthodox

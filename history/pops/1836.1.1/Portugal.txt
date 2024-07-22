@@ -810,7 +810,7 @@
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size= 3100
+		size= 1100
 
 	}
 

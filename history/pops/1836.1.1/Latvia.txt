@@ -172,7 +172,11 @@
         religion = protestant
         size = 2100
     }
-
+    soldiers = {
+        culture = estonian
+        religion = protestant
+        size = 2000
+    }
     artisans = {
         culture = estonian
         religion = protestant

@@ -427,33 +427,33 @@ political_reforms = {
 	conscription = {
 		next_step_only = yes
 		mandatory_service = {
-			mobilisation_size = 0.02
-			land_unit_start_experience = -10
+			mobilisation_size = 0.024
+			land_unit_start_experience = -6
 			mobilisation_economy_impact = 0.5
 			education_efficiency_modifier = -0.1
 			RGO_output = -0.1
 		}
 		four_year_draft = {
-			mobilisation_size = 0.015
+			mobilisation_size = 0.018
 			mobilisation_economy_impact = 0.25
-			land_unit_start_experience = -5
+			land_unit_start_experience = -3
 			education_efficiency_modifier = -0.06
 			RGO_output = -0.05
 		}
 		two_year_draft = {
-			mobilisation_size = 0.01
+			mobilisation_size = 0.012
 			mobilisation_economy_impact = 0.1
 			education_efficiency_modifier = -0.03
 			
 		}
 		one_year_draft = {
-		mobilisation_size = 0.005
-		land_unit_start_experience = 5
+		mobilisation_size = 0.006
+		land_unit_start_experience = 3
 		RGO_output = 0.05
 			
 		}
 		no_draft = {
-			land_unit_start_experience = 10
+			land_unit_start_experience = 6
 			global_immigrant_attract = 0.03
 			education_efficiency_modifier = 0.05
 			RGO_output = 0.1
@@ -806,7 +806,7 @@ social_reforms = {
 			education_efficiency_modifier = -0.1
 			factory_throughput = 0.1
 			artisan_throughput = 0.1
-			RGO_throughput = 0.25
+			RGO_throughput = 0.12
 		}
 		
 		child_labor_restricted = {

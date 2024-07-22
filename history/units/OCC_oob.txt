@@ -18,3 +18,206 @@ MOD = {
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 100
 }
+
+army = {
+	name = "1ère Armée"
+	location = 462
+	regiment = {
+		name= "Rawr :3"
+		type = infantry
+		home = 447
+	}
+
+	regiment = {
+		name= "Rawr :3"
+		type = infantry
+		home = 448
+	}
+
+	regiment = {
+		name= "Rawr :3"
+		type = infantry
+		home = 451
+	}
+
+	regiment = {
+		name= "Rawr :3"
+		type = infantry
+		home = 451
+	}
+
+	regiment = {
+		name= "Rawr :3"
+		type = artillery
+		home = 451
+	}
+
+	regiment = {
+		name= "Rawr :3"
+		type = artillery
+		home = 451
+	}
+
+	regiment = {
+		name= "Rawr :3"
+		type = artillery
+		home = 455
+	}
+
+	regiment = {
+		name= "Rawr :3"
+		type = artillery
+		home = 455
+	}
+
+	regiment = {
+		name= "Rawr :3"
+		type = artillery
+		home = 458
+	}
+	regiment = {
+		name= "Rawr :3"
+		type = hussar
+		home = 458
+	}
+}
+army = {
+	name = "1ère Armée"
+	location = 720
+	regiment = {
+		name= "Rawr :3"
+		type = infantry
+		home = 458
+	}
+
+	regiment = {
+		name= "Rawr :3"
+		type = infantry
+		home = 458
+	}
+
+	regiment = {
+		name= "Rawr :3"
+		type = infantry
+		home = 448
+	}
+
+	regiment = {
+		name= "Rawr :3"
+		type = infantry
+		home = 461
+	}
+
+	regiment = {
+		name= "Rawr :3"
+		type = artillery
+		home = 461
+	}
+
+	regiment = {
+		name= "Rawr :3"
+		type = artillery
+		home = 461
+	}
+
+	regiment = {
+		name= "Rawr :3"
+		type = artillery
+		home = 462
+	}
+
+	regiment = {
+		name= "Rawr :3"
+		type = artillery
+		home = 462
+	}
+
+	regiment = {
+		name= "Rawr :3"
+		type = artillery
+		home = 458
+	}
+	regiment = {
+		name= "Rawr :3"
+		type = hussar
+		home = 458
+	}
+}
+army = {
+	name = "1ère Armée"
+	location = 461
+
+	regiment = {
+		name= "2.2ème Division d'Infanterie"
+		type = artillery
+		home = 463
+	}
+
+	regiment = {
+		name= "3.2ème Division d'Infanterie"
+		type = artillery
+		home = 464
+	}
+
+	regiment = {
+		name= "1.3ème Division d'Infanterie"
+		type = artillery
+		home = 467
+	}
+
+	regiment = {
+		name= "2.3ème Division d'Infanterie"
+		type = artillery
+		home = 467
+	}
+
+	regiment = {
+		name= "3.3ème Division d'Infanterie"
+		type = artillery
+		home = 465
+	}
+	regiment = {
+		name= "3.3ème Division d'Infanterie"
+		type = hussar
+		home = 465
+	}
+}
+army = {
+	name = "1ère Armée"
+	location = 468
+
+	regiment = {
+		name= "2.2ème Division d'Infanterie"
+		type = artillery
+		home = 607
+	}
+
+	regiment = {
+		name= "3.2ème Division d'Infanterie"
+		type = artillery
+		home = 607
+	}
+
+	regiment = {
+		name= "1.3ème Division d'Infanterie"
+		type = artillery
+		home = 724
+	}
+
+	regiment = {
+		name= "2.3ème Division d'Infanterie"
+		type = artillery
+		home = 724
+	}
+
+	regiment = {
+		name= "3.3ème Division d'Infanterie"
+		type = artillery
+		home = 720
+	}
+	regiment = {
+		name= "3.3ème Division d'Infanterie"
+		type = hussar
+		home = 720
+	}
+}

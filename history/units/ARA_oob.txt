@@ -104,10 +104,10 @@ leader = {
 #Army
 army = {
 	name = "Exï¿½rcit del Regne"
-	location = 498
+	location = 754
 	regiment = {
 		name= "1. Granaders del Rei"
-		type = infantry
+		type = artillery
 		home = 495
 	}
 
@@ -137,10 +137,25 @@ army = {
 
 	regiment = {
 		name= "1. Granaders del Rei"
-		type = hussar
+		type = artillery
 		home = 495
 	}
-
+	regiment = {
+		name= "1. Granaders del Rei"
+		type = artillery
+		home = 756
+	}
+	regiment = {
+		name= "1. Granaders del Rei"
+		type = artillery
+		home = 502
+	}
+	
+	regiment = {
+		name= "1. Granaders del Rei"
+		type = artillery
+		home = 854
+	}
 	regiment = {
 		name= "2. Granaders del Rei"
 		type = hussar
@@ -157,7 +172,11 @@ army = {
 		type = infantry
 		home = 503
 	}
-
+	regiment = {
+		name= "8. Brigada de Infanteria"
+		type = infantry
+		home = 762
+	}
 	regiment = {
 		name= "9. Brigada de Infanteria"
 		type = infantry
@@ -175,53 +194,65 @@ army = {
 		type = artillery
 		home = 1726
 	}
-	
+	regiment = {
+		name= "11. Brigada de Infanteria"
+		type = artillery
+		home = 481
+	}
 	regiment = {
 		name= "12. Brigada de Infanteria"
 		type = artillery
 		home = 1726
+	}
+	regiment = {
+		name= "12. Brigada de Infanteria"
+		type = artillery
+		home = 762
+	}
+	regiment = {
+		name= "12. Brigada de Infanteria"
+		type = artillery
+		home = 762
+	}
+	regiment = {
+		name= "12. Brigada de Infanteria"
+		type = hussar
+		home = 753
 	}
 }
 
 army = {
 	name = "Exï¿½rcit Italiï¿½"
-	location = 754
-	regiment = {
-		name= "1. Granaders del Rei"
-		type = infantry
-		home = 765
-	}
-
+	location = 753
+	
 	regiment = {
 		name= "2. Granaders del Rei"
-		type = infantry
+		type = artillery
 		home = 765
 	}
 
 	regiment = {
 		name= "1. Brigada de Infanteria"
-		type = infantry
+		type = artillery
 		home = 753
 	}
 
 	regiment = {
 		name= "2. Brigada de Infanteria"
-		type = infantry
+		type = artillery
 		home = 1701
 	}
 
 	regiment = {
 		name= "3. Brigada de Infanteria"
-		type = infantry
-		home = 1703
+		type = artillery
+		home = 765
 	}
-
 	regiment = {
-		name= "1. Granaders del Rei"
-		type = hussar
-		home = 1701
+		name= "3. Brigada de Infanteria"
+		type = artillery
+		home = 765
 	}
-
 	regiment = {
 		name= "2. Granaders del Rei"
 		type = hussar
@@ -230,37 +261,95 @@ army = {
 }
 
 army = {
-	name = "Exï¿½rcit d'Alger"
-	location = 1700
+	name = "Ejército de la Habana"
+	location = 497
 
 	regiment = {
-		name= "8. Brigada de Infanteria"
-		type = infantry
-		home = 1704
+		name= "4. Brigada de Infantería 'San Jorge'"
+		type = artillery
+		home = 1725
 	}
-
 	regiment = {
-		name= "9. Brigada de Infanteria"
-		type = infantry
+		name= "4. Brigada de Infantería 'San Jorge'"
+		type = artillery
 		home = 763
 	}
+	regiment = {
+		name= "4. Brigada de Infantería 'San Jorge'"
+		type = artillery
+		home = 488
+	}
+	regiment = {
+		name= "4. Brigada de Infantería 'San Jorge'"
+		type = artillery
+		home = 488
+	}
+	regiment = {
+		name= "4. Brigada de Infantería 'San Jorge'"
+		type = artillery
+		home = 495
+	}
+	regiment = {
+		name= "8. Brigada de Infantería 'La Granja'"
+		type = hussar
+		home = 754
+	}
+	regiment = {
+		name= "8. Brigada de Infantería 'La Granja'"
+		type = infantry
+		home = 754
+	}
+	regiment = {
+		name= "8. Brigada de Infantería 'La Granja'"
+		type = infantry
+		home = 762
+	}
+	regiment = {
+		name= "8. Brigada de Infantería 'La Granja'"
+		type = infantry
+		home = 762
+	}
+	regiment = {
+		name= "8. Brigada de Infantería 'La Granja'"
+		type = infantry
+		home = 762
+	}
+}
+
+army = {
+	name = "EjÃ©rcito de la Habana"
+	location = 504
 
 	regiment = {
-		name= "10. Brigada de Infanteria"
-		type = infantry
-		home = 1701
+		name= "4. Brigada de InfanterÃ­a 'San Jorge'"
+		type = artillery
+		home = 498
 	}
 
 	regiment = {
-		name= "11. Brigada de Infanteria"
-		type = infantry
-		home = 1705
+		name= "4. Brigada de InfanterÃ­a 'San Jorge'"
+		type = artillery
+		home = 498
 	}
-	
 	regiment = {
-		name= "12. Brigada de Infanteria"
-		type = infantry
-		home = 1700
+		name= "4. Brigada de InfanterÃ­a 'San Jorge'"
+		type = artillery
+		home = 498
+	}
+	regiment = {
+		name= "4. Brigada de InfanterÃ­a 'San Jorge'"
+		type = artillery
+		home = 754
+	}
+	regiment = {
+		name= "4. Brigada de InfanterÃ­a 'San Jorge'"
+		type = artillery
+		home = 754
+	}
+	regiment = {
+		name= "8. Brigada de InfanterÃ­a 'La Granja'"
+		type = hussar
+		home = 754
 	}
 }
 

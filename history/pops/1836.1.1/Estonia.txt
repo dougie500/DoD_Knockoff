@@ -135,7 +135,11 @@
         religion = protestant
         size = 100
     }
-
+    soldiers = {
+        culture = estonian
+        religion = protestant
+        size = 1000
+    }
     farmers = {
         culture = north_german
         religion = protestant
@@ -195,7 +199,11 @@
         religion = protestant
         size = 100
     }
-
+    soldiers = {
+        culture = estonian
+        religion = protestant
+        size = 1000
+    }
     clergymen = {
         culture = north_german
         religion = protestant

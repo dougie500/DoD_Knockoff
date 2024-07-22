@@ -203,7 +203,11 @@
         religion = protestant
         size = 500
     }
-
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 1500
+    }
     artisans = {
         culture = finnish
         religion = protestant
@@ -241,7 +245,11 @@
         religion = protestant
         size = 550
     }
-
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 1000
+    }
     artisans = {
         culture = finnish
         religion = protestant
@@ -419,7 +427,11 @@
         religion = protestant
         size = 3150
     }
-
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 2000
+    }
     artisans = {
         culture = finnish
         religion = protestant
@@ -457,7 +469,11 @@
         religion = protestant
         size = 950
     }
-
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 2000
+    }
     artisans = {
         culture = finnish
         religion = protestant

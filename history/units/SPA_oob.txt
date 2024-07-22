@@ -237,7 +237,7 @@ army = {
 
 army = {
 	name = "Ejército del Sur"
-	location = 477
+	location = 2211
 	
 
 	regiment = {
@@ -307,33 +307,66 @@ army = {
 
 	regiment = {
 		name= "4. Brigada de Infantería 'San Jorge'"
-		type = infantry
-		home = 521
+		type = artillery
+		home = 509
 	}
 
-      
-	
+	regiment = {
+		name= "4. Brigada de Infantería 'San Jorge'"
+		type = artillery
+		home = 483
+	}
+	regiment = {
+		name= "4. Brigada de Infantería 'San Jorge'"
+		type = artillery
+		home = 477
+	}
+	regiment = {
+		name= "4. Brigada de Infantería 'San Jorge'"
+		type = artillery
+		home = 482
+	}
 	regiment = {
 		name= "8. Brigada de Infantería 'La Granja'"
 		type = hussar
-		home = 2209
+		home = 518
 	}
 }
 
 army = {
-	name = "Ejército de Rangún"
-	location = 1330
-	
+	name = "Ejército de la Habana"
+	location = 2195
+
 	regiment = {
 		name= "4. Brigada de Infantería 'San Jorge'"
-		type = infantry
-		home = 2134
+		type = artillery
+		home = 518
 	}
 
 	regiment = {
-		name= "1. Brigada de Artillería"
-		type = infantry
-		home = 1330
+		name= "4. Brigada de Infantería 'San Jorge'"
+		type = artillery
+		home = 516
+	}
+	regiment = {
+		name= "4. Brigada de Infantería 'San Jorge'"
+		type = artillery
+		home = 2182
+	}
+	regiment = {
+		name= "4. Brigada de Infantería 'San Jorge'"
+		type = artillery
+		home = 2191
+	}
+	regiment = {
+		name= "4. Brigada de Infantería 'San Jorge'"
+		type = artillery
+		home = 2271
+	}
+	regiment = {
+		name= "8. Brigada de Infantería 'La Granja'"
+		type = hussar
+		home = 2264
 	}
 }
 

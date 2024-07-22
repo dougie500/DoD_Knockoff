@@ -1,11 +1,39 @@
 political_decisions = {
 #NOV Decision
+Renovate_Neva = { 
+	
+	picture = fiume_port
+
+	potential = { 
+	NOT = {has_country_flag = Renovate_Neva }
+	tag = NOV
+	}
+	
+	allow = { 
+	early_railroad = 1
+	long_range_fire_tactic = 1 
+	}
+	
+	effect = { 
+	set_country_flag = Renovate_Neva
+	prestige = 8
+	994 = {
+			
+			add_province_modifier = {
+					name = Neva_but_better
+					duration = 3400
+				 } 
+		}
+	}
+  }
 
 NOV_Tver = {
+		picture = tver
 		
 	potential = { 
-		 tag = NOV
-		
+		OR = { tag = NOV
+		 tag = HYP
+	}
 		NOT = {
 			has_country_flag = NOV_Tver
 			
@@ -14,6 +42,8 @@ NOV_Tver = {
 
 	allow = {
 		state_n_government = 1
+		
+	
 		MRL = { 
 		     	exists = yes 
 			 	vassal_of = NOV
@@ -24,17 +54,14 @@ NOV_Tver = {
 					}
 				}
 			}
+		
 	
 	}
 	effect = { 
 	
 		set_country_flag = NOV_Tver
-		any_owned = {
-			limit = {
-				is_core = MRL
-			}
+		RUS_998 = {
 			add_core = THIS
-
 		}
 		random_country = { 
 			limit = {
@@ -47,7 +74,7 @@ NOV_Tver = {
 	
 }
 NOV_Russian = {
-	
+	picture = Hyperborea
 	potential = {
 		tag = NOV
 	
@@ -82,7 +109,7 @@ NOV_Russian = {
 		RUS_1020 = {
 			add_core = THIS
 		}
-
+change_tag = POH
 	}
 
 	ai_will_do = {
@@ -90,7 +117,7 @@ NOV_Russian = {
 	}
 }
 NOV_Lithuanian = {
-	
+	picture = lithuania
 	potential = {
 		tag = NOV
 
@@ -124,7 +151,7 @@ NOV_Lithuanian = {
 	}
 }
 NOV_Sweden = {
-	
+	picture = Swedonistan
 	potential = {
 		tag = NOV
 		NOT = { has_country_flag = NOV_Sweden }
@@ -175,7 +202,10 @@ NOV_Sweden = {
 
 
 NOV_Scandi = {
-	
+
+	picture = poh
+
+
 	potential = {
 		tag = NOV
 	has_country_flag = NOV_Sweden
@@ -185,23 +215,31 @@ NOV_Scandi = {
 	allow = {
 		war = no
 		
-		RUS_360 = { owned_by = THIS }
-		LIT_698 = { owned_by = THIS }
-		
+		SWE_309 = { owned_by = THIS }
+		SWE_308 = { owned_by = THIS }
+		DEN_372 = { owned_by = THIS }
 
 	}
 
 	effect = {
 		set_country_flag = NOV_Scandi
-		
+		change_tag = HYP
 		add_accepted_culture = scandinavian 
-		RUS_360 = {
+		SWE_309 = {
 			add_core = THIS
 		}
-		LIT_698 = {
+		SWE_308 = {
 			add_core = THIS
 		}
-
+		DEN_372 = {
+			add_core = THIS
+		}
+		DEN_367 = {
+			add_core = THIS
+		}
+		SCH_370 = {
+			add_core = THIS
+		}
 	}
 
 	ai_will_do = {
@@ -633,98 +671,7 @@ Core_poz= {
 		}
 	}
 
-			
-
-
-	nordtyskland = {
-		picture = pomerania	
-		potential = { 
-			tag = SCA 
-			is_greater_power = yes 
-			has_country_flag = baltic_claimed
-			NOT = { has_global_flag = hre_formed has_global_flag = cae_formed has_country_flag = nordtyskland }
-		}
 	
-		allow = { 
-			has_country_flag = north_integration
-			549 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
-					}
-					owner = {
-						vassal_of = THIS
-					}
-				}
-			}
-			534 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
-					}
-					owner = {
-						vassal_of = THIS
-					}
-				}
-			}
-			555 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
-					}
-					owner = {
-						vassal_of = THIS
-					}
-				}
-			}
-			695 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
-					}
-					owner = {
-						vassal_of = THIS
-					}
-				}
-			}
-			690 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
-					}
-					owner = {
-						vassal_of = THIS
-					}
-				}
-			}
-		}
-	
-		effect = { 
-			set_country_flag = nordtyskland
-			PRU_553 = { add_core = THIS }
-			PRU_549 = { add_core = THIS }
-			HAM_528 = { add_core = THIS }
-			HAN_534 = { add_core = THIS }
-			PRU_581 = { add_core = THIS }
-			any_country = {
-				limit = {
-					primary_culture = north_german
-					in_sphere = THIS
-				}
-				country_event = 11101
-			}
-		}
-		
-		ai_will_do = {
-			factor = 1 
-		}
-	}
-
 	meddle_with_cossacks = { 
 		picture = cossack	
 		potential = { 

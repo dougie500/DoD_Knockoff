@@ -132,7 +132,7 @@ Renovate_Toulouse = {
 	}
 	
 	effect = { 
-	set_global_flag = Toulouse_but_better
+	set_country_flag = Toulouse_but_better
 	prestige = 5
 	455 = {
 			life_rating = 2

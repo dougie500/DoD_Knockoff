@@ -30,8 +30,9 @@ OCC_tradition = {
 
 	prestige = 0.01
 	culture_tech_research_bonus = 0.1
-	mobilisation_size = 0.005
+	mobilisation_size = 0.008
 	education_efficiency_modifier = 0.05
+	army_tech_research_bonus = 0.03
 }
 RUT_tradition = {
 	icon = 3
@@ -60,7 +61,7 @@ DEN_tradition = {
 NOV_tradition = {
 	icon = 3
 
-
+	administrative_efficiency_modifier = 0.05
 	land_unit_start_experience = 10
 	army_tech_research_bonus = 0.05
 	factory_output = 0.1
@@ -130,7 +131,7 @@ BRG_tradition = {
 }
 AUS_tradition = {
 	icon = 3
-	army_tech_research_bonus = -0.05=
+	army_tech_research_bonus = -0.05
 	commerce_tech_research_bonus = -0.05
 	culture_tech_research_bonus = 0.1
 	farm_RGO_eff = -0.05
@@ -2323,7 +2324,11 @@ Toulouse_but_better = {
 	population_growth = 0.002
 	icon = 9
 }
-
+Neva_but_better = {
+	population_growth = 0.0012
+	farm_RGO_eff = -0.1
+	icon = 9
+}
 #Expires after 20 years
 gateway_to_russia = {
 	immigrant_attract = 2 #Local
