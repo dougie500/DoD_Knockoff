@@ -4,7 +4,8 @@ religion = animist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.02
+literacy = 0.15
+civilized = yes
 
 # Political reforms
 slavery = no_slavery

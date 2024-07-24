@@ -1,6 +1,6 @@
 capital = 30
-primary_culture = rohnnst
-culture = algonquin
+primary_culture = iroquois
+culture = iroquois
 religion = animist
 government = democracy
 plurality = 0.05

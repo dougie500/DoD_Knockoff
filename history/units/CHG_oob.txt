@@ -27,55 +27,55 @@ army = {
 	location = 1466
 	regiment = {
 		name= "1. Brigade"
-		type = hussar
+		type = cuirassier
 		home = 1532
 	}
 
 	regiment = {
 		name= "2. Brigade"
-		type = hussar
+		type = cuirassier
 		home = 1532
 	}
 
 	regiment = {
 		name= "3. Brigade"
-		type = hussar
+		type = cuirassier
 		home = 1465
 	}
 
 	regiment = {
 		name= "4. Brigade"
-		type = hussar
+		type = cuirassier
 		home = 1532
 	}
 
 	regiment = {
 		name= "5. Brigade"
-		type = hussar
+		type = cuirassier
 		home = 1532
 	}
 
 	regiment = {
 		name= "6. Brigade"
-		type = hussar
+		type = cuirassier
 		home = 1068
 	}
 
 	regiment = {
 		name= "7. Brigade"
-		type = hussar
+		type = cuirassier
 		home = 1534
 	}
 
 	regiment = {
 		name= "8. Brigade"
-		type = hussar
+		type = cuirassier
 		home = 1465
 	}
 
 	regiment = {
 		name= "9. Brigade"
-		type = hussar
+		type = cuirassier
 		home = 1075
 	}
 }
@@ -85,55 +85,55 @@ army = {
 	location = 2207
 	regiment = {
 		name= "1. Brigade"
-		type = hussar
+		type = cuirassier
 		home = 1600
 	}
 
 	regiment = {
 		name= "2. Brigade"
-		type = hussar
+		type = cuirassier
 		home = 1596
 	}
 
 	regiment = {
 		name= "3. Brigade"
-		type = hussar
+		type = cuirassier
 		home = 2678
 	}
 
 	regiment = {
 		name= "4. Brigade"
-		type = hussar
+		type = cuirassier
 		home = 1467
 	}
 
 	regiment = {
 		name= "5. Brigade"
-		type = hussar
+		type = cuirassier
 		home = 2207
 	}
 
 	regiment = {
 		name= "6. Brigade"
-		type = hussar
+		type = cuirassier
 		home = 2679
 	}
 
 	regiment = {
 		name= "7. Brigade"
-		type = hussar
+		type = cuirassier
 		home = 1078
 	}
 
 	regiment = {
 		name= "8. Brigade"
-		type = hussar
+		type = cuirassier
 		home = 1077
 	}
 
 	regiment = {
 		name= "9. Brigade"
-		type = hussar
+		type = cuirassier
 		home = 1595
 	}
 

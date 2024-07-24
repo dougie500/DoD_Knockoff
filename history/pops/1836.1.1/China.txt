@@ -8888,7 +8888,7 @@
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 80000
+		size = 180000
 	}
 }
 #Baotung (4268000/1067000 POPS)
@@ -8926,7 +8926,7 @@
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 80000
+		size = 120000
 	}
 }
 #Jiading (4080000/1020000 POPS)

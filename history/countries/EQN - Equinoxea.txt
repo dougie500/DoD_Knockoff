@@ -1,6 +1,6 @@
 capital = 2424
 primary_culture = amazonian
-culture = afro_frankish 
+culture = plantagenian 
 religion = catholic
 government = democracy
 plurality = 0.2

@@ -1305,7 +1305,7 @@ province_event = {
 		is_primary_culture = no
 		is_accepted_culture = no
 		NOT = {
-			culture = native_american_minor
+			culture = iroquois
 		}
 		average_militancy = 6
 		owner = {

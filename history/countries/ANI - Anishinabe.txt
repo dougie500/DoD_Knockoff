@@ -1,5 +1,5 @@
 capital = 50
-primary_culture = algonquin
+primary_culture = iroquois
 religion = animist
 government = feudal_monarchy
 plurality = 0.05

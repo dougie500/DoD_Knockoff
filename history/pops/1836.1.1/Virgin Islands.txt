@@ -27,19 +27,19 @@
 	}
 
 	artisans = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = catholic
 		size = 3350
 	}
 
 	slaves = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = catholic
 		size = 6500
 	}

@@ -166,32 +166,32 @@
 	}
 
 	clergymen = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = catholic
 		size = 35
 	}
 
 	soldiers = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = catholic
 		size = 540
 	}
 
 	slaves = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = catholic
 		size = 500
 	}

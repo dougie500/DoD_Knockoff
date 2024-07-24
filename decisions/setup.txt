@@ -89,6 +89,13 @@ Traditions_setup = {
 					duration = -1
 
 				}
+			}
+			CHG = {
+				add_country_modifier = {
+					name = CHG_tradition
+					duration = -1
+
+				}
 			}		
 	 	 }		
 			

@@ -3,32 +3,32 @@
 #Whitehorse (4000/1000 POPS)
 6 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
@@ -36,32 +36,32 @@
 #Dawson (4000/1000 POPS) Combined with PROV8 pops
 7 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 20
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size= 30
 
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 1800
 	}
@@ -72,32 +72,32 @@
 #Fort Simpson (2400/600 POPS)
 9 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 30
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size= 10
 
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 520
 	}
@@ -105,32 +105,32 @@
 #Echo Bay (4000/1000 POPS)
 11 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
@@ -139,32 +139,32 @@
 #Fort Resolution (2000/500 POPS) -- Added PROV12 pops
 2596 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
@@ -172,32 +172,32 @@
 #Fort Liard (1600/400 POPS)
 2598 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 20
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size= 5
 
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 360
 	}
@@ -352,31 +352,31 @@
 #Glenora (4000/1000 POPS)
 16 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 110
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 550
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 5400
 	}
@@ -402,32 +402,32 @@
 #Atlin (4000/1000 POPS)
 17 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
@@ -435,32 +435,32 @@
 #Fort St John (2400/600 POPS)
 18 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 30
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size= 10
 
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 520
 	}
@@ -468,31 +468,31 @@
 #Prince George (8000/2000 POPS)
 19 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 120
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 1300
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 450
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 5340
 	}
@@ -518,31 +518,31 @@
 #Kelowna (8000/2000 POPS)
 20 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 120
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 760
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 450
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 5670
 	}
@@ -575,31 +575,31 @@
 #Vernon (8000/2000 POPS)
 21 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 60
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 80
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 600
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 4350
 	}
@@ -625,32 +625,32 @@
 #Fort Nelson (1600/400 POPS)
 2629 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 20
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size= 5
 
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 360
 	}
@@ -660,63 +660,63 @@
 #Edmonton (16000/4000 POPS)
 22 = {
 	aristocrats = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size= 15
 
 	}
 
 	farmers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 910
 	}
 
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
@@ -724,61 +724,61 @@
 #Athabaska Landing (4800/1200 POPS)
 23 = {
 	aristocrats = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 40
 	}
 
 	clergymen = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 320
 	}
 
 	soldiers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 1670
 	}
 
 	aristocrats = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 45
 	}
 
 	clergymen = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 60
 	}
 
 	artisans = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 520
 	}
 
 	soldiers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 250
 	}
 
 	farmers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 2670
 	}
@@ -786,32 +786,32 @@
 #Jasper (4000/1000 POPS)
 24 = {
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
@@ -819,32 +819,32 @@
 #Banff (4000/1000 POPS)
 25 = {
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
@@ -852,80 +852,80 @@
 #Calgary (8000/2000 POPS)
 26 = {
 	clergymen = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 12
 	}
 
 	clergymen = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 13
 	}
 
 	artisans = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 25
 	}
 
 	soldiers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size= 7
 	}
 
 	soldiers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 8
 	}
 
 	farmers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 450
 	}
 
 	farmers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 460
 	}
 
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
@@ -933,61 +933,61 @@
 #Edmonton - Denwood (8000/2000 POPS)
 27 = {
 	aristocrats = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 40
 	}
 
 	clergymen = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 40
 	}
 
 	artisans = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 340
 	}
 
 	soldiers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 250
 	}
 
 	farmers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 2300
 	}
 
 	aristocrats = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 30
 	}
 
 	clergymen = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 30
 	}
 
 	artisans = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 1340
 	}
@@ -995,32 +995,32 @@
 #Fort MacLeod (8000/2000 POPS)
 28 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
@@ -1029,31 +1029,31 @@
 #Fort Vermillion (3200/800 POPS) -- Combined with PROV29 pops
 2597 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 40
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 70
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 140
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 35
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 2465
 	}
@@ -1063,85 +1063,85 @@
 #Regina (12000/3000 POPS)
 30 = {
 	aristocrats = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 100
 	}
 
 	clergymen = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 100
 	}
 
 	officers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 75
 	}
 
 	bureaucrats = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 40
 	}
 
 	artisans = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 760
 	}
 
 	soldiers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 500
 	}
 
 	farmers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 4350
 	}
 
 	aristocrats = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 50
 	}
 
 	clergymen = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 50
 	}
 
 	officers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 20
 	}
 
 	artisans = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 540
 	}
 
 	soldiers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 500
 	}
 
 	farmers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 3150
 	}
@@ -1149,32 +1149,32 @@
 #Stanley (4000/1000 POPS)
 31 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
@@ -1182,57 +1182,57 @@
 #Prince Albert (8000/2000 POPS)
 32 = {
 	clergymen = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size= 15
 
 	}
 
 	farmers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 920
 	}
 
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
@@ -1240,61 +1240,61 @@
 #Asquith (8000/2000 POPS)
 33 = {
 	aristocrats = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 30
 	}
 
 	clergymen = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 30
 	}
 
 	artisans = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 2400
 	}
 
 	aristocrats = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 30
 	}
 
 	clergymen = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 30
 	}
 
 	artisans = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 300
 	}
 
 	soldiers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 250
 	}
 
 	farmers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 2400
 	}
@@ -1302,61 +1302,61 @@
 #Saskatoon (8000/2000 POPS)
 34 = {
 	aristocrats = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 40
 	}
 
 	clergymen = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 60
 	}
 
 	artisans = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 650
 	}
 
 	soldiers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 2100
 	}
 
 	aristocrats = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 25
 	}
 
 	clergymen = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 450
 	}
 
 	soldiers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 250
 	}
 
 	farmers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 1940
 	}
@@ -1364,62 +1364,62 @@
 #Maple Creek (4000/1000 POPS)
 35 = {
 	aristocrats = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 10
 	}
 
 	clergymen = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 25
 	}
 
 	artisans = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 50
 	}
 		
 	soldiers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 15
 	}
 
 	farmers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = mahayana
 		size = 900
 	}
 
 	aristocrats = {
-		culture = sioux
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = sioux
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = sioux
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = sioux
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = sioux
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
@@ -1430,32 +1430,32 @@
 #Winnipeg (12000/3000 POPS)
 36 = {
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
@@ -1463,32 +1463,32 @@
 #Churchill (4000/1000 POPS)
 37 = {
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
@@ -1496,32 +1496,32 @@
 #Indian Lakes (4000/1000 POPS)
 38 = {
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
@@ -1529,32 +1529,32 @@
 #Norway House (8000/2000 POPS)
 39 = {
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
@@ -1562,57 +1562,57 @@
 #Dauphin (8000/2000 POPS)
 40 = {
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
 
 	clergymen = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size= 15
 
 	}
 
 	farmers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 910
 	}
@@ -1620,57 +1620,57 @@
 #Brandon (8000/2000 POPS)
 41 = {
 	aristocrats = {
-		culture = sioux
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = sioux
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = sioux
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = sioux
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = sioux
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
 
 	clergymen = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size= 15
 
 	}
 
 	farmers = {
-		culture = rohnnst
+		culture = iroquois
 		religion = protestant
 		size = 910
 	}
@@ -1678,57 +1678,57 @@
 #Pembina (8000/2000 POPS)
 42 = {
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
 
 	clergymen = {
-		culture = sioux
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = sioux
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = sioux
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = sioux
+		culture = iroquois
 		religion = animist
 		size = 910
 	}
@@ -1739,32 +1739,32 @@
 #Fort Severn (2800/700 POPS)
 47 = {
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 35
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 10
 
 	}
 
 	farmers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 630
 	}
@@ -1772,32 +1772,32 @@
 #Fort Albany (6400/1600 POPS)
 48 = {
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 35
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 80
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 20
 
 	}
 
 	farmers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 1440
 	}
@@ -1805,32 +1805,32 @@
 #Dryden (12000/3000 POPS)
 49 = {
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 25
 
 	}
 
 	farmers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 1750
 	}
@@ -1838,32 +1838,32 @@
 #Thunder Bay (8000/2000 POPS)
 50 = {
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 25
 
 	}
 
 	farmers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 1750
 	}
@@ -1871,25 +1871,25 @@
 #Sault Ste Marie (8000/2000 POPS)
 51 = {
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 15
 
@@ -1969,32 +1969,32 @@
 #Pickle Lake (1200/3000 POPS)
 2594 = {
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 15
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 5
 
 	}
 
 	farmers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 265
 	}
@@ -2207,32 +2207,32 @@
 #Nitchequon (2800/700 POPS)
 59 = {
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 35
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 10
 
 	}
 
 	farmers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 630
 	}
@@ -2272,32 +2272,32 @@
 	}
 
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 3
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 5
 
 	}
 
 	farmers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 180
 	}
@@ -2337,32 +2337,32 @@
 	}
 
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 20
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 5
 
 	}
 
 	farmers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 360
 	}
@@ -2370,32 +2370,32 @@
 #Fort George (1600/400 POPS)
 2593 = {
 	aristocrats = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 20
 	}
 
 	soldiers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size= 5
 
 	}
 
 	farmers = {
-		culture = algonquin
+		culture = iroquois
 		religion = animist
 		size = 360
 	}

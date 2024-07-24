@@ -202,12 +202,12 @@ political_decisions = {
 				owner = { add_accepted_culture = dakota }
 			}
 			random_owned = {
-				limit = { is_core = THIS any_pop = { has_pop_culture = sioux } NOT = { owner = { accepted_culture = sioux } } }
-				owner = { add_accepted_culture = sioux }
+				limit = { is_core = THIS any_pop = { has_pop_culture = iroquois } NOT = { owner = { accepted_culture = iroquois } } }
+				owner = { add_accepted_culture = iroquois }
 			}			
 			random_owned = {
-				limit = { is_core = THIS any_pop = { has_pop_culture = cherokee } NOT = { owner = { accepted_culture = cherokee } } }
-				owner = { add_accepted_culture = cherokee }
+				limit = { is_core = THIS any_pop = { has_pop_culture = iroquois } NOT = { owner = { accepted_culture = iroquois } } }
+				owner = { add_accepted_culture = iroquois }
 			}
 			random_owned = {
 				limit = { is_core = THIS any_pop = { has_pop_culture = pueblo } NOT = { owner = { accepted_culture = pueblo } } }
@@ -226,8 +226,8 @@ political_decisions = {
 				owner = { add_accepted_culture = iroquois }
 			}
 			random_owned = {
-				limit = { is_core = THIS any_pop = { has_pop_culture = algonquin } NOT = { owner = { accepted_culture = algonquin } } }
-				owner = { add_accepted_culture = algonquin }
+				limit = { is_core = THIS any_pop = { has_pop_culture = iroquois } NOT = { owner = { accepted_culture = iroquois } } }
+				owner = { add_accepted_culture = iroquois }
 			}	
 			random_owned = {
 				limit = { is_core = THIS any_pop = { has_pop_culture = rhonnst } NOT = { owner = { accepted_culture = rhonnst } } }

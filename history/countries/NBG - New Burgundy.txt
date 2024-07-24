@@ -1,15 +1,16 @@
 capital = 233
-primary_culture = septiman
+primary_culture = plantagenian
 religion = protestant
 government = democracy
 plurality = 0.0
 nationalvalue = nv_liberty
-literacy = 0.60
+literacy = 0.20
+non_state_culture_literacy = 0.5
 civilized = yes
 prestige = 15
 
 # Political reforms
-slavery = yes_slavery
+slavery = no_slavery
 upper_house_composition = state_equal_weight
 vote_franschise = universal_weighted_voting
 public_meetings = yes_meeting

@@ -796,18 +796,18 @@ political_decisions = {
 			}	
 		}
 		effect = {
-			add_accepted_culture = afro_frankish
+			add_accepted_culture = plantagenian
 			set_country_flag = slave_citizens
 			prestige = -15
 			any_pop = {
 			    limit = {
-			      NOT = { culture = afro_frankish }
+			      NOT = { culture = plantagenian }
 			    }
 				  militancy = 2
 			}
 			any_pop = {
 			    limit = {
-			       culture = afro_frankish
+			       culture = plantagenian
 				  }
           consciousness = 2
 			}

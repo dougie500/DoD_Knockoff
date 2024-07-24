@@ -1,5 +1,5 @@
 capital = 143
-primary_culture = cherokee
+primary_culture = iroquois
 religion = catholic
 government = democracy
 plurality = 5.0
@@ -38,7 +38,8 @@ school_reforms = low_schools
 conscription = four_year_draft
 debt_law = peonage
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = catholic_country

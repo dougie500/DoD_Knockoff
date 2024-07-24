@@ -3,19 +3,19 @@
 #Bermuda (9000/2250 POPS)
 203 = {
 	clergymen = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = protestant
 		size = 150
 	}
 
 	artisans = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = protestant
 		size = 800
 	}
 
 	farmers = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = protestant
 		size = 5110
 	}

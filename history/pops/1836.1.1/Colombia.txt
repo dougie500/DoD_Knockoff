@@ -77,26 +77,26 @@
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = catholic
 		size = 3700
 	}
@@ -166,26 +166,26 @@
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = catholic
 		size = 1850
 	}
@@ -224,26 +224,26 @@
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = catholic
 		size = 2700
 	}
@@ -315,19 +315,19 @@
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = catholic
 		size = 4700
 	}
@@ -411,26 +411,26 @@
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = catholic
 		size = 2800
 	}
@@ -756,26 +756,26 @@
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size= 25
 
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = iroquois
 		religion = animist
 		size = 2775
 	}

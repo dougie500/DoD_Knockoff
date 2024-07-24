@@ -1,25 +1,39 @@
 political_decisions = {
 
 #Oirat decisions
-CHG_tatar = {
+CHG_Tatar = {
 	
 	potential = {
-		tag = CHG
+		OR = {
+			tag = CHG
+			tag = YUA
+		}
+
 
 		NOT = { has_country_flag = CHG_tatar }
 	}
 
 	allow = {
 		war = no
-		civilized = yes
-
+		RUS_1064  = { owned_by = THIS }
+		RUS_2685  = { owned_by = THIS }
+		RUS_1060  = { owned_by = THIS }
+		
 	}
 
 	effect = {
 		set_country_flag = CHG_tatar
 		
 		add_accepted_culture = tatar 
-
+		RUS_1064 = {
+			add_core = THIS
+		}
+		RUS_2685 = {
+			add_core = THIS
+		}
+		RUS_1060 = {
+			add_core = THIS
+		}
 	}
 
 	ai_will_do = {
@@ -38,10 +52,30 @@ CHG_Yuan = {
 	allow = {
 		war = no
 		civilized = yes
+		CHI_1612  = { owned_by = THIS }
+		CHI_1576  = { owned_by = THIS }
+		CHI_1559  = { owned_by = THIS }
+		CHI_1490  = { owned_by = THIS }
 
 	}
 
 	effect = {
+		CHI_1612 = {
+			add_core = THIS
+		}
+		CHI_1576 = {
+			add_core = THIS
+		}
+		CHI_1559 = {
+			add_core = THIS
+		}
+		CHI_1490 = {
+			add_core = THIS
+		}
+		CHI_1614 = {
+			add_core = THIS
+		}
+
 		set_country_flag = CHG_Yuan
 		prestige = 5
 		add_accepted_culture = beifaren 
@@ -56,23 +90,34 @@ CHG_Yuan = {
 
 CHG_Turkmen = {
 	
+	
 	potential = {
-		tag = CHG
-
+		OR = {
+			tag = CHG
+			tag = YUA
+		}
 		NOT = { has_country_flag = CHG_Turkmen }
 	}
 
 	allow = {
 		war = no
-		civilized = yes
-
+		PER_1122  = { owned_by = THIS }
+		KOK_1190  = { owned_by = THIS }
+		
+		
+		
 	}
 
 	effect = {
 		set_country_flag = CHG_Turkmen
-		prestige = 5
+		state_n_government = 1
 		add_accepted_culture = turkmen 
-
+		PER_1122 = {
+			add_core = THIS
+		}
+		KOK_1190 = {
+			add_core = THIS
+		}
 	}
 
 	ai_will_do = {
@@ -95,6 +140,7 @@ CHG_Turkmen = {
       picture = form_china
   		potential = {
   			tag = CHG
+			has_country_flag = decision_on_hold
   			NOT = {
 				exists = CHI
   			}

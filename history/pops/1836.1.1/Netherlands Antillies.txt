@@ -22,32 +22,32 @@
 	}
 
 	clergymen = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = protestant
 		size = 20
 	}
 
 	artisans = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = protestant
 		size = 150
 	}
 
 	soldiers = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = protestant
 		size= 30
 
 	}
 
 	farmers = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = protestant
 		size = 1400
 	}
 
 	slaves = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = protestant
 		size = 1400
 	}
@@ -55,25 +55,25 @@
 #Aruba (2400/600 POPS)
 2235 = {
 	clergymen = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = protestant
 		size = 25
 	}
 
 	farmers = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = protestant
 		size = 550
 	}
 
 	slaves = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = protestant
 		size = 1050
 	}
@@ -81,31 +81,31 @@
 #Philipsburg - Saint Martin (4800/1200 POPS)
 2236 = {
 	farmers = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = catholic
 		size = 55
 	}
 
 	farmers = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = catholic
 		size = 520
 	}
 
 	slaves = {
-		culture = afro_frankish
+		culture = plantagenian
 		religion = catholic
 		size = 600
 	}

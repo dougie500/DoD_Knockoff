@@ -102,7 +102,7 @@ BOH_tradition = {
 	farm_RGO_eff = -0.01
 	army_tech_research_bonus = 0.1
 	administrative_efficiency_modifier = 0.05
-	land_unit_start_experience = 5
+	land_unit_start_experience = 4
 }
 VEN_tradition = {
 	icon = 3
@@ -111,7 +111,7 @@ VEN_tradition = {
 	army_tech_research_bonus = -0.05
 	commerce_tech_research_bonus = 0.15
 	navy_tech_research_bonus = 0.05
-	badboy = -0.04
+	badboy = -0.03
 }
 TUR_tradition = {
 	icon = 3
@@ -139,8 +139,15 @@ AUS_tradition = {
 	factory_output = 0.05
 	
 }
-
-
+CHG_tradition = {
+	icon = 3
+	administrative_efficiency_modifier = 0.12
+	land_organisation = 0.05
+	org_regain = 0.1
+	badboy = -0.05
+	factory_output = -0.05
+	land_unit_start_experience = 7
+}
 
 
 
