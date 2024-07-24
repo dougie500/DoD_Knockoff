@@ -9,7 +9,7 @@ BRG_Core_Bourgogne = {
 			tag = BRG
 			tag = RLT
 		}
-		NOT = { has_global_flag = BRG_Core_Bourgogne }
+		NOT = { has_country_flag = BRG_Core_Bourgogne }
    }
    allow = {
 	FRA_428 = {
@@ -28,7 +28,7 @@ Lotharingia_Form = {
 	picture = Lothair_picture
 	potential = { 
 		 tag = BRG
-		 NOT = { has_global_flag = Lotharingia_Form }
+		 NOT = { has_country_flag = Lotharingia_Form }
 	}
 
 	allow = {
@@ -72,8 +72,8 @@ BRG_West_Francia1 = {
 	picture = dismantle_DUA
 	potential = { 
 		tag = RLT
-		NOT = { has_global_flag = BRG_West_Francia1 }
-		NOT = { has_global_flag = BRG_East_Francia1 }
+		NOT = { has_country_flag = BRG_West_Francia1 }
+		NOT = { has_country_flag = BRG_East_Francia1 }
    }
 
    allow = {
@@ -117,8 +117,8 @@ BRG_West_Francia2 = {
 	picture = france_1350
 	potential = { 
 		tag = RLT
-		has_global_flag = BRG_West_Francia1
-		NOT = { has_global_flag = BRG_West_Francia2 }
+		has_country_flag = BRG_West_Francia1
+		NOT = { has_country_flag = BRG_West_Francia2 }
    }
 
    allow = {
@@ -162,8 +162,8 @@ BRG_West_Francia3 = {
 	picture = froehliche_rheinland
 	potential = { 
 		tag = RLT
-		has_global_flag = BRG_West_Francia1
-		NOT = { has_global_flag = BRG_West_Francia3 }
+		has_country_flag = BRG_West_Francia1
+		NOT = { has_country_flag = BRG_West_Francia3 }
    }
 
    allow = {
@@ -181,10 +181,11 @@ BRG_West_Francia3 = {
 }
 
 BRG_East_Francia1 = {
+	picture = froehliche_rheinland
 	potential = { 
 		tag = RLT
-		NOT = { has_global_flag = BRG_West_Francia1 }
-		NOT = { has_global_flag = BRG_East_Francia1 }
+		NOT = { has_country_flag = BRG_West_Francia1 }
+		NOT = { has_country_flag = BRG_East_Francia1 }
    }
 
    allow = {
@@ -287,8 +288,8 @@ BRG_East_Francia2 = {
 	picture = bav
 	potential = { 
 		tag = RLT
-		has_global_flag = BRG_East_Francia1 
-		NOT = { has_global_flag = BRG_East_Francia2 }
+		has_country_flag = BRG_East_Francia1 
+		NOT = { has_country_flag = BRG_East_Francia2 }
    }
 
    allow = {

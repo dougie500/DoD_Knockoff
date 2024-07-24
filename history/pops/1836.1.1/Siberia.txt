@@ -907,14 +907,14 @@
 	soldiers = {
 		culture = tatar
 		religion = sunni
-		size= 25
+		size= 2000
 
 	}
 
 	farmers = {
 		culture = tatar
 		religion = sunni
-		size = 2725
+		size = 54725
 	}
 }
 #Ulala (36000/9000 POPS)
@@ -940,14 +940,14 @@
 	soldiers = {
 		culture = tatar
 		religion = animist
-		size= 75
+		size= 1000
 
 	}
 
 	farmers = {
 		culture = tatar
 		religion = animist
-		size = 5475
+		size = 44725
 	}
 }
 #Yakutsk Region (117000)
@@ -3015,14 +3015,14 @@
 	soldiers = {
 		culture = ugrian
 		religion = animist
-		size= 5
+		size= 2000
 
 	}
 
 	farmers = {
 		culture = ugrian
 		religion = animist
-		size = 450
+		size = 44450
 	}
 }
 #Bryanka (2000/500 POPS)

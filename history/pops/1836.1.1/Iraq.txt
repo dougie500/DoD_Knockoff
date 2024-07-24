@@ -35,17 +35,17 @@
 	soldiers = {
 		culture = mashriqi
 		religion = sunni
-		size= 1250
+		size= 500
 	}
 
 	farmers = {
 		culture = mashriqi
 		religion = sunni
-		size = 12000
+		size = 22000
 	}
 	
 	farmers = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = yazidi
 		size = 8000
 	}
@@ -93,31 +93,31 @@
 	}
 
 	aristocrats = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size = 135
 	}
 
 	artisans = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size = 725
 	}
 
 	soldiers = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size= 1500
 	}
 	
 	farmers = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size = 12560
 	}
@@ -227,31 +227,31 @@
 	}
 
 	aristocrats = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size = 275
 	}
 
 	clergymen = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size = 140
 	}
 
 	artisans = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size = 610
 	}
 
 	soldiers = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size= 310
 	}
 
 	farmers = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size = 17450
 	}
@@ -275,7 +275,7 @@
 	}
 	
 	farmers = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = yazidi
 		size = 1325
 	}
@@ -350,31 +350,31 @@
 	}
 
 	aristocrats = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size = 525
 	}
 
 	clergymen = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size = 230
 	}
 
 	artisans = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size = 1200
 	}
 
 	soldiers = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size= 1500
 	}
 
 	farmers = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size = 25375
 	}
@@ -723,31 +723,31 @@
 	}
 
 	aristocrats = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size = 140
 	}
 
 	clergymen = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size = 110
 	}
 
 	artisans = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size = 345
 	}
 
 	soldiers = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size= 350
 	}
 
 	farmers = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size = 7200
 	}

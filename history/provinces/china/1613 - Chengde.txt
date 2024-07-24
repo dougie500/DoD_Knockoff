@@ -2,4 +2,4 @@ owner = MIG
 controller = MIG 
 add_core = MIG
 trade_goods = iron
-life_rating = 32
+life_rating = 35

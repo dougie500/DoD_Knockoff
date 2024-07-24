@@ -924,11 +924,11 @@ country_event = {
 				owner = { tag = TUR }
 			}
 			owner = {
-				remove_accepted_culture = kurdish
+				remove_accepted_culture = azerbaijani
 				any_pop = {
 					limit = {
 						OR = {
-							has_pop_culture = kurdish
+							has_pop_culture = azerbaijani
 							has_pop_culture = armenian
 						}
 					}

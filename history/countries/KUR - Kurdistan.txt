@@ -1,5 +1,5 @@
 capital = 893
-primary_culture = kurdish
+primary_culture = azerbaijani
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

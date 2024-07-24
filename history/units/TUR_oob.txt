@@ -126,28 +126,134 @@ army = {
 }
 
 
+
 army = {
-	name = "Army of Anatolia"
-	location = 861
+	name = "Army of Silistria"
+	location = 876
 	regiment = {
-		name= "5. Piyade Tümeni"
+		name= "1. Piyade Tümeni"
 		type = infantry
-		home = 810
+		home = 876
+	}
+	
+	regiment = {
+		name= "2. Piyade Tümeni"
+		type = infantry
+		home = 873
 	}
 
+	regiment = {
+		name= "3. Piyade Tümeni"
+		type = infantry
+		home = 873
+	}
+	
+	regiment = {
+		name= "4. Piyade Tümeni"
+		type = infantry
+		home = 887
+	}
+	
+	regiment = {
+		name= "5. Piyade Tümeni"
+		type = artillery
+		home = 890
+	}
 
+	regiment = {
+		name= "6. Piyade Tümeni"
+		type = artillery
+		home = 890
+	}
+	
+	regiment = {
+		name= "7. Piyade Tümeni"
+		type = artillery
+		home = 870
+	}
+	
+	regiment = {
+		name= "8. Piyade Tümeni"
+		type = artillery
+		home = 870
+	}
+	
+	regiment = {
+		name= "9. Piyade Tümeni"
+		type = artillery
+		home = 898
+	}
+
+	regiment = {
+		name= "10. Piyade Tümeni"
+		type = hussar
+		home = 898
+	}
 }
 
 army = {
 	name = "Army of Silistria"
-	location = 818
+	location = 878
+	regiment = {
+		name= "1. Piyade Tümeni"
+		type = infantry
+		home = 861
+	}
+	
+	regiment = {
+		name= "2. Piyade Tümeni"
+		type = infantry
+		home = 863
+	}
+
+	regiment = {
+		name= "3. Piyade Tümeni"
+		type = infantry
+		home = 872
+	}
+	
+	regiment = {
+		name= "4. Piyade Tümeni"
+		type = infantry
+		home = 877
+	}
+	
 	regiment = {
 		name= "5. Piyade Tümeni"
-		type = infantry
-		home = 876
+		type = artillery
+		home = 878
+	}
+
+	regiment = {
+		name= "6. Piyade Tümeni"
+		type = artillery
+		home = 878
+	}
+	
+	regiment = {
+		name= "7. Piyade Tümeni"
+		type = artillery
+		home = 879
+	}
+	
+	regiment = {
+		name= "8. Piyade Tümeni"
+		type = artillery
+		home = 883
+	}
+	
+	regiment = {
+		name= "9. Piyade Tümeni"
+		type = artillery
+		home = 891
+	}
+
+	regiment = {
+		name= "10. Piyade Tümeni"
+		type = hussar
+		home = 893
 	}
 }
-
 
 navy = {
 	name = "Ottoman Navy"

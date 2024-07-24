@@ -1829,7 +1829,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 2500
+		size= 1500
 
 	}
 
@@ -2165,7 +2165,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 3500
+		size= 1500
 
 	}
 
@@ -2346,7 +2346,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 3550
+		size= 2550
 
 	}
 
@@ -2380,11 +2380,6 @@
 		size = 2500
 	}
 
-	soldiers = {
-		culture = greek
-		religion = orthodox
-		size = 200
-	}
 }
 #Giresun (140000/35000 POPS)
 884 = {
@@ -2409,14 +2404,14 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 3100
+		size= 2100
 
 	}
 
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 21000
+		size = 31000
 	}
 
 	clergymen = {
@@ -2790,7 +2785,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 1500
+		size= 1000
 
 	}
 
@@ -3234,7 +3229,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 5550
+		size = 15550
 	}
 
 	clergymen = {
@@ -3300,7 +3295,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size= 2025
+		size= 825
 
 	}
 
@@ -3401,13 +3396,6 @@
 		culture = turkish
 		religion = sunni
 		size = 500
-	}
-
-	soldiers = {
-		culture = turkish
-		religion = sunni
-		size= 1875
-
 	}
 
 	farmers = {
@@ -3611,7 +3599,7 @@
 	farmers = {
 		culture = turkish
 		religion = assyrian
-		size = 1575
+		size = 81575
 	}
 
 	aristocrats = {
@@ -3635,7 +3623,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 100
+		size = 500
 	}
 
 	farmers = {
@@ -3662,11 +3650,6 @@
 		size = 550
 	}
 
-	soldiers = {
-		culture = turkish
-		religion = yazidi
-		size = 1175
-	}
 
 	farmers = {
 		culture = turkish
@@ -4162,7 +4145,7 @@
 	soldiers = {
 		culture = mashriqi
 		religion = sunni
-		size= 2775
+		size= 1775
 	}
 
 	farmers = {

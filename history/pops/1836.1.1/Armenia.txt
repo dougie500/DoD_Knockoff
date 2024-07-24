@@ -93,19 +93,19 @@
 	}
 
 	aristocrats = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size = 140
 	}
 
 	clergymen = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size = 140
 	}
 
 	farmers = {
-		culture = kurdish
+		culture = azerbaijani
 		religion = sunni
 		size = 9650
 	}

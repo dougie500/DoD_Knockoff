@@ -31,7 +31,7 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # New Reforms
-conscription = mandatory_service
+conscription = two_year_draft
 debt_law = serfdom
 penal_system = capital_punishment
 child_labor = child_labor_legal
@@ -55,6 +55,7 @@ set_country_flag = istanbul_not_renamed
 decision = ottoman_1836_setup
 
 # Technologies
+mechanical_production = 1
 post_napoleonic_thought = 1
 flintlock_rifles = 1
 bronze_muzzle_loaded_artillery = 1
