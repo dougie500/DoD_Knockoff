@@ -1,3 +1,5 @@
+oob = "DUA_oob.txt"
+
 capital = 425
 primary_culture = anglois
 religion = catholic
@@ -96,4 +98,3 @@ upper_house = {
 	communist = 0
 }
 
-oob = "DUA_oob.txt"

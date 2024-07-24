@@ -125,46 +125,61 @@ leader = {
 
 army = {
 	name = "Årmêye de Nord"
-	location = 381
+	location = 390
   regiment = {
 		name= "1. Infantrie de Bourgogne"
 		type = infantry
-		home = 428
+		home = 2089
 	}	
-  regiment = {
-		name= "2. Infantrie de Bourgogne"
+	regiment = {
+		name= "1. Infantrie de Bourgogne"
 		type = infantry
-		home = 428
+		home = 2087
 	}	
-  regiment = {
-		name= "3. Infantrie de Bourgogne"
+	regiment = {
+		name= "1. Infantrie de Bourgogne"
 		type = infantry
-		home = 411
+		home = 2087
 	}	
-  regiment = {
-		name= "4. Infantrie de Bourgogne"
+	regiment = {
+		name= "1. Infantrie de Bourgogne"
 		type = infantry
-		home = 411
+		home = 2090
 	}	
-  regiment = {
-		name= "5. Infantrie de Bourgogne"
-		type = infantry
-		home = 412
-	}	
-  regiment = {
-		name= "6. Infantrie de Bourgogne"
-		type = infantry
-		home = 394
-	}	
-  regiment = {
-		name= "7. Infantrie de Bourgogne"
+	regiment = {
+		name= "7. Infantrie d'Alsace"
 		type = artillery
-		home = 394
-	}	            
+		home = 1306	
+	}	
+	regiment = {
+		name= "7. Infantrie d'Alsace"
+		type = artillery
+		home = 1307
+	}	
+	regiment = {
+		name= "7. Infantrie d'Alsace"
+		type = artillery
+		home = 572
+	}	
+	regiment = {
+		name= "7. Infantrie d'Alsace"
+		type = artillery
+		home = 387
+	}	
+	regiment = {
+		name= "7. Infantrie d'Alsace"
+		type = artillery
+		home = 387
+	}	
+	regiment = {
+		name= "7. Infantrie d'Alsace"
+		type = hussar
+		home = 387
+	}	
 }
 army = {
 	name = "Årmêye d'Alsace"
-	location = 571
+	location = 391
   regiment = {
 		name= "1. Infantrie d'Alsace"
 		type = infantry
@@ -187,52 +202,63 @@ army = {
 	}	
   regiment = {
 		name= "5. Infantrie d'Alsace"
-		type = infantry
-		home = 399
+		type = artillery
+		home = 379
 	}	
   regiment = {
 		name= "6. Infantrie d'Alsace"
-		type = infantry
-		home = 399
+		type = artillery
+		home = 379
 	}	
   regiment = {
 		name= "7. Infantrie d'Alsace"
 		type = artillery
-		home = 572
+		home = 396
+	}	
+	regiment = {
+		name= "7. Infantrie d'Alsace"
+		type = artillery
+		home = 392
+	}	
+	regiment = {
+		name= "7. Infantrie d'Alsace"
+		type = artillery
+		home = 392
+	}	
+	regiment = {
+		name= "7. Infantrie d'Alsace"
+		type = hussar
+		home = 393
 	}	            
 }
 
 army = {
 	name = "Årmêye de Lorraine"
-	location = 411
+	location = 379
   regiment = {
 		name= "1. Infantrie de Lorraine"
-		type = infantry
-		home = 399
+		type = hussar
+		home = 378
 	}	
-  regiment = {
-		name= "2. Infantrie de Lorraine"
-		type = infantry
-		home = 385
-	}	
+  
   regiment = {
 		name= "3. Infantrie de Lorraine"
-		type = infantry
+		type = artillery
 		home = 390
 	}	
   regiment = {
 		name= "4. Infantrie de Lorraine"
-		type = infantry
+		type = artillery
 		home = 390
 	}	
   regiment = {
 		name= "5. Infantrie de Lorraine"
-		type = infantry
+		type = artillery
 		home = 390
 	}	
   regiment = {
 		name= "6. Infantrie de Lorraine"
-		type = infantry
+		type = artillery
 		home = 390
 	}	
   regiment = {
@@ -244,7 +270,7 @@ army = {
 
 army = {
 	name = "Årmêye de Flande"
-	location = 400
+	location = 387
   regiment = {
 		name= "1. Infantrie de Flande"
 		type = infantry
@@ -263,56 +289,67 @@ army = {
   regiment = {
 		name= "4. Infantrie de Flande"
 		type = infantry
-		home = 394
+		home = 382
 	}	
   regiment = {
 		name= "5. Infantrie de Flande"
-		type = infantry
-		home = 574
+		type = artillery
+		home = 376
 	}	
   regiment = {
 		name= "6. Infantrie de Flande"
-		type = infantry
-		home = 576
+		type = artillery
+		home = 376
 	}	
   regiment = {
 		name= "7. Infantrie de Flande"
 		type = artillery
-		home = 570
-	}	            
+		home = 397
+	}	   
+	regiment = {
+		name= "8. Infantrie de Flande"
+		type = artillery
+		home = 397
+	}	
+	regiment = {
+		name= "9. Infantrie de Flande"
+		type = artillery
+		home = 397
+	}	
+	regiment = {
+		name= "10. Infantrie de Flande"
+		type = hussar
+		home = 397
+	}	         
 }
 
 army = {
 	name = "Årmêye de Cologne"
-	location = 575
-  regiment = {
-		name= "1. Infantrie du Rhin"
-		type = infantry
-		home = 385
-	}	
+	location = 380
+ 
   regiment = {
 		name= "2. Infantrie du Rhin"
-		type = infantry
-		home = 386
+		type = hussar
+		home = 377
 	}	
   regiment = {
 		name= "3. Infantrie du Rhin"
-		type = infantry
+		type = artillery
 		home = 394
 	}	
   regiment = {
 		name= "4. Infantrie du Rhin"
-		type = infantry
-		home = 385
+		type = artillery
+		home = 377
 	}	
   regiment = {
 		name= "5. Infantrie du Rhin"
-		type = infantry
+		type = artillery
 		home = 395
 	}	
   regiment = {
 		name= "6. Infantrie du Rhin"
-		type = infantry
+		type = artillery
 		home = 396
 	}	
   regiment = {
@@ -322,95 +359,7 @@ army = {
 	}	            
 }
 
-army = {
-	name = "Årmêye do Cap"
-	location = 2087
-  regiment = {
-		name= "1. Infantrie"
-		type = infantry
-		home = 2217
-	}	
-  regiment = {
-		name= "2. Infantrie"
-		type = infantry
-		home = 2087
-	}	
-  regiment = {
-		name= "3. Infantrie"
-		type = infantry
-		home = 2087
-	}	 
-  regiment = {
-		name= "1. Cavalerie"
-		type = hussar
-		home = 1414
-	}
-  regiment = {
-		name= "2. Cavalerie"
-		type = hussar
-		home = 2087
-	}         
-}
 
-army = {
-	name = "Årmêye de Java"
-	location = 1414
-  regiment = {
-		name= "1. Infantrie"
-		type = infantry
-		home = 1413
-	}	
-  regiment = {
-		name= "2. Infantrie"
-		type = infantry
-		home = 1413
-	}	
-  regiment = {
-		name= "3. Infantrie"
-		type = infantry
-		home = 1413
-	}	
-  regiment = {
-		name= "4. Infantrie"
-		type = infantry
-		home = 1414
-	}	
-  regiment = {
-		name= "5. Infantrie"
-		type = infantry
-		home = 607
-	}        
-}
-
-army = {
-	name = "Garnison de l'Inde"
-	location = 1306
-  regiment = {
-		name= "1. Infantrie"
-		type = infantry
-		home = 375
-	}	
-  regiment = {
-		name= "2. Infantrie"
-		type = infantry
-		home = 2096
-	}	
-  regiment = {
-		name= "3. Infantrie"
-		type = infantry
-		home = 390
-	}	
-  regiment = {
-		name= "4. Infantrie"
-		type = infantry
-		home = 607
-	}	
-  regiment = {
-		name= "5. Infantrie"
-		type = infantry
-		home = 1306
-	}       
-}
 
 navy = {
 	name = "Escadre de Flande"

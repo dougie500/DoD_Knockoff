@@ -40,10 +40,9 @@ RUT_tradition = {
 
 	global_population_growth = 0.001
 	mobilisation_size = 0.01
-	reinforce_rate = 0.05
+	reinforcements = 0.05
 	army_tech_research_bonus = -0.05
 	culture_tech_research_bonus = -0.05
-	land_unit_start_experience = -5.00
 	supply_consumption = -0.05
 
 }
@@ -103,7 +102,6 @@ BOH_tradition = {
 	farm_RGO_eff = -0.01
 	army_tech_research_bonus = 0.1
 	administrative_efficiency_modifier = 0.05
-	mobilisation_size = -0.005
 	land_unit_start_experience = 5
 }
 VEN_tradition = {
@@ -113,6 +111,7 @@ VEN_tradition = {
 	army_tech_research_bonus = -0.05
 	commerce_tech_research_bonus = 0.15
 	navy_tech_research_bonus = 0.05
+	badboy = -0.04
 }
 TUR_tradition = {
 	icon = 3
@@ -122,12 +121,14 @@ TUR_tradition = {
 	industry_tech_research_bonus = -0.05
 	naval_unit_start_experience = -10
 	local_ship_build = 0.1
+	
 }
 BRG_tradition = {
 	icon = 3
 	administrative_efficiency_modifier = -0.05
 	culture_tech_research_bonus = 0.05
 	factory_input = 0.05
+	badboy = -0.02
 }
 AUS_tradition = {
 	icon = 3

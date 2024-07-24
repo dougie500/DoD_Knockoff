@@ -16,136 +16,115 @@ leader = {
 
 army = {
 	name = "First Army of Poland"
-	location = 703
+	location = 936
 	regiment = {
 		name= "1.1st Division"
-		type = infantry
-		home = 703
+		type = artillery
+		home = 357
 	}
 
 	regiment = {
 		name= "2.1st Division"
-		type = infantry
-		home = 703
+		type = artillery
+		home = 357
 	}
 
 	regiment = {
 		name= "3.1st Division"
-		type = infantry
-		home = 703
+		type = artillery
+		home = 360
 	}
 	
 	regiment = {
 		name= "4.1st Division"
 		type = artillery
-		home = 703
+		home = 360
 	}
-	
-	regiment = {
-		name= "5.1st Division"
-		type = hussar
-		home = 703
-	}
-}
-
-army = {
-	name = "Second Army of Poland"
-	location = 690
-	regiment = {
-		name= "1.1st Division"
-		type = infantry
-		home = 690
-	}
-
-	regiment = {
-		name= "2.1st Division"
-		type = infantry
-		home = 690
-	}
-
-	regiment = {
-		name= "3.1st Division"
-		type = infantry
-		home = 690
-	}
-	
 	regiment = {
 		name= "4.1st Division"
 		type = artillery
-		home = 690
+		home = 719
 	}
-	
 	regiment = {
 		name= "5.1st Division"
 		type = hussar
-		home = 690
+		home = 719
 	}
 }
+
 
 army = {
 	name = "Third Army of Poland"
-	location = 365
+	location = 937
 	regiment = {
 		name= "1.1st Division"
-		type = infantry
-		home = 365
+		type = artillery
+		home = 712
 	}
-
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 357
+	}
 	regiment = {
 		name= "2.1st Division"
-		type = infantry
-		home = 365
+		type = artillery
+		home = 711
 	}
 
 	regiment = {
 		name= "3.1st Division"
-		type = infantry
-		home = 365
+		type = artillery
+		home = 937
 	}
 	
 	regiment = {
 		name= "4.1st Division"
 		type = artillery
-		home = 365
+		home = 354
 	}
 	
 	regiment = {
 		name= "5.1st Division"
 		type = hussar
-		home = 365
+		home = 706
 	}
 }
 
 army = {
 	name = "Fourth Army of Poland"
-	location = 718
+	location = 719
 	regiment = {
 		name= "1.1st Division"
-		type = infantry
-		home = 718
+		type = artillery
+		home = 717
 	}
-
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 717
+	}
 	regiment = {
 		name= "2.1st Division"
-		type = infantry
+		type = artillery
 		home = 718
 	}
 
 	regiment = {
 		name= "3.1st Division"
-		type = infantry
-		home = 718
+		type = artillery
+		home = 940
 	}
 	
 	regiment = {
 		name= "4.1st Division"
 		type = artillery
-		home = 718
+		home = 703
 	}
 	
 	regiment = {
 		name= "5.1st Division"
 		type = hussar
-		home = 718
+		home = 704
 	}
 }

@@ -512,7 +512,7 @@
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size= 3000
+		size= 4500
 
 	}
 

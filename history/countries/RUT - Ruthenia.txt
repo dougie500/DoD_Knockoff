@@ -48,6 +48,7 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+oob = RUT_oob.txt
 
 post_napoleonic_thought = 1
 flintlock_rifles = 1

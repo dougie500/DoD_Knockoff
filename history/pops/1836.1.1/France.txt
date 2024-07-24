@@ -1253,7 +1253,11 @@
 		religion = catholic
 		size = 1100
 	}
-
+	soldiers = {
+		culture = anglois
+		religion = catholic
+		size = 3000
+	}
 	clergymen = {
 		culture = breton
 		religion = catholic
@@ -1292,7 +1296,16 @@
 		religion = catholic
 		size = 1100
 	}
-
+	soldiers = {
+		culture = anglois
+		religion = catholic
+		size = 3000
+	}
+	soldiers = {
+		culture = anglois
+		religion = catholic
+		size = 3000
+	}
 	clergymen = {
 		culture = anglois
 		religion = catholic
@@ -1515,18 +1528,6 @@
 		religion = catholic
 		size = 3000
 	}
-
-	soldiers = {
-		culture = anglois
-		religion = catholic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = anglois
-		religion = catholic
-		size = 3000
-	}
 	
 	soldiers = {
 		culture = anglois
@@ -1534,11 +1535,6 @@
 		size = 3000
 	}
 	
-	soldiers = {
-		culture = anglois
-		religion = catholic
-		size = 3000
-	}
 	
 	soldiers = {
 		culture = anglois

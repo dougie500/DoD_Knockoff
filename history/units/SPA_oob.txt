@@ -303,7 +303,7 @@ army = {
 
 army = {
 	name = "Ejército de la Habana"
-	location = 132
+	location = 447
 
 	regiment = {
 		name= "4. Brigada de Infantería 'San Jorge'"
@@ -325,6 +325,11 @@ army = {
 		name= "4. Brigada de Infantería 'San Jorge'"
 		type = artillery
 		home = 482
+	}
+	regiment = {
+		name= "4. Brigada de Infantería 'San Jorge'"
+		type = artillery
+		home = 2048
 	}
 	regiment = {
 		name= "8. Brigada de Infantería 'La Granja'"

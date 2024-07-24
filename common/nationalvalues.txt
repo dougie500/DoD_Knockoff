@@ -2,9 +2,9 @@ nv_order = {
 	org_regain = 0.05
 	land_unit_start_experience = 5
 	naval_unit_start_experience = 5
-	mobilisation_size = 0.02
+	mobilisation_size = 0.022
 	research_points_modifier = -0.10
-
+	badboy = -0.03
 }
 nv_equality = {
 	global_immigrant_attract = 0.05
@@ -14,7 +14,7 @@ nv_equality = {
 	mobilisation_size = 0.01
 }
 nv_education = {
-	research_points_modifier = -0.10
+	research_points_modifier = -0.08
 	education_efficiency_modifier = 0.2
 	rgo_output = -0.05
 	mobilisation_size = 0.01
@@ -28,6 +28,8 @@ nv_liberty = {
 	army_tech_research_bonus = -0.05
 	navy_tech_research_bonus = -0.05
 	mobilisation_size = 0.01
+	research_points_modifier = -0.05
+
 }
 
 nv_autocracy = {
@@ -40,13 +42,6 @@ nv_autocracy = {
 
 }
 
-nv_tradition = {
-	global_pop_militancy_modifier = -0.01
-	social_reform_desire = -0.2
-	issue_change_speed = -0.2
-	ruling_party_support = 0.25
-	mobilisation_size = 0.015
-}
 
 nv_productivity = {
 	tax_efficiency = 0.03
@@ -55,5 +50,13 @@ nv_productivity = {
 	artisan_throughput = 0.08
 	commerce_tech_research_bonus = 0.1
 	industry_tech_research_bonus = 0.1
-	mobilisation_size = 0.005
+	mobilisation_size = 0.001
+}
+
+nv_tradition = {
+	global_pop_militancy_modifier = -0.01
+	social_reform_desire = -0.2
+	issue_change_speed = -0.2
+	ruling_party_support = 0.25
+	mobilisation_size = 0.015
 }

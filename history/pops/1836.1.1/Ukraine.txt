@@ -989,9 +989,8 @@
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 125
+		size = 1080
 	}
-
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
@@ -1383,7 +1382,7 @@
 	clergymen = {
 		culture = polish
 		religion = catholic
-		size = 100
+		size = 1100
 	}
 
 	soldiers = {
@@ -1396,7 +1395,7 @@
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 150
+		size = 1150
 	}
 
 	artisans = {
@@ -1602,7 +1601,7 @@ farmers = {
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 150
+		size = 1150
 	}
 
 	artisans = {
@@ -1768,7 +1767,7 @@ farmers = {
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 75
+		size = 1115
 	}
 
 	artisans = {
@@ -1863,7 +1862,7 @@ farmers = {
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 150
+		size = 2080
 	}
 
 	artisans = {

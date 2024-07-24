@@ -20,14 +20,31 @@ army = {
 
 	regiment = {
 		name= "2.1. Kavalleriedivision"
-		type = hussar
+		type = artillery
 		home = 619
 	}
 
 	regiment = {
 		name= "3.1. Kavalleriedivision"
-		type = hussar
+		type = artillery
 		home = 619
+	}
+	regiment = {
+		name= "5.1. Kavalleriedivision"
+		type = artillery
+		home = 616
+	}
+
+	regiment = {
+		name= "6.1. Kavalleriedivision"
+		type = artillery
+		home = 616
+	}
+
+	regiment = {
+		name= "7.1. Kavalleriedivision"
+		type = artillery
+		home = 615
 	}
 
 	regiment = {
@@ -39,12 +56,78 @@ army = {
 	regiment = {
 		name= "2.3. Infanteriedivision"
 		type = infantry
-		home = 619
+		home = 637
 	}
 
 	regiment = {
 		name= "3.3. Infanteriedivision"
 		type = infantry
 		home = 619
+	}
+	regiment = {
+		name= "3.3. Infanteriedivision"
+		type = infantry
+		home = 640
+	}
+}
+army = {
+	name = "HEEEELP"
+	location = 621
+	regiment = {
+		name= "1.1. Kavalleriedivision"
+		type = hussar
+		home = 639
+	}
+
+	regiment = {
+		name= "2.1. Kavalleriedivision"
+		type = artillery
+		home = 639
+	}
+
+	regiment = {
+		name= "3.1. Kavalleriedivision"
+		type = artillery
+		home = 639
+	}
+	regiment = {
+		name= "5.1. Kavalleriedivision"
+		type = artillery
+		home = 619
+	}
+
+	regiment = {
+		name= "6.1. Kavalleriedivision"
+		type = artillery
+		home = 642
+	}
+
+	regiment = {
+		name= "7.1. Kavalleriedivision"
+		type = artillery
+		home = 612
+	}
+
+	regiment = {
+		name= "1.3. Infanteriedivision"
+		type = infantry
+		home = 641
+	}
+
+	regiment = {
+		name= "2.3. Infanteriedivision"
+		type = infantry
+		home = 613
+	}
+
+	regiment = {
+		name= "3.3. Infanteriedivision"
+		type = infantry
+		home = 623
+	}
+	regiment = {
+		name= "3.3. Infanteriedivision"
+		type = infantry
+		home = 644
 	}
 }

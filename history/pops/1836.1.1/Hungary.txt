@@ -42,7 +42,7 @@
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 4686 
+		size = 5686 
 	}
 
 	serfs = {
@@ -81,12 +81,6 @@
 		size = 1100
 	}
 
-	soldiers = {
-		culture = hungarian
-		religion = catholic
-		size= 1250
-
-	}
 
 	farmers = {
 		culture = hungarian
@@ -123,7 +117,7 @@
 	farmers = {
 		culture = hungarian
 		religion = protestant
-		size = 2740   
+		size = 1740   
 	}
 }
 #Zalaegerszeg (860000/215000 POPS) #part of Hungary today
@@ -436,12 +430,7 @@
 		size = 250 
 	}
 
-	soldiers = {
-		culture = hungarian
-		religion = protestant
-		size= 1050
-
-	}
+	
 
 	farmers = {
 		culture = hungarian
@@ -588,13 +577,6 @@
 		size = 9000
 	}
 
-	soldiers = {
-		culture = hungarian
-		religion = catholic
-		size= 2100
-
-	}
-
 	farmers = {
 		culture = hungarian
 		religion = catholic
@@ -705,13 +687,7 @@
 		size = 7500 
 	}
 
-	soldiers = {
-		culture = south_german
-		religion = catholic
-		size= 1275
-
-	}
-
+	
 	farmers = {
 		culture = south_german
 		religion = catholic

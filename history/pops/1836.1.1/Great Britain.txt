@@ -315,17 +315,6 @@
 
 	}
 
-	soldiers = {
-		culture = scottish
-		religion = protestant
-		size = 3000
-	}
-	
-	soldiers = {
-		culture = scottish
-		religion = protestant
-		size = 3000
-	}
 	
 	farmers = {
 		culture = scottish
@@ -1563,7 +1552,11 @@
 		religion = catholic
 		size = 500
 	}
-
+	soldiers = {
+		culture = anglois
+		religion = catholic
+		size = 3000
+	}
 	clergymen = {
 		culture = english
 		religion = catholic
@@ -1672,7 +1665,11 @@
 		religion = catholic
 		size = 1500
 	}
-
+	soldiers = {
+		culture = anglois
+		religion = catholic
+		size = 3000
+	}
 	clergymen = {
 		culture = english
 		religion = catholic
@@ -2125,23 +2122,7 @@
 		size = 9500
 	}
 
-	soldiers = {
-		culture = anglois
-		religion = catholic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = anglois
-		religion = catholic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = anglois
-		religion = catholic
-		size = 3000
-	}
+	
 
 	soldiers = {
 		culture = anglois

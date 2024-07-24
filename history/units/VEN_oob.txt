@@ -20,50 +20,64 @@ army = {
 	regiment = {
 		name= "1. infantry"
 		type = infantry
-		home = 729
+		home = 734
 	}
 
 	regiment = {
 		name= "2. infantry"
 		type = infantry
-		home = 729
+		home = 819
 	}
 
 	regiment = {
 		name= "3. infantry"
 		type = infantry
-		home = 729
+		home = 819
 	}
 
 	regiment = {
 		name= "4. infantry"
+		type = infantry
+		home = 860
+	}
+
+	regiment = {
+		name= "1. hussar"
 		type = artillery
 		home = 736
 	}
 
 	regiment = {
-		name= "1. hussar"
-		type = hussar
+		name= "2. hussar"
+		type = artillery
 		home = 736
 	}
-
 	regiment = {
 		name= "2. hussar"
-		type = hussar
-		home = 736
+		type = artillery
+		home = 805
 	}
-
+	regiment = {
+		name= "2. hussar"
+		type = artillery
+		home = 842
+	}
+	regiment = {
+		name= "2. hussar"
+		type = artillery
+		home = 828
+	}
 	regiment = {
 		name= "3. hussar"
 		type = hussar
-		home = 615
+		home = 805
 	}
 
 }
 
 army = {
 	name = "Army of Crete"
-	location = 848
+	location = 822
 	regiment = {
 		name= "1. infantry"
 		type = infantry
@@ -73,7 +87,7 @@ army = {
 	regiment = {
 		name= "2. infantry"
 		type = infantry
-		home = 615
+		home = 860
 	}
 
 	regiment = {
@@ -81,36 +95,46 @@ army = {
 		type = infantry
 		home = 826
 	}
-
+	regiment = {
+		name= "3. infantry"
+		type = infantry
+		home = 859
+	}
 	regiment = {
 		name= "4. infantry"
-		type = infantry
+		type = artillery
 		home = 845
 	}
 
 	regiment = {
 		name= "5. infantry"
 		type = artillery
-		home = 855
+		home = 860
+	}
+	regiment = {
+		name= "4. infantry"
+		type = artillery
+		home = 840
+	}
+	regiment = {
+		name= "4. infantry"
+		type = artillery
+		home = 737
+	}
+	regiment = {
+		name= "4. infantry"
+		type = artillery
+		home = 966
+	}
+	regiment = {
+		name= "4. infantry"
+		type = hussar
+		home = 966
 	}
 
 }
 
-army = {
-	name = "Army of Senegal"
-	location = 1784
-	regiment = {
-		name= "1. Colonial"
-		type = infantry
-		home = 199
-	}
 
-	regiment = {
-		name= "2. Colonial"
-		type = infantry
-		home = 1784
-	}
-}
 
 
 navy = {

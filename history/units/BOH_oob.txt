@@ -102,89 +102,40 @@ leader = {
 	background = natural_born_leader
 }
 
-army = {
-	name = "First Army of Bohemia"
-	location = 681
-	regiment = {
-		name= "1.1st Division"
-		type = infantry
-		home = 625
-	}
 
-	regiment = {
-		name= "2.1st Division"
-		type = infantry
-		home = 625
-	}
-
-	regiment = {
-		name= "3.1st Division"
-		type = infantry
-		home = 625
-	}
-
-	regiment = {
-		name= "4.1st Division"
-		type = infantry
-		home = 625
-	}
-
-	regiment = {
-		name= "5.1st Division"
-		type = infantry
-		home = 631
-	}
-	
-	regiment = {
-		name= "4.1st Division"
-		type = artillery
-		home = 625
-	}
-	
-	regiment = {
-		name= "5.1st Division"
-		type = hussar
-		home = 625
-	}
-}
 
 army = {
 	name = "Second Army of Bohemia"
-	location = 630
+	location = 628
 	regiment = {
 		name= "1.1st Division"
-		type = infantry
+		type = artillery
 		home = 631
 	}
 
 	regiment = {
 		name= "2.1st Division"
-		type = infantry
-		home = 631
+		type = artillery
+		home = 684
 	}
 
 	regiment = {
 		name= "3.1st Division"
-		type = infantry
-		home = 631
+		type = artillery
+		home = 684
 	}
 
-	regiment = {
-		name= "4.1st Division"
-		type = infantry
-		home = 631
-	}
 
 	regiment = {
 		name= "5.1st Division"
-		type = infantry
+		type = artillery
 		home = 682
 	}
 	
 	regiment = {
 		name= "4.1st Division"
 		type = artillery
-		home = 631
+		home = 560
 	}
 	
 	regiment = {
@@ -196,138 +147,144 @@ army = {
 
 army = {
 	name = "Third Army of Bohemia"
-	location = 685
+	location = 625
 	regiment = {
-		name= "1.1st Division"
+		name= "1"
 		type = infantry
-		home = 549
+		home = 626
 	}
 
 	regiment = {
-		name= "2.1st Division"
+		name= "2"
 		type = infantry
-		home = 549
-	}
-
-	regiment = {
-		name= "3.1st Division"
-		type = infantry
-		home = 682
-	}
-
-	regiment = {
-		name= "4.1st Division"
-		type = infantry
-		home = 682
-	}
-
-	regiment = {
-		name= "5.1st Division"
-		type = infantry
-		home = 682
-	}
-	
-	regiment = {
-		name= "4.1st Division"
-		type = artillery
-		home = 682
-	}
-	
-	regiment = {
-		name= "5.1st Division"
-		type = hussar
-		home = 631
-	}
-}
-
-army = {
-	name = "Fourth Army of Bohemia"
-	location = 557
-	regiment = {
-		name= "1.1st Division"
-		type = infantry
-		home = 549
-	}
-
-	regiment = {
-		name= "2.1st Division"
-		type = infantry
-		home = 549
+		home = 628
 	}
 
 	regiment = {
 		name= "3.1st Division"
 		type = infantry
-		home = 550
+		home = 682
 	}
 
 	regiment = {
 		name= "4.1st Division"
 		type = infantry
-		home = 551
+		home = 682
 	}
 
 	regiment = {
 		name= "5.1st Division"
-		type = infantry
-		home = 558
+		type = artillery
+		home = 699
 	}
 	
 	regiment = {
-		name= "4.1st Division"
+		name= "6"
 		type = artillery
 		home = 682
 	}
-	
 	regiment = {
-		name= "5.1st Division"
+		name= "7"
+		type = artillery
+		home = 701
+	}
+	regiment = {
+		name= "8"
+		type = artillery
+		home = 630
+	}
+	regiment = {
+		name= "10"
+		type = artillery
+		home = 629
+	}
+	regiment = {
+		name= "9"
 		type = hussar
-		home = 682
+		home = 685
 	}
 }
+
 
 army = {
 	name = "Fifth Army of Bohemia"
 	location = 560
-	regiment = {
-		name= "1.1st Division"
-		type = infantry
-		home = 558
-	}
+
 
 	regiment = {
 		name= "2.1st Division"
-		type = infantry
-		home = 558
+		type = artillery
+		home = 559
 	}
 
 	regiment = {
 		name= "3.1st Division"
-		type = infantry
+		type = artillery
 		home = 558
 	}
 
 	regiment = {
 		name= "4.1st Division"
-		type = infantry
-		home = 553
+		type = artillery
+		home = 627
 	}
 
 	regiment = {
 		name= "5.1st Division"
-		type = infantry
-		home = 553
+		type = artillery
+		home = 558
 	}
 	
 	regiment = {
-		name= "4.1st Division"
+		name= "1.1st Division"
 		type = artillery
-		home = 553
+		home = 683
 	}
 	
 	regiment = {
 		name= "5.1st Division"
 		type = hussar
-		home = 682
+		home = 558
+	}
+}
+army = {
+	name = "army"
+	location = 558
+
+
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 559
+	}
+
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 558
+	}
+
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 627
+	}
+
+	regiment = {
+		name= "5.1st Division"
+		type = artillery
+		home = 560
+	}
+	
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 683
+	}
+	
+	regiment = {
+		name= "5.1st Division"
+		type = hussar
+		home = 558
 	}
 }

@@ -135,7 +135,7 @@
 	soldiers = {
 		culture = greek
 		religion = orthodox
-		size= 300
+		size= 600
 
 	}
 
@@ -345,7 +345,7 @@
 	soldiers = {
 		culture = venetian
 		religion = sunni
-		size = 3000
+		size = 6000
 	}	
 
 	farmers = {

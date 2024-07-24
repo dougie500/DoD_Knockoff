@@ -135,41 +135,6 @@ army = {
 		home = 810
 	}
 
-	regiment = {
-		name= "6. Piyade Tümeni"
-		type = infantry
-		home = 811
-	}
-
-	regiment = {
-		name= "7. Piyade Tümeni"
-		type = artillery
-		home = 823
-	}
-
-	regiment = {
-		name= "1. Redif Kars"
-		type = infantry
-		home = 794
-	}
-
-	regiment = {
-		name= "1. Redif Trabzon"
-		type = infantry
-		home = 795
-	}
-
-	regiment = {
-		name= "2. Redif Trabzon"
-		type = infantry
-		home = 811
-	}
-
-	regiment = {
-		name= "3. Redif Trabzon"
-		type = infantry
-		home = 884
-	}
 
 }
 
@@ -177,85 +142,12 @@ army = {
 	name = "Army of Silistria"
 	location = 818
 	regiment = {
-		name= "4. Sipahis"
-		type = hussar
-		home = 812
-	}
-
-	regiment = {
-		name= "5. Sipahis"
-		type = hussar
-		home = 812
-	}
-
-	regiment = {
-		name= "6. Sipahis"
-		type = hussar
-		home = 860
+		name= "5. Piyade Tümeni"
+		type = infantry
+		home = 876
 	}
 }
 
-army = {
-	name = "Army of Arabia"
-	location = 902
-	regiment = {
-		name= "12. Piyade Tümeni"
-		type = infantry
-		home = 883
-	}
-
-	regiment = {
-		name= "13. Piyade Tümeni"
-		type = infantry
-		home = 873
-	}
-
-	regiment = {
-		name= "1. Redif Halab"
-		type = infantry
-		home = 1746
-	}
-
-	regiment = {
-		name= "2. Redif Halab"
-		type = infantry
-		home = 897
-	}
-
-	regiment = {
-		name= "3. Redif Halab"
-		type = infantry
-		home = 882
-	}
-}
-
-army = {
-	name = "Army of Suez"
-	location = 1746
-	regiment = {
-		name= "12. Piyade Tümeni"
-		type = infantry
-		home = 870
-	}
-
-	regiment = {
-		name= "13. Piyade Tümeni"
-		type = infantry
-		home = 881
-	}
-
-	regiment = {
-		name= "1. Redif Halab"
-		type = infantry
-		home = 877
-	}
-
-	regiment = {
-		name= "2. Redif Halab"
-		type = infantry
-		home = 878
-	}
-}
 
 navy = {
 	name = "Ottoman Navy"

@@ -126,7 +126,7 @@ political_decisions = {
 		}
 	}
 	AUS_Hungary = {
-		
+		picture = ottoman_hungary
 		potential = { 
 			 tag = AUS
 			
@@ -153,7 +153,7 @@ political_decisions = {
 		
 	}
 	AUS_Slovakia = {
-		
+		picture = slovakia
 		potential = { 
 			 OR = { tag = AUS
 				tag = AUH
@@ -179,41 +179,80 @@ political_decisions = {
 		
 	}
 	AUS_Serb = {
-		
+		picture = croatian_serbia
 		potential = { 
-			 OR = { tag = AUS
+		
 				tag = AUH
-		}
+		
 			NOT = {
 				has_country_flag = AUS_Serb
 			
-	
 			}
 		}
 	
 		allow = {
-			AUS_633 = { owned_by = THIS }
-			nationalism_n_imperialism = 1
+			AUS_777 = { owned_by = THIS }
+			SER_794 = { owned_by = THIS }
+			empiricism = 1
 		}
 		effect = { 
-		
+			AUS_777 = {
+				add_core = THIS
+			}
+			SER_794 = {
+				add_core = THIS
+			}
 			set_country_flag = AUS_Serb
-			
-			add_accepted_culture = slovene
-			add_accepted_culture = croat
-			add_accepted_culture = croat
+			add_accepted_culture = serb
+		
 
 		}
 		
 	}
-	AUS_Rom = {
-		
+	AUS_Croat = {
+		picture = greater_croatia_map
 		potential = { 
-			 OR = { tag = AUS
+			
 				tag = AUH
-		}
+		
 			NOT = {
-				has_country_flag = AUS_Rom
+				has_country_flag = AUS_Croat
+			
+	
+			}
+		}
+	
+		allow = {
+			AUS_768 = { owned_by = THIS }
+			SER_794 = { owned_by = THIS }
+			TUR_788 = { owned_by = THIS }
+			nationalism_n_imperialism = 1
+		}
+		effect = { 
+			AUS_768 = {
+				add_core = THIS
+			}
+			AUS_771 = {
+				add_core = THIS
+			}
+			TUR_788 = {
+				add_core = THIS
+			}
+			set_country_flag = AUS_Croat
+			
+			add_accepted_culture = croat
+			add_accepted_culture = slovene
+		}
+		
+	}
+	AUS_transylvania = {
+		picture = claim_transvaal
+		potential = { 
+
+				tag = AUH
+		
+			NOT = {
+				has_country_flag = AUS_transylvania
 			
 	
 			}
@@ -221,13 +260,22 @@ political_decisions = {
 	
 		allow = {
 			
-			revolution_n_counterrevolution = 1
+			AUS_647 = { owned_by = THIS }
+			AUS_654 = { owned_by = THIS }
+			AUS_657 = { owned_by = THIS }
+
 		}
 		effect = { 
-		
-			set_country_flag = AUS_Rom
-			
-			add_accepted_culture = romanian
+			AUS_647 = {
+				add_core = THIS
+			}
+			AUS_654 = {
+				add_core = THIS
+			}
+			AUS_657 = {
+				add_core = THIS
+			}
+			set_country_flag = AUS_transylvania
 			
 		}
 		

@@ -322,7 +322,154 @@ army = {
 		home = 263
 	}
 }
-
+army = {
+	name = "rumbus"
+	location = 426
+	regiment = {
+		name= "14"
+		type = artillery
+		home = 423
+	}
+	
+	regiment = {
+		name= "11"
+		type = artillery
+		home = 418
+	}
+	regiment = {
+		name= "12"
+		type = artillery
+		home = 418
+	}
+	regiment = {
+		name= "13"
+		type = artillery
+		home = 442
+	}
+	regiment = {
+		name= "reeee"
+		type = artillery
+		home = 442
+	}
+	
+	regiment = {
+		name= "2"
+		type = infantry
+		home = 442
+	}
+	regiment = {
+		name= "1"
+		type = infantry
+		home = 423
+	}
+	regiment = {
+		name= "3"
+		type = infantry
+		home = 445
+	}
+	regiment = {
+		name= "4"
+		type = infantry
+		home = 445
+	}
+	regiment = {
+		name= "3.3ème Division d'Infanterie"
+		type = hussar
+		home = 445
+	}
+}
+army = {
+	name = "1ère Armée"
+	location = 436
+	regiment = {
+		name= "14"
+		type = artillery
+		home = 484
+	}
+	
+	regiment = {
+		name= "11"
+		type = artillery
+		home = 292
+	}
+	regiment = {
+		name= "12"
+		type = artillery
+		home = 292
+	}
+	regiment = {
+		name= "13"
+		type = artillery
+		home = 403
+	}
+	regiment = {
+		name= "reeee"
+		type = artillery
+		home = 403
+	}
+	
+	regiment = {
+		name= "2"
+		type = infantry
+		home = 428
+	}
+	regiment = {
+		name= "1"
+		type = infantry
+		home = 428
+	}
+	regiment = {
+		name= "3"
+		type = infantry
+		home = 434
+	}
+	regiment = {
+		name= "4"
+		type = infantry
+		home = 434
+	}
+	regiment = {
+		name= "3.3ème Division d'Infanterie"
+		type = hussar
+		home = 434
+	}
+}
+army = {
+	name = "1ère Armée"
+	location = 440
+	regiment = {
+		name= "14"
+		type = artillery
+		home = 273
+	}
+	
+	regiment = {
+		name= "11"
+		type = artillery
+		home = 273
+	}
+	regiment = {
+		name= "12"
+		type = artillery
+		home = 420
+	}
+	regiment = {
+		name= "13"
+		type = artillery
+		home = 420
+	}
+	regiment = {
+		name= "reeee"
+		type = artillery
+		home = 290
+	}
+	
+	regiment = {
+		name= "3.3ème Division d'Infanterie"
+		type = hussar
+		home = 290
+	}
+}
 navy = {
 	name = "Escadre des Indes Orientales"
 	location = 461

@@ -13,3 +13,243 @@ BRE = {
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 100
 }
+
+army = {
+	name = "army"
+	location = 272
+
+
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 266
+	}
+
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 266
+	}
+
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 254
+	}
+
+	regiment = {
+		name= "5.1st Division"
+		type = artillery
+		home = 281
+	}
+	
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 281
+	}
+	
+	regiment = {
+		name= "5.1st Division"
+		type = hussar
+		home = 281
+	}
+}
+army = {
+	name = "Fifth Army of Denmark"
+	location = 280
+
+
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 254
+	}
+
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 269
+	}
+
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 269
+	}
+
+
+	regiment = {
+		name= "5.1st Division"
+		type = artillery
+		home = 269
+	}
+	
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 313
+	}
+	
+	regiment = {
+		name= "5.1st Division"
+		type = hussar
+		home = 313
+	}
+	
+	regiment = {
+		name= "5.1st Division"
+		type = infantry
+		home = 334
+	}
+	
+	regiment = {
+		name= "5.1st Division"
+		type = infantry
+		home = 334
+	}
+	
+	regiment = {
+		name= "5.1st Division"
+		type = infantry
+		home = 336
+	}
+	
+	regiment = {
+		name= "5.1st Division"
+		type = infantry
+		home = 368
+	}
+}
+army = {
+	name = "69th Army of Denmark"
+	location = 279
+
+
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 309
+	}
+
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 372
+	}
+
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 372
+	}
+
+
+	regiment = {
+		name= "5.1st Division"
+		type = artillery
+		home = 329
+	}
+	
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 370
+	}
+	
+	regiment = {
+		name= "5.1st Division"
+		type = hussar
+		home = 530
+	}
+	
+	regiment = {
+		name= "5.1st Division"
+		type = infantry
+		home = 367
+	}
+	
+	regiment = {
+		name= "5.1st Division"
+		type = infantry
+		home = 366
+	}
+	
+	regiment = {
+		name= "5.1st Division"
+		type = infantry
+		home = 2577
+	}
+	
+	regiment = {
+		name= "5.1st Division"
+		type = infantry
+		home = 310
+	}
+}
+army = {
+	name = "420th Army of Denmark"
+	location = 372
+
+
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 309
+	}
+
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 280
+	}
+
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 305
+	}
+
+
+	regiment = {
+		name= "5.1st Division"
+		type = artillery
+		home = 373
+	}
+	
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 529
+	}
+	
+	regiment = {
+		name= "5.1st Division"
+		type = hussar
+		home = 373
+	}
+	
+	regiment = {
+		name= "5.1st Division"
+		type = infantry
+		home = 528
+	}
+	
+	regiment = {
+		name= "9.1st Division"
+		type = infantry
+		home = 544
+	}
+	
+	regiment = {
+		name= "8.1st Division"
+		type = infantry
+		home = 544
+	}
+	
+	regiment = {
+		name= "7.1st Division"
+		type = infantry
+		home = 530
+	}
+}

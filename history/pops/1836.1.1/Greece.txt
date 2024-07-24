@@ -139,12 +139,6 @@
 		size = 750
 	}
 
-	soldiers = {
-		culture = venetian
-		religion = sunni
-		size= 250
-
-	}
 
 	farmers = {
 		culture = venetian
@@ -185,14 +179,14 @@
 	soldiers = {
 		culture = venetian
 		religion = sunni
-		size= 3250
+		size= 1550
 
 	}	
 
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 13400
+		size = 15400
 	}
 }
 #Kavala (160000/40000 POPS) #now part of Greece
@@ -218,7 +212,7 @@
 	soldiers = {
 		culture = venetian
 		religion = sunni
-		size= 3400
+		size= 2400
 
 	}
 
@@ -301,7 +295,7 @@
 	soldiers = {
 		culture = greek
 		religion = orthodox
-		size= 3250
+		size= 1250
 
 	}
 
@@ -395,7 +389,7 @@
 	soldiers = {
 		culture = venetian
 		religion = sunni
-		size= 350
+		size= 1350
 
 	}
 
@@ -428,7 +422,7 @@
 	soldiers = {
 		culture = greek
 		religion = orthodox
-		size= 3250
+		size= 1250
 
 	}
 
@@ -1312,7 +1306,7 @@
 	soldiers = {
 		culture = greek
 		religion = orthodox
-		size= 3000
+		size= 2000
 
 	}
 

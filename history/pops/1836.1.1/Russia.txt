@@ -112,7 +112,7 @@
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 10
+		size = 1080
 	}
 
 	artisans = {
@@ -1620,9 +1620,9 @@ farmers = {
 	}
 
 	artisans = {
-		cculture = finnish
+		culture = finnish
 		religion = protestant
-		size = 1650
+		size = 1700
 	}
 
 	soldiers = {
@@ -2437,7 +2437,7 @@ clergymen = {
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 80
+		size = 1080
 	}
 
 	artisans = {
@@ -2550,11 +2550,20 @@ clergymen = {
 		size= 3000
 
 	}
-
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 100000
+	}
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1080
+	}
 	serfs = {
 		culture = russian
 		religion = orthodox
-		size = 264725
+		size = 164725
 	}
 }
 #Riazan (1192000/298000 POPS)
@@ -2568,7 +2577,7 @@ clergymen = {
 	clergymen = {
 		culture = russian
 		religion = orthodox
-		size = 1100
+		size = 3100
 	}
 
 	artisans = {
@@ -2625,14 +2634,18 @@ clergymen = {
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 3350
+		size= 4350
 
 	}
-
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 30000
+	}
 	serfs = {
 		culture = russian
 		religion = orthodox
-		size = 124250
+		size = 104250
 	}
 }
 #Nizhni Novgorod Region (4420000)
