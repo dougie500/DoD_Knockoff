@@ -1,6 +1,6 @@
-owner = SUA
-controller = SUA
-add_core = SUA
+owner = TRN
+controller = TRN
+add_core = TRN
 add_core = MAT
 add_core = ZUL
 add_core = BTV

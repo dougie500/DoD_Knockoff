@@ -1,6 +1,6 @@
-owner = NAG
-controller = NAG
-add_core = NAG
+owner = ORI
+controller = ORI
+add_core = ORI
 add_core = DRA
 #add_core = VIJ
 trade_goods = dye

@@ -1,5 +1,5 @@
-owner = DHY
-controller = DHY
-add_core = DHY
+owner = OYO
+controller = OYO
+add_core = OYO
 trade_goods = fish
 life_rating = 35
