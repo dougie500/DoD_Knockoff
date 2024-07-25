@@ -20,7 +20,7 @@ political_decisions = {
 			
 			set_country_flag = NAN_Lusitan
 			
-			add_accepted_culture = lusitan 
+			add_accepted_culture = lusitanian
 			
 		}
 	
@@ -82,7 +82,7 @@ political_decisions = {
 			
 			set_country_flag = NAN_Central_American
 			add_accepted_culture = central_american 
-			UCA_2186 = {
+			UCA_2191= {
 				add_core = THIS
 			}
 			UCA_2197= {
