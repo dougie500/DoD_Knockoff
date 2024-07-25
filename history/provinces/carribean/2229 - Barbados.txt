@@ -1,5 +1,5 @@
-owner = DEN
-controller = DEN
+owner = BOH
+controller = BOH
 add_core = UBD
 trade_goods = tobacco
 life_rating = 35

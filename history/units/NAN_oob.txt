@@ -16,38 +16,137 @@ leader = {
 
 army = {
 	name = "Lord's Army"
-	location = 2348
+	location = 2171
 	regiment = {
 		name= "1. infantry Division"
 		type = infantry
-		home = 2348
+		home = 2172
 	}
 
 	regiment = {
 		name= "2. infantry Division"
 		type = infantry
-		home = 2348
+		home = 2172
 	}
 
 	regiment = {
 		name= "3. infantry Division"
 		type = infantry
-		home = 2348
+		home = 2176
 	}
 
 	regiment = {
 		name= "1. hussar Division"
-		type = hussar
-		home = 2348
+		type = infantry
+		home = 2176
 	}
 
 	regiment = {
 		name= "2. hussar Division"
 		type = hussar
-		home = 2348
+		home = 2172
 	}
-}
+	regiment = {
+		name= "5"
+		type = artillery
+		home = 2139
+	}
+	regiment = {
+		name= "6"
+		type = artillery
+		home = 2167
+	}
+	regiment = {
+		name= "7"
+		type = artillery
+		home = 2167
+	}
+	regiment = {
+		name= "8"
+		type = artillery
+		home = 2174
+	}
+	regiment = {
+		name= "9"
+		type = artillery
+		home = 2174
+	}
 
+}
+army = {
+	name = "Lord's Army"
+	location = 2170
+	
+
+	regiment = {
+		name= "2. hussar Division"
+		type = hussar
+		home = 138
+	}
+	regiment = {
+		name= "5"
+		type = artillery
+		home = 138
+	}
+	regiment = {
+		name= "6"
+		type = artillery
+		home = 2177
+	}
+	regiment = {
+		name= "7"
+		type = artillery
+		home = 2177
+	}
+	regiment = {
+		name= "8"
+		type = artillery
+		home = 87
+	}
+	regiment = {
+		name= "9"
+		type = artillery
+		home = 85
+	}
+
+}
+army = {
+	name = "Lord's Army"
+	location = 2180
+	
+
+	regiment = {
+		name= "2. hussar Division"
+		type = hussar
+		home = 84
+	}
+	regiment = {
+		name= "5"
+		type = artillery
+		home = 86
+	}
+	regiment = {
+		name= "6"
+		type = artillery
+		home = 89
+	}
+	regiment = {
+		name= "7"
+		type = artillery
+		home = 132
+	}
+	regiment = {
+		name= "8"
+		type = artillery
+		home = 2161
+	}
+	regiment = {
+		name= "9"
+		type = artillery
+		home = 2160
+	}
+
+}
 navy = {
 	name = "Royal Fleet"
 	location = 2348

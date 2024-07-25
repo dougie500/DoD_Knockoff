@@ -76,7 +76,7 @@ political_decisions = {
 				add_accepted_culture = nahua
 				add_accepted_culture = mayan
 				add_accepted_culture  = mayan
-				add_accepted_culture = tarascan
+				add_accepted_culture = nahua
 				set_global_flag = fall_of_all_the_colombia
 			}
 			ai_will_do = {

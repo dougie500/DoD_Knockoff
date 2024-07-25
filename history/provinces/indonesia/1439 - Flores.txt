@@ -1,7 +1,6 @@
-owner = MKS
-controller = MKS
-add_core = MKS
-add_core = NUS
+owner = JAV
+controller = JAV
+add_core = JAV
 trade_goods = coffee
 life_rating = 31
 1861.1.1 = {

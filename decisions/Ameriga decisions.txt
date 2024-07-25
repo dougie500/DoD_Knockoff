@@ -456,7 +456,7 @@ political_decisions = {
 			change_tag = AZL
 			capital = 2447
 			LOT = { all_core = { add_core = AZL } }
-			add_accepted_culture  = lotharian 
+			add_accepted_culture = ashkenazi 
 			LOT = { country_event = 97096 }
 		}
 	
@@ -567,7 +567,7 @@ political_decisions = {
 	tag = AZL 
 	is_greater_power = yes 
 	owns = 2348 
-	NOT = { accepted_culture  = lotharian }
+	NOT = { accepted_culture = ashkenazi }
 	}
 	
 	allow = { 
@@ -647,7 +647,7 @@ political_decisions = {
 	}
 	
 	effect = { 
-	add_accepted_culture  = lotharian
+	add_accepted_culture = ashkenazi
 	prestige = 15 
 	set_country_flag = beornia_accepted
 	}

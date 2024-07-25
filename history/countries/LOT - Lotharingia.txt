@@ -1,5 +1,5 @@
 capital = 2463
-primary_culture  = lotharian
+primary_culture = ashkenazi
 religion = protestant
 government = presidential_dictatorship
 plurality = 0.0

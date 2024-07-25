@@ -1,4 +1,5 @@
-add_core = YEM
+owner = NEJ
+controller = NEJ
 add_core = NEJ
 trade_goods = opium
 life_rating = 5

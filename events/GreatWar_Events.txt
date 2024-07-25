@@ -5018,7 +5018,7 @@ country_event = {
 		change_tag = MEX
 		remove_accepted_culture = lusitanian
 		remove_accepted_culture = granadan
-		remove_accepted_culture = apache
+		remove_accepted_culture = lusitanian
 		remove_accepted_culture = central_american
 		
 		any_owned = {
@@ -5718,7 +5718,7 @@ country_event = {
 		change_tag = ATL
 		
 		remove_accepted_culture = granadan
-		remove_accepted_culture  = lotharian		
+		remove_accepted_culture = ashkenazi		
 
 		any_owned = {
 			limit = {

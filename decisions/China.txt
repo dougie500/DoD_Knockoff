@@ -103,14 +103,14 @@ CHG_Turkmen = {
 		war = no
 		PER_1122  = { owned_by = THIS }
 		KOK_1190  = { owned_by = THIS }
-		
+		state_n_government = 1
 		
 		
 	}
 
 	effect = {
 		set_country_flag = CHG_Turkmen
-		state_n_government = 1
+		
 		add_accepted_culture = turkmen 
 		PER_1122 = {
 			add_core = THIS

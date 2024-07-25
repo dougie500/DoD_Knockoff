@@ -210,8 +210,8 @@ political_decisions = {
 				owner = { add_accepted_culture = iroquois }
 			}
 			random_owned = {
-				limit = { is_core = THIS any_pop = { has_pop_culture = pueblo } NOT = { owner = { accepted_culture = pueblo } } }
-				owner = { add_accepted_culture = pueblo }
+				limit = { is_core = THIS any_pop = { has_pop_culture = iroquois } NOT = { owner = { accepted_culture = iroquois } } }
+				owner = { add_accepted_culture = iroquois }
 			}
 			random_owned = {
 				limit = { is_core = THIS any_pop = { has_pop_culture = inuit } NOT = { owner = { accepted_culture = inuit } } }
@@ -234,8 +234,8 @@ political_decisions = {
 				owner = { add_accepted_culture = rhonnst }
 			}
 			random_owned = {
-				limit = { is_core = THIS any_pop = { has_pop_culture = apache } NOT = { owner = { accepted_culture = apache } } }
-				owner = { add_accepted_culture = apache }
+				limit = { is_core = THIS any_pop = { has_pop_culture = lusitanian } NOT = { owner = { accepted_culture = lusitanian } } }
+				owner = { add_accepted_culture = lusitanian }
 			}			
 			random_owned = {
 				limit = { is_core = THIS any_pop = { has_pop_culture = navajo } NOT = { owner = { accepted_culture = navajo } } }
@@ -246,8 +246,8 @@ political_decisions = {
 				owner = { add_accepted_culture  = mayan }
 			}
 			random_owned = {
-				limit = { is_core = THIS any_pop = { has_pop_culture = tarascan } NOT = { owner = { accepted_culture = tarascan } } }
-				owner = { add_accepted_culture = tarascan }
+				limit = { is_core = THIS any_pop = { has_pop_culture = nahua } NOT = { owner = { accepted_culture = nahua } } }
+				owner = { add_accepted_culture = nahua }
 			}	
 			random_owned = {
 				limit = { is_core = THIS any_pop = { has_pop_culture = guajiro } NOT = { owner = { accepted_culture = guajiro } } }
@@ -324,8 +324,8 @@ political_decisions = {
 					primary_culture = septiman
 				}
 				AND	= {
-					pop_majority_culture  = lotharian
-					primary_culture  = lotharian
+					pop_majority_culture = ashkenazi
+					primary_culture = ashkenazi
 				}
 				AND	= {
 					pop_majority_culture = qingqiuan
@@ -356,8 +356,8 @@ political_decisions = {
 					primary_culture  = beornian
 				}
 				AND	= {
-					pop_majority_culture  = lotharian
-					primary_culture  = lotharian
+					pop_majority_culture = ashkenazi
+					primary_culture = ashkenazi
 				}
 				AND	= {
 					pop_majority_culture = central_american
@@ -438,8 +438,8 @@ political_decisions = {
 					primary_culture = septiman
 				}
 				AND	= {
-					pop_majority_culture  = lotharian
-					primary_culture  = lotharian
+					pop_majority_culture = ashkenazi
+					primary_culture = ashkenazi
 				}
 				AND	= {
 					pop_majority_culture = qingqiuan
@@ -470,8 +470,8 @@ political_decisions = {
 					primary_culture  = beornian
 				}
 				AND	= {
-					pop_majority_culture  = lotharian
-					primary_culture  = lotharian
+					pop_majority_culture = ashkenazi
+					primary_culture = ashkenazi
 				}
 				AND	= {
 					pop_majority_culture = central_american

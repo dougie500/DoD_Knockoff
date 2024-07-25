@@ -1,6 +1,6 @@
-owner = GRQ
-controller = GRQ
-add_core = GRQ
+owner = TRN
+controller = TRN
+add_core = TRN
 add_core = MAT
 terrain = savanna
 trade_goods = grain

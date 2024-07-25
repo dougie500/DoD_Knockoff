@@ -147,8 +147,32 @@ CHG_tradition = {
 	badboy = -0.05
 	factory_output = -0.05
 	land_unit_start_experience = 7
+	research_points_on_conquer = 0.3
 }
-
+ETH_tradition = {
+	icon = 3
+	administrative_efficiency_modifier = -0.05
+	land_unit_start_experience = -5
+	education_efficiency_modifier = -0.05
+	research_points_modifier = -0.1
+	research_points_on_conquer = 0.2
+	global_population_growth = 0.002
+}
+NAN_tradition = {
+	icon = 3
+	tax_efficiency = 0.04
+	farm_rgo_eff = 0.15
+	mine_rgo_eff = 0.15
+	factory_input = 0.05
+}
+JAP_tradition = {
+	icon = 3
+	navy_tech_research_bonus = 0.2
+	naval_unit_start_experience = 5
+	tax_efficiency = 0.03
+	land_unit_start_experience = -6
+	education_efficiency_modifier = -0.03
+}
 
 
 

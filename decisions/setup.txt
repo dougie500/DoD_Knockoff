@@ -2,12 +2,12 @@ political_decisions = {
 
 Traditions_setup = {
 		potential = {
-			tag = SIK
+			tag = BUG
 			NOT = { has_country_flag = Traditions_setup }
 			
 		}
 		allow = {
-			tag = SIK
+			tag = BUG
 		}
 		effect = {
 			set_country_flag = Traditions_setup
@@ -96,7 +96,28 @@ Traditions_setup = {
 					duration = -1
 
 				}
+			}	
+			ETH = {
+				add_country_modifier = {
+					name = ETH_tradition
+					duration = -1
+
+				}
 			}		
+			NAN = {
+				add_country_modifier = {
+					name = NAN_tradition
+					duration = -1
+
+				}
+			}		
+			JAP = {
+				add_country_modifier = {
+					name = JAP_tradition
+					duration = -1
+
+				}
+			}
 	 	 }		
 			
 	}

@@ -3,50 +3,50 @@
 #Montevideo (112000/28000 POPS)
 2344 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 1575
 	}
 
 	bureaucrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 200
 	}
 
 	officers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 250
 	}
 
 	capitalists = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 100
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 250
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 10980
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 1100
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 60095
 	}
@@ -85,38 +85,38 @@
 #Paysandu (36000/9000 POPS)
 2345 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 200
 	}
 
 	bureaucrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 20
 	}	
 	
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 450
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 1100
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 7275
 	}
@@ -130,38 +130,38 @@
 #Tacumba (12000/3000 POPS)
 2346 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 25
 	}
 
 	bureaucrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 10
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 100
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 3025
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 16800
 	}
@@ -200,38 +200,38 @@
 #Melo (40000/10000 POPS)
 2347 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 150
 	}
 
 	bureaucrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 10
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 350
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 1100
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 9450
 	}

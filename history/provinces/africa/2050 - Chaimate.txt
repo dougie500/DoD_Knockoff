@@ -1,6 +1,6 @@
-owner = NFL
-controller = NFL
-add_core = NFL
+owner = TRN
+controller = TRN
+add_core = TRN
 add_core = MAT
 add_core = BTV
 terrain = savanna

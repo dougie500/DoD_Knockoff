@@ -1,5 +1,5 @@
-owner = DAR
-controller = DAR
-add_core = DAR
+owner = KAN
+controller = KAN
+add_core = KAN
 trade_goods = grain
 life_rating = 10

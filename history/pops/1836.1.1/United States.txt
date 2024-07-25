@@ -1116,25 +1116,25 @@ farmers = {
 	}
 	
 	aristocrats = {
-		culture = apache
+		culture = lusitanian
 		religion = catholic
 		size = 60
 	}
 
 	clergymen = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 500
 	}
 
 	farmers = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 3200
 	}
@@ -1376,25 +1376,25 @@ farmers = {
 #Elko (4000/1000 POPS)
 95 = {
 	aristocrats = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 120
 	}
 
 	clergymen = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 125
 	}
 
 	soldiers = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size= 500
 	}
 
 	farmers = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 4900
 	}
@@ -1426,31 +1426,31 @@ farmers = {
 #Las Vegas (4000/1000 POPS)
 96 = {
 	aristocrats = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 700
 	}
 
 	soldiers = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size= 550
 	}
 
 	farmers = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 3900
 	}
@@ -1473,32 +1473,32 @@ farmers = {
 #Salt Lake City (8000/2000 POPS)
 97 = {
 	aristocrats = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size= 25
 
 	}
 
 	farmers = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 1800
 	}
@@ -1506,26 +1506,26 @@ farmers = {
 #Loa (4000/1000 POPS)
 98 = {
 	aristocrats = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
@@ -1533,26 +1533,26 @@ farmers = {
 #Moab (4000/1000 POPS)
 99 = {
 	aristocrats = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
@@ -1562,32 +1562,32 @@ farmers = {
 #Phoenix (12000/3000 POPS)
 100 = {
 	aristocrats = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 2150
 	}
 
 	soldiers = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size= 250
 
 	}
 
 	farmers = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 8700
 	}
@@ -1650,85 +1650,85 @@ farmers = {
 101 = {
 
 	aristocrats = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 125
 	}
 
 	farmers = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 2900
 	}
 
 	slaves = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 600
 	}
 
 	slaves = {
-		culture = apache
+		culture = lusitanian
 		religion = catholic
 		size = 400
 	}
 
 	aristocrats = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 20
 	}
 
 	clergymen = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 45
 	}
 
 	artisans = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 150
 	}
 	
 	farmers = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
 
 	slaves = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 400
 	}
 
 	slaves = {
-		culture = pueblo
+		culture = iroquois
 		religion = catholic
 		size = 100
 	}
@@ -1763,25 +1763,25 @@ farmers = {
 102 = {
 
 	aristocrats = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 6700
 	}
@@ -1873,32 +1873,32 @@ farmers = {
 #Albuquerque (20000/5000 POPS)
 104 = {
 	aristocrats = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 2150
 	}
 
 	soldiers = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size= 225
 
 	}
 
 	farmers = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 8700
 	}
@@ -1961,26 +1961,26 @@ farmers = {
 #Las Cruces (4000/1000 POPS)
 105 = {
 	aristocrats = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 55
 	}
 
 	soldiers = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size= 150
 
 	}
 
 	farmers = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 9900
 	}
@@ -2071,26 +2071,26 @@ farmers = {
 #Grand Junction (4000/1000 POPS)
 107 = {
 	aristocrats = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
@@ -2098,26 +2098,26 @@ farmers = {
 #Alamosa (4000/1000 POPS)
 108 = {
 	aristocrats = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size= 15
 
 	}
 
 	farmers = {
-		culture = pueblo
+		culture = iroquois
 		religion = animist
 		size = 900
 	}
@@ -3051,13 +3051,13 @@ farmers = {
 	soldiers = {
 		culture  = beornian
 		religion = catholic
-		size= 1200
+		size= 200
 	}
 
 	farmers = {
 		culture  = beornian
 		religion = catholic
-		size = 6225
+		size = 16225
 	}
 }
 
@@ -3313,32 +3313,32 @@ farmers = {
 #El Paso (9000/2250 POPS)
 136 = {
 	aristocrats = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 35
 	}
 
 	clergymen = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 70
 	}
 
 	artisans = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size= 125
 
 	}
 
 	farmers = {
-		culture = apache
+		culture = lusitanian
 		religion = animist
 		size = 9800
 	}
@@ -6492,7 +6492,7 @@ farmers = {
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 2000
+		size= 100
 
 	}
 
@@ -8316,7 +8316,7 @@ farmers = {
 	soldiers = {
 		culture = plantagenian
 		religion = catholic
-		size= 1175
+		size= 100
 
 	}
 

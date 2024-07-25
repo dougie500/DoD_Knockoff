@@ -1,6 +1,5 @@
-owner = DAR
-controller = DAR
-add_core = DAR
+owner = FUN
+controller = FUN
 add_core = FUN
 trade_goods = grain
 terrain = semidesert

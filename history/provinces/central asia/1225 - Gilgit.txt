@@ -1,6 +1,6 @@
-owner = KAS
-controller = KAS
-add_core = KAS
+owner = KOK
+controller = KOK
+add_core = KOK
 add_core = HND
 add_core = LAD
 add_core = PNJ

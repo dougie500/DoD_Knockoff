@@ -120,11 +120,13 @@ country_event = {
 	picture = "disease"
 	
 	trigger = {
+		has_country_flag = REEEEE
 		NOT = { poor_strata_everyday_needs = 0.90 }
 		total_pops = 50000
 		any_owned_province = {
 			NOT = { terrain = arctic }
 			NOT = { terrain = desert }
+			
 		}
 	}
 	

@@ -1,6 +1,6 @@
-controller = MDR
-owner = MDR
-add_core = MDR
+owner = TRA
+controller = TRA
+add_core = TRA
 #add_core = TRA
 add_core = DRA
 trade_goods = fish

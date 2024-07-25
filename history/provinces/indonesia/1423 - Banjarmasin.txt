@@ -1,5 +1,5 @@
-owner = KTI
-controller = KTI
-add_core = KTI
+owner = LFG
+controller = LFG
+add_core = LFG
 trade_goods = sulphur
 life_rating = 35

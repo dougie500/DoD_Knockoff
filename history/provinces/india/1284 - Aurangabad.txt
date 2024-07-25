@@ -1,6 +1,6 @@
-owner = HYD
-controller = HYD
-add_core = HYD
+owner = VIJ
+controller = VIJ
+add_core = VIJ
 add_core = DRA
 add_core = VIJ
 add_core = BHO

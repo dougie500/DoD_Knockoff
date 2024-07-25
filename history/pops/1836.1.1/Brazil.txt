@@ -327,26 +327,26 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 3650
 	}
@@ -742,26 +742,26 @@
 #Igautemi (20000/5000 POPS) #now part of Brazil
 2420 = {
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 100
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 25
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 1825
 	}
@@ -845,49 +845,49 @@
 	}
 
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 20
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 30
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture  = lotharian
+		
 		religion = protestant
 		size = 800
 	}
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 7650
 	}
@@ -920,19 +920,19 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = plantagenian	
+		culture = ashkenazi	
 		religion = catholic
 		size = 2900
 	}
@@ -965,19 +965,19 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 1700
 	}
@@ -1030,26 +1030,26 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size= 150
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 14025
 	}
@@ -1089,19 +1089,19 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 40
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 10000
 	}
@@ -1165,26 +1165,26 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 900
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size= 175
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 10850
 	}
@@ -1223,25 +1223,25 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 40
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 100
 	}
 
 	farmers ={ 
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 700
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 3900
 	}
@@ -1307,32 +1307,32 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 1650
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 13000
 	}
@@ -1383,32 +1383,32 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 850
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size= 175
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 5900
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 7000
 	}
@@ -1447,32 +1447,32 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 1650
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 3000
 	}
@@ -1546,32 +1546,32 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 7000
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size= 1500
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 10025
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 14000
 	}
@@ -1624,32 +1624,32 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size= 175
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 3750
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 10000
 	}
@@ -1688,32 +1688,32 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 600
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size= 125
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 1225
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 7000
 	}
@@ -1752,32 +1752,32 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 800
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size= 175
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 2950
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 7000
 	}
@@ -1816,32 +1816,32 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 650
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size= 125
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 2175
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 8000
 	}
@@ -1906,32 +1906,32 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 3500
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size= 300
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 4050
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 14000
 	}
@@ -1970,32 +1970,32 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 1300
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size= 275
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 6300
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 13000
 	}
@@ -2034,32 +2034,32 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size= 150
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 5025
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 9000
 	}
@@ -2098,32 +2098,32 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 650
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size= 125
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 1175
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 4000
 	}
@@ -2162,32 +2162,32 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 700
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size= 150
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 2575
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 4500
 	}
@@ -2197,44 +2197,44 @@
 #Ouro Preto (232000/58000 POPS)
 2441 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 1175
 	}
 
 	bureaucrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 300
 	}
 
 	officers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 225
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 475
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 1450
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 1100
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 29675
 	}
@@ -2271,32 +2271,32 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 1100
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 225
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 4125
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 9000
 	}
@@ -2335,56 +2335,56 @@
 	}
 
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 400
 	}
 
 	farmers = {
-		culture  = lotharian	
+		culture = ashkenazi	
 		religion = protestant
 		size = 4300
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 650
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size= 125
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 3175
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 6000
 	}
@@ -2423,32 +2423,32 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size= 150
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 2025
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 7000
 	}
@@ -2488,50 +2488,50 @@
 
 
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 20
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 40
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 1230
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 450
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 2900
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 6500
 	}
@@ -2539,63 +2539,63 @@
 #Uberaba (68000/17000 POPS)
 2445 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 350
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 125
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 275
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 75
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 6175
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 500
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 100
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 3350
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 6000
 	}
@@ -2603,63 +2603,63 @@
 #Sao Joao del Rey (132000/33000 POPS)
 2446 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 675
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 225
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 525
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 125
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 18500
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 1100
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 200
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 3700
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 8000
 	}
@@ -2669,43 +2669,43 @@
 #Rio de Janeiro (696000/174000 POPS)
 2447 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 650
 	}
 
 	bureaucrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 450
 	}
 
 	officers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 250
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 200
 	}
 	
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 10000
 	}
 	
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 150
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 3000
 
@@ -2713,14 +2713,14 @@
 
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 2000
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 28900
 	}
@@ -2755,32 +2755,32 @@
 		size = 15000
 	}
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 2350
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 300
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 4200
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 8000
 	}
@@ -2788,32 +2788,32 @@
 #Campos (160000/40000 POPS)
 2448 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 850
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 300
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 800
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 200
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 18850
 	}
@@ -2849,32 +2849,32 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 1100
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 200
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 4100
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 7000
 	}
@@ -2882,32 +2882,32 @@
 #Vitoria (120000/30000 POPS)
 2449 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 625
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 225
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 725
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 175
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 13250
 	}
@@ -2943,32 +2943,32 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 600
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 125
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 2225
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = catholic
 		size = 4000
 	}
@@ -2978,26 +2978,26 @@
 #Sorocaba (8000/2000 POPS)
 2306 = {
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 25
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 1900
 	}
@@ -3034,7 +3034,7 @@
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 1800
 	}
@@ -3042,75 +3042,75 @@
 #Sao Paulo (252000/63000 POPS)
 2450 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 1275
 	}
 
 	bureaucrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 125
 	}
 
 	officers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 150
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 550
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 1925
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 1100
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 42900
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 750
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 150
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 5025
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 9000
 	}
@@ -3118,63 +3118,63 @@
 #Santos (132000/33000 POPS)
 2451 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 675
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 275
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 925
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 250
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 20875
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 500
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 100
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 3350
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 6000
 	}
@@ -3182,63 +3182,63 @@
 #Campiras (64000/16000 POPS)
 2452 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 325
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 125
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 400
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 100
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 9050
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 75
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 2075
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 3500
 	}
@@ -3246,63 +3246,63 @@
 #Assis (52000/14000 POPS)
 2453 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 300
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 400
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 100
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 6100
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 200
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 50
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 2200
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 8500
 	}
@@ -3310,63 +3310,63 @@
 #Iguape (64000/16000 POPS)
 2455 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 325
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 125
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 450
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 125
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 13975
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 50
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 1700
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 5000
 	}
@@ -3374,26 +3374,26 @@
 #Araraquara (8000/2000 POPS)
 2456 = {
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 25
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 1150
 	}
@@ -3430,19 +3430,19 @@
 	}
 
 	clergymen = {	
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 20
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 45
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 1250
 	}
@@ -3452,75 +3452,75 @@
 #Curitiba (172000/43000 POPS)
 2457 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 875
 	}
 
 	bureaucrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 200
 	}
 
 	officers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 125
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 400
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 1525
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 3100
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 33875
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 50
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 1700
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 3000
 	}
@@ -3528,63 +3528,63 @@
 #Garapuava (40000/10000 POPS)
 2458 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 200
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 75
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 5400
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 150
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 25
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 1250
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 6750
 	}
@@ -3617,63 +3617,63 @@
 #Lajes (60000/15000 POPS)
 2459 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 225
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 75
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 5375
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 200
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 50
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 1200
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 2500
 	}
@@ -3712,63 +3712,63 @@
 #Castro (72000/18000 POPS)
 2460 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 375
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 150
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 525
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 125
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 7825
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 200
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 50
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 2200
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 6500
 	}
@@ -3801,63 +3801,63 @@
 #Desterro (88000/22000 POPS)
 2461 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 1450
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 200
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 5650
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 3175
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 14525
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 75
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 3075
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 7500
 	}
@@ -3865,63 +3865,63 @@
 #Sao Miguel (80000/20000 POPS)
 2462 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 425
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 150
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 525
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 3125
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 7775
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 350
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 75
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 3500
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 9000
 	}
@@ -3931,82 +3931,82 @@
 #Porto Alegre (224000/56000 POPS)
 2463 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 1025
 	}
 
 	bureaucrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 300
 	}
 
 	officers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 225
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 550
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 12725
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 3000
 
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 2000
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 72575
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 650
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 125
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 4175
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 28000
 	}
@@ -4014,63 +4014,63 @@
 #Sao Pedro (44000/11000 POPS)
 2464 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 225
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 3400
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 17000
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 200
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 50
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 1200
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 6500
 	}
@@ -4078,63 +4078,63 @@
 #Passo Fundo (112000/28000 POPS)
 2465 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 575
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 250
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 725
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 2450
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 14000
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 50
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 1700
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 3000
 	}
@@ -4167,63 +4167,63 @@
 #Santa Maria (88000/22000 POPS)
 2466 = {
 	aristocrats = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 450
 	}
 
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 200
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 650
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 2700
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 12000
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size= 75
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 2075
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 3500
 	}
@@ -4231,26 +4231,26 @@
 #Alegrete (64000/16000 POPS)
 2467 = {
 	clergymen = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 175
 	}
 
 	artisans = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 3200
 	}
 
 	soldiers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size= 1725
 
 	}
 
 	farmers = {
-		culture  = lotharian
+		culture = ashkenazi
 		religion = protestant
 		size = 9000
 	}
@@ -4287,7 +4287,7 @@
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = ashkenazi
 		religion = protestant
 		size = 4300
 	}

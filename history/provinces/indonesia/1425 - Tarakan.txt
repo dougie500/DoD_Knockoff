@@ -1,6 +1,6 @@
-owner = KTI
-controller = KTI
-add_core = KTI
+owner = LFG
+controller = LFG
+add_core = LFG
 add_core = NUS
 trade_goods = timber
 life_rating = 25

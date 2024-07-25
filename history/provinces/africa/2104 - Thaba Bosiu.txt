@@ -1,6 +1,6 @@
-owner = BSH
-controller = BSH
-add_core = BSH
+owner = TRN
+controller = TRN
+add_core = TRN
 add_core = BTV
 trade_goods = coal
 life_rating = 35
