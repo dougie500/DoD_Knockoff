@@ -1,5 +1,5 @@
 capital = 3322
-primary_culture = kumyk
+primary_culture = astrakhani
 religion = sunni
 government = khanate
 plurality = 0.0

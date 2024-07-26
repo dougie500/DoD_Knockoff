@@ -77,7 +77,7 @@
 	}
 
 	farmers = {
-		culture = north_caucasian
+		culture = astrakhani
 		religion = sunni
 		size = 100
 	}

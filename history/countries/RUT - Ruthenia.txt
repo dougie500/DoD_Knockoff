@@ -3,11 +3,11 @@ primary_culture = ruthenian
 culture = russian
 religion = orthodox
 government = absolute_monarchy
-plurality = 0.07
+plurality = 6
 nationalvalue = nv_autocracy
 literacy = 0.15
 civilized = yes
-
+prestige = 30
 
 # Political reforms
 slavery = no_slavery
@@ -60,8 +60,11 @@ clipper_design = 1
 naval_design_bureaus = 1
 alphabetic_flag_signaling = 1
 the_command_principle = 1
+private_banks = 1
+freedom_of_trade = 1
 classicism_n_early_romanticism = 1
 late_enlightenment_philosophy = 1
+malthusian_thought = 1
 introspectionism = 1
 no_standard = 1
 early_classical_theory_and_critique = 1
@@ -70,3 +73,6 @@ piston_steam_engine = 1
 mechanized_mining = 1
 basic_chemistry = 1
 enlightenment_thought = 1
+experimental_railroad = 1 
+mechanical_production = 1 
+puddling_proccess = 1 

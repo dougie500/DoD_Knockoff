@@ -929,7 +929,7 @@ country_event = {
 					limit = {
 						OR = {
 							has_pop_culture = azerbaijani
-							has_pop_culture = armenian
+							has_pop_culture = azerbaijani
 						}
 					}
 					militancy = 5

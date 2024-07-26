@@ -1278,7 +1278,7 @@
     soldiers = {
         culture = japanese
         religion = mahayana
-        size = 3075
+        size = 2000
     }	
 
     farmers = {
@@ -1298,12 +1298,7 @@
         religion = shinto
         size = 2750
     }
-	
-    soldiers = {
-        culture = japanese
-        religion = shinto
-        size = 3000
-    }	
+
 
     farmers = {
         culture = ainu
@@ -1868,7 +1863,7 @@
     soldiers = {
         culture = japanese
         religion = mahayana
-        size = 12335
+        size = 9335
     }
 
     farmers = {
@@ -1895,11 +1890,7 @@
         size = 7000
     }
 
-    soldiers = {
-        culture = japanese
-        religion = shinto
-        size = 3750
-    }
+
 
     farmers = {
         culture = japanese

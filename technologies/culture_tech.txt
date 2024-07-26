@@ -4,6 +4,7 @@ classicism_n_early_romanticism = {
 	year = 1836
 	cost = 3600
 
+
 	prestige = 0.075
 	ai_chance = {
 		factor = 1.01
@@ -27,14 +28,15 @@ romanticism = {
 	area = aesthetics
 	year = 1836
 	cost = 7200
-	
+	rgo_output = 0.05
+
 	prestige = 0.075
 
 
 	ai_chance = {
 		factor = 1.05
 		modifier = {
-			factor = 0.5
+			factor = 0.4
 			is_greater_power = yes
 		}
 		modifier = {
@@ -57,6 +59,7 @@ realism = {
 	area = aesthetics
 	year = 1836
 	cost = 10800
+	rgo_output = 0.04
 
 	prestige = 0.075
 	ai_chance = {
@@ -88,6 +91,7 @@ impressionism = {
 	area = aesthetics
 	year = 1850
 	cost = 14400
+	rgo_output = 0.04
 
 	prestige = 0.075
 	ai_chance = {
@@ -115,6 +119,7 @@ expressionism = {
 	area = aesthetics
 	year = 1870
 	cost = 18000
+	rgo_output = 0.02
 
 	prestige = 0.075
 	ai_chance = {
@@ -142,6 +147,7 @@ mass_culture_n_the_avant_garde = {
 	area = aesthetics
 	year = 1900
 	cost = 21600
+	rgo_output = 0.02
 
 	prestige = 0.075
 	ai_chance = {

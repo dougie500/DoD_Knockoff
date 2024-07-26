@@ -1,5 +1,5 @@
 capital = 1051
-primary_culture = karachai
+primary_culture = astrakhani
 religion = sunni
 government = subject
 plurality = 0.0

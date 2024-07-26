@@ -295,9 +295,7 @@ form_iberia = {
 		allow = {
 			tag = SPA
 			year = 1840
-			NOT = {
-				culture = central_american
-			}
+			
 		}
 		
 		effect = {

@@ -21,43 +21,43 @@
 	}
 
 	aristocrats = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 660
 	}
 
 	bureaucrats = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 100
 	}
 
 	officers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 65
 	}
 
 	clergymen = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 190
 	}
 
 	artisans = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 1750
 	}
 
 	soldiers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size= 3000
 	}
 
 	farmers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 41850
 	}
@@ -113,31 +113,31 @@
 #Gyumri (68000/17000 POPS)
 1099 = {
 	aristocrats = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 360
 	}
 
 	clergymen = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 230
 	}
 
 	artisans = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 1000
 	}
 
 	soldiers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size= 350
 	}
 
 	farmers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size =30750
 	}
@@ -170,32 +170,32 @@
 #Kapan (44000/11000 POPS)
 1100 = {
 	aristocrats = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 300
 	}
 
 	clergymen = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 160
 	}
 
 	artisans = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 700
 	}
 
 	soldiers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size= 350
 
 	}
 
 	farmers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 25325
 	}
@@ -227,31 +227,31 @@
 #Nakhichevan (60000/15000 POPS) #now part of Azerbaijan 
 1101 = {
 	aristocrats = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 450
 	}
 
 	clergymen = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 300
 	}
 
 	artisans = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size= 250
 	}
 
 	farmers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 19250
 	}

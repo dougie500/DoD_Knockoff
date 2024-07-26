@@ -184,13 +184,13 @@
 	}
 
 	clergymen = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 270
 	}
 
 	artisans = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 5980
 	}
@@ -348,19 +348,19 @@
 	}
 	
 	aristocrats = {
-		culture = avar
+		culture = astrakhani
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = avar
+		culture = astrakhani
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = avar
+		culture = astrakhani
 		religion = sunni
 		size = 4000
 	}
@@ -569,25 +569,25 @@
 	}
 
 	farmers = {
-		culture = avar
+		culture = astrakhani
 		religion = sunni
 		size = 4600
 	}
 	
 	clergymen = {
-		culture = avar
+		culture = astrakhani
 		religion = shiite
 		size = 200
 	}
 
 	artisans = {
-		culture = avar
+		culture = astrakhani
 		religion = shiite
 		size = 650
 	}
 
 	farmers = {
-		culture = avar
+		culture = astrakhani
 		religion = shiite
 		size = 1000
 	}
@@ -667,31 +667,31 @@
 	}
 
 	aristocrats = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 120
 	}
 
 	clergymen = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 150
 	}
 
 	artisans = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 670
 	}
 
 	soldiers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size= 250
 	}
 
 	farmers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 13925
 	}
@@ -730,31 +730,31 @@
 	}
 
 	aristocrats = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 140
 	}
 
 	clergymen = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 120
 	}
 
 	artisans = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 750
 	}
 
 	soldiers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size= 240
 	}
 
 	farmers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 9985
 	}

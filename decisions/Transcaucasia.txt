@@ -39,7 +39,7 @@ political_decisions = {
 					owner = { in_sphere = THIS }
 					owner = { has_country_flag = newly_released_nation }
 					owner = {
-						primary_culture = armenian
+						primary_culture = azerbaijani
 						war = no
 						civilized = yes
 						relation = { who = THIS value = 150 }
@@ -59,7 +59,7 @@ political_decisions = {
 			ARM = { all_core = { add_core = TCA } }
 			AZB = { all_core = { add_core = TCA } }
 			add_accepted_culture = georgian
-			add_accepted_culture = armenian
+			add_accepted_culture = azerbaijani
 			add_accepted_culture = azerbaijani
 			change_tag = TCA
 			any_country = {
@@ -77,7 +77,7 @@ political_decisions = {
 				limit = {
 					war = no
 					OR = {
-						primary_culture = armenian
+						primary_culture = azerbaijani
 						primary_culture = georgian
 						primary_culture = azerbaijani
 					}
@@ -179,7 +179,7 @@ political_decisions = {
 			}
 			prestige = 5
 			primary_culture = georgian
-			remove_accepted_culture = armenian
+			remove_accepted_culture = azerbaijani
 			remove_accepted_culture = azerbaijani
 			all_core = { remove_core = TCA }
 			change_tag = GEO
@@ -218,7 +218,7 @@ political_decisions = {
 			}
 			prestige = 5
 			primary_culture = azerbaijani
-			remove_accepted_culture = armenian
+			remove_accepted_culture = azerbaijani
 			remove_accepted_culture = georgian
 			all_core = { remove_core = TCA }
 			change_tag = AZB
@@ -256,13 +256,13 @@ political_decisions = {
 				owner = { capital = 1102 }
 			}
 			prestige = 5
-			primary_culture = armenian
+			primary_culture = azerbaijani
 			remove_accepted_culture = azerbaijani
 			remove_accepted_culture = georgian
 			all_core = { remove_core = TCA }
 			change_tag = ARM
 			any_pop = {
-				limit = { has_pop_culture = armenian }
+				limit = { has_pop_culture = azerbaijani }
 				militancy = -4
 			}
 		}
@@ -295,7 +295,7 @@ political_decisions = {
 				clr_country_flag = orthodox_country
 				religion = sunni
 				primary_culture = azerbaijani
-				remove_accepted_culture = armenian
+				remove_accepted_culture = azerbaijani
 				remove_accepted_culture = georgian
 				any_pop = {
 					limit = { NOT = { has_pop_religion = sunni } }
@@ -330,7 +330,7 @@ political_decisions = {
 				clr_country_flag = orthodox_country
 				religion = shiite
 				primary_culture = azerbaijani
-				remove_accepted_culture = armenian
+				remove_accepted_culture = azerbaijani
 				remove_accepted_culture = georgian
 				any_pop = {
 					limit = { NOT = { has_pop_religion = shiite } }
@@ -371,7 +371,7 @@ political_decisions = {
 				clr_country_flag = shiite_country
 				religion = orthodox
 				primary_culture = georgian
-				add_accepted_culture = armenian
+				add_accepted_culture = azerbaijani
 				remove_accepted_culture = azerbaijani
 				any_pop = {
 					limit = { NOT = { has_pop_religion = orthodox } }
@@ -412,7 +412,7 @@ political_decisions = {
 				clr_country_flag = shiite_country
 				clr_country_flag = orthodox_country				
 				religion = coptic
-				primary_culture = armenian
+				primary_culture = azerbaijani
 				add_accepted_culture = georgian
 				remove_accepted_culture = azerbaijani
 				any_pop = {

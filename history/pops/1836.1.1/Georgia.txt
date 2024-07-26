@@ -101,32 +101,32 @@
 	}
 
 	aristocrats = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 110
 	}
 
 	clergymen = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 120
 	}
 
 	artisans = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 605
 	}
 
 	soldiers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size= 75
 
 	}
 
 	farmers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 5000
 	}
@@ -199,19 +199,19 @@
 	}
 
 	clergymen = {
-		culture = ossetian
+		culture = astrakhani
 		religion = orthodox
 		size = 160
 	}
 
 	artisans = {
-		culture = ossetian
+		culture = astrakhani
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = ossetian
+		culture = astrakhani
 		religion = orthodox
 		size = 2100
 	}
@@ -250,63 +250,63 @@
 	}
 
 	aristocrats = {
-		culture = ossetian
+		culture = astrakhani
 		religion = orthodox
 		size = 125
 	}
 
 	clergymen = {
-		culture = ossetian
+		culture = astrakhani
 		religion = orthodox
 		size = 90
 	}
 
 	artisans = {
-		culture = ossetian
+		culture = astrakhani
 		religion = orthodox
 		size = 375
 	}
 
 	soldiers = {
-		culture = ossetian
+		culture = astrakhani
 		religion = orthodox
 		size= 75
 
 	}
 
 	farmers = {
-		culture = ossetian
+		culture = astrakhani
 		religion = orthodox
 		size = 7750
 	}
 
 	aristocrats = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 80
 	}
 
 	clergymen = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 70
 	}
 
 	artisans = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 200
 	}
 
 	soldiers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size= 75
 
 	}
 
 	farmers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 3600
 	}
@@ -363,19 +363,19 @@
 	}
 
 	clergymen = {
-		culture = ossetian
+		culture = astrakhani
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = ossetian
+		culture = astrakhani
 		religion = orthodox
 		size = 40
 	}
 
 	farmers = {
-		culture = ossetian
+		culture = astrakhani
 		religion = orthodox
 		size = 900
 	}
@@ -413,31 +413,31 @@
 	}
 
 	aristocrats = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 150
 	}
 
 	clergymen = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 95
 	}
 
 	artisans = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 340
 	}
 
 	soldiers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size= 100
 	}
 
 	farmers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = coptic
 		size = 7550
 	}
@@ -531,7 +531,7 @@
 	}
 	
 	farmers = {
-		culture = abkhaz
+		culture = georgian
 		religion = orthodox
 		size = 1000
 	}	
@@ -570,61 +570,61 @@
 	}
 
 	aristocrats = {
-		culture = abkhaz
+		culture = georgian
 		religion = orthodox
 		size = 150
 	}
 
 	clergymen = {
-		culture = abkhaz
+		culture = georgian
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = abkhaz
+		culture = georgian
 		religion = orthodox
 		size = 450
 	}
 	
 	farmers = {
-		culture = abkhaz
+		culture = georgian
 		religion = orthodox
 		size = 28225
 	}
 
 	aristocrats = {
-		culture = abkhaz
+		culture = georgian
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = abkhaz
+		culture = georgian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = abkhaz
+		culture = georgian
 		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = abkhaz
+		culture = georgian
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = abkhaz
+		culture = georgian
 		religion = sunni
 		size = 20550
 	}
 
 	soldiers = {
-		culture = abkhaz
+		culture = georgian
 		religion = sunni
 		size= 3000
 		militancy = 9

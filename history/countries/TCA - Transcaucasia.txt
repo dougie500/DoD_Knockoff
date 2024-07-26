@@ -1,6 +1,6 @@
 capital = 1090
 primary_culture = georgian
-culture = armenian
+culture = azerbaijani
 culture = russian
 religion = orthodox
 government = absolute_monarchy
@@ -34,7 +34,8 @@ school_reforms = no_schools
 conscription = two_year_draft
 debt_law = serfdom
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = all_voting_pops
+child_labor = child_labor_legal
+citizens_rights = all_voting_pops
 border_policy = open_borders
 
 set_country_flag = orthodox_country

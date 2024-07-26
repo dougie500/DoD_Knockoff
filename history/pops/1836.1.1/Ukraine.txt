@@ -1395,9 +1395,13 @@
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 1150
+		size = 4150
 	}
-
+	craftsmen = {
+		culture = ruthenian
+		religion = jewish
+		size = 5150
+	}
 	artisans = {
 		culture = ashkenazi
 		religion = jewish

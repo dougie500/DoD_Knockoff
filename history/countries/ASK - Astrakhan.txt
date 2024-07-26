@@ -1,6 +1,6 @@
 capital = 1036
 primary_culture = astrakhani 
-culture = north_caucasian
+culture = astrakhani
 religion = sunni
 government = khanate
 plurality = 0.02

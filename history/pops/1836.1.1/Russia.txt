@@ -2476,11 +2476,20 @@ clergymen = {
 		size= 3000
 
 	}
-
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 60000
+	}
+	craftsmen = {
+		culture = russian
+		religion = orthodox
+		size = 10000
+	}
 	serfs = {
 		culture = russian
 		religion = orthodox
-		size = 130500
+		size = 80500
 	}
 }
 #Kaluga (876000/219000 POPS)
@@ -2581,7 +2590,7 @@ clergymen = {
 	clergymen = {
 		culture = russian
 		religion = orthodox
-		size = 3100
+		size = 6100
 	}
 
 	artisans = {
@@ -2608,11 +2617,20 @@ clergymen = {
 		size= 3000
 
 	}
-
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 120000
+	}
 	serfs = {
 		culture = russian
 		religion = orthodox
-		size = 273000
+		size = 173000
+	}
+	craftsmen = {
+		culture = russian
+		religion = orthodox
+		size = 10000
 	}
 }
 #Vladimir (544000/136000 POPS)

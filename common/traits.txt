@@ -15,6 +15,16 @@
 
 
 personality = {
+	defence_3.3 = {
+		defence = 3
+		organisation = 0.1
+	}
+	defence_4.3 = {
+		defence = 4
+		reliability = 0.2
+		organisation = 0.1
+	}
+
 	no_personality = {
 	}
 	aggressive = {
@@ -408,6 +418,14 @@ personality = {
 }
 
 background = {
+	attack_3.3 = {
+		attack = 3
+	}
+	attack_4.3 = {
+		attack = 4
+		reliability = 0.2
+		attrition = -0.04
+	}
 	no_background = {
 		attack = -2
 		defence = -2

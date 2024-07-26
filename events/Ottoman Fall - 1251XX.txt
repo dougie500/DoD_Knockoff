@@ -699,7 +699,7 @@ country_event = {
 		}
 
 		any_pop = {
- 			limit = { has_pop_culture = armenian } 	
+ 			limit = { has_pop_culture = azerbaijani } 	
 			militancy = 4 
 		}
 	}

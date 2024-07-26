@@ -1,13 +1,11 @@
 capital = 1859
 primary_culture = somali
-culture = somali
-culture = somali
 culture = cushitic
 religion = coptic
 government = absolute_monarchy
 plurality = 5.0
 nationalvalue = nv_tradition
-literacy = 0.07
+literacy = 0.03
 is_releasable_vassal = no
 
 slavery = yes_slavery
@@ -28,7 +26,7 @@ pensions = no_pensions
 school_reforms = no_schools
 
 #New Reforms
-conscription = four_year_draft
+conscription = one_year_draft
 debt_law = peonage
 penal_system = capital_punishment
 child_labor = child_labor_legal
@@ -59,8 +57,9 @@ modern_winemaking = yes
 
 # Unciv Reforms
 admin_reform = yes_admin_reform
+flintlock_rifles = 1
 
-oob = "ETH_oob.txt"
+oob = ETH_oob.txt
 
 1861.1.1 = {
 	oob = "/1861/ETH_oob.txt"
@@ -73,6 +72,5 @@ oob = "ETH_oob.txt"
 	admin_reform = yes_admin_reform
 
 	# Technologies
-	flintlock_rifles = 1
-
+	
 }

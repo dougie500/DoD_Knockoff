@@ -1,5 +1,5 @@
 capital = 1053
-primary_culture = avar
+primary_culture = astrakhani
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

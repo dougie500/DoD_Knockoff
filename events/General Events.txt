@@ -1,0 +1,79 @@
+country_event = {
+	id = 600000
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	NOT = {
+		
+			#add tags of countries with specific events here
+			# tag = DUA 
+			# tag = NOV
+			# tag = RUT
+			# tag = PLC
+			# tag = BOH
+			# tag = ELB
+			# tag = RLT
+			# tag = HRE
+			# tag = AUS
+			# tag = AUH
+			# tag = SGF
+			# tag = VEN
+			# tag = BYZ
+			# tag = TUR
+			# tag = OCC
+			# tag = OCI
+			# tag = CHG
+			# tag = JAP
+			# tag = YUA
+			# tag = PER
+			# tag = ITA
+			# tag = ARA
+			# tag = ARI
+			# tag = SPA
+			# tag = RLT
+			# tag = NAN
+			# tag = HBE
+			# tag = VIN
+			# tag = IRE
+			# tag = ARC
+			# tag = DEN
+			# tag = SCA
+			# tag = POH
+			# tag = HYP
+			# tag = ZAP
+			# tag = BRG
+			# tag = ETH
+			# tag = NOR
+			# tag = FRA
+			# tag = ENG
+			# tag = IBR
+			# tag = ROM
+			# tag = WAL
+			# tag = MOL
+			# tag = LOT 
+			# tag = AMA
+			# tag = INC
+			# tag = DNG
+			# tag = GER
+			has_leader = "John Cena"
+		
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "Our prayers to RNGesus have been answered"
+	immediate = {
+		define_general = {
+			name = "John Cena"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "It's about time..."		
+	}
+}
+}

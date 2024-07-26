@@ -1,29 +1,25 @@
 
 army = {
-	name = "Zelensky's guard"
-	location = 956
+	name = "Russian Slaves"
+	location = 998
 	regiment = {
 		name= "1. Bostancy-yy Hassa"
 		type = infantry
-		home = 702
+		home = 1022
 	}
 
 	regiment = {
 		name= "2. Bostancy-yy Hassa"
 		type = infantry
-		home = 952
+		home = 1022
 	}
 
 	regiment = {
 		name= "3. Bostancy-yy Hassa"
 		type = artillery
-		home = 956
+		home = 1001
 	}
 
-	regiment = {
-		name= "4. Bostancy-yy Hassa"
-		type = artillery
-		home = 955
-	}
+	
 
 }

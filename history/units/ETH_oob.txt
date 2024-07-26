@@ -34,6 +34,21 @@ army = {
 		type = infantry
 		home = 1860
 	}
+	regiment = {
+		name= "4rd 'Galla' Division"
+		type = infantry
+		home = 1855
+	}
+	regiment = {
+		name= "5rd 'Galla' Division"
+		type = infantry
+		home = 1855
+	}
+	regiment = {
+		name= "6rd 'Galla' Division"
+		type = infantry
+		home = 1855
+	}
 
 }
 
@@ -41,22 +56,38 @@ army = {
 	name = "Tewodrosian infantry"
 	location = 1860
 	regiment = {
-		name= "4th 'Galla' Division"
+		name= "1th 'Galla' Division"
 		type = infantry
 		home = 1860
 	}
 
 	regiment = {
-		name= "5th 'Galla' Division"
+		name= "2th 'Galla' Division"
 		type = infantry
 		home = 1865
 	}
 
 	regiment = {
-		name= "6th 'Galla' Division"
+		name= "3th 'Galla' Division"
 		type = infantry
 		home = 1865
 	}
+	regiment = {
+		name= "4th 'Galla' Division"
+		type = infantry
+		home = 1859
+	}
 
+	regiment = {
+		name= "5th 'Galla' Division"
+		type = infantry
+		home = 1859
+	}
+
+	regiment = {
+		name= "6th 'Galla' Division"
+		type = infantry
+		home = 1853
+	}
 }
 
