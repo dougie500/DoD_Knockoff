@@ -1,6 +1,6 @@
-owner = BUG
-controller = BUG
-add_core = BUG
+owner = AZA
+controller = AZA
+add_core = AZA
 trade_goods = cotton
 terrain = savanna
 life_rating = 10

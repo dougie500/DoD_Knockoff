@@ -273,11 +273,15 @@
 		religion = orthodox
 		size = 43924
 	}
-	
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 100000
+	}
 	serfs = {
 		culture = ruthenian
 		religion = orthodox
-		size = 105601
+		size = 55601
 	}	
 
 	clergymen = {
@@ -289,7 +293,7 @@
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
-		size = 990
+		size = 4990
 	}
 }
 #Kursk Region (3716000) #see Ukraine.txt for balance of region 
@@ -299,7 +303,7 @@
 	clergymen = {
 		culture = ruthenian
 		religion = orthodox
-		size = 150
+		size = 1150
 	}
 
 	artisans = {
@@ -2751,25 +2755,25 @@ clergymen = {
 	}
 	
 	clergymen = {
-		culture = mari
+		culture = tatar
 		religion = orthodox
 		size = 250
 	}
 
 	artisans = {
-		culture = mari
+		culture = tatar
 		religion = orthodox
 		size = 250
 	}
 
 	soldiers = {
-		culture = mari
+		culture = tatar
 		religion = orthodox
 		size = 2225
 	}
 
 	farmers = {
-		culture = mari
+		culture = tatar
 		religion = orthodox
 		size = 90577
 	}	
@@ -2986,9 +2990,13 @@ clergymen = {
 	serfs = {
 		culture = ruthenian
 		religion = orthodox
-		size = 282050
+		size = 222050
 	}
-
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 100000
+	}
 	artisans = {
 		culture = ruthenian
 		religion = orthodox
@@ -3146,7 +3154,7 @@ clergymen = {
 	}
 	
 	serfs = {
-		culture = mari
+		culture = tatar
 		religion = orthodox
 		size = 30655
 	}	
@@ -3222,13 +3230,13 @@ clergymen = {
 	}	
 
 	serfs = {
-		culture = mari
+		culture = tatar
 		religion = orthodox
 		size = 58525
 	}
 	
 	serfs = {
-		culture = mari
+		culture = tatar
 		religion = animist
 		size = 3525
 	}	
@@ -3369,17 +3377,6 @@ clergymen = {
 
 	}
 
-	farmers = {
-		culture = russian
-		religion = orthodox
-		size = 10731
-	}
-
-	serfs = {
-		culture = russian
-		religion = orthodox
-		size = 9219
-	}	
 	
 	aristocrats = {
 		culture = tatar
@@ -3433,29 +3430,29 @@ clergymen = {
 	serfs = {
 		culture = russian
 		religion = orthodox
-		size = 50775
+		size = 20775
 	}
 	
 	clergymen = {
-		culture = mari
+		culture = tatar
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = mari
+		culture = tatar
 		religion = orthodox
 		size = 2200
 	}
 
 	soldiers = {
-		culture = mari
+		culture = tatar
 		religion = orthodox
 		size = 150
 	}
 
 	serfs = {
-		culture = mari
+		culture = tatar
 		religion = orthodox
 		size = 9550
 	}

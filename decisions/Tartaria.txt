@@ -5,7 +5,7 @@ political_decisions = {
         potential = { 
         OR = { 
         primary_culture = astrakhani 
-        primary_culture = crimean 
+        primary_culture = astrakhani 
         primary_culture = tatar
             } 
         NOT = { TAR = { exists = yes } }
@@ -56,7 +56,7 @@ political_decisions = {
         ASK = { all_core = { add_core = TAR } }
         NOG = { all_core = { add_core = TAR } }
         SIB = { all_core = { add_core = TAR } }
-        add_accepted_culture = crimean 
+        add_accepted_culture = astrakhani 
         add_accepted_culture = astrakhani 
         add_accepted_culture = tatar
         change_tag = TAR 

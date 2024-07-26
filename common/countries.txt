@@ -3,6 +3,13 @@
 # Special countries...
 REB 	= 	"countries/rebels.txt"
 
+# Special countries...
+TIN		= 	"countries/Tiny State.txt"
+SMA		= 	"countries/Small State.txt"
+MED		=	"countries/Medium State.txt"
+LRG		=	"countries/Large State.txt"
+HUG		=	"countries/Huge State.txt"
+
 ##DoD
 POH    = "countries/Pohjola.txt"
 ZPS    = "countries/Zapadoslavia.txt"

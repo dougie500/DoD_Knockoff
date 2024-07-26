@@ -39,7 +39,7 @@ RUT_tradition = {
 
 	badboy = -0.02
 	global_population_growth = 0.001
-	mobilisation_size = 0.01
+	mobilisation_size = 0.012
 	reinforcements = 0.05
 	army_tech_research_bonus = -0.05
 	culture_tech_research_bonus = -0.05
@@ -167,7 +167,7 @@ NAN_tradition = {
 }
 JAP_tradition = {
 	icon = 3
-	navy_tech_research_bonus = 0.2
+	navy_tech_research_bonus = 0.22
 	naval_unit_start_experience = 5
 	tax_efficiency = 0.03
 	land_unit_start_experience = -6
@@ -2925,4 +2925,9 @@ nomadic_confederation = {
 	mobilisation_size = -2.0	
 	tax_efficiency = -0.1
 	icon = 16
+}
+
+
+sizing_cooldown = {
+	icon = 10
 }

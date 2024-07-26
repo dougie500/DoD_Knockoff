@@ -3,52 +3,56 @@
 #Simferopol (126000/29000 POPS)
 964 = {
 	aristocrats = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 1300
 	}
 
 	bureaucrats = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 500
 	}
 
 	officers = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
-		size = 400
+		size = 1400
 	}
 
 	artisans = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 2300
 	}
 
 	soldiers = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size= 4000
 
 	}
 
 	farmers = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 48000
 	}
-
+	farmers = {
+		culture = ruthenian
+		religion = sunni
+		size = 19000
+	}
 	clergymen = {
 		culture = greek
 		religion = orthodox
-		size = 100
+		size = 1100
 	}
 
 	artisans = {
@@ -102,36 +106,36 @@
 #Cherson (126000/29000 POPS)
 965 = {
 	aristocrats = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 550
 	}
 	farmers = {
 		culture = ruthenian
 		religion = sunni
-		size = 10650
+		size = 30650
 	}
 	clergymen = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
-		size = 200
+		size = 1200
 	}
 
 	artisans = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 475
 	}
 
 	soldiers = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size= 2000
 
 	}
 
 	farmers = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 16000
 	}
@@ -217,32 +221,32 @@
 #Kerch (48000/12000 POPS)
 966 = {
 	aristocrats = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 400
 	}
 
 	clergymen = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 16000
 	}
@@ -341,7 +345,7 @@
 	}
 
 	farmers = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 17000
 	}
@@ -454,7 +458,7 @@
 	clergymen = {
 		culture = ruthenian
 		religion = orthodox
-		size = 425
+		size = 1425
 	}
 
 	soldiers = {
@@ -467,7 +471,7 @@
 	farmers = {
 		culture = ruthenian
 		religion = orthodox
-		size = 22000
+		size = 42000
 	}
 
 	farmers = {
@@ -520,7 +524,7 @@
 	bureaucrats = {
 		culture = ruthenian
 		religion = orthodox
-		size = 150
+		size = 450
 	}
 
 	officers = {
@@ -981,47 +985,47 @@
 #Melitopol (84000/21000 POPS)
 973 = {
 	aristocrats = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = crimean
+		culture = ruthenian
 		religion = sunni
-		size = 50
+		size = 250
 	}
 
 	officers = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 175
 	}
 
 	clergymen = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 650
 	}
 	farmers = {
 		culture = ruthenian
 		religion = sunni
-		size = 10650
+		size = 30650
 	}
 	soldiers = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size= 1500
 	}
 
 	farmers = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 15000
 	}
@@ -1128,7 +1132,7 @@
 #Yuzovka (76000/19000 POPS)
 975 = {
 	aristocrats = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 300
 	}
@@ -1138,25 +1142,25 @@
 		size = 9650
 	}
 	clergymen = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size= 1600
 	}
 
 	farmers = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 12500
 	}
@@ -1198,43 +1202,47 @@
 	}
 
 	farmers = {
-		culture = russian
+		culture = ruthenian
 		religion = orthodox
-		size = 3750
+		size = 33750
 	}
 }
 #Mariopol (248000/62000 POPS)
 976 = {
 	aristocrats = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 700
 	}
 
 	clergymen = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
-		size = 250
+		size = 1250
 	}
 
 	artisans = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 650
 	}
 
 	soldiers = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size= 3200
 	}
 
 	farmers = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 26000
 	}
-
+	farmers = {
+		culture = ruthenian
+		religion = sunni
+		size = 16000
+	}
 	clergymen = {
 		culture = krymchak
 		religion = jewish
@@ -1470,43 +1478,43 @@ bureaucrats = {
     }
 
     aristocrats = {
-        culture = crimean
+        culture = astrakhani
         religion = sunni
         size = 1139
     }
 
     clergymen = {
-        culture = crimean
+        culture = astrakhani
         religion = sunni
         size = 263
     }
 
     artisans = {
-        culture = crimean
+        culture = astrakhani
         religion = sunni
         size = 1200
     }
 
     soldiers = {
-        culture = crimean
+        culture = astrakhani
         religion = sunni
         size = 6800
     }
 
     farmers = {
-        culture = crimean
+        culture = astrakhani
         religion = sunni
         size = 19625
     }
 
     bureaucrats = {
-        culture = crimean
+        culture = astrakhani
         religion = sunni
         size = 188
     }
 
     officers = {
-        culture = crimean
+        culture = astrakhani
         religion = sunni
         size = 150
     }

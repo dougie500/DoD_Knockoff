@@ -3758,7 +3758,7 @@ country_event = {
 		
 	    remove_accepted_culture = astrakhani 
 	    remove_accepted_culture = tatar
-	    remove_accepted_culture = crimean		
+	    remove_accepted_culture = astrakhani		
 	    remove_accepted_culture = georgian 
 	    remove_accepted_culture = estonian 		
 	    remove_accepted_culture = ruthenian

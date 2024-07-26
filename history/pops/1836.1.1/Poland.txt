@@ -3156,13 +3156,13 @@
 	}
 
 	soldiers = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size= 3000
 	}
 
 	farmers = {
-		culture = crimean
+		culture = astrakhani
 		religion = sunni
 		size = 4000
 	}
