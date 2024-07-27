@@ -21,6 +21,13 @@ leader = {
 	personality = vicious
 	background = unqualified
 }
+leader = {
+	name = "Great Khan"
+	type = land
+	date = 1836.1.1
+	personality = defence_3.1
+	background = attack_5.1
+}
 
 army = {
 	name = "East Steppes Army"

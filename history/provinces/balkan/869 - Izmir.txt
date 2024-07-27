@@ -21,3 +21,4 @@ life_rating = 35
 		upgrade = yes
 	}
 }
+naval_base = 1

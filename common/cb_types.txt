@@ -581,7 +581,7 @@ acquire_state_medium = {
 	allowed_states = {
 		is_colonial = no
 		any_owned_province = {
-			is_core = SMA
+			is_core = MED
 			not = {	is_core = THIS }
 			is_colonial = no
 		}
@@ -2358,7 +2358,7 @@ liberate_country = {
 			this_culture_union = FROM
 			AND = {
 				FROM = { tag = ETH }
-				NOT = { exists = ETH }
+				
 			}
 		}
 		OR = {

@@ -473,12 +473,7 @@ political_decisions = {
 		}
 		
 		allow = { 
-			OR = { 
-				NOT = { AMA = { exists = yes } }
-				AMA = { 
-					in_sphere = THIS
-				}
-			}
+			
 			LOT = {
 			    all_core = {
 					OR = {

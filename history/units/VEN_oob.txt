@@ -159,6 +159,171 @@ navy = {
 		name= "San Lorenzo Giustian"
 		type = frigate
 	}
+	ship = {
+		name= "Costanza Guerriera"
+		type = manowar
+	}
+
+	ship = {
+		name= "San Giovanni Battista"
+		type = frigate
+	}
+
+	ship = {
+		name= "Redentor del Mondo"
+		type = frigate
+	}
+
+	ship = {
+		name= "San Lorenzo Giustian"
+		type = frigate
+	}
+	ship = {
+		name= "Costanza Guerriera"
+		type = manowar
+	}
+	ship = {
+		name= "Costanza Guerriera"
+		type = manowar
+	}
+	ship = {
+		name= "Costanza Guerriera"
+		type = manowar
+	}
+	ship = {
+		name= "Costanza Guerriera"
+		type = manowar
+	}
+	ship = {
+		name= "Costanza Guerriera"
+		type = manowar
+	}
+	ship = {
+		name= "Costanza Guerriera"
+		type = manowar
+	}
+	ship = {
+		name= "Costanza Guerriera"
+		type = manowar
+	}
+	ship = {
+		name= "Costanza Guerriera"
+		type = manowar
+	}
+	ship = {
+		name= "San Giovanni Battista"
+		type = frigate
+	}
+	ship = {
+		name= "Costanza Guerriera"
+		type = manowar
+	}
+	ship = {
+		name= "Costanza Guerriera"
+		type = manowar
+	}
+	ship = {
+		name= "Costanza Guerriera"
+		type = manowar
+	}
+	ship = {
+		name= "Costanza Guerriera"
+		type = manowar
+	}
+	ship = {
+		name= "Costanza Guerriera"
+		type = manowar
+	}
+	ship = {
+		name= "San Giovanni Battista"
+		type = frigate
+	}
+	ship = {
+		name= "Redentor del Mondo"
+		type = frigate
+	}
+
+	ship = {
+		name= "San Lorenzo Giustian"
+		type = frigate
+	}
+	ship = {
+		name= "San Giovanni Battista"
+		type = frigate
+	}
+
+	ship = {
+		name= "Redentor del Mondo"
+		type = frigate
+	}
+	ship = {
+		name= "San Lorenzo Giustian"
+		type = frigate
+	}
+	ship = {
+		name= "San Giovanni Battista"
+		type = frigate
+	}
+
+	ship = {
+		name= "Redentor del Mondo"
+		type = frigate
+	}
+
+	ship = {
+		name= "San Lorenzo Giustian"
+		type = frigate
+	}
+	ship = {
+		name= "San Lorenzo Giustian"
+		type = frigate
+	}
+	ship = {
+		name= "San Giovanni Battista"
+		type = frigate
+	}
+
+	ship = {
+		name= "Redentor del Mondo"
+		type = frigate
+	}
+
+	ship = {
+		name= "San Lorenzo Giustian"
+		type = frigate
+	}
+	ship = {
+		name= "Costanza Guerriera"
+		type = manowar
+	}
+
+	ship = {
+		name= "San Giovanni Battista"
+		type = manowar
+	}
+
+	ship = {
+		name= "Redentor del Mondo"
+		type = manowar
+	}
+
+	ship = {
+		name= "San Lorenzo Giustian"
+		type = manowar
+	}
+	ship = {
+		name= "1a Squadrone Transporti"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2a Squadrone Transporti"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Stella Maris"
+		type = clipper_transport
+	}
 
 	ship = {
 		name= "1a Squadrone Transporti"
@@ -169,24 +334,32 @@ navy = {
 		name= "2a Squadrone Transporti"
 		type = clipper_transport
 	}
+	ship = {
+		name= "Stella Maris"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Colomba d'Oro"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Croce Rossa"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Croce Rossa"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Croce Rossa"
+		type = clipper_transport
+	}
 }
 
 navy = {
 	name = "Fleet of Crete"
 	location = 848
-	ship = {
-		name= "Stella Maris"
-		type = manowar
-	}
-
-	ship = {
-		name= "Colomba d'Oro"
-		type = frigate
-	}
-
-	ship = {
-		name= "Croce Rossa"
-		type = frigate
-	}
 }
 

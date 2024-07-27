@@ -195,30 +195,30 @@ political_decisions = {
 	}	
 	
 #Lotharingia
-	LOT_grand_chaco = {
-		picture = LOT_colony
-		potential = {
-			tag = LOT
-			owns = 2339
-			SA_5 = { empty = yes }
-			NOT = { rank = 16 }
-		}
+	# LOT_grand_chaco = {
+	# 	picture = LOT_colony
+	# 	potential = {
+	# 		tag = LOT
+	# 		owns = 2339
+	# 		SA_5 = { empty = yes }
+	# 		NOT = { rank = 16 }
+	# 	}
 
-		allow = {
-			war = no		
-			medicine = 1
-			invention = prophylaxis_against_malaria
-		}
+	# 	allow = {
+	# 		war = no		
+	# 		medicine = 1
+	# 		invention = prophylaxis_against_malaria
+	# 	}
 
-		effect = {
-			prestige = 5
-			SA_5 = { secede_province = THIS }
-		}
+	# 	effect = {
+	# 		prestige = 5
+	# 		SA_5 = { secede_province = THIS }
+	# 	}
 
-		ai_will_do = {
-			factor = 1
-		}
-	}
+	# 	ai_will_do = {
+	# 		factor = 1
+	# 	}
+	# }
 
 #Beornia/HBE
 #	NAN_cornwall = {

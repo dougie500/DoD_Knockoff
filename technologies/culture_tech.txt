@@ -28,7 +28,7 @@ romanticism = {
 	area = aesthetics
 	year = 1836
 	cost = 7200
-	rgo_output = 0.05
+	rgo_output = 0.04
 
 	prestige = 0.075
 

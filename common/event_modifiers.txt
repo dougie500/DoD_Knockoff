@@ -106,7 +106,7 @@ BOH_tradition = {
 }
 VEN_tradition = {
 	icon = 3
-	tax_efficiency = -0.01
+	tax_efficiency = 0.02
 	factory_output = -0.05
 	army_tech_research_bonus = -0.05
 	commerce_tech_research_bonus = 0.15

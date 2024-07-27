@@ -377,26 +377,9 @@ army = {
 
 navy = {
 	name = "Armada Real Española"
-	location = 518
-	ship = {
-		name= "San Raimundo"
-		type = manowar
-	}
-
-	ship = {
-		name= "Héroe"
-		type = manowar
-	}
-
-	ship = {
-		name= "San Pablo"
-		type = manowar
-	}
+	location = 474
 	
-	ship = {
-		name = "Alerta"
-		type = manowar
-	}
+	
 	
 	ship = {
 		name = "San Fernando"
@@ -583,7 +566,55 @@ navy = {
 		type = frigate
 	}
 	
+	ship = {
+		name = "Deus"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Antillea"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Mayapan"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Yucatan"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Mejico"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1a Flotilla de Transporte"
+		type = clipper_transport
+	}
 
+	ship = {
+		name= "2a Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4a Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5a Flotilla de Transporte"
+		type = clipper_transport
+	}
 
 	ship = {
 		name= "1a Flotilla de Transporte"
@@ -609,12 +640,6 @@ navy = {
 		name= "2b Flotilla de Transporte"
 		type = clipper_transport
 	}
-}
-
-navy = {
-	name = "Armada de la Habana"
-	location = 518
-
 	ship = {
 		name= "Juan"
 		type = manowar
@@ -753,60 +778,5 @@ navy = {
 		name= "7a Flotilla de Transporte"
 		type = clipper_transport
 	}  
-  
 }
 
-navy = {
-	name = "Armada de las Indias"
-	location = 518
-	
-	ship = {
-		name = "Deus"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Antillea"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Mayapan"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Yucatan"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Mejico"
-		type = frigate
-	}
-	
-	ship = {
-		name= "1a Flotilla de Transporte"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "2a Flotilla de Transporte"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "3a Flotilla de Transporte"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "4a Flotilla de Transporte"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "5a Flotilla de Transporte"
-		type = clipper_transport
-	}
-}

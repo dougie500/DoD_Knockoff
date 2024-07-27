@@ -15,18 +15,18 @@
 
 
 personality = {
-	defence_3.3 = {
-		defence = 3
-		organisation = 0.1
-	}
-	defence_4.3 = {
-		defence = 4
-		reliability = 0.2
-		organisation = 0.1
-	}
-
 	no_personality = {
 	}
+
+	defence_3.1 = {
+		defence = 3
+		
+	}
+	defence_4.1 = {
+		defence = 4
+		
+	}
+
 	aggressive = {
 		attack = 1
 	}
@@ -427,13 +427,17 @@ background = {
 		experience = -0.5
 	}
 
-	attack_3.3 = {
+	attack_3.1 = {
 		attack = 3
 	}
-	attack_4.3 = {
+	attack_4.1= {
 		attack = 4
 		reliability = 0.2
 		attrition = -0.04
+	}
+	attack_5.1= {
+		attack = 5
+		
 	}
 	nationalist = {
 		attack = 1

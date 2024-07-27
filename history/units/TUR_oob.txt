@@ -234,52 +234,52 @@ navy = {
 
 	ship = {
 		name= "Ankay i Barhi"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Taus i Barhi"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Tevfik Nyuma"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Bisharet Nyuma"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Killid i Barhi"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Heybetendaz"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Melek i Barhi"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Sayyad i Barhi"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Gulbang i Nusret"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Jebel Andaz"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
@@ -299,37 +299,37 @@ navy = {
 
 	ship = {
 		name= "Metelin"
-		type = frigate
+		type = clipper_transport
 	}
 
 	ship = {
 		name= "Denyuvet"
-		type = frigate
+		type = clipper_transport
 	}
 
 	ship = {
 		name= "Rahbar i Alam"
-		type = frigate
+		type = clipper_transport
 	}
 
 	ship = {
 		name= "Malbaik Nesuret"
-		type = frigate
+		type = clipper_transport
 	}
 
 	ship = {
 		name= "Bedr i Zafar"
-		type = frigate
+		type = clipper_transport
 	}
 
 	ship = {
 		name= "Meskeni Ghazi"
-		type = frigate
+		type = clipper_transport
 	}
 
 	ship = {
 		name= "Fakim i Zafar"
-		type = frigate
+		type = clipper_transport
 	}
 
 	ship = {

@@ -30,8 +30,8 @@ leader = {
 	name = "Napoleon Bonaparte"
 	type = land
 	date = 1836.1.1
-	personality = defence_4.3
-	background = attack_4.3
+	personality = defence_4.1
+	background = attack_4.1
 }
 
 army = {
@@ -235,4 +235,170 @@ army = {
 		type = hussar
 		home = 720
 	}
+}
+navy = {
+	name = "Escadre des Indes Orientales"
+	location = 461
+	ship = {
+		name= "Couronne"
+		type = frigate
+	}
+
+	ship = {
+		name= "Superbe"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jean Bart"
+		type = frigate
+	}
+
+	ship = {
+		name= "Deux couronnes"
+		type = frigate
+	}
+
+	ship = {
+		name= "Wagram"
+		type = frigate
+	}
+
+	ship = {
+		name= "Trocadero "
+		type = frigate
+	}
+
+	ship = {
+		name= "Zélandais"
+		type = frigate
+	}
+
+	ship = {
+		name= "Superbe"
+		type = frigate
+	}
+
+	ship = {
+		name= "Austerlitz"
+		type = frigate
+	}
+
+	ship = {
+		name= "Magnifique"
+		type = frigate
+	}
+
+	ship = {
+		name= "Normandie"
+		type = frigate
+	}
+
+	ship = {
+		name= "Conquérant"
+		type = frigate
+	}
+
+	ship = {
+		name= "Neptune"
+		type = frigate
+	}
+	ship = {
+		name= "blingus"
+		type = frigate
+	}
+
+	ship = {
+		name= "dingus"
+		type = frigate
+	}
+	ship = {
+		name= "wingus"
+		type = frigate
+	}
+
+	ship = {
+		name= "shlingus"
+		type = frigate
+	}
+	ship = {
+		name= "Algerisas"
+		type = frigate
+	}
+
+	ship = {
+		name= "Nestor"
+		type = frigate
+	}
+
+	ship = {
+		name= "Duchesse de Berry"
+		type = frigate
+	}
+
+	ship = {
+		name= "Thétis"
+		type = frigate
+	}
+	ship = {
+		name= "RAAAAHhhhh"
+		type = frigate
+	}
+	ship = {
+		name= "beeblor"
+		type = manowar
+	}
+	ship = {
+		name= "mar is gay"
+		type = manowar
+	}
+	ship = {
+		name= "Astrée"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Amazone"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Clorinde"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Maure"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Vestale"
+		type = clipper_transport
+	}
+	ship = {
+		name= "1ère Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2ème Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3ème Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4ème Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5ème Flotille de Transport"
+		type = clipper_transport
+	}
+
 }

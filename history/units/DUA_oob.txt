@@ -472,7 +472,7 @@ army = {
 }
 navy = {
 	name = "Escadre des Indes Orientales"
-	location = 461
+	location = 303
 	ship = {
 		name= "Couronne"
 		type = manowar
@@ -537,7 +537,24 @@ navy = {
 		name= "Neptune"
 		type = manowar
 	}
+	ship = {
+		name= "blingus"
+		type = manowar
+	}
 
+	ship = {
+		name= "dingus"
+		type = manowar
+	}
+	ship = {
+		name= "wingus"
+		type = manowar
+	}
+
+	ship = {
+		name= "shlingus"
+		type = manowar
+	}
 	ship = {
 		name= "Algerisas"
 		type = manowar
@@ -647,12 +664,6 @@ navy = {
 		name= "5ème Flotille de Transport"
 		type = clipper_transport
 	}
-
-}
-
-navy = {
-	name = "Escadre de Méditerranée"
-	location = 461
 	ship = {
 		name= "Triton"
 		type = manowar
@@ -842,14 +853,6 @@ navy = {
 		name= "5ème Flotille de Transport"
 		type = clipper_transport
 	}
-
-}
-
-navy = {
-	name = "Fleet of the English Crown"
-	location = 303
-
-
 	ship = {
 		name= "HMS Belleisle"
 		type = manowar
@@ -1041,4 +1044,3 @@ navy = {
 	}
 
 }
-
