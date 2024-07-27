@@ -57,7 +57,7 @@
 	}
 
 	slaves = {
-		culture = forest_bantu
+		culture = mongo
 		religion = animist
 		size = 3450
 	}

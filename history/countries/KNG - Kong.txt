@@ -1,5 +1,5 @@
 capital = 1900
-primary_culture = dyula
+primary_culture = hausa
 culture = hausa
 culture = hausa
 culture = hausa

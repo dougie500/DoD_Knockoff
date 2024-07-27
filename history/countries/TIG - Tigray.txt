@@ -1,7 +1,7 @@
 capital = 1857
 primary_culture = somali
 culture = somali
-culture = cushitic
+culture = somali
 culture = nilotic
 religion = coptic
 government = absolute_monarchy

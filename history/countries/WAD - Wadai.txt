@@ -1,5 +1,5 @@
 capital = 1821
-primary_culture = fur
+primary_culture = mongo
 culture = tuareg
 religion = sunni
 government = absolute_monarchy

@@ -3,160 +3,79 @@ political_decisions = {
 	unite_ethiopia_1 = {
 	picture = ethiopia	
 		potential = {
-			tag = AMT	
-		}
-		
-		allow = {
-			NOT = { ETH = { exists = yes } }
-			NOT = { war = yes }
-		}
-		
-		effect = {
-			prestige = 20
-			change_tag = ETH
-			any_country = {
-				any_owned = {
-					limit = {
-						is_core = AMT
-					}
-					remove_core = AMT
-				}
-			}
-			any_owned = {
-				limit = {
-					is_core = AMT
-					}
-				remove_core = AMT
-			}
-			religion = coptic
-			1864 = { secede_province = THIS }
-			add_accepted_culture = somali
-			add_accepted_culture = somali
-			set_country_flag = amatsa
-			capital = 1859
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	unite_ethiopia_2 = {
-	picture = ethiopia	
-		potential = {
 			tag = ETH
-			NOT = { has_country_flag = amatsa }	
+			NOT = { has_country_flag = unite_ethiopia_1 }
 		}
 		
 		allow = {
-			AMT = { exists = no }
-			 war = yes
+			ETH_1874 = { owned_by = THIS }
+			ENG_1868 = { owned_by = THIS }
+
 		}
 		
 		effect = {
-			set_country_flag = amatsa
-			prestige = 20
-			any_country = {
-				any_owned = {
-					limit = {
-						is_core = AMT
-					}
-				remove_core = AMT
-				add_core = ETH
-				}
-			}
-			any_owned = {
-				limit = {
-					is_core = AMT
-				}
-				remove_core = AMT
-				add_core = ETH
-			}
-			1864 = { secede_province = THIS }
-			add_accepted_culture = somali
-			add_accepted_culture = somali
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	unite_ethiopia_3 = {
-	picture = ethiopia	
-		potential = {
-			tag = ORO	
-		}
-		
-		allow = {
-			AMT = { exists = no }
-			war = no
-			ETH = { all_core = { owned_by = THIS } }
-			ETH = { exists = no }
-		}
-		
-		effect = {
-			prestige = 20
-			any_country = {
-				any_owned = {
-					limit = {
-						is_core = AMT
-					}
-				remove_core = AMT
-				add_core = ETH
-				}
-			}
-			any_owned = {
-				limit = {
-					is_core = AMT
-				}
-				remove_core = AMT
-				add_core = ETH
-			}
-			change_tag = ETH
-			add_accepted_culture = somali
-			add_accepted_culture = somali
-			capital = 1859
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	unite_ethiopia_4 = {
-	picture = ethiopia	
-		potential = {
-			tag = ADA
-			NOT = { has_country_flag = greater_adal }	
-		}
-		
-		allow = {
-			AMT = { exists = no }
-			war = no
-			ETH = { all_core = { owned_by = THIS } }
-			ETH = { exists = no }
-		}
-		
-		effect = {
-			set_country_flag = greater_adal
-			prestige = 20
-			any_country = {
-				any_owned = {
-					limit = {
-						is_core = ADA
-					}
-				remove_core = AMT
-				}
-			}
+			prestige = 10
+			
+			
 			any_country = {
 				any_owned = {
 					limit = {
 						is_core = AJU
 					}
-				add_core = ADA
+					remove_core = AJU
 				}
 			}
-			1858 = { add_core = THIS }
-			1851 = { add_core = THIS }
-			1875 = { add_core = THIS }
-		} 
+			any_owned = {
+				limit = {
+					is_core = AJU
+					}
+				add_core = ETH
+			}
+		
+			set_country_flag = unite_ethiopia_1
+		
+		}
 		ai_will_do = {
 			factor = 1
 		}
 	}
+	
+
+Etheopia_Mongo = {
+		
+		potential = {
+			tag = ETH
+			NOT = { has_country_flag = Etheopia_Mongo }
+		}
+		
+		allow = {
+			ENG_1843 = { owned_by = THIS }
+			BEL_1990 = { owned_by = THIS }
+			BEL_1992 = { owned_by = THIS }
+			state_n_government = 1
+		}
+		
+		effect = {
+			ENG_1843 = {
+				add_core = THIS
+			}
+			BEL_1990 = {
+				add_core = THIS
+			}
+			BEL_1992 = {
+				add_core = THIS
+			}
+			ENG_2019 = {
+				add_core = THIS
+			}
+			add_accepted_culture = mongo
+			set_country_flag = Etheopia_Mongo
+		
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	
+	}
+	
 }

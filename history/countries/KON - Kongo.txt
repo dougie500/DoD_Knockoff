@@ -1,5 +1,5 @@
 capital = 2001
-primary_culture = bakongo
+primary_culture = zulu
 culture = zulu
 religion = catholic
 government = absolute_monarchy

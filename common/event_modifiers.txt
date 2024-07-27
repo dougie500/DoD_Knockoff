@@ -898,7 +898,7 @@ kiel_canal_dividend = {
 	icon = 9
 }
 land_of_opportunity = {
-	global_immigrant_attract = 4.5
+	global_immigrant_attract = 1.5
 	icon = 13
 }
 

@@ -1,7 +1,7 @@
 capital = 1880
 primary_culture = hausa
 culture = hausa
-culture = dyula
+culture = hausa
 culture = hausa
 religion = sunni
 government = theocracy

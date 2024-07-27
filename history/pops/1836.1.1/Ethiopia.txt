@@ -308,7 +308,7 @@
 	}
 
 	slaves = {
-		culture = luo
+		culture = mongo
 		religion = animist
 		size = 5600
 	}
@@ -597,7 +597,7 @@
 		size = 18935
 	}
 	slaves = {
-		culture = cushitic
+		culture = somali
 		religion = animist
 		size = 4570
 	}
@@ -1100,7 +1100,7 @@
 	}
 
 	slaves = {
-		culture = cushitic
+		culture = somali
 		religion = animist
 		size = 36700
 	}

@@ -98,7 +98,7 @@
 		size = 3300
 	}
 	slaves = {
-		culture = forest_bantu
+		culture = mongo
 		religion = animist
 		size = 400
 	}
@@ -136,7 +136,7 @@
 	}
 	
 	slaves = {
-		culture = forest_bantu
+		culture = mongo
 		religion = animist
 		size = 200
 	}
@@ -176,7 +176,7 @@
 		size = 1525
 	}
 	slaves = {
-		culture = forest_bantu
+		culture = mongo
 		religion = animist
 		size = 800
 	}

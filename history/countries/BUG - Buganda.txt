@@ -1,9 +1,9 @@
 capital = 2019
-primary_culture = baganda
-culture = luo
+primary_culture = mongo
+culture = mongo
 culture = lacustrine_bantu
 culture = nilotic
-culture = ruanda
+culture = mongo
 religion = animist
 government = absolute_monarchy
 plurality = 0.0

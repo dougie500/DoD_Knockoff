@@ -1,58 +1,58 @@
-## Venice greece or italian efforts
-country_event = { 
-	id = 144469
-	title = "144469.T"
-	desc = "144469.D"
-	is_triggered_only = yes 
+# ## Venice greece or italian efforts
+# country_event = { 
+# 	id = 144469
+# 	title = "144469.T"
+# 	desc = "144469.D"
+# 	is_triggered_only = yes 
 	
 	
 		
 			
-	option = {
-	name = "144469.A" 
-	set_country_flag = Greek_Path
-	}
-	option = {
-		name = "144469.B" 
-		add_accepted_culture = north_italian
-		}																		
+# 	option = {
+# 	name = "144469.A" 
+# 	set_country_flag = Greek_Path
+# 	}
+# 	option = {
+# 		name = "144469.B" 
+# 		add_accepted_culture = north_italian
+# 		}																		
 		
-}
+# }
 
-## Poland, should we persue bohemia? 
+# ## Poland, should we persue bohemia? 
 
-country_event = { 
-	id = 144401
-	title = "144401.T"
-	desc = "144401.D"
-	is_triggered_only = yes 
+# country_event = { 
+# 	id = 144401
+# 	title = "144401.T"
+# 	desc = "144401.D"
+# 	is_triggered_only = yes 
 	
 
-	option = {
-	name = "144401.A" 
-	PRU_682 = {
-		add_core = THIS
-	}
-	AUS_626 = {
-		add_core = THIS
-	}
-	RUS_718  = {
-		remove_core = THIS
-	}
-	RUS_977 = {
-		remove_core = THIS
-	}
-	RUS_958 = {
-		remove_core = THIS
-	}
-	set_country_flag = plc_bohemia_path
-	}
-	option = {
-	name = "144401.B" 
+# 	option = {
+# 	name = "144401.A" 
+# 	PRU_682 = {
+# 		add_core = THIS
+# 	}
+# 	AUS_626 = {
+# 		add_core = THIS
+# 	}
+# 	RUS_718  = {
+# 		remove_core = THIS
+# 	}
+# 	RUS_977 = {
+# 		remove_core = THIS
+# 	}
+# 	RUS_958 = {
+# 		remove_core = THIS
+# 	}
+# 	set_country_flag = plc_bohemia_path
+# 	}
+# 	option = {
+# 	name = "144401.B" 
 		
-	}																		
+# 	}																		
 		
-}
+# }
 
 
 

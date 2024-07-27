@@ -481,25 +481,25 @@
 	}
 
 	clergymen = {
-		culture = swahili
+		culture = somali
 		religion = sunni
 		size = 100
 	}
 	
 	soldiers = {
-		culture = swahili
+		culture = somali
 		religion = sunni
 		size = 250
 	}
 
 	artisans = {
-		culture = swahili
+		culture = somali
 		religion = sunni
 		size = 975
 	}
 	
 	farmers = {
-		culture = swahili
+		culture = somali
 		religion = sunni
 		size = 3000
 	}
@@ -567,49 +567,49 @@
     }
 
     clergymen = {
-        culture = swahili
+        culture = somali
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = swahili
+        culture = somali
         religion = sunni
         size = 975
     }
 
 	aristocrats = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 1425
 	}
 
 	slaves = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 5000
 	}
@@ -654,37 +654,37 @@
 	}
 
 	aristocrats = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 4850
 	}
 
 	slaves = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 2500
 	}
@@ -748,37 +748,37 @@
 #Zombo (104000/26000 POPS)
 2056 = {
 	aristocrats = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 400
 	}
 
 	clergymen = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 10100
 	}
 
 	slaves = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 2100
 	}
@@ -954,25 +954,25 @@
 	}
 
 	clergymen = {
-		culture = swahili
+		culture = somali
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = swahili
+		culture = somali
 		religion = sunni
 		size = 975
 	}
 	
 	soldiers = {
-		culture = swahili
+		culture = somali
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = swahili
+		culture = somali
 		religion = sunni
 		size = 5000
 	}
@@ -1137,13 +1137,13 @@
     }
 
     clergymen = {
-        culture = swahili
+        culture = somali
         religion = sunni
         size = 150
     }
 
     artisans = {
-        culture = swahili
+        culture = somali
         religion = sunni
         size = 2925
     }
@@ -1187,31 +1187,31 @@
 	}
 
 	clergymen = {
-		culture = swahili
+		culture = somali
 		religion = sunni
 		size = 100
 	}
 	
 	soldiers = {
-		culture = swahili
+		culture = somali
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = swahili
+		culture = somali
 		religion = sunni
 		size = 1950
 	}
 	
 	farmers = {
-		culture = swahili
+		culture = somali
 		religion = sunni
 		size = 3000
 	}
 
     aristocrats = {
-        culture = chewa
+        culture = zulu
         religion = animist
         size = 550
     }
@@ -1223,13 +1223,13 @@
     }
 
     aristocrats = {
-        culture = yao
+        culture = zulu
         religion = animist
         size = 825
     }
 	
     soldiers = {
-        culture = chewa
+        culture = zulu
         religion = animist
         size = 300
     }
@@ -1241,7 +1241,7 @@
     }
 
     soldiers = {
-        culture = yao
+        culture = zulu
         religion = animist
         size = 850
     }	
@@ -1249,37 +1249,37 @@
 #Nampula (208000/52000 POPS)
 2064 = {
 	aristocrats = {
-		culture = yao
+		culture = zulu
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = yao
+		culture = zulu
 		religion = sunni
 		size = 250
 	}
 
 	artisans = {
-		culture = yao
+		culture = zulu
 		religion = sunni
 		size = 1250
 	}
 
 	soldiers = {
-		culture = yao
+		culture = zulu
 		religion = sunni
 		size = 300
 	}
 
 	farmers = {
-		culture = yao
+		culture = zulu
 		religion = sunni
 		size = 21950
 	}
 
 	slaves = {
-		culture = yao
+		culture = zulu
 		religion = animist
 		size = 1100
 	}
@@ -1321,7 +1321,7 @@
 	}
 
 	slaves = {
-		culture = yao
+		culture = zulu
 		religion = animist
 		size = 3000
 	}
@@ -1353,37 +1353,37 @@
     }
 	
 	aristocrats = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 750
 	}
 
 	slaves = {
-		culture = nyasa
+		culture = zulu
 		religion = animist
 		size = 2000
 	}
@@ -1392,43 +1392,43 @@
 #Mataka (224000/56000 POPS)
 2581 = {
 	aristocrats = {
-		culture = yao
+		culture = zulu
 		religion = sunni
 		size = 450
 	}
 
 	clergymen = {
-		culture = yao
+		culture = zulu
 		religion = sunni
 		size = 400
 	}
 
 	artisans = {
-		culture = yao
+		culture = zulu
 		religion = sunni
 		size = 2100
 	}
 
 	soldiers = {
-		culture = yao
+		culture = zulu
 		religion = sunni
 		size = 450
 	}
 
 	farmers = {
-		culture = yao
+		culture = zulu
 		religion = sunni
 		size = 35600
 	}
 
 	slaves = {
-		culture = yao
+		culture = zulu
 		religion = animist
 		size = 2000
 	}
 
 	slaves = {
-		culture = yao
+		culture = zulu
 		religion = animist
 		size = 15000
 	}

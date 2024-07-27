@@ -274,43 +274,43 @@
 #Bobo Dioulasso (140000/35000 POPS)
 1905 = {
 	aristocrats = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 25
 	}
 
 	officers = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 125
 	}
 
 	soldiers = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 1650
 	}
@@ -384,31 +384,31 @@
 #Orodaro (360000/90000 POPS)
 1906 = {
 	aristocrats = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 2100
 	}
 
 	farmers = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 3300
 	}

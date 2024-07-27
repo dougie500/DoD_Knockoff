@@ -497,7 +497,7 @@ political_decisions = {
 			set_country_flag = land_of_opportunity
 			add_country_modifier = {
 				name = land_of_opportunity
-				duration = 7300
+				duration = 1460
 			}
 		}
 		

@@ -107,7 +107,7 @@
 	}
 
 	slaves = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 22500
 	}
@@ -159,7 +159,7 @@
 	}
 
 	slaves = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 10250
 	}
@@ -297,68 +297,68 @@
 	}
 
 	aristocrats = {
-		culture = shilluk
+		culture = mongo
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = shilluk
+		culture = mongo
 		religion = sunni
 		size = 155
 	}
 
 	artisans = {
-		culture = shilluk
+		culture = mongo
 		religion = sunni
 		size = 700
 	}
 
 	soldiers = {
-		culture = shilluk
+		culture = mongo
 		religion = sunni
 		size= 1250
 	}
 
 	farmers = {
-		culture = shilluk
+		culture = mongo
 		religion = sunni
 		size = 19625
 	}
 
 	slaves = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 13500
 	}
 
 	aristocrats = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 300
 	}
 
 	clergymen = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 180
 	}
 
 	artisans = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 750
 	}
 
 	soldiers = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size= 550
 
 	}
 
 	farmers = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 20300
 	}
@@ -397,37 +397,37 @@
 	}
 
 	aristocrats = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 360
 	}
 
 	clergymen = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 210
 	}
 
 	artisans = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 550
 	}
 
 	soldiers = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size= 450
 	}
 
 	farmers = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 20775
 	}
 
 	slaves = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 10500
 	}
@@ -465,32 +465,32 @@
 	}
 
 	aristocrats = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 625
 	}
 
 	clergymen = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 280
 	}
 
 	artisans = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 17650
 	}
 
 	soldiers = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size= 2000
 
 	}
 
 	farmers = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 31275
 	}
@@ -527,37 +527,37 @@
 	}
 
 	aristocrats = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 450
 	}
 
 	clergymen = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 265
 	}
 
 	artisans = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 1055
 	}
 
 	soldiers = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size= 1500
 	}
 
 	farmers = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 39565
 	}
 
 	slaves = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 24500
 	}
@@ -1231,43 +1231,43 @@
 		size = 23500
 	}
 		aristocrats = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 25
 	}
 
 	officers = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 200
 	}
 
 	farmers = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 500
 	}
 
 	slaves = {
-		culture = fur
+		culture = mongo
 		religion = animist
 		size = 200
 	}
@@ -1287,73 +1287,73 @@
 	}	
 
 	aristocrats = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 675
 	}
 
 	clergymen = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 350
 	}
 
 	artisans = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 1350
 	}
 
 	soldiers = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size= 3000
 	}
 
 	farmers = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 32950
 	}
 
 	aristocrats = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 265
 	}
 
 	clergymen = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 155
 	}
 
 	artisans = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 775
 	}
 
 	soldiers = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 3000
 	}
 
 	soldiers = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 11500
 	}
 
 	slaves = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 23750
 	}
@@ -1373,68 +1373,68 @@
 	}
 	
 	aristocrats = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 775
 	}
 
 	clergymen = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 305
 	}
 
 	artisans = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 2095
 	}
 
 	soldiers = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 45450
 	}
 
 	slaves = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 19250
 	}
 
 	aristocrats = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 445
 	}
 
 	clergymen = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 275
 	}
 
 	artisans = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 1550
 	}
 
 	soldiers = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size= 1750
 	}
 
 	farmers = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 33550
 	}
@@ -1444,108 +1444,108 @@
 #Fasher (272000/68000 POPS)
 1841 = {
 	aristocrats = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 1350
 	}
 
 	bureaucrats = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 120
 	}
 
 	officers = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 265
 	}
 
 	clergymen = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 1005
 	}
 
 	artisans = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 3500
 	}
 
 	soldiers = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size= 3000
 	}
 
 	farmers = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 76500
 	}
 	aristocrats = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 350
 	}
 
 	clergymen = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 235
 	}
 
 	artisans = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 595
 	}
 
 	soldiers = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size= 1000
 	}
 
 	farmers = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 4875
 	}
 
 	slaves = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 9650
 	}
 
 	aristocrats = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 195
 	}
 
 	clergymen = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 170
 	}
 
 	artisans = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 875
 	}
 
 	soldiers = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size= 3000
 	}
 
 	farmers = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 15925
 	}
@@ -1558,32 +1558,32 @@
 #Junayah (200000/50000 POPS)
 1842 = {
 	aristocrats = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 825
 	}
 
 	clergymen = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 405
 	}
 
 	artisans = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 2250
 	}
 
 	soldiers = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 48500
 	}
@@ -1625,104 +1625,104 @@
 #Waw (140000/35000 POPS)
 1843 = {
 	aristocrats = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 165
 	}
 
 	clergymen = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 445
 	}
 
 	soldiers = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 14450
 	}
 
 	aristocrats = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 185
 	}
 
 	clergymen = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size= 750
 	}
 
 	farmers = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 12475
 	}
 
 	slaves = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 9500
 	}
 
 	aristocrats = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 370
 	}
 
 	clergymen = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 180
 	}
 
 	artisans = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 705
 	}
 
 	soldiers = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size= 1250
 	}
 
 	farmers = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 24050
 	}
 
 	slaves = {
-		culture = nuba
+		culture = mongo
 		religion = sunni
 		size = 12700
 	}
@@ -1774,67 +1774,67 @@
 	}
 
 	aristocrats = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 330
 	}
 
 	clergymen = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 295
 	}
 
 	artisans = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 825
 	}
 
 	soldiers = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size= 1500
 	}
 
 	farmers = {
-		culture = dinka
+		culture = mongo
 		religion = animist
 		size = 18375
 	}
 
 	aristocrats = {
-		culture = shilluk
+		culture = mongo
 		religion = sunni
 		size = 600
 	}
 
 	clergymen = {
-		culture = shilluk
+		culture = mongo
 		religion = sunni
 		size = 265
 	}
 
 	artisans = {
-		culture = shilluk
+		culture = mongo
 		religion = sunni
 		size = 1755
 	}
 
 	soldiers = {
-		culture = shilluk
+		culture = mongo
 		religion = sunni
 		size= 3000
 	}
 
 	soldiers = {
-		culture = shilluk
+		culture = mongo
 		religion = sunni
 		size= 1000
 	}
 
 	farmers = {
-		culture = shilluk
+		culture = mongo
 		religion = sunni
 		size = 30025
 	}
@@ -1842,97 +1842,97 @@
 #Yambio (140000/35000 POPS)
 1845 = {
 	aristocrats = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 165
 	}
 
 	clergymen = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 115
 	}
 
 	artisans = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 225
 	}
 
 	soldiers = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size= 2000
 	}
 
 	farmers = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 15150
 	}
 
 	aristocrats = {
-		culture = azande
+		culture = mongo
 		religion = animist
 		size = 725
 	}
 
 	clergymen = {
-		culture = azande
+		culture = mongo
 		religion = animist
 		size = 895
 	}
 
 	artisans = {
-		culture = azande
+		culture = mongo
 		religion = animist
 		size = 1995
 	}
 
 	soldiers = {
-		culture = azande
+		culture = mongo
 		religion = animist
 		size= 2500
 	}
 
 	farmers = {
-		culture = azande
+		culture = mongo
 		religion = animist
 		size = 52500
 	}
 
 	slaves = {
-		culture = azande
+		culture = mongo
 		religion = animist
 		size = 26600
 	}
 
 	clergymen = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 145
 	}
 
 	artisans = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 865
 	}
 
 	soldiers = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size= 1000
 	}
 
 	farmers = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 7275
 	}
 
 	slaves = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 18250
 	}
@@ -1940,32 +1940,32 @@
 #Lado (244000/61000 POPS)
 1846 = {
 	aristocrats = {
-		culture = azande
+		culture = mongo
 		religion = animist
 		size = 635
 	}
 
 	clergymen = {
-		culture = azande
+		culture = mongo
 		religion = animist
 		size = 340
 	}
 
 	artisans = {
-		culture = azande
+		culture = mongo
 		religion = animist
 		size = 2350
 	}
 
 	soldiers = {
-		culture = azande
+		culture = mongo
 		religion = animist
 		size= 1500
 
 	}
 
 	farmers = {
-		culture = azande
+		culture = mongo
 		religion = animist
 		size = 47850
 	}
@@ -2001,37 +2001,37 @@
 	}
 
 	aristocrats = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 530
 	}
 
 	clergymen = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 295
 	}
 
 	artisans = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 1290
 	}
 
 	soldiers = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size= 2250
 	}
 
 	farmers = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 41150
 	}
 
 	slaves = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 5150
 	}
@@ -2039,91 +2039,91 @@
 #Kapoeta (140000/35000 POPS)
 1847 = {
 	aristocrats = {
-		culture = luo
+		culture = mongo
 		religion = animist
 		size = 645
 	}
 
 	clergymen = {
-		culture = luo
+		culture = mongo
 		religion = animist
 		size = 315
 	}
 
 	artisans = {
-		culture = luo
+		culture = mongo
 		religion = animist
 		size = 2000
 	}
 
 	soldiers = {
-		culture = luo
+		culture = mongo
 		religion = animist
 		size= 2500
 	}
 
 	farmers = {
-		culture = luo
+		culture = mongo
 		religion = animist
 		size = 48250
 	}
 
 	aristocrats = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 275
 	}
 
 	clergymen = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 170
 	}
 
 	artisans = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 1895
 	}
 
 	soldiers = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size= 3000
 	}
 
 	farmers = {
-		culture = shilluk
+		culture = mongo
 		religion = animist
 		size = 28523
 	}
 
 	aristocrats = {
-		culture = azande
+		culture = mongo
 		religion = animist
 		size = 360
 	}
 
 	clergymen = {
-		culture = azande
+		culture = mongo
 		religion = animist
 		size = 110
 	}
 
 	artisans = {
-		culture = azande
+		culture = mongo
 		religion = animist
 		size = 660
 	}
 
 	soldiers = {
-		culture = azande
+		culture = mongo
 		religion = animist
 		size= 1250
 	}
 
 	farmers = {
-		culture = azande
+		culture = mongo
 		religion = animist
 		size = 8250
 	}

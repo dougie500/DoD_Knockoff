@@ -1,6 +1,6 @@
 capital = 1832
-primary_culture = luo
-culture = dinka
+primary_culture = mongo
+culture = mongo
 culture = somali
 religion = animist
 government = absolute_monarchy

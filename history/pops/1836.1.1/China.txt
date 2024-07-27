@@ -2795,7 +2795,7 @@
 	}
 	
 	slaves = {
-		culture = ovimbundu
+		culture = zulu
 		religion = animist
 		size = 250
 	}

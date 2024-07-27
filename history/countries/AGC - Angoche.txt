@@ -1,7 +1,7 @@
 capital = 2061
-primary_culture = swahili
+primary_culture = somali
 culture = zulu
-culture = yao
+culture = zulu
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

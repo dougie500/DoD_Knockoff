@@ -303,7 +303,7 @@
 	}
 
 	slaves = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 10500
 	}

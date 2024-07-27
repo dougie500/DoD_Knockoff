@@ -1,8 +1,8 @@
 capital = 1965
-primary_culture = ubangian
-culture = azande
+primary_culture = mongo
+culture = mongo
 culture = hausa
-culture = fur
+culture = mongo
 culture = hausa
 religion = animist
 government = democracy

@@ -6,7 +6,7 @@ political_decisions = {
 			NOT = { exists = UAR }
 			OR = { 
 				is_culture_group = semitic
-				primary_culture = fur
+				primary_culture = mongo
 				primary_culture = somali
 			}
 			NOT = { primary_culture = berber }

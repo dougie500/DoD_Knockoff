@@ -33,31 +33,31 @@
 	}
 
 	aristocrats = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 170
 	}
 
 	clergymen = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 9150
 	}
@@ -173,31 +173,31 @@
 	}
 
 	aristocrats = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 3600
 	}
@@ -559,7 +559,7 @@
 	}
 
 	slaves = {
-		culture = baguirmi
+		culture = mongo
 		religion = animist
 		size = 2000
 	}
@@ -902,7 +902,7 @@
 	}
 
 	slaves = {
-		culture = baguirmi
+		culture = mongo
 		religion = animist
 		size = 1000
 	}

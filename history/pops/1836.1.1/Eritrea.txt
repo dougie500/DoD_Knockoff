@@ -211,7 +211,7 @@
 		size = 20430
 	}
 	slaves = {
-		culture = cushitic
+		culture = somali
 		religion = sunni
 		size = 500
 	}

@@ -1,13 +1,13 @@
 capital = 2049
 primary_culture = zulu
 culture = zulu
-culture = yao
 culture = zulu
 culture = zulu
 culture = zulu
-culture = nyasa
 culture = zulu
-culture = swahili
+culture = zulu
+culture = zulu
+culture = somali
 religion = catholic
 government = presidential_dictatorship
 plurality = 0.0

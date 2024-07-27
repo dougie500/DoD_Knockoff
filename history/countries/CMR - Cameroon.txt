@@ -1,11 +1,11 @@
 capital = 1959
-primary_culture = forest_bantu
+primary_culture = mongo
 culture = hausa
-culture = fang
+culture = mongo
 culture = hausa
 culture = hausa
-culture = baguirmi
-culture = ubangian
+culture = mongo
+culture = mongo
 culture = bedouin
 culture = hausa
 culture = hausa

@@ -625,7 +625,7 @@ pops = {
 
 	ASSIMILATION_SCALE = 0.004,
 	CONVERSION_SCALE = 0.01,
-	IMMIGRATION_SCALE = 0.004,
+	IMMIGRATION_SCALE = 0.005,
 
 	PROMOTION_SCALE = 0.002,
 	PROMOTION_ASSIMILATION_CHANCE = 0,
@@ -671,7 +671,7 @@ pops = {
 																-- (if value < 1.0, the MIL will be increased) (Beware! value must be > 0)
 	
 	POP_TO_LEADERSHIP = 0.0001, -- how much leadership every 1000 officers gives each day.
-	ARTISAN_MIN_PRODUCTIVITY = 5, -- Minimum efficiency of an artisan
+	ARTISAN_MIN_PRODUCTIVITY = 5.5, -- Minimum efficiency of an artisan
 	SLAVE_GROWTH_DIVISOR = 10, -- Slaves have N times lower growth
 	
 	MIL_HIT_FROM_CONQUEST = 4, -- how much militancy grows in a province if taken without being core.

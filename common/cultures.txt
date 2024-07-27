@@ -3503,7 +3503,7 @@ central_african = {
 
 		last_names = { Sarandji Kamoun Nzapayeké Tiangaye Touadéra Dologuelé Samba-Panza Wodobodé Bozizé }
 	}
-	forest_bantu = {
+	culture = mongo = {
 		color = {237 134 16}
 		first_names = { Ngalifourou Muteba Mushidi Mbala Mutand Mudib Kangapu Cimbindu Mbumb Cakasekene Mulay Nawej Cikombe Waranankong
 		}
@@ -3511,7 +3511,7 @@ central_african = {
 		last_names = { Bongo Ganao Kalong Mukaz Ditend Yaava Namwan Naweej Kamong Isot Kat Muteba
 		}
 	}
-	south_forest_bantu = {
+	south_culture = mongo = {
 		color = {233 237 16}
 		first_names = { Kaumba Muteba Mushidi Mbala Mutand Mudib Kangapu Cimbindu Mbumb Cakasekene Mulay Nawej Cikombe Waranankong
 		}

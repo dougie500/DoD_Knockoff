@@ -1,11 +1,11 @@
 capital = 2024
-primary_culture = kikuyu 
-culture = swahili
-culture = luo
-culture = maasai
+primary_culture = mongo 
+culture = somali
+culture = mongo
+culture = mongo
 culture = nilotic
 culture = lacustrine_bantu
-culture = cushitic
+culture = somali
 religion = protestant
 government = democracy
 plurality = 0.0
@@ -35,7 +35,8 @@ school_reforms = no_schools
 conscription = no_draft
 debt_law = peonage
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = protestant_country

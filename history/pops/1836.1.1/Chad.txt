@@ -88,37 +88,37 @@
 	}
 
 	aristocrats = {
-		culture = baguirmi
+		culture = mongo
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = baguirmi
+		culture = mongo
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = baguirmi
+		culture = mongo
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = baguirmi
+		culture = mongo
 		religion = sunni
 		size = 500
 	}
 
 	farmers = {
-		culture = baguirmi
+		culture = mongo
 		religion = sunni
 		size = 9000
 	}
 	
 	slaves = {
-		culture = baguirmi
+		culture = mongo
 		religion = animist
 		size = 700
 	}
@@ -228,7 +228,7 @@
 	}
 
 	slaves = {
-		culture = ubangian
+		culture = mongo
 		religion = animist
 		size = 2000
 	}
@@ -320,7 +320,7 @@
 	}
 
 	farmers = {
-		culture = ubangian
+		culture = mongo
 		religion = animist
 		size = 2000
 	}
@@ -330,79 +330,79 @@
 #Abeche (136000/34000 POPS)
 1821 = {
 	aristocrats = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 50
 	}
 
 	officers = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 550
 	}
 	
 	aristocrats = {
-		culture = baguirmi
+		culture = mongo
 		religion = sunni
 		size = 100
 	}
 
 	officers = {
-		culture = baguirmi
+		culture = mongo
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = baguirmi
+		culture = mongo
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = baguirmi
+		culture = mongo
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = baguirmi
+		culture = mongo
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = baguirmi
+		culture = mongo
 		religion = sunni
 		size = 550
 	}
@@ -480,7 +480,7 @@
 	}
 
 	slaves = {
-		culture = baguirmi
+		culture = mongo
 		religion = animist
 		size = 300
 	}
@@ -490,7 +490,7 @@
 1822 = {
 
 	slaves = {
-		culture = ubangian
+		culture = mongo
 		religion = animist
 		size = 1900
 	}
@@ -534,31 +534,31 @@
 #Mongo (184000/46000 POPS)
 1823 = {
 	aristocrats = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 350
 	}
 
 	artisans = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = fur
+		culture = mongo
 		religion = sunni
 		size = 5000
 	}
@@ -595,43 +595,43 @@
 	
 	
 	aristocrats = {
-		culture = baguirmi
+		culture = mongo
 		religion = sunni
 		size = 300
 	}
 
 	clergymen = {
-		culture = baguirmi
+		culture = mongo
 		religion = sunni
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = baguirmi
+		culture = mongo
 		religion = sunni
 		size = 100
 	}
 	
 	artisans = {
-		culture = baguirmi
+		culture = mongo
 		religion = sunni
 		size = 1500
 	}
 
 	soldiers = {
-		culture = baguirmi
+		culture = mongo
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = baguirmi
+		culture = mongo
 		religion = sunni
 		size = 7246
 	}
 
 	slaves = {
-		culture = ubangian
+		culture = mongo
 		religion = animist
 		size = 2000
 	}
@@ -713,7 +713,7 @@
 	}
 
 	slaves = {
-		culture = baguirmi
+		culture = mongo
 		religion = animist
 		size = 1300
 	}

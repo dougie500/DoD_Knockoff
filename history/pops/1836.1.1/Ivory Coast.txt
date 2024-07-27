@@ -329,43 +329,43 @@
 #Kong (264000/66000 POPS)
 1898 = {
 	aristocrats = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 600
 	}
 
 	bureaucrats = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 345
 	}
 
 	officers = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 375
 	}
 
 	artisans = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 1800
 	}
 
 	soldiers = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 1105
 	}
 
 	farmers = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 20000
 	}
@@ -415,31 +415,31 @@
 #Bundoukou (216000/54000 POPS)
 1899 = {
 	aristocrats = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 600
 	}
 
 	clergymen = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 300
 	}
 
 	artisans = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 1650
 	}
 
 	soldiers = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 1450
 	}
 
 	farmers = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 20000
 	}
@@ -515,31 +515,31 @@
 	}
 
 	aristocrats = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 225
 	}
 
 	clergymen = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 750
 	}
 
 	soldiers = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = dyula
+		culture = hausa
 		religion = sunni
 		size = 13725
 	}

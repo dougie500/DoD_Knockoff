@@ -295,31 +295,31 @@
 	}
 
 	aristocrats = {
-		culture = lunda
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = lunda
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = lunda
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = lunda
+		culture = zulu
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = lunda
+		culture = zulu
 		religion = animist
 		size = 900
 	}
