@@ -1,6 +1,6 @@
-owner = PAP
-controller = PAP
-add_core = PAP
+owner = ARA
+controller = ARA
+add_core = ARA
 add_core = ITA
 trade_goods = grain
 life_rating = 40
