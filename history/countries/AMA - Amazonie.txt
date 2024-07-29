@@ -89,6 +89,6 @@ paternalism = yes
 consciousness = 2
 nonstate_consciousness = 1
 
-schools = commerce_tech_school
+schools = traditional_academic
 
 oob = "AMA_oob.txt"

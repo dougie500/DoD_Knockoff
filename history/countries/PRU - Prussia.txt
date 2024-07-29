@@ -32,7 +32,8 @@ school_reforms = low_schools
 conscription = two_year_service
 debt_law = debtors_prisons
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = culture_voting_only
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
 border_policy = quota_immigration
 
 set_country_flag = protestant_country
@@ -82,7 +83,7 @@ interchangeable_parts = 1
 consciousness = 2
 nonstate_consciousness = 1
 
-schools = army_tech_school
+schools = traditional_academic
 
 oob = "PRU_oob.txt"
 1861.1.1 = {

@@ -1,1 +1,4 @@
-add_core = LOTadd_core = AVAtrade_goods = woollife_rating = 31
+add_core = POR
+add_core = AVA
+trade_goods = wool
+life_rating = 31

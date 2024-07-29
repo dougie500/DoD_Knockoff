@@ -1,9 +1,6 @@
-owner = NOV
-controller = NOV
-add_core = RUS
-
-add_core = NOV
-add_core = SIB
+owner = NOG
+controller = NOG
+add_core = NOG
 
 trade_goods = grain
 life_rating = 35

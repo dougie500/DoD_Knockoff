@@ -76,6 +76,8 @@ enlightenment_thought = 1
 experimental_railroad = 1 
 mechanical_production = 1 
 puddling_proccess = 1 
+naval_plans = 1
+naval_statistics = 1
 # Inventions
 
 # Starting Consciousness

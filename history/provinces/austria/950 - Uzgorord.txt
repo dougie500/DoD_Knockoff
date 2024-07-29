@@ -1,6 +1,5 @@
-owner = AUS
-controller = AUS
-add_core = AUS
-add_core = SLV
+owner = SIE
+controller = SIE
+add_core = SIE
 trade_goods = coal
 life_rating = 35

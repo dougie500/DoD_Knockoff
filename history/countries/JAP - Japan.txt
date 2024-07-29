@@ -70,7 +70,7 @@ consciousness = 4
 nonstate_consciousness = 0
 
 
-schools = naval_tech_school
+schools = traditional_academic
 
 oob = "JAP_oob.txt"
 

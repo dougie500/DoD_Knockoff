@@ -86,6 +86,6 @@ experimental_railroad = 1
 consciousness = 2
 nonstate_consciousness = 1
 
-schools = industrial_tech_school
+schools = traditional_academic
 
 oob = "NBG_oob.txt"

@@ -1,7 +1,5 @@
-owner = RUT
-controller = RUT
-add_core = RUT
-
+owner = TAR
+controller = TAR
 add_core = TAR
 trade_goods = coal
 terrain = mining_district

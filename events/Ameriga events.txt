@@ -1002,19 +1002,19 @@ country_event = {
 	option = { 
 		name = "97090.A"
 		badboy = 8 
-		LOT_2446 = { add_core = AMA }
-		LOT_2 = { add_core = AMA }
+		LOT_2446 = { add_core = POR }
+		LOT_2 = { add_core = POR }
 		set_global_flag = borderAMA
 	}
 	
 	option = { 
 		name = "97090.B" 
-		LOT_2446 = { add_core = AMA }
-		LOT_2 = { add_core = AMA }
-		LOT_2458 = { add_core = AMA }
-		SA_4 = { add_core = AMA }
-		LOT_3 = { add_core = AMA }
-		SA_5 = { add_core = AMA }
+		LOT_2446 = { add_core = POR }
+		LOT_2 = { add_core = POR }
+		LOT_2458 = { add_core = POR }
+		SA_4 = { add_core = POR }
+		LOT_3 = { add_core = POR }
+		SA_5 = { add_core = POR }
 		badboy = 18
 		set_global_flag = AMAguarani
 	}

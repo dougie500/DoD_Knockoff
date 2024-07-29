@@ -1,4 +1,4 @@
-add_core = AMA
+add_core = POR
 add_core = EQN 
 add_core = TAP
 trade_goods = tobacco

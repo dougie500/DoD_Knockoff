@@ -1,6 +1,6 @@
-owner = LOT
-controller = LOT
-add_core = LOT
+owner = POR
+controller = POR
+add_core = POR
 naval_base = 1
 trade_goods = cattle
 life_rating = 35

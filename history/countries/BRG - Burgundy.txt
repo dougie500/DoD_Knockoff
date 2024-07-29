@@ -87,6 +87,6 @@ puddling_process = 1
 consciousness = 3
 nonstate_consciousness = 1
 
-schools = industrial_tech_school
+schools = traditional_academic
 
 oob = "BRG_oob.txt"

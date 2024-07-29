@@ -6,3 +6,6 @@ life_rating = 15
 	controller = RUS
 	colonial = 2
 }
+owner = SIB
+controller = SIB
+add_core = SIB

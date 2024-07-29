@@ -38,7 +38,8 @@ school_reforms = no_schools
 conscription = two_year_draft
 debt_law = serfdom
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = closed_borders
 
 set_country_flag = orthodox_country
@@ -61,7 +62,7 @@ upper_house = {
 consciousness = 1
 nonstate_consciousness = 1
 
-schools = culture_tech_school
+schools = traditional_academic
 
 govt_flag = {
 	government = hms_government

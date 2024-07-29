@@ -1,3 +1,6 @@
 trade_goods = grain
 life_rating = 35
 terrain = forest
+owner = SIB
+controller = SIB
+add_core = SIB

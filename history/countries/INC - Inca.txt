@@ -78,6 +78,6 @@ education_reform = yes_education_reform
 consciousness = 0
 nonstate_consciousness = 0
 
-schools = culture_tech_school
+schools = traditional_academic
 
 oob = "INC_oob.txt"

@@ -1,12 +1,6 @@
 owner = AZB
 controller = AZB
 add_core = AZB
-
-add_core = ASK
-add_core = DAG
-add_core = AVR
-add_core = LAK
-add_core = RUS
 trade_goods = cattle
 life_rating = 35
 

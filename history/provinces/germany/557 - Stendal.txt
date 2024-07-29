@@ -1,6 +1,5 @@
-owner = BRA
-controller = BRA
-
+owner = BRN
+controller = BRN
 add_core = BRN
 add_core = GER
 trade_goods = grain

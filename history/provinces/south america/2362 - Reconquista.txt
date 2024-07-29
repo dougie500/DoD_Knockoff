@@ -1,5 +1,6 @@
-owner = LOT
-controller = LOT
-add_core = LOT
-trade_goods = cattleterrain = savanna
-life_rating = 35
+owner = INC
+controller = INC
+add_core = INC
+trade_goods = cattle
+terrain = savanna
+life_rating = 35

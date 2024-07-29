@@ -1,6 +1,6 @@
-owner = LOT
-controller = LOT
-add_core = LOT
+owner = POR
+controller = POR
+add_core = POR
 trade_goods = timber
 life_rating = 35
 1860.1.1 = {

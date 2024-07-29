@@ -1,7 +1,7 @@
-owner = RUT
-controller = RUT
-add_core = RUS
-add_core = RUT
+owner = MUS
+controller = MUS
+add_core = MUS
+
 trade_goods = coal
 terrain = mining_district
 life_rating = 35

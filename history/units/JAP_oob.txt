@@ -260,13 +260,6 @@ navy = {
 		name= "4a Yusosentai"
 		type = clipper_transport
 	}
-
-}
-
-navy = {
-	name = "Ashikaga Fleet"
-	location = 1648
-	
 	ship = {
 		name= "Ryujo"
 		type = manowar
@@ -289,12 +282,16 @@ navy = {
 
 	ship = {
 		name= "Wakamiya"
-		type = frigate
+		type = clipper_transport
+	}
+	ship = {
+		name= "Wakamiya"
+		type = clipper_transport
 	}
 
 	ship = {
 		name= "Kikka"
-		type = frigate
+		type = clipper_transport
 	}
 
 	ship = {
@@ -306,4 +303,9 @@ navy = {
 		name= "2a Yusosentai"
 		type = clipper_transport
 	}
+	ship = {
+		name= "2a Yusosentai"
+		type = clipper_transport
+	}
 }
+

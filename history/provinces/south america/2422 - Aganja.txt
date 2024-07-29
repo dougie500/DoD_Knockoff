@@ -1,4 +1,4 @@
-add_core = AMA
+add_core = POR
 add_core = TAP
 add_core = EQN
 trade_goods = fruit

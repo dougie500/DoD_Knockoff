@@ -95,7 +95,7 @@
 	soldiers = {
 		culture = astrakhani
 		religion = sunni
-		size= 3300
+		size= 1300
 
 	}
 
@@ -527,13 +527,7 @@
 		militancy = 9
 	}
 
-	soldiers = {
-		culture = astrakhani
-		religion = sunni
-		size= 3000
-
-		militancy = 9
-	}
+	
 
 	soldiers = {
 		culture = astrakhani
@@ -567,26 +561,12 @@
 		militancy = 9
 	}
 
-	soldiers = {
-		culture = astrakhani
-		religion = sunni
-		size= 3000
 
-		militancy = 9
-	}
-
-	soldiers = {
-		culture = astrakhani
-		religion = sunni
-		size= 3000
-
-		militancy = 9
-	}
 
 	farmers = {
 		culture = astrakhani
 		religion = sunni
-		size = 248250
+		size = 258250
 		militancy = 9
 	}
 
@@ -760,40 +740,7 @@
 		size = 11000
 	}
 
-	soldiers = {
-		culture = astrakhani
-		religion = sunni
-		size= 3000
-
-	}
-
-	soldiers = {
-		culture = astrakhani
-		religion = sunni
-		size= 3000
-
-	}
-
-	soldiers = {
-		culture = astrakhani
-		religion = sunni
-		size= 3000
-
-	}
-
-	soldiers = {
-		culture = astrakhani
-		religion = sunni
-		size= 3000
-
-	}
-
-	soldiers = {
-		culture = astrakhani
-		religion = sunni
-		size= 3000
-
-	}
+	
 
 	soldiers = {
 		culture = astrakhani
@@ -818,7 +765,7 @@
 	farmers = {
 		culture = astrakhani
 		religion = sunni
-		size = 65175
+		size = 85175
 	}	
 	
 }
@@ -1663,7 +1610,7 @@
 	soldiers = {
 		culture = astrakhani
 		religion = sunni
-		size = 42650
+		size = 6650
 	}
 
 	farmers = {
@@ -1711,26 +1658,16 @@
 	artisans = {
 		culture = astrakhani
 		religion = animist
-		size = 50
+		size = 10050
 	}
 
-	soldiers = {
-		culture = astrakhani
-		religion = animist
-		size = 7000
-	}
-
+	
 	farmers = {
 		culture = astrakhani
 		religion = animist
 		size = 26000
 	}	
 	
-	soldiers = {
-		culture = dagestani
-		religion = sunni
-		size= 3000
-	}
 
 	farmers = {
 		culture = astrakhani
@@ -2036,12 +1973,6 @@
 		culture = astrakhani
 		religion = sunni
 		size = 475
-	}
-
-	soldiers = {
-		culture = astrakhani
-		religion = sunni
-		size= 3000
 	}
 
 	farmers = {

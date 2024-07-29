@@ -1,8 +1,6 @@
-owner = ASK
-controller = ASK
-add_core = ASK
-add_core = RUS
-add_core = TAR
+owner = CRI
+controller = CRI
+add_core = CRI
 trade_goods = coal
 terrain = mining_district
 life_rating = 38

@@ -1,9 +1,6 @@
-owner = ASK
-controller = ASK
-add_core = ASK
-add_core = CIR
-add_core = KRI
-add_core = TAR
+owner = CRI
+controller = CRI
+add_core = CRI
 trade_goods = grain
 life_rating = 35
 1861.1.1 = {

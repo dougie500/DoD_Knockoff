@@ -1,9 +1,6 @@
-owner = ASK
-controller = ASK
-add_core = ASK
+owner = AZB
+controller = AZB
 add_core = AZB
-add_core = KMY
-add_core = RUS
 trade_goods = silk
 life_rating = 35
 1861.1.1 = {

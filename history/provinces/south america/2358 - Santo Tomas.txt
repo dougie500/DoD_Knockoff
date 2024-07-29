@@ -1,6 +1,6 @@
-owner = LOT
-controller = LOT
-add_core = LOT
+owner = POR
+controller = POR
+add_core = POR
 add_core = AVA
 
 trade_goods = fruit

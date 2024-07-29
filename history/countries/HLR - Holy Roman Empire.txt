@@ -91,6 +91,6 @@ puddling_process = 1
 consciousness = 4
 nonstate_consciousness = 2
 
-schools = army_tech_school
+schools = traditional_academic
 
 oob = "BOH_oob.txt"

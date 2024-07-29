@@ -1,6 +1,6 @@
-owner = AMA
-controller = AMA
-add_core = LOT
+owner = POR
+controller = POR
+add_core = POR
 add_core = ATL
 trade_goods = coffee
 life_rating = 35

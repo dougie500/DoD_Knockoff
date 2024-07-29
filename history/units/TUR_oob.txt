@@ -262,20 +262,7 @@ navy = {
 		type = frigate
 	}
 
-	ship = {
-		name= "Melek i Barhi"
-		type = frigate
-	}
-
-	ship = {
-		name= "Sayyad i Barhi"
-		type = frigate
-	}
-
-	ship = {
-		name= "Gulbang i Nusret"
-		type = frigate
-	}
+	
 
 	ship = {
 		name= "Jebel Andaz"

@@ -1,8 +1,5 @@
 owner = BLR
 controller = BLR
 add_core = BLR
-
-add_core = RUS
-add_core = PLC
 trade_goods = wool
 life_rating = 35

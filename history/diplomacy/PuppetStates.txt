@@ -2,7 +2,7 @@
 
 vassal = {
 	first = NOV
-	second = MRL
+	second = MUS
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
@@ -18,12 +18,8 @@ substate = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
-substate = {
-	first = PLC
-	second = PRU
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
+
+
 
 # Aragonese-Navarran Personal Union
 vassal = {

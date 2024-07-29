@@ -1,9 +1,5 @@
-owner = NOV
-controller = NOV
-add_core = RUS
-
-add_core = NOV
-add_core = SIB
-add_core = UDM
+owner = NOG
+controller = NOG
+add_core = NOG
 trade_goods = iron
 life_rating = 35

@@ -118,6 +118,41 @@ Traditions_setup = {
 
 				}
 			}
+			DNG = {
+				add_country_modifier = {
+					name = DNG_tradition
+					duration = -1
+
+				}
+			}
+			AMA = {
+				add_country_modifier = {
+					name = AMA_tradition
+					duration = -1
+
+				}
+			}
+			LOT = {
+				add_country_modifier = {
+					name = LOT_tradition
+					duration = -1
+
+				}
+			}
+			VIN = {
+				add_country_modifier = {
+					name = VIN_tradition
+					duration = -1
+
+				}
+			}
+			NBG = {
+				add_country_modifier = {
+					name = NBG_tradition
+					duration = -1
+
+				}
+			}
 	 	 }		
 			
 	}

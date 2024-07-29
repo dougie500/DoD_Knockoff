@@ -65,6 +65,6 @@ foreign_weapons = yes_foreign_weapons
 consciousness = 0
 nonstate_consciousness = 0
 
-schools = naval_tech_school
+schools = traditional_academic
 
 oob = "TNG_oob.txt"

@@ -81,7 +81,7 @@ battleship_column_doctrine = 1
 consciousness = 3
 nonstate_consciousness = 1
 
-schools = commerce_tech_school
+schools = traditional_academic
 
 oob = "VEN_oob.txt"
 

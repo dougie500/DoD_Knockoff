@@ -80,6 +80,6 @@ basic_chemistry = 1
 consciousness = 2
 nonstate_consciousness = 1
 
-schools = army_tech_school
+schools = traditional_academic
 
 oob = "LOT_oob.txt"

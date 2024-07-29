@@ -166,7 +166,7 @@ form_iberia = {
 		
 		effect = {
 			add_accepted_culture = central_american
-			capital = 2209
+			capital = 2264
 			
 			UCA_2191 = {
 				add_core = THIS

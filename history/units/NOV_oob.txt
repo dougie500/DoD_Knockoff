@@ -132,19 +132,33 @@ army = {
 	}
 }
 navy = {
-	name = "White Fleet"
-	location = 981
+	name = "Baltic Fleet"
+	location = 994
 
 	ship = {
 		name= "Novgorod"
 		type = manowar
 	}
-
 	ship = {
-		name= "Posadnik"
+		name= "Reval"
 		type = manowar
 	}
-
+	ship = {
+		name= "Aaland"
+		type = manowar
+	}
+	ship = {
+		name= "Aaland"
+		type = manowar
+	}
+	ship = {
+		name= "Gdov"
+		type = manowar
+	}
+	ship = {
+		name= "Osel"
+		type = manowar
+	}
 	ship = {
 		name= "Neva"
 		type = frigate
@@ -159,7 +173,20 @@ navy = {
 		name= "Kostomushka"
 		type = frigate
 	}
-	
+	ship = {
+		name= "Helsinki"
+		type = frigate
+	}
+
+	ship = {
+		name= "Turku"
+		type = frigate
+	}
+
+	ship = {
+		name= "Kostomushka"
+		type = frigate
+	}
 	ship = {
 		name= "1st Transport Flotilla"
 		type = clipper_transport
@@ -174,5 +201,35 @@ navy = {
 		name= "3rd Transport Flotilla"
 		type = clipper_transport
 	}
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
 
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
 }

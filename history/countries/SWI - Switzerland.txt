@@ -32,7 +32,8 @@ school_reforms = no_schools
 conscription = mandatory_service
 debt_law = debtors_prisons
 penal_system = incarceration
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = protestant_country
@@ -84,7 +85,7 @@ traditionalism = yes
 political_religion = yes
 paternalism = yes
 
-schools = industrial_tech_school
+schools = traditional_academic
 
 # Starting Consciousness
 consciousness = 3

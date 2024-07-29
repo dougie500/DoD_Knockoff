@@ -32,7 +32,8 @@ school_reforms = no_schools
 conscription = four_year_draft
 debt_law = debtors_prisons
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = all_voting_pops
+child_labor = child_labor_legal
+citizens_rights = all_voting_pops
 border_policy = open_borders
 
 set_country_flag = catholic_country
@@ -80,7 +81,7 @@ basic_chemistry = 1
 consciousness = 3
 nonstate_consciousness = 1
 
-schools = army_tech_school
+schools = traditional_academic
 
 oob = "SAR_oob.txt"
 

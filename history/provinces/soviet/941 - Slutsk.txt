@@ -1,8 +1,6 @@
-owner = PLC
-controller = PLC
-add_core = PLC
-add_core = PLC
-add_core = POL
+owner = BLR
+controller = BLR
+add_core = BLR
 
 trade_goods = cattle
 life_rating = 15

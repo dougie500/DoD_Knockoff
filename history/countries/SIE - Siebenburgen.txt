@@ -1,6 +1,6 @@
 capital = 657
-primary_culture = romanian
-culture = hungarian
+primary_culture = hungarian
+culture = romanian
 religion = orthodox
 government = absolute_monarchy
 plurality = 0.0
@@ -32,7 +32,8 @@ school_reforms = no_schools
 conscription = no_draft
 debt_law = serfdom
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = orthodox_country

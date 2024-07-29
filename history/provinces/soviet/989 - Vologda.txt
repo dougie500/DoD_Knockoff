@@ -1,6 +1,5 @@
 owner = NOV
 controller = NOV
-add_core = RUS
 add_core = NOV
 
 trade_goods = timber

@@ -672,7 +672,7 @@ political_decisions = {
 				}
 				add_core = THIS
 			}
-			
+			capital = 860
 			TUR_853= {
 				add_core = THIS
 			}	

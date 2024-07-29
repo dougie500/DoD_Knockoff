@@ -82,7 +82,7 @@ precision_work = yes
 consciousness = 3
 nonstate_consciousness = 1
 
-schools = culture_tech_school
+schools = traditional_academic
 
 set_country_flag = catholic_country
 

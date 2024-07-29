@@ -536,7 +536,7 @@ acquire_state_medium = {
 	
 	badboy_factor = 1.5
 	prestige_factor = 2
-	peace_cost_factor = 0.3
+	peace_cost_factor = 0.6
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -577,7 +577,7 @@ acquire_state_medium = {
 			}
 		}
 	}
-	
+		
 	allowed_states = {
 		is_colonial = no
 		any_owned_province = {

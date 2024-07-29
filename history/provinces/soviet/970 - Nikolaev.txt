@@ -1,7 +1,6 @@
-owner = RUT
-controller = RUT
-life_rating = 40
-add_core = RUT
-
+owner = TAR
+controller = TAR
 add_core = TAR
+life_rating = 40
+
 trade_goods = fish

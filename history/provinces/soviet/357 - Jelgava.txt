@@ -1,7 +1,6 @@
-owner = PLC
-controller = PLC
-add_core = PLC
-add_core = LAT
+owner = NOV
+controller = NOV
+add_core = NOV
 naval_base = 1 
 trade_goods = cattle
 life_rating = 35

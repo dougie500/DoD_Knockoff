@@ -263,3 +263,54 @@ army = {
 	
 
 }
+navy = {
+	name = "Skibidi"
+	location = 964
+
+	
+	ship = {
+		name= "London"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Newcastle"
+		type = clipper_transport
+	}
+	ship = {
+		name= "London"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Newcastle"
+		type = clipper_transport
+	}
+	ship = {
+		name= "London"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Newcastle"
+		type = clipper_transport
+	}
+	ship = {
+		name= "London"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Newcastle"
+		type = clipper_transport
+	}
+	ship = {
+		name= "London"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Newcastle"
+		type = clipper_transport
+	}
+}

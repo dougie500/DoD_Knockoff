@@ -1,2 +1,5 @@
 trade_goods = coal
 life_rating = 35
+owner = CHG
+controller = CHG   
+add_core = CHG

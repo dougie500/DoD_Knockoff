@@ -1,7 +1,5 @@
-owner = ASK
-controller = ASK
-add_core = ASK
-add_core = RUS
-add_core = TAR
+owner = CHG
+controller = CHG   
+add_core = CHG
 trade_goods = wool
 life_rating = 35

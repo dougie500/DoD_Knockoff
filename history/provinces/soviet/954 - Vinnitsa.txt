@@ -1,6 +1,6 @@
-owner = RUT
-controller = RUT
-add_core = RUT
+owner = ROM
+controller = ROM
+add_core = ROM
 
 
 trade_goods = cattle

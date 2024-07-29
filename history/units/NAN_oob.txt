@@ -149,13 +149,68 @@ army = {
 }
 navy = {
 	name = "Royal Fleet"
-	location = 2348
+	location = 2162
 
 	ship = {
 		name= "Arthur"
 		type = frigate
 	}
+	ship = {
+		name= "Barthur"
+		type = frigate
+	}
+	ship = {
+		name= "Larthur"
+		type = frigate
+	}
+	ship = {
+		name= "Narthur"
+		type = frigate
+	}
+	ship = {
+		name= "Arthur"
+		type = frigate
+	}
+	ship = {
+		name= "Slarthur"
+		type = frigate
+	}
+	ship = {
+		name= "London"
+		type = clipper_transport
+	}
 
+	ship = {
+		name= "Newcastle"
+		type = clipper_transport
+	}
+	ship = {
+		name= "London"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Newcastle"
+		type = clipper_transport
+	}
+	ship = {
+		name= "London"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Newcastle"
+		type = clipper_transport
+	}
+	ship = {
+		name= "London"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Newcastle"
+		type = clipper_transport
+	}
 	ship = {
 		name= "London"
 		type = clipper_transport

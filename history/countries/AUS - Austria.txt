@@ -80,7 +80,7 @@ basic_chemistry = 1
 consciousness = 4
 nonstate_consciousness = 2
 
-schools = army_tech_school
+schools = traditional_academic
 
 foreign_investment = {
 		BAV = 7500

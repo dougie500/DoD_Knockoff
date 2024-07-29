@@ -1,6 +1,5 @@
-owner = RUT
-controller = RUT
-add_core = RUS
-add_core = RUT
+owner = BLR
+controller = BLR
+add_core = BLR
 trade_goods = cattle
 life_rating = 35

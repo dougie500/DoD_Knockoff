@@ -5766,7 +5766,7 @@ country_event = {
 		
 		EQN = { all_core = { remove_core = AMA } } 
 		LOT = { all_core = { remove_core = AMA } }
-		PUR = { all_core = { add_core = LOT } }
+		PUR = { all_core = { add_core = POR } }
 		
 		ATL = {
 			all_core = {

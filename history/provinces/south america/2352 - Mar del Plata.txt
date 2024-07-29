@@ -1,6 +1,4 @@
-owner = LOT
-controller = LOT
-add_core = LOT
+colonial = 1
 trade_goods = cattle
 terrain = farmlands
 life_rating = 35

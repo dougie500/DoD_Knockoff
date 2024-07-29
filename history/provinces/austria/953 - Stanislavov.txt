@@ -1,6 +1,5 @@
-owner = UKR
-controller = UKR
-add_core = UKR
+owner = PLC
+controller = PLC
 add_core = PLC
 
 trade_goods = iron

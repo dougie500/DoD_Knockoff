@@ -92,6 +92,6 @@ paternalism = yes
 consciousness = 2
 nonstate_consciousness = 1
 
-schools = army_tech_school
+schools = traditional_academic
 
 oob = "PLA_oob.txt"
