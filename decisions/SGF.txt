@@ -193,7 +193,7 @@ political_decisions = {
 		allow = {
 			AUS_777 = { owned_by = THIS }
 			SER_794 = { owned_by = THIS }
-			empiricism = 1
+			nationalism_n_imperialism = 1
 		}
 		effect = { 
 			AUS_777 = {
@@ -216,6 +216,7 @@ political_decisions = {
 				tag = AUH
 		
 			NOT = {
+				has_country_flag = AUS_romanian
 				has_country_flag = AUS_Croat
 			
 	
@@ -226,6 +227,7 @@ political_decisions = {
 			AUS_768 = { owned_by = THIS }
 			SER_794 = { owned_by = THIS }
 			TUR_788 = { owned_by = THIS }
+			
 			nationalism_n_imperialism = 1
 		}
 		effect = { 
@@ -276,6 +278,39 @@ political_decisions = {
 				add_core = THIS
 			}
 			set_country_flag = AUS_transylvania
+			
+		}
+		
+	}
+	AUS_romanian = {
+		picture = romanian_principalities
+		potential = { 
+			has_country_flag = AUS_transylvania
+				tag = AUH
+		
+			NOT = {
+				has_country_flag = AUS_romanian
+				has_country_flag = AUS_Croat
+	
+			}
+		}
+	
+		allow = {
+			
+			WAL_665 = { owned_by = THIS }
+			MOL_673 = { owned_by = THIS }
+			empiricism = 1
+
+		}
+		effect = { 
+			WAL_665 = {
+				add_core = THIS
+			}
+			MOL_673 = {
+				add_core = THIS
+			}
+			add_accepted_culture = romanian
+			set_country_flag = AUS_romanian
 			
 		}
 		

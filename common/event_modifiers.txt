@@ -141,10 +141,10 @@ CHG_tradition = {
 	administrative_efficiency_modifier = 0.10
 	land_organisation = 0.05
 	org_regain = 0.1
-	badboy = -0.04
+	badboy = -0.03
 	factory_output = -0.05
 	land_unit_start_experience = 7
-	research_points_on_conquer = 0.25
+	research_points_on_conquer = 0.27
 }
 ETH_tradition = {
 	icon = 3

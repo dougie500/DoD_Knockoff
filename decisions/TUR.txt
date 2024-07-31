@@ -1,7 +1,7 @@
 political_decisions = {
 
 	TUR_Mashriq = {
-		picture = TUR_Mashriq
+		picture = iraq
 		potential = { 
 			
 				tag = TUR
@@ -19,48 +19,21 @@ political_decisions = {
 		}
 		effect = { 
 			set_country_flag = TUR_Mashriq
-			
-			add_accepted_culture = mashriqi
-			
-		}
-		
-	}
-	TUR_Iraq= {
-		
-		potential = { 
-			
-				tag = TUR
-		
-			NOT = {
-				has_country_flag = TUR_Iraq
-			
-	
-			}
-		}
-	
-		allow = {
-			TUR_931 = { owned_by = THIS }
-			TUR_935 = { owned_by = THIS }
-
-			state_n_government = 1
-		}
-		effect = { 
 			TUR_931 = {
 				add_core = THIS
 			}
 			TUR_935 = {
 				add_core = THIS
 			}
-			
 
-			set_country_flag = TUR_Iraq
-		
+			add_accepted_culture = mashriqi
+			
 		}
 		
 	}
 
 	TUR_Misri = {
-		
+		picture = egypt_levant
 		potential = { 
 			
 				tag = TUR
@@ -100,7 +73,7 @@ political_decisions = {
 	}
 
 	TUR_Greek= {
-		
+		picture = greeks
 		potential = { 
 			
 				tag = TUR
@@ -130,7 +103,9 @@ political_decisions = {
 			TUR_832 = {
 				add_core = THIS
 			}
-
+			GRE_837  = {
+				add_core = THIS
+			}
 			
 
 			add_accepted_culture = greek
@@ -139,8 +114,42 @@ political_decisions = {
 		}
 		
 	}
-	TUR_Azer= {
+	TUR_Bulgar = {
+		picture = bulgaria
+		potential = { 
+			
+				tag = TUR
+				has_country_flag = TUR_Greek
+			NOT = {
+				has_country_flag = TUR_Bulgar
 		
+			}
+		}
+		allow = {
+			TUR_809 = { owned_by = THIS }
+			TUR_810 = { owned_by = THIS }
+			
+			
+			
+		}
+		effect = { 
+
+			TUR_809 = {
+				add_core = THIS
+			}
+			TUR_810 = {
+				add_core = THIS
+			}			
+
+			add_accepted_culture = bulgarian
+			set_country_flag = TUR_Bulgar
+		
+		}
+		
+	}
+
+	TUR_Azer= {
+		picture = azer_picture
 		potential = { 
 			
 				tag = TUR
@@ -153,15 +162,17 @@ political_decisions = {
 		}
 	
 		allow = {
-			PER_1122 = { owned_by = THIS }
+			RUS_1098 = { owned_by = THIS }
+
 			PER_1112 = { owned_by = THIS }
+
 			RUS_1102 = { owned_by = THIS }
 
 			
 			nationalism_n_imperialism = 1
 		}
 		effect = { 
-			PER_1122 = {
+			RUS_1098 = {
 				add_core = THIS
 			}
 			PER_1112 = {
@@ -180,7 +191,7 @@ political_decisions = {
 		
 	}
 	TUR_Develop = {
-		
+		picture = anatolia
 		potential = { 
 			
 				tag = TUR

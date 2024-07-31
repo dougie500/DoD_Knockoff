@@ -1,8 +1,8 @@
 political_decisions = {
 
 #Oirat decisions
-CHG_Tatar = {
-	
+CHG_Astrakhani = {
+	picture = chg_astrakhan
 	potential = {
 		OR = {
 			tag = CHG
@@ -10,21 +10,22 @@ CHG_Tatar = {
 		}
 
 
-		NOT = { has_country_flag = CHG_tatar }
+		NOT = { has_country_flag = CHG_Astrakhani }
 	}
 
 	allow = {
 		war = no
-		RUS_1064  = { owned_by = THIS }
-		RUS_2685  = { owned_by = THIS }
-		RUS_1060  = { owned_by = THIS }
-		
+		RUS_979  = { owned_by = THIS }
+		RUS_977  = { owned_by = THIS }
+		RUS_980  = { owned_by = THIS }
+		RUS_1048 = { owned_by = THIS }
+		nationalism_n_imperialism = 1
 	}
 
 	effect = {
-		set_country_flag = CHG_tatar
+		set_country_flag = CHG_Astrakhani
 		
-		add_accepted_culture = tatar 
+		add_accepted_culture = astrakhani 
 		RUS_1064 = {
 			add_core = THIS
 		}
@@ -32,6 +33,9 @@ CHG_Tatar = {
 			add_core = THIS
 		}
 		RUS_1060 = {
+			add_core = THIS
+		}
+		RUS_1048 = {
 			add_core = THIS
 		}
 	}
@@ -42,7 +46,7 @@ CHG_Tatar = {
 }
 
 CHG_Yuan = {
-	
+	picture = northchina
 	potential = {
 		tag = CHG
 
@@ -56,6 +60,7 @@ CHG_Yuan = {
 		CHI_1576  = { owned_by = THIS }
 		CHI_1559  = { owned_by = THIS }
 		CHI_1490  = { owned_by = THIS }
+		CHI_1614  = { owned_by = THIS }
 
 	}
 
@@ -86,10 +91,51 @@ CHG_Yuan = {
 		factor = 1
 	}
 }
+CHG_South = {
+	picture = turkestan
+	potential = {
+		tag = YUA
+		NOT = { has_country_flag = CHG_South }
+	}
 
+	allow = {
+		war = no
+		civilized = yes
+		CHI_1557  = { owned_by = THIS }
+		CHI_1578  = { owned_by = THIS }
+		CHI_1597  = { owned_by = THIS }
+		KOK_1190  = { owned_by = THIS }
+
+	}
+
+	effect = {
+		CHI_1557 = {
+			add_core = THIS
+		}
+		CHI_1578 = {
+			add_core = THIS
+		}
+		CHI_1597 = {
+			add_core = THIS
+		}
+		KOK_1190 = {
+			add_core = THIS
+		}
+		
+
+		set_country_flag = CHG_South
+		
+		
+	
+	}
+
+	ai_will_do = {
+		factor = 1
+	}
+}
 
 CHG_Turkmen = {
-	
+	picture = uzbekia
 	
 	potential = {
 		OR = {
@@ -101,8 +147,8 @@ CHG_Turkmen = {
 
 	allow = {
 		war = no
-		PER_1122  = { owned_by = THIS }
-		KOK_1190  = { owned_by = THIS }
+		KHI_1191  = { owned_by = THIS }
+		RUS_1196  = { owned_by = THIS }
 		state_n_government = 1
 		
 		
@@ -112,10 +158,10 @@ CHG_Turkmen = {
 		set_country_flag = CHG_Turkmen
 		
 		add_accepted_culture = turkmen 
-		PER_1122 = {
+		KHI_1191 = {
 			add_core = THIS
 		}
-		KOK_1190 = {
+		RUS_1196 = {
 			add_core = THIS
 		}
 	}
@@ -136,188 +182,188 @@ CHG_Turkmen = {
 
 
 
-	form_china_chagatai = {
-      picture = form_china
-  		potential = {
-  			tag = CHG
-			has_country_flag = decision_on_hold
-  			NOT = {
-				exists = CHI
-  			}
-  		}
+	# form_china_chagatai = {
+    #   picture = form_china
+  	# 	potential = {
+  	# 		tag = CHG
+	# 		has_country_flag = decision_on_hold
+  	# 		NOT = {
+	# 			exists = CHI
+  	# 		}
+  	# 	}
   		
-  		allow = {
-        	civilized = yes
-  			NOT = { war = yes }
-  			CHI = {
-				all_core = {
-					OR = {
-  						owned_by = THIS
-  						owner = {
-  							in_sphere = THIS
-  						}
-						province_id = 1538
-						province_id = 1566
-						province_id = 1481
-						province_id = 1485
-						province_id = 1498
-						province_id = 1499
-						province_id = 1569
-						province_id = 1606
-						province_id = 1496
-						province_id = 2406
-						province_id = 2562
-						province_id = 2674
-						province_id = 2681
-  					}
-				}
-			}
-  		}
+  	# 	allow = {
+    #     	civilized = yes
+  	# 		NOT = { war = yes }
+  	# 		CHI = {
+	# 			all_core = {
+	# 				OR = {
+  	# 					owned_by = THIS
+  	# 					owner = {
+  	# 						in_sphere = THIS
+  	# 					}
+	# 					province_id = 1538
+	# 					province_id = 1566
+	# 					province_id = 1481
+	# 					province_id = 1485
+	# 					province_id = 1498
+	# 					province_id = 1499
+	# 					province_id = 1569
+	# 					province_id = 1606
+	# 					province_id = 1496
+	# 					province_id = 2406
+	# 					province_id = 2562
+	# 					province_id = 2674
+	# 					province_id = 2681
+  	# 				}
+	# 			}
+	# 		}
+  	# 	}
 		
-  		effect = {
-  			prestige = 30
-  			add_accepted_culture = beifaren
-			add_accepted_culture = nanfaren
-			add_accepted_culture = hui			
-  			change_tag = CHI
-			any_country = {
-  				limit = {
-  					OR = {
-  						is_culture_group = chinese
-  					}
-  					in_sphere = THIS
-  					NOT = {
-  						tag = THIS
-  					}
-  				}
-  				annex_to = THIS
-  			}
-			capital = 1612
-		}
-  		ai_will_do = {
-  			factor = 1
-  		}
-	}
+  	# 	effect = {
+  	# 		prestige = 30
+  	# 		add_accepted_culture = beifaren
+	# 		add_accepted_culture = nanfaren
+	# 		add_accepted_culture = hui			
+  	# 		change_tag = CHI
+	# 		any_country = {
+  	# 			limit = {
+  	# 				OR = {
+  	# 					is_culture_group = chinese
+  	# 				}
+  	# 				in_sphere = THIS
+  	# 				NOT = {
+  	# 					tag = THIS
+  	# 				}
+  	# 			}
+  	# 			annex_to = THIS
+  	# 		}
+	# 		capital = 1612
+	# 	}
+  	# 	ai_will_do = {
+  	# 		factor = 1
+  	# 	}
+	# }
 
-	form_china_mongol = { 
-      picture = form_china
-  		potential = {
-  			tag = MGL
-  			NOT = {
-				exists = CHI
-  			}
-  		}
+	# form_china_mongol = { 
+    #   picture = form_china
+  	# 	potential = {
+  	# 		tag = MGL
+  	# 		NOT = {
+	# 			exists = CHI
+  	# 		}
+  	# 	}
   		
-  		allow = {
-        civilized = yes
-  			NOT = { war = yes }
-  			CHI = {
-  				all_core = {
-  					OR = {
-  						owned_by = THIS
-  						owner = {
-  							in_sphere = THIS
-  						}
-						province_id = 1538
-						province_id = 1566
-						province_id = 1481
-						province_id = 1485
-						province_id = 1498
-						province_id = 1499
-						province_id = 1569
-						province_id = 1606
-						province_id = 1496
-						province_id = 2406
-						province_id = 2562
-						province_id = 2674
-  					}
-  				}
-  			}
-  		}
-  		effect = {
-  			prestige = 30
-  			add_accepted_culture = beifaren
-			add_accepted_culture = nanfaren	
-  			change_tag = CHI  
-  			any_country = {
-  				limit = {
-  					OR = {
-  						is_culture_group = chinese
-  					}
-  					in_sphere = THIS
-  					NOT = {
-  						tag = THIS
-  					}
-  				}
-  				annex_to = THIS
-  			}
-  			capital = 1612
-		}
-  		ai_will_do = {
-  			factor = 1
-  		}
-	}
+  	# 	allow = {
+    #     civilized = yes
+  	# 		NOT = { war = yes }
+  	# 		CHI = {
+  	# 			all_core = {
+  	# 				OR = {
+  	# 					owned_by = THIS
+  	# 					owner = {
+  	# 						in_sphere = THIS
+  	# 					}
+	# 					province_id = 1538
+	# 					province_id = 1566
+	# 					province_id = 1481
+	# 					province_id = 1485
+	# 					province_id = 1498
+	# 					province_id = 1499
+	# 					province_id = 1569
+	# 					province_id = 1606
+	# 					province_id = 1496
+	# 					province_id = 2406
+	# 					province_id = 2562
+	# 					province_id = 2674
+  	# 				}
+  	# 			}
+  	# 		}
+  	# 	}
+  	# 	effect = {
+  	# 		prestige = 30
+  	# 		add_accepted_culture = beifaren
+	# 		add_accepted_culture = nanfaren	
+  	# 		change_tag = CHI  
+  	# 		any_country = {
+  	# 			limit = {
+  	# 				OR = {
+  	# 					is_culture_group = chinese
+  	# 				}
+  	# 				in_sphere = THIS
+  	# 				NOT = {
+  	# 					tag = THIS
+  	# 				}
+  	# 			}
+  	# 			annex_to = THIS
+  	# 		}
+  	# 		capital = 1612
+	# 	}
+  	# 	ai_will_do = {
+  	# 		factor = 1
+  	# 	}
+	# }
 
-	form_china_manchu = {  
-      picture = form_china
-  		potential = {
-  			tag = MCK
-  			NOT = {
-  				exists = CHI
-  			}
-  		}
+	# form_china_manchu = {  
+    #   picture = form_china
+  	# 	potential = {
+  	# 		tag = MCK
+  	# 		NOT = {
+  	# 			exists = CHI
+  	# 		}
+  	# 	}
   		
-  		allow = { 
-        civilized = yes
-  			NOT = { war = yes }
-  			CHI = {
-  				all_core = {
-  					OR = {
-  						owned_by = THIS
-  						owner = {
-  							in_sphere = THIS
-  						}
-						province_id = 1538
-						province_id = 1566
-						province_id = 1481
-						province_id = 1485
-						province_id = 1498
-						province_id = 1499
-						province_id = 1569
-						province_id = 1606
-						province_id = 1496
-						province_id = 2406
-						province_id = 2562
-						province_id = 2674
-  					}
+  	# 	allow = { 
+    #     civilized = yes
+  	# 		NOT = { war = yes }
+  	# 		CHI = {
+  	# 			all_core = {
+  	# 				OR = {
+  	# 					owned_by = THIS
+  	# 					owner = {
+  	# 						in_sphere = THIS
+  	# 					}
+	# 					province_id = 1538
+	# 					province_id = 1566
+	# 					province_id = 1481
+	# 					province_id = 1485
+	# 					province_id = 1498
+	# 					province_id = 1499
+	# 					province_id = 1569
+	# 					province_id = 1606
+	# 					province_id = 1496
+	# 					province_id = 2406
+	# 					province_id = 2562
+	# 					province_id = 2674
+  	# 				}
 						
-  				}
-  			}
-  		}
+  	# 			}
+  	# 		}
+  	# 	}
 		
-  		effect = {
-  			prestige = 30
-  			add_accepted_culture = beifaren
-			add_accepted_culture = nanfaren	
-  			change_tag = CHI 
-  			any_country = {
-  				limit = {
-  					OR = {
-  						is_culture_group = chinese
-  					}
-  					in_sphere = THIS
-  					NOT = {
-  						tag = THIS
-  					}
-  				}
-  				annex_to = THIS
-  			}
-			capital = 1612
-        }
-  		ai_will_do = {
-  			factor = 1
-  		}
-	}
+  	# 	effect = {
+  	# 		prestige = 30
+  	# 		add_accepted_culture = beifaren
+	# 		add_accepted_culture = nanfaren	
+  	# 		change_tag = CHI 
+  	# 		any_country = {
+  	# 			limit = {
+  	# 				OR = {
+  	# 					is_culture_group = chinese
+  	# 				}
+  	# 				in_sphere = THIS
+  	# 				NOT = {
+  	# 					tag = THIS
+  	# 				}
+  	# 			}
+  	# 			annex_to = THIS
+  	# 		}
+	# 		capital = 1612
+    #     }
+  	# 	ai_will_do = {
+  	# 		factor = 1
+  	# 	}
+	# }
 
 	form_china_claimant = { 
       picture = form_china
