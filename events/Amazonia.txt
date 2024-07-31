@@ -814,7 +814,7 @@ country_event = { #### Monarchy ?
 	name = "98431.B"
 	any_pop = { 
 		limit = { 
-		culture = amazonian  
+		culture = portuguese  
 			}
 		militancy = -2 
 		}

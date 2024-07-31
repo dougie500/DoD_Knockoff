@@ -333,32 +333,32 @@
 #Santa Cruz (16000/4000 POPS)
 2316 = {
 	aristocrats = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 50
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 2775
 	}
@@ -398,32 +398,32 @@
 	}
 
 	aristocrats = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 1800
 	}
@@ -431,32 +431,32 @@
 #Robore (12000/3000 POPS)
 2318 = {
 	aristocrats = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 2700
 	}

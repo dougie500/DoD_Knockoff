@@ -1,5 +1,5 @@
 capital = 2431
-primary_culture = amazonian
+primary_culture = portuguese
 culture = ashkenazi 
 religion = catholic
 government = democracy

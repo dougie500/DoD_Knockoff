@@ -3,32 +3,32 @@
 #Fortin Falcon (8000/2000 POPS)
 2337 = {
 	aristocrats = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 1800
 	}
@@ -36,32 +36,32 @@
 #Puerto Guarani (8000/2000 POPS)
 2338 = {
 	aristocrats = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 1800
 	}
@@ -122,26 +122,26 @@
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 1200
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 1250
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 27425
 	}
@@ -211,26 +211,26 @@
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 600
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 125
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 11225
 	}
@@ -269,26 +269,26 @@
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 19300
 	}
@@ -327,32 +327,32 @@
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 800
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 10125
 	}
 
 	slaves = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 4300
 	}
@@ -385,32 +385,32 @@
 	}
 
 	aristocrats = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 2700
 	}

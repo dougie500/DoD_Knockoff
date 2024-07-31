@@ -23,12 +23,6 @@ Traditions_setup = {
 					duration = -1
 				}
 			}
-			RUT = {
-				add_country_modifier = {
-					name = RUT_tradition
-					duration = -1
-				}
-			}
 			DEN = {
 				add_country_modifier = {
 					name = DEN_tradition
@@ -149,6 +143,13 @@ Traditions_setup = {
 			NBG = {
 				add_country_modifier = {
 					name = NBG_tradition
+					duration = -1
+
+				}
+			}
+			ROM = {
+				add_country_modifier = {
+					name = ROM_tradition
 					duration = -1
 
 				}

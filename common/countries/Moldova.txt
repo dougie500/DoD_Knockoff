@@ -1,5 +1,5 @@
 color = { 169  196  59 }
-graphical_culture = RussianGC
+graphical_culture = russianGC
 
 party = {
 	name = "MOL_reactionary"

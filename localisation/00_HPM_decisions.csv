@@ -754,7 +754,7 @@ change_national_value_off_desc;Turn off the function to change the National Valu
 switch_to_order_title;Embrace the Ideal of Order;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
 switch_to_order_desc;The foreigners progress and dominate through an orderly and organized society, based on a sense of duty to their country. If we were to embrace this ideal, we might strive as they do.\n\nùYThe modifiers for this NV are:ùW\nùGLand and Naval Organization: +10%\nLand and Naval Units Starting Experience: +0.10\nOrganization Regain Rate: +5%\nMobilization Size: +5%ùW\nùRMobilization Impact on Economy: +75%\nPops will be slightly more conservative.ùW;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 switch_to_production_title;Embrace the Ideal of Productivity;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
-switch_to_production_desc;The foreigners progress through an industrious society based on hard work. If we were to embrace this ideal, we might progress as they do.\n\nùYThe modifiers for this NV are:ùW\nùGTax Efficiency: +10%\nFactory, RGO and Artisan Throughput: +5%\nCommerce Tech Research Bonus: 5%\nMobilization Size: +4%ùW\nùRMobilization Impact on Economy: +50%ùW;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
+switch_to_production_desc;The foreigners progress through an industrious society based on hard work. If we were to embrace this ideal, we might progress as they do.\n\nThe modifiers for this NV are:\nTax Efficiency: +3%\nFactory, RGO and Artisan Throughput: +8%\nCommerce and Industry Tech Research Bonus: 10%\nMobilization Size: +1.2%\nResearch points +5%;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
 switch_to_autocracy_title;Embrace the Ideal of Autocracy;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
 switch_to_autocracy_desc;The foreigners progress through a society based on strong leadership, obedience and loyalty. If we were to embrace this ideal, we might progress as they do.\n\nùYThe modifiers for this NV are:ùW\nùGRuling Party Support: +25%ùW\nùRSocial and Political Reform Desire: -5%\nLiteracy Impact on Consciousness: -10%ùW\nùGMobilization Size: +4.5%ùW\nùRMobilization Impact on Economy: +100%\nPops will be more conservative and will be more inclined to adopt the current government (fascist, communist, anarcho-liberal) ideology.ùW;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;
 switch_to_equality_title;Embrace the Ideal of Equality;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -3920,12 +3920,12 @@ PLC_zapadoslavia4_title;Claim Elbia;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PLC_zapadoslavia4_desc;With the HRE Emperor gone, Elbia has been left without a true protector. We could fill this void, and in doing so reclaim our ancient Slavic lands.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Core_poz_title;Core Poznan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Core_poz_desc;Today our nation celebrates! Poznan has been returned to us and the polish people are united!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Declare_The_Polish_Lithuanian_Ukranian_Commonwealth_title;Declare the Polish-Lithuanian-Ukrainian_Commonwealth;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Declare_The_Polish_Lithuanian_Ukranian_Commonwealth_desc;The Lithuanian crown has long held lands in Ruthenia for centuries, but recent expansion has left us with a sizeable Ruthenian population. It is time we form the Crown of Ukraine, and truly add the people of Ruthenia to our commonwealth.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Form_Ruthenia_title;Declare the Polish-Lithuanian-Ruthenian-Commonwealth;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Form_Ruthenia_desc;We have held lands in Ruthenia for centuries, but recent expansion has left us with a sizeable Russian population. It is time we establish the Crown of Ruthenia and assert dominance in the east.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Renovate_Neva_title;Rennovate Neva;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Renovate_Neva_desc;Thanks to its geography, Neva is one of our most defensible ports. We must build up the local infrastructure to match future demand. ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-NOV_Tver_title;Incorperate Tver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-NOV_Tver_desc;As useful as the Tverian nobility has been as a tool of subjugation, it is time for the region to be integrated into Novgorod proper. ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+NOV_Tver_title;Incorperate Muscovy;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+NOV_Tver_desc;As useful as the Muscovite nobility has been as a tool of subjugation, it is time for the region to be integrated into Novgorod proper. ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 NOV_Russian_title;Form Pohjola;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 NOV_Russian_desc;After vanquishing our enemies, we have subjugated the entire Russian ethnicity. This however has not been done without recieving an infamous reputation with our neighbours. Let's embrace this reputation, strike fear into the hearts of our enemies and declare Novgorod to be the legendary Pohjola, the northland.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 NOV_Sweden_title;Rescue Sweden;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

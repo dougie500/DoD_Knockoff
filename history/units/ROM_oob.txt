@@ -1,0 +1,75 @@
+
+leader = {
+	name = "Blingus"
+	type = land
+	date = 1836.1.1
+	personality = inspiring
+	background = warmonger
+}
+
+leader = {
+	name = "Dingus"
+	type = land
+	date = 1836.1.1
+	personality = persistant
+	background = toady
+}
+
+army = {
+	name = "An army"
+	location = 664
+	regiment = {
+		name= "1."
+		type = infantry
+		home = 664
+	}
+
+	regiment = {
+		name= "2."
+		type = infantry
+		home = 670
+	}
+
+	regiment = {
+		name= "3."
+		type = infantry
+		home = 670
+	}
+	regiment = {
+		name= "10."
+		type = infantry
+		home = 676
+	}
+	regiment = {
+		name= "4. "
+		type = hussar
+		home = 673
+	}
+
+	regiment = {
+		name= "5. "
+		type = artillery
+		home = 672
+	}
+	regiment = {
+		name= "6. "
+		type = artillery
+		home = 669
+	}
+	regiment = {
+		name= "7. "
+		type = artillery
+		home = 954
+	}
+	regiment = {
+		name= "8. "
+		type = artillery
+		home = 668
+	}
+	regiment = {
+		name= "5. "
+		type = artillery
+		home = 675
+	}
+}
+

@@ -146,6 +146,68 @@ army = {
 
 
 }
+army = {
+	name = "East Steppes Army"
+	location = 2610
+	regiment = {
+		name= "1. Brigade"
+		type = cuirassier
+		home = 1037
+	}
+
+	regiment = {
+		name= "2. Brigade"
+		type = cuirassier
+		home = 1037
+	}
+
+	regiment = {
+		name= "3. Brigade"
+		type = cuirassier
+		home = 1037
+	}
+
+	regiment = {
+		name= "4. Brigade"
+		type = cuirassier
+		home = 1192
+	}
+
+	regiment = {
+		name= "5. Brigade"
+		type = cuirassier
+		home = 1192
+	}
+
+	regiment = {
+		name= "6. Brigade"
+		type = cuirassier
+		home = 1064
+	}
+
+	regiment = {
+		name= "7. Brigade"
+		type = cuirassier
+		home = 1078
+	}
+
+	regiment = {
+		name= "8. Brigade"
+		type = cuirassier
+		home = 1079
+	}
+
+	regiment = {
+		name= "9. Brigade"
+		type = cuirassier
+		home = 1468
+	}
+
+
+}
+
+
+
 
 
 

@@ -3,50 +3,50 @@
 #Buenos Aires (132000/33000 POPS)
 2348 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 625
 	}
 
 	bureaucrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 500
 	}
 
 	officers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 75
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 375
 	}
 
 	artisans = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 10000
 	}
 	
 	artisans = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 5000
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 49825
 	}
@@ -54,39 +54,39 @@
 #Junin (56000/14000 POPS)
 2349 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 275
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 175
 	}
 
 	artisans = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 5100
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 3000
 
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 25550
 	}
@@ -94,20 +94,20 @@
 #Azul (12000/3000 POPS)
 2350 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 75
 	}
 
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 15700
 	}
@@ -115,19 +115,19 @@
 #La Plata (4000/1000 POPS)
 2351 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 15
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 25
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 19000
 	}
@@ -135,19 +135,19 @@
 #Mar del Plata (12000/3000 POPS)
 2352 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 20700
 	}
@@ -156,20 +156,20 @@
 #Trenque Lanquen (12000/9000 POPS)
 2353 = {
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 75
 	}
 
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 2700
 	}
 
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 25
 	}
@@ -177,19 +177,19 @@
 #Bahia Blanca (24000/6000 POPS)
 2354 = {
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 150
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 5425
 	}
 
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
@@ -197,26 +197,26 @@
 #Carmen (20000/5000 POPS)
 2355 = {
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 125
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 25
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 6150
 	}
 
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
@@ -232,69 +232,69 @@
 #Corrientes (96000/24000 POPS)
 2356 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 450
 	}
 
 	bureaucrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = catholic
 		size = 1100
 	}
 
 	officers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 35
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 225
 	}
 
 	artisans = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 4000
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 225
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 10015
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 15750
 	}
 
 	slaves = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 15340
 	}
@@ -302,45 +302,45 @@
 #Curuzu Cuatia (16000/4000 POPS)
 2357 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 25
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 2500
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 1825
 	}
@@ -348,64 +348,64 @@
 #Santo Tomas (28000/7000 POPS)
 2358 = {
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 25
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 1875
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 25
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 1825
 	}
 
 	aristocrats = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 2700
 	}
@@ -413,26 +413,26 @@
 #Colon (8000/2000 POPS)
 2359 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 25
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 1900
 	}
@@ -440,26 +440,26 @@
 #Parana (16000/4000 POPS)
 2360 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 75
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 50
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 3825
 	}
@@ -469,38 +469,38 @@
 #Santa Esperitu (8000/2000 POPS)
 2361 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 25
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 3400
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 2400
 	}
@@ -508,44 +508,44 @@
 #Reconquista (56000/14000 POPS)
 2362 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 275
 	}
 
 	bureaucrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 300
 	}
 
 	officers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 20
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 175
 	}
 
 	artisans = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 4000
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 150
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = protestant
 		size = 19350
 	}
@@ -553,26 +553,26 @@
 #Rosario (8000/2000 POPS)
 2363 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 25
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 1800
 	}
@@ -582,51 +582,51 @@
 #Resistencia (16000/4000 POPS)
 2364 = {
 	aristocrats = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 2700
 	}
 
 	bureaucrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 2
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 23
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 25
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 1200
 	}
@@ -634,45 +634,45 @@
 #Villa Angela (16000/4000 POPS)
 2365 = {
 	aristocrats = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 2700
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 25
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 25
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 900
 	}
@@ -681,51 +681,51 @@
 #Formosa (24000/6000 POPS) #now part of Argentina
 2366 = {
 	aristocrats = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 50
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 4575
 	}
 
 	bureaucrats = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 23
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 900
 	}
@@ -733,26 +733,26 @@
 #Xolotas (20000/5000 POPS) #now part of Argentina
 2367 = {
 	aristocrats = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 50
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 4575
 	}
@@ -1217,25 +1217,25 @@
 #Santiago del Estero (16000/4000 POPS)
 2376 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 75
 	}
 
 	bureaucrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 10
 	}
 
 	officers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 10
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
@@ -1247,14 +1247,14 @@
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 50
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 1005
 	}
@@ -1280,45 +1280,45 @@
 #Anatuya (16000/4000 POPS)
 2377 = {
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 25
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 25
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 900
 	}
 
 	aristocrats = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 25
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 2700
 	}
@@ -1326,32 +1326,32 @@
 #Mailin (8000/2000 POPS)
 2378 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 25
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 500
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 1300
 	}
@@ -1361,63 +1361,63 @@
 #Cordoba de Argentina (84000/21000 POPS)
 2379 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 425
 	}
 
 	bureaucrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 40
 	}
 
 	officers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 35
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 150
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 3000
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 3000
 
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 2000
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 4300
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 6000
 	}
@@ -1425,32 +1425,32 @@
 #Villa Nueva (8000/2000 POPS)
 2380 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 125
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 800
 	}
@@ -1458,26 +1458,26 @@
 #Rio Cuarto (8000/2000 POPS)
 2381 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 125
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 1800
 	}
@@ -1485,26 +1485,26 @@
 #San Luis (8000/2000 POPS)
 2383 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 125
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 1800
 	}
@@ -1513,26 +1513,26 @@
 #Renanco (20000/5000 POPS)
 2382 = {
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 125
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 300
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 4525
 	}
 
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
@@ -1540,26 +1540,26 @@
 #Mercedes (8000/2000 POPS)
 2384 = {
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 130
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 1800
 	}
 
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 10
 	}
@@ -1614,26 +1614,26 @@
 #Santa Rita (8000/2000 POPS)
 2386 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 125
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 900
 	}
@@ -1759,26 +1759,26 @@
 #San Rafael (8000/2000 POPS)
 2390 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 125
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 1200
 	}
@@ -1850,26 +1850,26 @@
 #Telen (12000/3000 POPS)
 2393 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 75
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 175
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 1700
 	}
@@ -1909,26 +1909,26 @@
 #Curaco (12000/3000 POPS)
 2395 = {
 	aristocrats = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 75
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 175
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 1600
 	}
@@ -2081,45 +2081,45 @@
 #Posadas (16000/4000 POPS) #now part of Argentina
 2554 = {
 	clergymen = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 75
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size= 25
 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = patagonian
 		religion = protestant
 		size = 900
 	}
 
 	aristocrats = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size= 175
 
 	}
 
 	farmers = {
-		culture = guarani
+		culture = patagonian
 		religion = animist
 		size = 2700
 	}

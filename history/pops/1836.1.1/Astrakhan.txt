@@ -3,46 +3,46 @@
 #Astrakhan (76000/19000 POPS)
 1036 = {
 	aristocrats = {
-		culture = astrakhani
+		culture = mongol
 		religion = sunni
 		size = 1100
 	}
 
 	bureaucrats = {
-		culture = astrakhani
+		culture = mongol
 		religion = sunni
 		size = 1700
 	}
 
 	clergymen = {
-		culture = astrakhani
+		culture = mongol
 		religion = sunni
 		size = 1700
 	}
 
 	officers = {
-		culture = astrakhani
+		culture = mongol
 		religion = sunni
 		size = 1500
 	}
 
 	artisans = {
-		culture = astrakhani
+		culture = mongol
 		religion = sunni
 		size = 30000
 	}
 
 	soldiers = {
-		culture = astrakhani
+		culture = mongol
 		religion = sunni
-		size= 600
+		size= 1600
 
 	}
 
 	farmers = {
-		culture = astrakhani
+		culture = mongol
 		religion = sunni
-		size = 24000
+		size = 54000
 	}
 }
 #Tsaritsyn (1072000/268000 POPS)
@@ -100,7 +100,7 @@
 	}
 
 	artisans = {
-		culture = astrakhani
+		culture = tatar
 		religion = sunni
 		size = 7350
 	}
@@ -112,9 +112,9 @@
 	}
 
 	farmers = {
-		culture = astrakhani
+		culture = tatar
 		religion = sunni
-		size = 13650
+		size = 93650
 	}
 
 }
@@ -184,7 +184,11 @@
 		religion = sunni
 		size = 100
 	}
-
+	bureaucrats = {
+		culture = mongol
+		religion = sunni
+		size = 50
+	}
 	clergymen = {
 		culture = astrakhani
 		religion = sunni
@@ -545,28 +549,13 @@
 		militancy = 9
 	}
 
-	soldiers = {
-		culture = astrakhani
-		religion = sunni
-		size= 3000
-
-		militancy = 9
-	}
-
-	soldiers = {
-		culture = astrakhani
-		religion = sunni
-		size= 3000
-
-		militancy = 9
-	}
 
 
 
 	farmers = {
 		culture = astrakhani
 		religion = sunni
-		size = 258250
+		size = 158250
 		militancy = 9
 	}
 
@@ -759,7 +748,7 @@
 	farmers = {
 		culture = astrakhani
 		religion = sunni
-		size = 75750
+		size = 45750
 	}
 	
 	farmers = {
@@ -1616,7 +1605,7 @@
 	farmers = {
 		culture = astrakhani
 		religion = sunni
-		size = 105000
+		size = 25000
 	}
 	
 	aristocrats = {
@@ -1741,7 +1730,7 @@
 	farmers = {
 		culture = astrakhani
 		religion = sunni
-		size = 143750
+		size = 93750
 	}
 	
 	clergymen = {
@@ -1879,7 +1868,7 @@
 	soldiers = {
 		culture = astrakhani
 		religion = sunni
-		size = 2350
+		size = 1350
 	}
 
 	farmers = {

@@ -52,32 +52,32 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = portuguese
 		religion = protestant
 		size = 150
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = portuguese
 		religion = protestant
 		size = 4250
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = portuguese
 		religion = protestant
 		size= 1050
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = portuguese
 		religion = protestant
 		size = 5150
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = portuguese
 		religion = protestant
 		size = 23500
 	}
@@ -111,18 +111,18 @@
 	soldiers = {
 		culture = ashkenazi
 		religion = protestant
-		size= 1100
+		size= 500
 
 	}
 
 	farmers = {
 		culture = ashkenazi
 		religion = protestant
-		size = 7275
+		size = 17275
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = portuguese
 		religion = protestant
 		size = 3240
 	}
@@ -156,7 +156,7 @@
 	soldiers = {
 		culture = ashkenazi
 		religion = protestant
-		size= 3025
+		size= 1025
 
 	}
 
@@ -167,32 +167,32 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = portuguese
 		religion = protestant
 		size = 15
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = portuguese
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = portuguese
 		religion = protestant
 		size= 10
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = portuguese
 		religion = protestant
 		size = 325
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = portuguese
 		religion = protestant
 		size = 8300
 	}
@@ -237,32 +237,32 @@
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = portuguese
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = portuguese
 		religion = protestant
 		size = 150
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = portuguese
 		religion = protestant
 		size= 25
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = portuguese
 		religion = protestant
 		size = 775
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = portuguese
 		religion = protestant
 		size = 4200
 	}

@@ -5193,7 +5193,7 @@
 	}
 
 	farmers = {
-		culture = north_german
+		culture = lithuanian
 		religion = catholic
 		size = 18025
 	}
@@ -5288,7 +5288,7 @@
 	}
 
 	farmers = {
-		culture = north_german
+		culture = lithuanian
 		religion = protestant
 		size = 47275
 	}

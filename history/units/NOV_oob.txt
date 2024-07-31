@@ -1,7 +1,4 @@
-NOG = {
-	value = -100
-	truce_until = "1837.6.1"
-}
+
 
 leader = {
 	name = "Josif Gudunov"
@@ -49,24 +46,24 @@ army = {
 		home = 349
 	}
 	regiment = {
-		name = "1. Artillery"
+		name = "2. Artillery"
 		type = artillery
 		home = 341
 	}
 	regiment = {
-		name = "1. Artillery"
+		name = "3. Artillery"
 		type = artillery
 		home = 1006
 	}
 	regiment = {
-		name = "1. Artillery"
+		name = "4. Artillery"
 		type = artillery
 		home = 989
 	}
 	regiment = {
-		name = "1. Artillery"
+		name = "5. Artillery"
 		type = artillery
-		home = 1029
+		home = 994
 	}
 	regiment = {
 		name = "1. hussar"
@@ -81,7 +78,7 @@ army = {
 	location = 2580
 	
 	regiment = {
-		name = "1. infantry"
+		name = "4. infantry"
 		type = infantry
 		home = 1003
 	}
@@ -89,16 +86,16 @@ army = {
 		name = "1. infantry"
 		type = infantry
 		home = 1003
-	}
-	regiment = {
-		name = "1. infantry"
-		type = infantry
-		home = 1031
 	}
 	regiment = {
 		name = "2. infantry"
 		type = infantry
-		home = 1031
+		home = 1013
+	}
+	regiment = {
+		name = "3. infantry"
+		type = infantry
+		home = 1001
 	}
 	regiment = {
 		name = "1. Artillery"
@@ -106,22 +103,22 @@ army = {
 		home = 1003
 	}
 	regiment = {
-		name = "1. Artillery"
+		name = "2. Artillery"
 		type = artillery
-		home = 1026
+		home = 1022
 	}
 	regiment = {
-		name = "1. Artillery"
+		name = "3. Artillery"
 		type = artillery
-		home = 1028
+		home = 1022
 	}
 	regiment = {
-		name = "1. Artillery"
+		name = "4. Artillery"
 		type = artillery
 		home = 997
 	}
 	regiment = {
-		name = "1. Artillery"
+		name = "5. Artillery"
 		type = artillery
 		home = 999
 	}
@@ -131,6 +128,42 @@ army = {
 		home = 345
 	}
 }
+army = {
+	name = "Army of the Baltic"
+	location = 1004
+	
+	regiment = {
+		name = "1. Artillery"
+		type = artillery
+		home = 350
+	}
+	regiment = {
+		name = "2. Artillery"
+		type = artillery
+		home = 346
+	}
+	regiment = {
+		name = "3. Artillery"
+		type = artillery
+		home = 340
+	}
+	regiment = {
+		name = "4. Artillery"
+		type = artillery
+		home = 991
+	}
+	regiment = {
+		name = "5. Artillery"
+		type = artillery
+		home = 998
+	}
+	regiment = {
+		name = "1. hussar"
+		type = hussar
+		home = 1013
+	}
+}
+
 navy = {
 	name = "Baltic Fleet"
 	location = 994

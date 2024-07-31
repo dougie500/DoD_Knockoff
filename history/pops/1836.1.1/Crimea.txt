@@ -45,7 +45,7 @@
 		size = 48000
 	}
 	farmers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = sunni
 		size = 19000
 	}
@@ -111,7 +111,7 @@
 		size = 550
 	}
 	farmers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = sunni
 		size = 30650
 	}
@@ -252,25 +252,25 @@
 	}
 
 	aristocrats = {
-		culture = russian
+		culture = astrakhani
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = russian
+		culture = astrakhani
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = russian
+		culture = astrakhani
 		religion = orthodox
 		size = 250
 	}
 
 	farmers = {
-		culture = russian
+		culture = astrakhani
 		religion = orthodox
 		size = 3500
 	}
@@ -438,61 +438,61 @@
 #Odessa (248000/62000 POPS)
 968 = {
 	aristocrats = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 550
 	}
 
 	bureaucrats = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 175
 	}
 
 	officers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 250
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 1425
 	}
 
 	soldiers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
-		size= 5000
+		size= 4000
 
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = romanian
 		religion = orthodox
-		size = 42000
+		size = 32000
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = romanian
 		religion = orthodox
 		size = 10000
 	}
 	aristocrats = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 150
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 400
 	}
@@ -516,39 +516,39 @@
 	}
 
 	aristocrats = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 450
 	}
 
 	officers = {
-	culture = ruthenian
+	culture = astrakhani
 		religion = orthodox
 		size = 150
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
-		size = 3350
+		size = 23350
 	}
 
 	clergymen = {
@@ -608,44 +608,44 @@
 #Pervomaisk (496000/124000 POPS)
 969 = {
 	aristocrats = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 1000
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 550
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 1300
 	}
 
 	soldiers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size= 4000
 
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
-		size = 25000
+		size = 15000
 	}
 
 	aristocrats = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 750
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 50
 	}
@@ -683,10 +683,10 @@
 	farmers = {
 		culture = romanian
 		religion = orthodox
-		size = 20000
+		size = 30000
 	}
 	farmers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 10000
 	}
@@ -694,50 +694,50 @@
 #Nikolaev (248000/62000 POPS)
 970 = {
 	aristocrats = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 850
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 375
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 1700
 	}
 
 	soldiers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size= 4000
 
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 29000
 	}
 
 	aristocrats = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 250
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 150
 	}
@@ -761,25 +761,25 @@
 	}
 
 	aristocrats = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 350
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 250
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 4300
 	}
@@ -823,49 +823,49 @@
 #Krivoy Rog (244000/61000 POPS)
 971 = {
 	aristocrats = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 1100
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 500
 	}
 
 	artisans = {
-	culture = ruthenian
+	culture = astrakhani
 		religion = orthodox
 		size = 1300
 	}
 
 	soldiers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size= 4000
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 75000
 	}
 
 	aristocrats = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 250
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 150
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 250
 	}
@@ -891,55 +891,55 @@
 #Ekaterinoslav (252000/63000 POPS)
 972 = {
 	aristocrats = {
-	culture = ruthenian
+	culture = astrakhani
 		religion = orthodox
 		size = 850
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 925
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 1900
 	}
 
 	soldiers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size= 3500
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 58000
 	}
 
 	aristocrats = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 550
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 2125
 	}
@@ -991,7 +991,7 @@
 	}
 
 	bureaucrats = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = sunni
 		size = 250
 	}
@@ -1014,9 +1014,9 @@
 		size = 650
 	}
 	farmers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = sunni
-		size = 30650
+		size = 20650
 	}
 	soldiers = {
 		culture = astrakhani
@@ -1049,64 +1049,64 @@
 	}
 
 	aristocrats = {
-		culture = russian
+		culture = astrakhani
 		religion = orthodox
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = russian
+		culture = astrakhani
 		religion = orthodox
 		size = 25
 	}
 
 	clergymen = {
-		culture = russian
+		culture = astrakhani
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = russian
+		culture = astrakhani
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = russian
+		culture = astrakhani
 		religion = orthodox
-		size = 2600
+		size = 20600
 	}
 }
 #Kramatorsk (240000/60000 POPS)
 974 = {
 	aristocrats = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 1250
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 550
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 2250
 	}
 
 	soldiers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size= 3000
 
 	}
 
 	farmers = {
-	culture = ruthenian
+	culture = astrakhani
 		religion = orthodox
 		size = 72000
 	}
@@ -1137,7 +1137,7 @@
 		size = 300
 	}
 	farmers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = sunni
 		size = 9650
 	}
@@ -1184,27 +1184,27 @@
 	}
 
 	aristocrats = {
-		culture = russian
+		culture = astrakhani
 		religion = orthodox
 		size = 150
 	}
 
 	clergymen = {
-		culture = russian
+		culture = astrakhani
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = russian
+		culture = astrakhani
 		religion = orthodox
 		size = 250
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
-		size = 33750
+		size = 23750
 	}
 }
 #Mariopol (248000/62000 POPS)
@@ -1239,7 +1239,7 @@
 		size = 26000
 	}
 	farmers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = sunni
 		size = 16000
 	}
@@ -1302,31 +1302,31 @@
 #Kharkov (596000/149000 POPS) #now part of Ukraine  
 978 = {
 	aristocrats = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 1125
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 1300
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 3100
 	}
 
 	soldiers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size= 3500
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 74000
 	}
@@ -1344,25 +1344,25 @@
 	}
 
 	aristocrats = {
-		culture = russian
+		culture = astrakhani
 		religion = orthodox
 		size = 250
 	}
 
 	clergymen = {
-		culture = russian
+		culture = astrakhani
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = russian
+		culture = astrakhani
 		religion = orthodox
 		size = 500
 	}
 
 	farmers = {
-		culture = russian
+		culture = astrakhani
 		religion = orthodox
 		size = 17075
 	}
@@ -1372,60 +1372,60 @@
 #Luhansk (652000/163000 POPS) #now part of Ukraine 
 980 = {
 	aristocrats = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 1000
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 400
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 2400
 	}
 
 	soldiers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size= 3600
 	}
 
 	farmers = {
-	culture = ruthenian
+	culture = astrakhani
 		religion = orthodox
 		size = 39000
 	}
 
 	aristocrats = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 450
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 425
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 35000
 	}
 bureaucrats = {
-		culture = ruthenian
+		culture = astrakhani
 		religion = orthodox
 		size = 400
 	}
@@ -1436,43 +1436,43 @@ bureaucrats = {
 #Rostov (188000/47000 POPS)
 979 = {
     aristocrats = {
-        culture = russian
+        culture = astrakhani
         religion = orthodox
         size = 387
     }
 
     bureaucrats = {
-        culture = russian
+        culture = astrakhani
         religion = orthodox
         size = 187
     }
 
     officers = {
-        culture = russian
+        culture = astrakhani
         religion = orthodox
         size = 150
     }
 
     clergymen = {
-        culture = russian
+        culture = astrakhani
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = russian
+        culture = astrakhani
         religion = orthodox
         size = 225
     }
 
     soldiers = {
-        culture = russian
+        culture = astrakhani
         religion = orthodox
         size = 200
     }
 
     farmers = {
-        culture = russian
+        culture = astrakhani
         religion = orthodox
         size = 13725
     }

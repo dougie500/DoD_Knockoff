@@ -195,22 +195,22 @@ army = {
 		home = 1726
 	}
 	regiment = {
-		name= "11. Brigada de Infanteria"
+		name= "12. Brigada de Infanteria"
 		type = artillery
-		home = 481
+		home = 1728
 	}
 	regiment = {
-		name= "12. Brigada de Infanteria"
+		name= "13. Brigada de Infanteria"
 		type = artillery
 		home = 1726
 	}
 	regiment = {
-		name= "12. Brigada de Infanteria"
+		name= "14. Brigada de Infanteria"
 		type = artillery
 		home = 762
 	}
 	regiment = {
-		name= "12. Brigada de Infanteria"
+		name= "15. Brigada de Infanteria"
 		type = artillery
 		home = 762
 	}
@@ -259,33 +259,71 @@ army = {
 		home = 1701
 	}
 }
+army = {
+	name = "Rah"
+	location = 501
+	
+	regiment = {
+		name= "2. Granaders del Rei"
+		type = artillery
+		home = 749
+	}
+
+	regiment = {
+		name= "1. Brigada de Infanteria"
+		type = artillery
+		home = 749
+	}
+
+	regiment = {
+		name= "2. Brigada de Infanteria"
+		type = artillery
+		home = 763
+	}
+
+	regiment = {
+		name= "3. Brigada de Infanteria"
+		type = artillery
+		home = 754
+	}
+	regiment = {
+		name= "3. Brigada de Infanteria"
+		type = artillery
+		home = 765
+	}
+	regiment = {
+		name= "2. Granaders del Rei"
+		type = hussar
+		home = 761
+	}
+}
 
 army = {
 	name = "Ejército de la Habana"
 	location = 497
 
 	regiment = {
-		name= "4. Brigada de Infantería 'San Jorge'"
+		name= "1. Brigada de Infantería 'San Jorge'"
 		type = artillery
 		home = 1725
 	}
 	regiment = {
-		name= "4. Brigada de Infantería 'San Jorge'"
+		name= "2. Brigada de Infantería 'San Jorge'"
 		type = artillery
 		home = 763
 	}
 	regiment = {
-		name= "4. Brigada de Infantería 'San Jorge'"
+		name= "3. Brigada de Infantería 'San Jorge'"
 		type = artillery
-		home = 488
+		home = 761
 	}
 	regiment = {
 		name= "4. Brigada de Infantería 'San Jorge'"
 		type = artillery
-		home = 488
+		home = 497
 	}
 	regiment = {
-		name= "4. Brigada de Infantería 'San Jorge'"
+		name= "5. Brigada de Infantería 'San Jorge'"
 		type = artillery
 		home = 495
 	}

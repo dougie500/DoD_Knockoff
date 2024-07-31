@@ -1353,7 +1353,7 @@ nationalist_rebels = {
 			factor = 0
 			OR = {
 				culture = catalan
-				culture = basque
+				culture = castilian
 			}
 			OR = {
 				pop_majority_ideology = reactionary

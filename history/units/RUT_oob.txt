@@ -8,309 +8,309 @@ MOL = {
 
 
 
-army = {
-	name = "This is an army"
-	location = 963
-	regiment = {
-		name= "1"
-		type = artillery
-		home = 1019
-	}
+# army = {
+# 	name = "This is an army"
+# 	location = 963
+# 	regiment = {
+# 		name= "1"
+# 		type = artillery
+# 		home = 1019
+# 	}
 
-	regiment = {
-		name= "2"
-		type = artillery
-		home = 1019
-	}
+# 	regiment = {
+# 		name= "2"
+# 		type = artillery
+# 		home = 1019
+# 	}
 
-	regiment = {
-		name= "3"
-		type = artillery
-		home = 1019
-	}
+# 	regiment = {
+# 		name= "3"
+# 		type = artillery
+# 		home = 1019
+# 	}
 	
-	regiment = {
-		name= "4"
-		type = artillery
-		home = 964
-	}
+# 	regiment = {
+# 		name= "4"
+# 		type = artillery
+# 		home = 964
+# 	}
 
-	regiment = {
-		name= "5"
-		type = artillery
-		home = 964
-	}
+# 	regiment = {
+# 		name= "5"
+# 		type = artillery
+# 		home = 964
+# 	}
 
-	regiment = {
-		name= "6"
-		type = hussar
-		home = 792
-	}
+# 	regiment = {
+# 		name= "6"
+# 		type = hussar
+# 		home = 792
+# 	}
 	
-	regiment = {
-		name= "7"
-		type = infantry
-		home = 1490
-	} 
+# 	regiment = {
+# 		name= "7"
+# 		type = infantry
+# 		home = 1490
+# 	} 
 
-	regiment = {
-		name= "8"
-		type = infantry
-		home = 974
-	}
+# 	regiment = {
+# 		name= "8"
+# 		type = infantry
+# 		home = 974
+# 	}
 
-	regiment = {
-		name= "9"
-		type = infantry
-		home = 963
-	}
+# 	regiment = {
+# 		name= "9"
+# 		type = infantry
+# 		home = 963
+# 	}
 	
-	regiment = {
-		name= "10"
-		type = infantry
-		home = 970
-	}
-}
-army = {
-	name = "This is an army"
-	location = 961
-	regiment = {
-		name= "1"
-		type = artillery
-		home = 968
-	}
+# 	regiment = {
+# 		name= "10"
+# 		type = infantry
+# 		home = 970
+# 	}
+# }
+# army = {
+# 	name = "This is an army"
+# 	location = 961
+# 	regiment = {
+# 		name= "1"
+# 		type = artillery
+# 		home = 968
+# 	}
 
-	regiment = {
-		name= "2"
-		type = artillery
-		home = 968
-	}
+# 	regiment = {
+# 		name= "2"
+# 		type = artillery
+# 		home = 968
+# 	}
 
-	regiment = {
-		name= "3"
-		type = artillery
-		home = 977
-	}
+# 	regiment = {
+# 		name= "3"
+# 		type = artillery
+# 		home = 977
+# 	}
 	
-	regiment = {
-		name= "4"
-		type = artillery
-		home = 977
-	}
+# 	regiment = {
+# 		name= "4"
+# 		type = artillery
+# 		home = 977
+# 	}
 
-	regiment = {
-		name= "5"
-		type = artillery
-		home = 976
-	}
+# 	regiment = {
+# 		name= "5"
+# 		type = artillery
+# 		home = 976
+# 	}
 
-	regiment = {
-		name= "6"
-		type = hussar
-		home = 976
-	}
+# 	regiment = {
+# 		name= "6"
+# 		type = hussar
+# 		home = 976
+# 	}
 	
-	regiment = {
-		name= "7"
-		type = infantry
-		home = 975
-	}
+# 	regiment = {
+# 		name= "7"
+# 		type = infantry
+# 		home = 975
+# 	}
 
-	regiment = {
-		name= "8"
-		type = infantry
-		home = 1016
-	}
+# 	regiment = {
+# 		name= "8"
+# 		type = infantry
+# 		home = 1016
+# 	}
 
-	regiment = {
-		name= "9"
-		type = infantry
-		home = 1016
-	}
+# 	regiment = {
+# 		name= "9"
+# 		type = infantry
+# 		home = 1016
+# 	}
 	
-	regiment = {
-		name= "10"
-		type = infantry
-		home = 970
-	}
+# 	regiment = {
+# 		name= "10"
+# 		type = infantry
+# 		home = 970
+# 	}
 	
-}
-army = {
-	name = "ree"
-	location = 974
-	regiment = {
-		name = "10. hussar"
-		type = hussar
-		home = 1009
-	}
-	regiment = {
-		name = "1. infantry"
-		type = infantry
-		home = 1011
-	}
-	regiment = {
-		name = "2. infantry"
-		type = infantry
-		home = 971
-	}
-	regiment = {
-		name = "3. infantry"
-		type = infantry
-		home = 1012
-	}
-	regiment = {
-		name = "4. infantry"
-		type = infantry
-		home = 1012
-	}
-	regiment = {
-		name = "5. Artillery"
-		type = artillery
-		home = 969
-	}
-	regiment = {
-		name = "6. Artillery"
-		type = artillery
-		home = 980
-	}
-	regiment = {
-		name = "7. Artillery"
-		type = artillery
-		home = 1011
-	}
-	regiment = {
-		name = "8. Artillery"
-		type = artillery
-		home = 971
-	}
-	regiment = {
-		name = "9. Artillery"
-		type = artillery
-		home = 1017
-	}
-	
-
-}
-army = {
-	name = "ree"
-	location = 971
-	regiment = {
-		name = "10. hussar"
-		type = hussar
-		home = 1015
-	}
-	regiment = {
-		name = "1. infantry"
-		type = artillery
-		home = 1015
-	}
-	regiment = {
-		name = "2. infantry"
-		type = artillery
-		home = 978
-	}
-	regiment = {
-		name = "3. infantry"
-		type = artillery
-		home = 978
-	}
-	regiment = {
-		name = "4. infantry"
-		type = artillery
-		home = 973
-	}
-	regiment = {
-		name = "4. infantry"
-		type = artillery
-		home = 958
-	}
+# }
+# army = {
+# 	name = "ree"
+# 	location = 974
+# 	regiment = {
+# 		name = "10. hussar"
+# 		type = hussar
+# 		home = 1009
+# 	}
+# 	regiment = {
+# 		name = "1. infantry"
+# 		type = infantry
+# 		home = 1011
+# 	}
+# 	regiment = {
+# 		name = "2. infantry"
+# 		type = infantry
+# 		home = 971
+# 	}
+# 	regiment = {
+# 		name = "3. infantry"
+# 		type = infantry
+# 		home = 1012
+# 	}
+# 	regiment = {
+# 		name = "4. infantry"
+# 		type = infantry
+# 		home = 1012
+# 	}
+# 	regiment = {
+# 		name = "5. Artillery"
+# 		type = artillery
+# 		home = 969
+# 	}
+# 	regiment = {
+# 		name = "6. Artillery"
+# 		type = artillery
+# 		home = 980
+# 	}
+# 	regiment = {
+# 		name = "7. Artillery"
+# 		type = artillery
+# 		home = 1011
+# 	}
+# 	regiment = {
+# 		name = "8. Artillery"
+# 		type = artillery
+# 		home = 971
+# 	}
+# 	regiment = {
+# 		name = "9. Artillery"
+# 		type = artillery
+# 		home = 1017
+# 	}
 	
 
-}
-army = {
-	name = "ree"
-	location = 972
-	regiment = {
-		name = "10. hussar"
-		type = hussar
-		home = 960
-	}
-	regiment = {
-		name = "1. infantry"
-		type = artillery
-		home = 962
-	}
-	regiment = {
-		name = "2. infantry"
-		type = artillery
-		home = 972
-	}
-	regiment = {
-		name = "3. infantry"
-		type = artillery
-		home = 972
-	}
-	regiment = {
-		name = "4. infantry"
-		type = artillery
-		home = 1014
-	}
-	regiment = {
-		name = "4. infantry"
-		type = artillery
-		home = 1014
-	}
+# }
+# army = {
+# 	name = "ree"
+# 	location = 971
+# 	regiment = {
+# 		name = "10. hussar"
+# 		type = hussar
+# 		home = 1015
+# 	}
+# 	regiment = {
+# 		name = "1. infantry"
+# 		type = artillery
+# 		home = 1015
+# 	}
+# 	regiment = {
+# 		name = "2. infantry"
+# 		type = artillery
+# 		home = 978
+# 	}
+# 	regiment = {
+# 		name = "3. infantry"
+# 		type = artillery
+# 		home = 978
+# 	}
+# 	regiment = {
+# 		name = "4. infantry"
+# 		type = artillery
+# 		home = 973
+# 	}
+# 	regiment = {
+# 		name = "4. infantry"
+# 		type = artillery
+# 		home = 958
+# 	}
 	
 
-}
-navy = {
-	name = "Skibidi"
-	location = 964
+# }
+# army = {
+# 	name = "ree"
+# 	location = 972
+# 	regiment = {
+# 		name = "10. hussar"
+# 		type = hussar
+# 		home = 960
+# 	}
+# 	regiment = {
+# 		name = "1. infantry"
+# 		type = artillery
+# 		home = 962
+# 	}
+# 	regiment = {
+# 		name = "2. infantry"
+# 		type = artillery
+# 		home = 972
+# 	}
+# 	regiment = {
+# 		name = "3. infantry"
+# 		type = artillery
+# 		home = 972
+# 	}
+# 	regiment = {
+# 		name = "4. infantry"
+# 		type = artillery
+# 		home = 1014
+# 	}
+# 	regiment = {
+# 		name = "4. infantry"
+# 		type = artillery
+# 		home = 1014
+# 	}
+	
+
+# }
+# navy = {
+# 	name = "Skibidi"
+# 	location = 964
 
 	
-	ship = {
-		name= "London"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "London"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "Newcastle"
-		type = clipper_transport
-	}
-	ship = {
-		name= "London"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Newcastle"
+# 		type = clipper_transport
+# 	}
+# 	ship = {
+# 		name= "London"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "Newcastle"
-		type = clipper_transport
-	}
-	ship = {
-		name= "London"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Newcastle"
+# 		type = clipper_transport
+# 	}
+# 	ship = {
+# 		name= "London"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "Newcastle"
-		type = clipper_transport
-	}
-	ship = {
-		name= "London"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Newcastle"
+# 		type = clipper_transport
+# 	}
+# 	ship = {
+# 		name= "London"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "Newcastle"
-		type = clipper_transport
-	}
-	ship = {
-		name= "London"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Newcastle"
+# 		type = clipper_transport
+# 	}
+# 	ship = {
+# 		name= "London"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "Newcastle"
-		type = clipper_transport
-	}
-}
+# 	ship = {
+# 		name= "Newcastle"
+# 		type = clipper_transport
+# 	}
+# }

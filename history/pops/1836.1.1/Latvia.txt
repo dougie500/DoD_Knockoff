@@ -10,13 +10,13 @@
     }
 
     clergymen = {
-    	culture = lithuanian
+    	culture = estonian
 		religion = catholic
         size = 400
     }
 
     artisans = {
-        	culture = lithuanian
+        	culture = estonian
 		religion = catholic
         size = 1300
     }
@@ -46,37 +46,37 @@
     }	
 
 	aristocrats = {
-			culture = lithuanian
+			culture = estonian
 		religion = catholic
 		size = 2600
 	}
 	
 	bureaucrats = {
-			culture = lithuanian
+			culture = estonian
 		religion = catholic
 		size = 200
 	}
 	
     clergymen = {
-        	culture = lithuanian
+        	culture = estonian
 		religion = catholic
         size = 800
     }
 
     artisans = {
-       	culture = lithuanian
+       	culture = estonian
 		religion = catholic
         size = 1500
     }
 
     soldiers = {
-      	culture = lithuanian
+      	culture = estonian
 		religion = catholic
         size = 2000
     }
 
     farmers = {
-       	culture = lithuanian
+       	culture = estonian
 		religion = catholic
         size = 40000
     }
@@ -88,37 +88,37 @@
     }
 
     aristocrats = {
-        culture = lithuanian
+        culture = estonian
         religion = catholic
         size = 400
     }
 
     bureaucrats = {
-        culture = lithuanian
+        culture = estonian
         religion = catholic
         size = 75
     }
 
     officers = {
-        culture = lithuanian
+        culture = estonian
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = estonian
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = lithuanian
+        culture = estonian
         religion = catholic
         size = 1500
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = estonian
         religion = catholic
         size = 900
     }
@@ -268,19 +268,19 @@
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = estonian
         religion = catholic
         size = 300
     }
 
     artisans = {
-        culture = lithuanian
+        culture = estonian
         religion = catholic
         size = 400
     }
 
     farmers = {
-        culture = lithuanian
+        culture = estonian
         religion = catholic
         size = 4394
     }
@@ -386,25 +386,25 @@
 #Jelgava (128000/32000 POPS)  
 357 = {
     clergymen = {
-      	culture = lithuanian
+      	culture = estonian
 		religion = catholic
         size = 550
     }
 
     artisans = {
-       	culture = lithuanian
+       	culture = estonian
 		religion = catholic
         size = 1250
     }
 
     soldiers = {
-   	culture = lithuanian
+   	culture = estonian
 		religion = catholic
         size = 1725
     }
 
     farmers = {
-       	culture = lithuanian
+       	culture = estonian
 		religion = catholic
         size = 45000
     }
@@ -484,13 +484,13 @@
     }
 
     artisans = {
-        	culture = lithuanian
+        	culture = estonian
 		religion = catholic
         size = 300
     }
 
     farmers = {
-    	culture = lithuanian
+    	culture = estonian
 		religion = catholic
         size = 29388
     }
@@ -534,19 +534,19 @@
 #Liepaja (96000/24000 POPS)  
 359 = {
     clergymen = {
-    	culture = lithuanian
+    	culture = estonian
 		religion = catholic
         size = 350
     }
 
     artisans = {
-        	culture = lithuanian
+        	culture = estonian
 		religion = catholic
         size = 150
     }
 
     farmers = {
-        	culture = lithuanian
+        	culture = estonian
 		religion = catholic
         size = 19972
     }

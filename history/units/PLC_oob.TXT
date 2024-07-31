@@ -16,39 +16,39 @@ leader = {
 
 army = {
 	name = "First Army of Poland"
-	location = 936
+	location = 711
 	regiment = {
 		name= "1.1st Division"
 		type = artillery
-		home = 357
+		home = 702
 	}
 
 	regiment = {
 		name= "2.1st Division"
 		type = artillery
-		home = 357
+		home = 956
 	}
 
 	regiment = {
 		name= "3.1st Division"
 		type = artillery
-		home = 360
+		home = 715
 	}
 	
 	regiment = {
 		name= "4.1st Division"
 		type = artillery
-		home = 360
+		home = 709
 	}
 	regiment = {
 		name= "4.1st Division"
 		type = artillery
-		home = 719
+		home = 693
 	}
 	regiment = {
 		name= "5.1st Division"
 		type = hussar
-		home = 719
+		home = 693
 	}
 }
 
@@ -62,9 +62,9 @@ army = {
 		home = 712
 	}
 	regiment = {
-		name= "1.1st Division"
+		name= "5.1st Division"
 		type = artillery
-		home = 357
+		home = 696
 	}
 	regiment = {
 		name= "2.1st Division"
@@ -81,7 +81,7 @@ army = {
 	regiment = {
 		name= "4.1st Division"
 		type = artillery
-		home = 354
+		home = 696
 	}
 	
 	regiment = {
@@ -100,14 +100,14 @@ army = {
 		home = 717
 	}
 	regiment = {
-		name= "1.1st Division"
+		name= "5.1st Division"
 		type = artillery
-		home = 717
+		home = 700
 	}
 	regiment = {
 		name= "2.1st Division"
 		type = artillery
-		home = 718
+		home = 957
 	}
 
 	regiment = {
@@ -127,4 +127,26 @@ army = {
 		type = hussar
 		home = 704
 	}
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 719
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = infantry
+		home = 719
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 706
+	}
+
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 960
+	}
+
 }

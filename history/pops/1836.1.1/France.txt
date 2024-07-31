@@ -3154,32 +3154,32 @@
 	}
 
 	aristocrats = {
-		culture = basque
+		culture = castilian
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = basque
+		culture = castilian
 		religion = catholic
 		size = 450
 	}
 
 	artisans = {
-		culture = basque
+		culture = castilian
 		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
-		culture = basque
+		culture = castilian
 		religion = catholic
 		size= 450
 
 	}
 
 	farmers = {
-		culture = basque
+		culture = castilian
 		religion = catholic
 		size = 41200
 	}

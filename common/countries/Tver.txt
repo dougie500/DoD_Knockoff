@@ -1,5 +1,5 @@
 color = { 136  158  183 }
-graphical_culture = RussianGC
+graphical_culture = russianGC
 
 party = {
 	name = "TAR_conservative"

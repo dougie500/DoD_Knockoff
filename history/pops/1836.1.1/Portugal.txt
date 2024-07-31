@@ -8,7 +8,7 @@
 	}
     
   craftsmen = {
-		culture = castilian
+		culture = portuguese
 		religion = catholic
 		size = 2500
 	}    
@@ -71,7 +71,7 @@
 	farmers = {
 		culture = portuguese
 		religion = catholic
-		size = 107140
+		size = 117140
 	}
 
 	aristocrats = {
@@ -119,7 +119,7 @@
 	farmers = {
 		culture = castilian
 		religion = catholic
-		size = 45060
+		size = 35060
 	}
 
 }
@@ -153,7 +153,7 @@
 	farmers = {
 		culture = castilian
 		religion = catholic
-		size = 20925
+		size = 15925
 	}
 
 	clergymen = {
@@ -165,44 +165,44 @@
 	farmers = {
 		culture = portuguese
 		religion = catholic
-		size = 48350
+		size = 58350
 	}
 }
 #Covilha (568000/142000 POPS)
 520 = {
 	aristocrats = {
-		culture = castilian
+		culture = portuguese
 		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = castilian
+		culture = portuguese
 		religion = catholic
 		size = 500
 	}
 
 	artisans = {
-		culture = castilian
+		culture = portuguese
 		religion = catholic
 		size = 3500
 	}
 	
 	artisans = {
-		culture = castilian
+		culture = portuguese
 		religion = catholic
 		size = 2250
 	}
 
 	soldiers = {
-		culture = castilian
+		culture = portuguese
 		religion = catholic
 		size= 1500
 
 	}
 
 	farmers = {
-		culture = castilian
+		culture = portuguese
 		religion = catholic
 		size = 40500
 	}
@@ -311,12 +311,6 @@
 		culture = portuguese
 		religion = catholic
 		size = 5400
-	}
-
-	soldiers = {
-		culture = portuguese
-		religion = catholic
-		size= 3700
 	}
 
 	farmers = {
@@ -597,7 +591,7 @@
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size= 3220
+		size= 1220
 
 	}
 
@@ -644,9 +638,9 @@
 	}
 
 	farmers = {
-		culture = castilian
+		culture = portuguese
 		religion = catholic
-		size = 15440
+		size = 25440
 	}
 }
 #Beja (96000/24000 POPS)
@@ -682,33 +676,33 @@
 	}
 
 	aristocrats = {
-		culture = castilian
+		culture = portuguese
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = castilian
+		culture = portuguese
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = castilian
+		culture = portuguese
 		religion = catholic
 		size = 625
 	}
 
 	soldiers = {
-		culture = castilian
+		culture = portuguese
 		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = castilian
+		culture = portuguese
 		religion = catholic
-		size = 11962
+		size = 21962
 	}
 
 }
@@ -745,33 +739,33 @@
 	}
 
 	aristocrats = {
-		culture = castilian
+		culture = portuguese
 		religion = catholic
 		size = 275
 	}
 
 	clergymen = {
-		culture = castilian
+		culture = portuguese
 		religion = catholic
 		size = 195
 	}
 
 	artisans = {
-		culture = castilian
+		culture = portuguese
 		religion = catholic
 		size = 875
 	}
 
 	soldiers = {
-		culture = castilian
+		culture = portuguese
 		religion = catholic
 		size = 175
 	}
 
 	farmers = {
-		culture = castilian
+		culture = portuguese
 		religion = catholic
-		size = 14864
+		size = 18864
 	}
 }
 #Azores & Madeira Region (308000)

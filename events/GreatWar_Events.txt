@@ -2257,7 +2257,7 @@ country_event = {
 
 		change_tag = POL
 		remove_accepted_culture = lithuanian
-		remove_accepted_culture = ruthenian
+		remove_accepted_culture = russian
 		
 		any_owned = {
 			limit = {
@@ -2939,7 +2939,7 @@ country_event = {
 	    remove_accepted_culture = irish 
 	    remove_accepted_culture = scottish 
 	    remove_accepted_culture = provencal
-	    remove_accepted_culture = basque
+	    remove_accepted_culture = castilian
 	    add_accepted_culture = french 
 	    add_accepted_culture = breton 
 		
@@ -3761,7 +3761,7 @@ country_event = {
 	    remove_accepted_culture = astrakhani		
 	    remove_accepted_culture = georgian 
 	    remove_accepted_culture = estonian 		
-	    remove_accepted_culture = ruthenian
+	    remove_accepted_culture = russian
 	    remove_accepted_culture = estonian
 	    remove_accepted_culture = finnish		
 

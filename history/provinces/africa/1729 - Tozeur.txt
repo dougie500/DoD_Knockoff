@@ -1,5 +1,6 @@
-owner = TUN
-controller = TUN
+owner = MGH
+controller = MGH
+add_core = MGH
 add_core = TUN
 add_core = MGH
 trade_goods = wool

@@ -1,6 +1,7 @@
 owner = BLR
 controller = BLR
 add_core = BLR
+add_core = PLC
 
 trade_goods = timber
 life_rating = 35

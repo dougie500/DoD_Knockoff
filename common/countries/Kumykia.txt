@@ -1,5 +1,5 @@
 color = { 0 101 148 }
-graphical_culture = RussianGC
+graphical_culture = russianGC
 
 party = {
 	name = "KMY_conservative"

@@ -1,6 +1,7 @@
-owner = BLR
-controller = BLR
-add_core = BLR
+owner = MUS
+controller = MUS
+add_core = MUS
+add_core = RUT
 trade_goods = cattle
 life_rating = 35
 #state_building = {

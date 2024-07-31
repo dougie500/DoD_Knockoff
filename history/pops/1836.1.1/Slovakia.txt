@@ -639,26 +639,26 @@
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 75  
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 400 
 	}
 
 	soldiers = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size= 75
 
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 8450
 	}

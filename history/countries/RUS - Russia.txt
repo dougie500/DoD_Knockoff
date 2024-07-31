@@ -1,6 +1,6 @@
 capital = 1008
 primary_culture = russian
-culture = ruthenian
+culture = russian
 culture = ugrian
 religion = orthodox
 government = democracy

@@ -44,7 +44,7 @@ NOV_Tver = {
 		state_n_government = 1
 		
 	
-		MRL = { 
+		MUS = { 
 		     	exists = yes 
 			 	vassal_of = NOV
 			 	all_core = {
@@ -60,12 +60,15 @@ NOV_Tver = {
 	effect = { 
 	
 		set_country_flag = NOV_Tver
-		RUS_998 = {
+		RUS_1009 = {
+			add_core = THIS
+		}
+		RUS_1008 = {
 			add_core = THIS
 		}
 		random_country = { 
 			limit = {
-				tag = MRL
+				tag = MUS
 				
 			}
 			annex_to = THIS
@@ -73,6 +76,34 @@ NOV_Tver = {
 	}
 	
 }
+
+NOV_Leutvia = {
+	
+potential = { 
+	OR = { tag = NOV
+	 tag = POH
+	 tag = HYP
+}
+	NOT = {
+		has_country_flag = NOV_Leutvia
+		
+	}
+}
+
+allow = {
+	LIT_698 = { owned_by = THIS }
+	
+
+}
+effect = { 
+
+	set_country_flag = NOV_Leutvia
+	LIT_698 = {
+		add_core = THIS
+	}
+ }
+}
+
 NOV_Russian = {
 	picture = Hyperborea
 	potential = {
@@ -86,10 +117,10 @@ NOV_Russian = {
 	allow = {
 		war = no
 		nationalism_n_imperialism = 1
-		RUS_943 = { owned_by = THIS }
-		RUS_1009 = { owned_by = THIS }
 		RUS_1008 = { owned_by = THIS }
-		RUS_1020 = { owned_by = THIS }
+		RUS_1009 = { owned_by = THIS }
+		RUS_994 = { owned_by = THIS }
+		RUS_718 = { owned_by = THIS }
 
 	}
 
@@ -97,16 +128,25 @@ NOV_Russian = {
 		set_country_flag = NOV_Russian
 		prestige = 10
 		add_accepted_culture = russian 
-		RUS_943 = {
+		RUS_1008 = {
 			add_core = THIS
 		}
 		RUS_1009 = {
 			add_core = THIS
 		}
-		RUS_1008 = {
+		RUS_994 = {
 			add_core = THIS
 		}
-		RUS_1020 = {
+		RUS_718 = {
+			add_core = THIS
+		}
+		RUS_955= {
+			add_core = THIS
+		}
+		RUS_958= {
+			add_core = THIS
+		}
+		RUS_1037= {
 			add_core = THIS
 		}
 change_tag = POH
@@ -116,11 +156,15 @@ change_tag = POH
 		factor = 1
 	}
 }
+
 NOV_Lithuanian = {
 	picture = lithuania
 	potential = {
-		tag = NOV
-
+		
+		OR = { tag = NOV
+		tag = POH
+		tag = HYP
+   }
 		NOT = { has_country_flag = NOV_Lithuanian }
 	}
 
@@ -150,6 +194,7 @@ NOV_Lithuanian = {
 		factor = 1
 	}
 }
+
 NOV_Sweden = {
 	picture = Swedonistan
 	potential = {
@@ -260,54 +305,54 @@ NOV_Scandi = {
 
 
 #PLC Decision
-Prussian_Occ = {
-		picture = prussia
-	potential = { 
-		 tag = PLC
+# Prussian_Occ = {
+# 		picture = prussia
+# 	potential = { 
+# 		 tag = PLC
 		
 			
 		
 		
-		NOT = {
-			has_country_flag = Prussian_Occ
+# 		NOT = {
+# 			has_country_flag = Prussian_Occ
 		
 			
-		}
-	}
+# 		}
+# 	}
 
-	allow = {
+# 	allow = {
 	
-		year = 1838
-		PRU = {
-			all_core = {
-				OR = {
-				owned_by = PRU
-				owned_by = PLC
-				}
-			}
-		}
+# 		year = 1838
+# 		PRU = {
+# 			all_core = {
+# 				OR = {
+# 				owned_by = PRU
+# 				owned_by = PLC
+# 				}
+# 			}
+# 		}
 	
-	}
-	effect = { 
+# 	}
+# 	effect = { 
 	
-		random_country = { 
-			limit = {
-				tag = PRU
+# 		random_country = { 
+# 			limit = {
+# 				tag = PRU
 				
-			}
-			annex_to = THIS
-		}
+# 			}
+# 			annex_to = THIS
+# 		}
 		
-		set_country_flag = Prussian_Occ
-		add_country_modifier = {
-			name = Prussian_occupation 
-			duration = 1900
-		}
+# 		set_country_flag = Prussian_Occ
+# 		add_country_modifier = {
+# 			name = Prussian_occupation 
+# 			duration = 1900
+# 		}
 		
 		
-	}
+# 	}
 	
-}
+# }
 
 PLC_zapadoslavia1 = {
 		picture = silesia
@@ -481,7 +526,7 @@ Core_poz= {
 
 			OR = {
 				BLR = { substate_of = PLC }
-				UKR = { substate_of = PLC }
+				LIT = { substate_of = PLC }
 			}
 		}
 	
@@ -494,7 +539,7 @@ Core_poz= {
 			}
 			OR = {
 				BLR = { substate_of = PLC }
-				UKR = { substate_of = PLC }
+				LIT = { substate_of = PLC }
 			}
 			
 			war = no
@@ -507,7 +552,7 @@ Core_poz= {
 				limit = {
 					OR = {
 						tag = BLR
-						tag = UKR
+						tag = LIT
 					}
 					substate_of = THIS
 				}
@@ -522,6 +567,8 @@ Core_poz= {
 				}
 				militancy = 2
 			}
+			add_accepted_culture = ashkenazi
+
 			set_country_flag = lublin_new
 		}
 	
@@ -529,69 +576,76 @@ Core_poz= {
 			factor = 1
 		}
 	}
-	Declare_The_Polish_Lithuanian_Ukranian_Commonwealth = {
+	Form_Ruthenia = {
 		picture = ukraine
 		potential = { 
 			tag = PLC 
 
 			NOT = {
-				has_country_flag = Form_The_Polish_Lithuanian_Ukranian_Commonwealth
+				has_country_flag = Form_Ruthenia
 				has_country_flag = PLC_zapadoslavia1
 			}
 		}
 	
 		allow = {
-		RUS_958 = { owned_by = THIS }
-		RUS_965 = { owned_by = THIS }
-		RUS_977 = { owned_by = THIS }
-		RUS_1037 = { owned_by = THIS }
-
-		}
+			RUT = { 
+				all_core = {
+				   OR = {
+					   owned_by = THIS
+					   owner = { vassal_of = THIS }
+				   }
+			   }
+		   }
+		   nationalism_n_imperialism = 1
+	   }
 	
 		effect = { 
-			RUS_958 = {
+			any_owned = {
+				limit = {
+					is_core = RUT
+				}
 				add_core = THIS
 			}
-			RUS_965 = {
+			 
+			RUS_943 = {
 				add_core = THIS
 			}
-			RUS_977 = {
+			RUS_998 = {
 				add_core = THIS
 			}
-			RUS_1037 = {
-				add_core = THIS
-			}
+			add_accepted_culture = russian
+			change_tag = RUT
 			
 			
 			
-			set_country_flag = Form_The_Polish_Lithuanian_Ukranian_Commonwealth
+			set_country_flag = Form_Ruthenia
 		}
 		
 	}
 
 
-	romanian_cherson = {
-		picture = cherson	
-		potential = { 
-		tag = ROM 
-		NOT = { has_country_flag = ROM_cherson }
-			}
+	# romanian_cherson = {
+	# 	picture = cherson	
+	# 	potential = { 
+	# 	tag = ROM 
+	# 	NOT = { has_country_flag = ROM_cherson }
+	# 		}
 			
-		allow = { 
-		nationalism_n_imperialism = 1 
-		rank = 16 
-		OR = { 
-		all_core = { owned_by = THIS }
-		war_policy = jingoism
-			}
-		}	
+	# 	allow = { 
+	# 	nationalism_n_imperialism = 1 
+	# 	rank = 16 
+	# 	OR = { 
+	# 	all_core = { owned_by = THIS }
+	# 	war_policy = jingoism
+	# 		}
+	# 	}	
 		
-		effect = { 
-			set_country_flag = ROM_cherson
-			badboy = 5 
-			RUS_965 = { add_core = ROM }
-		}
-	}
+	# 	effect = { 
+	# 		set_country_flag = ROM_cherson
+	# 		badboy = 5 
+	# 		RUS_965 = { add_core = ROM }
+	# 	}
+	# }
 
 	baltic_cultures = {
 		picture = latvia_birch
@@ -625,51 +679,51 @@ Core_poz= {
 		}
 	}
 	
-	treaty_hadiach = {
-		picture = treaty_hadiach
+	# treaty_hadiach = {
+	# 	picture = treaty_hadiach
 
-		potential = { 
-			tag = PLC 
-			has_country_flag = lublin_new 
-			NOT = { has_country_flag = treaty_hadiach }
-		}
+	# 	potential = { 
+	# 		tag = PLC 
+	# 		has_country_flag = lublin_new 
+	# 		NOT = { has_country_flag = treaty_hadiach }
+	# 	}
 
-		allow = {
-			nationalism_n_imperialism = 1
-		}
+	# 	allow = {
+	# 		nationalism_n_imperialism = 1
+	# 	}
 	
-		effect = { 
-			set_country_flag = treaty_hadiach
-			prestige = 20
-			add_accepted_culture = ruthenian
-			any_pop = {
-				limit = {
-					culture = polish
-				}
-				militancy = 3
-				consciousness = 3
-				ideology = {
-					factor = 0.2
-					value = reactionary
-				}
-			}
-			any_pop = {
-				limit = {
-					culture = ruthenian
-				}
-				consciousness = 1
-				militancy = -5
-				ideology = {
-					factor = 0.1
-					value = liberal
-				}
-			}
-		}
+	# 	effect = { 
+	# 		set_country_flag = treaty_hadiach
+	# 		prestige = 20
+	# 		add_accepted_culture = russian
+	# 		any_pop = {
+	# 			limit = {
+	# 				culture = polish
+	# 			}
+	# 			militancy = 3
+	# 			consciousness = 3
+	# 			ideology = {
+	# 				factor = 0.2
+	# 				value = reactionary
+	# 			}
+	# 		}
+	# 		any_pop = {
+	# 			limit = {
+	# 				culture = russian
+	# 			}
+	# 			consciousness = 1
+	# 			militancy = -5
+	# 			ideology = {
+	# 				factor = 0.1
+	# 				value = liberal
+	# 			}
+	# 		}
+	# 	}
 
-		ai_will_do = {
-			factor = 1
-		}
-	}
+	# 	ai_will_do = {
+	# 		factor = 1
+	# 	}
+	# }
 
 	
 	meddle_with_cossacks = { 

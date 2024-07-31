@@ -688,6 +688,7 @@ political_decisions = {
 			TUR_674= {
 				add_core = THIS
 			}	
+			badboy = 3
 			add_accepted_culture = albanian
 			add_accepted_culture = greek
 			remove_accepted_culture = north_italian

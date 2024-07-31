@@ -1,5 +1,5 @@
 capital = 2431
-primary_culture = amazonian
+primary_culture = portuguese
 religion = catholic
 government = democracy
 plurality = 0.2

@@ -1,7 +1,7 @@
 capital = 487
 primary_culture = spanish
 culture = catalan
-culture = basque
+culture = castilian
 culture = portuguese
 religion = catholic
 government = hms_government

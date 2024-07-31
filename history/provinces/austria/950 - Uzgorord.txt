@@ -1,5 +1,6 @@
 owner = SIE
 controller = SIE
 add_core = SIE
+
 trade_goods = coal
 life_rating = 35

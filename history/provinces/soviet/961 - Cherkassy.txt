@@ -3,7 +3,7 @@ controller = TAR
 add_core = TAR
 life_rating = 35
 
-
+add_core = RUT
 
 
 trade_goods = cattle

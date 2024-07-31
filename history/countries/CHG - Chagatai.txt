@@ -5,8 +5,8 @@ religion = sunni
 government = khanate
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.02
-non_state_culture_literacy = 0.02
+literacy = 0.03
+non_state_culture_literacy = 0.03
 
 # Political reforms
 slavery = no_slavery
@@ -51,11 +51,14 @@ upper_house = {
 # Technologies
 late_enlightenment_philosophy = 1
 military_staff_system = 1
+army_command_principle = 1
+freedom_of_trade = 1
 # Inventions
 
 # Unciv Reforms
 education_reform = yes_education_reform
 foreign_officers = yes_foreign_officers
+foreign_training = yes_foreign_training
 set_country_flag = sunni_country
 
 # Starting Consciousness

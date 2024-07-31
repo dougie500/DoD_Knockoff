@@ -1828,26 +1828,26 @@
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 200
 	}
 
 	soldiers = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size= 25
 
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 3700
 	}
@@ -1955,26 +1955,26 @@
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 175
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 450
 	}
 
 	soldiers = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size= 175
 
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 18200
 	}
@@ -2222,37 +2222,37 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 800
+		size= 2000
 
 	}
 
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 75475
+		size = 115475
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 200
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 1100
 	}
 
 	soldiers = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size= 225
 
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 20475
 	}
@@ -2380,26 +2380,26 @@
 #Przemysl (596000/149000 POPS)
 705 = {
 	clergymen = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 175
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 950
 	}
 
 	soldiers = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size= 175
 
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 17700
 	}
@@ -2545,7 +2545,7 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 1500
+		size= 5500
 
 	}
 
@@ -2657,7 +2657,7 @@
 	}
 
 	artisans = {
-		culture = polish
+		culture = lithuanian
 		religion = catholic
 		size = 1900
 	}
@@ -2670,7 +2670,7 @@
 	}
 
 	farmers = {
-		culture = polish
+		culture = lithuanian
 		religion = catholic
 		size = 35250
 	}
@@ -2842,14 +2842,14 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size= 400
+		size= 2000
 
 	}
 
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 38875
+		size = 98875
 	}
 
 	bureaucrats = {
@@ -3039,26 +3039,26 @@
 #Bialystok (320000/80000 POPS)
 719 = {
 	clergymen = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 325
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 250
 	}
 
 	soldiers = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size= 125
 
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 19150
 	}

@@ -1,7 +1,5 @@
-owner = QAJ
-controller = QAJ
-add_core = QAJ     
-add_core = AFG    
-add_core = ARY
+owner = AFG
+controller = AFG
+add_core = AFG   
 trade_goods = wool
 life_rating = 35

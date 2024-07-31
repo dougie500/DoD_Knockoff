@@ -1,7 +1,7 @@
-owner = PLC
-controller = PLC
-add_core = PLC
-
+owner = TAR
+controller = TAR
+add_core = TAR
+add_core = RUT
 
 trade_goods = grain
 life_rating = 40

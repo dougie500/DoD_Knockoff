@@ -1,5 +1,5 @@
-owner = TUN
-controller = TUN
+owner = ARA
+controller = ARA
 add_core = TUN
 add_core = MGH
 trade_goods = fruit

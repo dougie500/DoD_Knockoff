@@ -20,7 +20,7 @@ army = {
 	regiment = {
 		name= "1. infantry"
 		type = infantry
-		home = 734
+		home = 1789
 	}
 
 	regiment = {
@@ -101,18 +101,18 @@ army = {
 		home = 859
 	}
 	regiment = {
-		name= "4. infantry"
+		name= "1. infantry"
 		type = artillery
 		home = 845
 	}
 
 	regiment = {
-		name= "5. infantry"
+		name= "2. infantry"
 		type = artillery
 		home = 860
 	}
 	regiment = {
-		name= "4. infantry"
+		name= "3. infantry"
 		type = artillery
 		home = 840
 	}
@@ -122,14 +122,14 @@ army = {
 		home = 737
 	}
 	regiment = {
-		name= "4. infantry"
+		name= "5. infantry"
 		type = artillery
-		home = 966
+		home = 853
 	}
 	regiment = {
 		name= "4. infantry"
 		type = hussar
-		home = 966
+		home = 824
 	}
 
 }

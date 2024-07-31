@@ -33,12 +33,6 @@
 		size = 76140   
 	}
 	
-	serfs = {
-		culture = romanian
-		religion = orthodox
-		size = 50760   
-	}	
-
 	aristocrats = {
 		culture = hungarian
 		religion = catholic
@@ -2151,26 +2145,26 @@
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 125   
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 700 
 	}
 
 	soldiers = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size= 150
 
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 14025   
 	}
@@ -2265,6 +2259,12 @@
 		religion = orthodox
 		size = 1100 
 	}
+
+	serfs = {
+		culture = romanian
+		religion = orthodox
+		size = 50760   
+	}	
 
 	farmers = {
 		culture = romanian
@@ -2867,19 +2867,19 @@
 	}
 
 	clergymen = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 25 
 	}
 
 	artisans = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 150
 	}
 
 	farmers = {
-		culture = ruthenian
+		culture = russian
 		religion = orthodox
 		size = 2825
 	}

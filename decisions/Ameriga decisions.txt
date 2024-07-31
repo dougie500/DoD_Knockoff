@@ -497,7 +497,7 @@ political_decisions = {
 		change_tag = AZL
 		capital = 2447
 		AMA = { all_core = { add_core = AZL } }
-		add_accepted_culture = amazonian 
+		add_accepted_culture = portuguese 
 		AMA = { country_event = 97096 }
 		}
 	

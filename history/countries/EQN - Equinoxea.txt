@@ -1,5 +1,5 @@
 capital = 2424
-primary_culture = amazonian
+primary_culture = portuguese
 culture = plantagenian 
 religion = catholic
 government = democracy

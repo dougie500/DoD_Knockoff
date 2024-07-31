@@ -15,3 +15,4 @@ state_building = {
 	building = artillery_factory
 	upgrade = yes
 }
+add_core = RUT

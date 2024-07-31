@@ -28,9 +28,9 @@
 	}
 
 	farmers = {
-		culture = russian
+		culture = mongol
 		religion = orthodox
-		size = 665
+		size = 29665
 	}
 
 	aristocrats = {
@@ -42,13 +42,13 @@
 	clergymen = {
 		culture = mongol
 		religion = sunni
-		size = 75
+		size = 275
 	}
 
 	artisans = {
 		culture = mongol
 		religion = sunni
-		size = 200
+		size = 2000
 	}
 
 	soldiers = {
@@ -94,7 +94,7 @@
 	farmers = {
 		culture = mongol
 		religion = sunni
-		size = 4575
+		size = 21575
 	}
 }
 #Uralsk (13000/3250 POPS)
@@ -121,7 +121,7 @@
 	farmers = {
 		culture = tatar
 		religion = sunni
-		size = 1150
+		size = 51150
 	}
 
 	aristocrats = {
@@ -145,7 +145,7 @@
 	soldiers = {
 		culture = mongol
 		religion = sunni
-		size= 25
+		size= 225
 
 	}
 
@@ -197,7 +197,11 @@
 		religion = sunni
 		size = 225
 	}
-
+	bureaucrats = {
+		culture = mongol
+		religion = sunni
+		size = 50
+	}
 	clergymen = {
 		culture = mongol
 		religion = sunni
@@ -328,7 +332,11 @@
 		religion = sunni
 		size = 350
 	}
-
+	bureaucrats = {
+		culture = mongol
+		religion = sunni
+		size = 50
+	}
 	clergymen = {
 		culture = mongol
 		religion = sunni
@@ -680,7 +688,7 @@
 	farmers = {
 		culture = mongol
 		religion = sunni
-		size = 6425
+		size = 26425
 	}
 }
 #Mawarannahr Region (180000) #see Uzbekistan.txt, Tajikistan.txt, Kirghizstan.txt for balance of region 

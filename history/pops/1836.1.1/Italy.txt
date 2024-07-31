@@ -2048,14 +2048,14 @@
 	soldiers = {
 		culture = south_italian
 		religion = catholic
-		size= 2000
+		size= 4000
 
 	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 109325
+		size = 119325
 	}
 	
 	farmers = {
@@ -2163,7 +2163,7 @@
     soldiers = {
 		culture = catalan
 		religion = catholic
-		size = 3000
+		size = 4000
     }	
 
 	farmers = {
@@ -2175,7 +2175,7 @@
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 53150
+		size = 76150
 	}
 	
 	farmers = {

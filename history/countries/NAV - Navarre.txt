@@ -1,5 +1,5 @@
 capital = 492
-primary_culture = basque
+primary_culture = castilian
 culture = castilian
 religion = catholic
 government = prussian_constitutionalism

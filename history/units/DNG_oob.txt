@@ -20,37 +20,98 @@ leader = {
 
 army = {
 	name = "1st Army of the Standard of Qingqiu"
-	location = 84
+	location = 78
 	regiment = {
 		name= "1st infantry"
 		type = infantry
-		home = 81
+		home = 658
 	}
 
 	regiment = {
 		name= "2nd infantry"
 		type = infantry
-		home = 13
+		home = 2483
 	}
 
 	regiment = {
 		name= "3rd infantry"
 		type = infantry
-		home = 20
+		home = 2483
 	}
 	
 	regiment = {
 		name= "4th infantry"
 		type = infantry
+		home = 2481
+	}
+	regiment = {
+		name= "5"
+		type = hussar
+		home = 2472
+	}
+
+	regiment = {
+		name= "6"
+		type = artillery
+		home = 81
+	}
+
+	regiment = {
+		name= "7"
+		type = artillery
+		home = 1463
+	}
+	
+	regiment = {
+		name= "8"
+		type = artillery
+		home = 1431
+	}
+	regiment = {
+		name= "9"
+		type = artillery
+		home = 1432
+	}
+	
+	regiment = {
+		name= "10"
+		type = artillery
 		home = 82
 	}
 }
 
 navy = {
 	name = "Fleet of Qingqiu"
-	location = 84
+	location = 78
 
+	ship = {
+		name= "Dong Guo"
+		type = manowar
+	}
 
+	ship = {
+		name= "Shanghai"
+		type = manowar
+	}
+
+	ship = {
+		name= "Ming"
+		type = manowar
+	}
+	ship = {
+		name= "Dong Guo"
+		type = manowar
+	}
+
+	ship = {
+		name= "Shanghai"
+		type = manowar
+	}
+
+	ship = {
+		name= "Ming"
+		type = manowar
+	}
 	ship = {
 		name= "Dong Guo"
 		type = frigate
@@ -73,6 +134,71 @@ navy = {
 
 	ship = {
 		name= "Nanjing"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Dong Guo"
+		type = frigate
+	}
+
+	ship = {
+		name= "Shanghai"
+		type = frigate
+	}
+
+	ship = {
+		name= "Ming"
+		type = frigate
+	}
+
+	ship = {
+		name= "Beijing"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Nanjing"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Dong Guo"
+		type = frigate
+	}
+
+	ship = {
+		name= "Shanghai"
+		type = frigate
+	}
+
+	ship = {
+		name= "Ming"
+		type = frigate
+	}
+
+	ship = {
+		name= "Beijing"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Nanjing"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Beijing"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Nanjing"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Beijing"
+		type = clipper_transport
+	}
+	ship = {
+		name= "Beijing"
 		type = clipper_transport
 	}
 }

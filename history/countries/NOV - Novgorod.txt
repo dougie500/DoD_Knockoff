@@ -5,8 +5,8 @@ religion = orthodox
 government = hms_government
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.82
-non_state_culture_literacy = 0.22
+literacy = 0.80
+non_state_culture_literacy = 0.3
 civilized = yes
 prestige = 14
 
@@ -21,10 +21,10 @@ voting_system = jefferson_method
 political_parties = gerrymandering
 
 # Social Reforms
-wage_reform = no_minimum_wage
+wage_reform = trinket_minimum_wage
 work_hours = no_work_hour_limit
 safety_regulations = no_safety
-health_care = trinket_health_care
+health_care = low_health_care
 unemployment_subsidies = no_subsidies
 pensions = trinket_pensions
 school_reforms = low_schools
@@ -78,7 +78,8 @@ enlightenment_thought = 1
 experimental_railroad = 1 
 mechanical_production = 1 
 puddling_proccess = 1 
-positivism = 1 
+positivism = 1
+army_professionalism = 1 
 #Inventions
 #corvettes = yes
 commerce_raiders = yes
