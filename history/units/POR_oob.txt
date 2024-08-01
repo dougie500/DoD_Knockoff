@@ -62,6 +62,70 @@ army = {
 		home = 2436
 	}     
 }
+army = {
+	name = "Ejdircito del Sur"
+	location = 524
+	
+
+	regiment = {
+		name= "1. Brigada de Infantera 'El Ramillete'"
+		type = infantry
+		home = 2339
+	}
+
+	regiment = {
+		name= "2. Brigada de Infantera"
+		type = infantry
+		home = 2341
+	}
+
+	regiment = {
+		name= "3. Granaderos del Rey"
+		type = infantry
+		home = 2342
+	}
+
+	regiment = {
+		name= "4. Granaderos del Rey"
+		type = infantry
+		home = 521
+	}
+	
+	regiment = {
+		name= "5. Granaderos del Rey"
+		type = hussar
+		home = 525
+	}
+	
+	regiment = {
+		name= "1. Brigada de Infantera"
+		type = artillery
+		home = 2464
+	}
+
+		regiment = {
+		name= "2. Brigada de Infantera"
+		type = artillery
+		home = 2461
+	}
+	regiment = {
+		name= "3. Brigada de Artillera"
+		type = artillery
+		home = 2449
+	}
+	
+	regiment = {
+		name= "4. Brigada de Infantera"
+		type = artillery
+		home = 2437
+	}            
+	
+	regiment = {
+		name= "5. Brigada de Infantera"
+		type = artillery
+		home = 2436
+	}     
+}
 
 
 army = {

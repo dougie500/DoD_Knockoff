@@ -1,2 +1,7 @@
-add_core = AVAtrade_goods = timber
-life_rating = 31
+owner = POR
+controller = POR
+add_core = LOT
+add_core = POR
+
+trade_goods = timber
+life_rating = 31

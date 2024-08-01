@@ -1436,7 +1436,7 @@
 	craftsmen = {
 		culture = anglois
 		religion = catholic
-		size = 100000
+		size = 30000
 	}
 	
 	craftsmen = {
@@ -1551,7 +1551,7 @@
 	farmers = {
 		culture = anglois
 		religion = catholic
-		size = 160000
+		size = 230000
 	}
 	
 	farmers = {
@@ -1603,7 +1603,11 @@
 		religion = catholic
 		size = 3700
 	}
-
+	craftsmen = {
+		culture = anglois
+		religion = catholic
+		size = 18000
+	}
 	clergymen = {
 		culture = anglois
 		religion = catholic
@@ -2096,13 +2100,13 @@
 	soldiers = {
 		culture = anglois
 		religion = catholic
-		size = 6000
+		size = 3000
 	}		
 	
 	farmers = {
 		culture = anglois
 		religion = catholic
-		size = 80000
+		size = 83000
 	}
 }
 #Le Mans (464000/116000 POPS)
@@ -2217,32 +2221,32 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size= 12000
+		size= 6000
 
 	}
 	
 	craftsmen = {
 		culture = french
 		religion = catholic
-		size = 30050
+		size = 10050
 	}
 	
 	craftsmen = {
 		culture = anglois
 		religion = catholic
-		size = 20000
+		size = 10000
 	}
 	
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 53050
+		size = 73050
 	}
 	
 	farmers = {
 		culture = anglois
 		religion = catholic
-		size = 20000
+		size = 36000
 	}
 }
 #Bourges (264400/66100 POPS)
@@ -2360,13 +2364,13 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 9000
+		size = 5000
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 75000
+		size = 80000
 	}
 	farmers = {
 		culture = provencal
@@ -2467,13 +2471,13 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 6000
+		size = 3000
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 88450
+		size = 91450
 	}
 }
 #Chateauroux (520000/130000 POPS)
@@ -2539,13 +2543,13 @@
 	farmers = {
 		culture = provencal
 		religion = protestant
-		size = 63600
+		size = 78600
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 40000
+		size = 25000
 	}
 }
 #Auvergne Region (1418000)

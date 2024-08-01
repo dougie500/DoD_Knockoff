@@ -2079,12 +2079,12 @@
 	craftsmen = {
 		culture = anglois
 		religion = catholic
-		size = 61600
+		size = 51600
 	}
 	craftsmen = {
 		culture = english
 		religion = catholic
-		size = 50000
+		size = 40000
 	}
 	artisans = {
 		culture = english
@@ -2101,7 +2101,7 @@
 	artisans = {
 		culture = anglois
 		religion = catholic
-		size = 10000
+		size = 20000
 	}
 	
 	artisans = {
@@ -2151,7 +2151,7 @@
 	labourers = {
 		culture = anglois
 		religion = catholic
-		size = 128250
+		size = 138250
 	}
 
 	clerks = {

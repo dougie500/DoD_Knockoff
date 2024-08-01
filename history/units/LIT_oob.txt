@@ -1,0 +1,50 @@
+leader = {
+	name = "Army guy"
+	type = land
+	date = 1836.1.1
+	personality = glory_hound
+	background = powerful_friends
+}
+
+army = {
+	name = "Army"
+	location = 360
+	regiment = {
+		name= "1."
+		type = hussar
+		home = 360
+	}
+
+	regiment = {
+		name= "2"
+		type = artillery
+		home = 360
+	}
+	regiment = {
+		name= "3.Yomud"
+		type = artillery
+		home = 354
+	}
+
+	regiment = {
+		name= "4"
+		type = artillery
+		home = 357
+	}
+	regiment = {
+		name= "5.Yomud"
+		type = artillery
+		home = 695
+	}
+
+	regiment = {
+		name= "6"
+		type = infantry
+		home = 695
+	}
+	regiment = {
+		name= "7"
+		type = infantry
+		home = 695
+	}
+}

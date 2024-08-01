@@ -1,6 +1,8 @@
-owner = PORadd_core = POR
+owner = PORadd_core = LOT
+add_core = POR
 controller = POR
 add_core = LOT
+add_core = POR
 
 trade_goods = cattle
 life_rating = 35

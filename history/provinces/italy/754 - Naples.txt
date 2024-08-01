@@ -11,6 +11,21 @@ state_building = {
 	building = canned_food_factory
 	upgrade = yes
 }
+state_building = {
+	level = 1
+	building = regular_clothes_factory
+	upgrade = yes
+}
+state_building = {
+		level = 1
+		building = clipper_shipyard
+		upgrade = yes
+}
+state_building = {
+		level = 1
+		building = fabric_factory
+		upgrade = yes
+}
 1861.1.1 = {
 	controller = ITA
 	owner = ITA
@@ -26,16 +41,7 @@ state_building = {
 		building = steel_factory
 		upgrade = yes
 	}
-	state_building = {
-		level = 1
-		building = clipper_shipyard
-		upgrade = yes
-	}
-	state_building = {
-		level = 1
-		building = fabric_factory
-		upgrade = yes
-	}
+	
 	state_building = {
 		level = 1
 		building = glass_factory

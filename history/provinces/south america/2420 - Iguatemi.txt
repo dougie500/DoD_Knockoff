@@ -1,5 +1,4 @@
-add_core = POR
-add_core = AVA
+colonial = 1
 trade_goods = sulphur
 terrain = savanna
 life_rating = 25

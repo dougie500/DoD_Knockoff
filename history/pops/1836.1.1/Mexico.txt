@@ -2716,7 +2716,11 @@
 		religion = catholic
 		size = 1650
 	}
-
+	craftsmen = {
+		culture  = beornian
+		religion = catholic
+		size = 5000
+	}
 	bureaucrats = {
 		culture  = beornian
 		religion = catholic

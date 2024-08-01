@@ -3511,7 +3511,11 @@ farmers = {
 		religion = catholic
 		size = 225
 	}
-
+	craftsmen = {
+		culture = plantagenian
+		religion = catholic
+		size = 3000
+	}
 	artisans = {
 		culture = plantagenian
 		religion = catholic
@@ -7187,7 +7191,11 @@ farmers = {
 		religion = catholic
 		size = 850
 	}
-
+	craftsmen = {
+		culture = plantagenian
+		religion = catholic
+		size = 3000
+	}
 	officers = {
 		culture = plantagenian
 		religion = catholic

@@ -3,10 +3,20 @@ controller = ARA
 add_core = ARA
 add_core = ITA
 add_core = SIC
-trade_goods = timber
+trade_goods = iron
 life_rating = 35
 1861.1.1 = {
 	controller = ITA
 	owner = ITA
 	add_core = ITA
+}
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = machine_parts_factory
+	upgrade = yes
 }

@@ -1,5 +1,4 @@
-add_core = POR
-add_core = AVA
+colonial = 1
 trade_goods = tropical_wood
 terrain = savanna
 life_rating = 25

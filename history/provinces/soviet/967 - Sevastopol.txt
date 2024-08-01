@@ -2,7 +2,8 @@ owner = VEN
 controller = VEN
 add_core = VEN
 add_core = TAR
-trade_goods = fish
+
+trade_goods = iron
 life_rating = 35
 naval_base = 2
 fort = 1

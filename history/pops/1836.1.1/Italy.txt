@@ -1680,7 +1680,11 @@
 		religion = catholic
 		size = 825
 	}
-
+	craftsmen = {
+		culture = south_italian
+		religion = catholic
+		size = 15000
+	}
 	officers = {
 		culture = south_italian
 		religion = catholic
@@ -2352,7 +2356,11 @@
 		religion = catholic
 		size = 1000
 	}
-
+	craftsmen = {
+		culture = south_italian
+		religion = catholic
+		size = 10000
+	}
 	farmers = {
 		culture = south_italian
 		religion = catholic

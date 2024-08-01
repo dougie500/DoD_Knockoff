@@ -11,10 +11,10 @@ non_state_culture_literacy = 0.2
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 100
+prestige = 90
 
 # Political reforms
-slavery = yes_slavery
+slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = wealth_voting
 public_meetings = yes_meeting
@@ -24,7 +24,7 @@ voting_system = first_past_the_post
 political_parties = non_secret_ballots
 
 # Social Reforms
-wage_reform = no_minimum_wage
+wage_reform = low_minimum_wage
 work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care

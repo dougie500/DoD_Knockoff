@@ -1,5 +1,5 @@
 owner = NBG
 controller = NBG
 add_core = NBG
-trade_goods = cotton
+trade_goods = iron
 life_rating = 35

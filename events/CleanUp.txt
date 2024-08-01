@@ -2760,11 +2760,6 @@ country_event = {
 	id = 60160
 	title = "EVTNAME60160"
 	desc = "EVTDESC60160"
-	news = yes
-	news_title = "EVTNAME60160_NEWS_TITLE"
-	news_desc_long = "EVTDESC60160_NEWS_LONG"
-	news_desc_medium = "EVTDESC60160_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC60160_NEWS_SHORT"
 	picture = "Unite"
 	
 	trigger = {

@@ -5,3 +5,8 @@ add_core = AZTadd_core = MEX
 trade_goods = grain
 life_rating = 35
 fort = 1
+state_building = {
+	level = 2
+	building = ammunition_factory
+	upgrade = yes
+}

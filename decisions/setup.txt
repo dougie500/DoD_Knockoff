@@ -12,29 +12,35 @@ Traditions_setup = {
 		effect = {
 			set_country_flag = Traditions_setup
 			DUA = {
+				money = 400000
 			add_country_modifier = {
 				name = DUA_tradition
 				duration = -1
 			}
 		}
 			OCC = {
+				money = 400000
 				add_country_modifier = {
 					name = OCC_tradition
 					duration = -1
 				}
 			}
 			DEN = {
+				money = 400000
 				add_country_modifier = {
 					name = DEN_tradition
 					duration = -1
 				}
 			}	
+			money = 400000
 			NOV= {
+				money = 400000
 				add_country_modifier = {
 					name = NOV_tradition
 					duration = -1
 				}
 			}
+			money = 400000
 			SPA= {
 				add_country_modifier = {
 					name = SPA_tradition
@@ -42,6 +48,7 @@ Traditions_setup = {
 				}
 			}	
 			ARA= {
+				money = 400000
 				add_country_modifier = {
 					name = ARA_tradition
 					duration = -1
@@ -54,30 +61,35 @@ Traditions_setup = {
 				}
 			}
 			BOH= {
+				money = 400000
 				add_country_modifier = {
 					name = BOH_tradition
 					duration = -1
 				}
 			}
 			VEN= {
+				money = 250000
 				add_country_modifier = {
 					name = VEN_tradition
 					duration = -1
 				}
 			}	
 			TUR= {
+				money = 250000
 				add_country_modifier = {
 					name = TUR_tradition
 					duration = -1
 				}
 			}	
 			BRG = {
+				money = 400000
 				add_country_modifier = {
 					name = BRG_tradition
 					duration = -1
 				}
 			}	
 			AUS = {
+				money = 250000
 				add_country_modifier = {
 					name = AUS_tradition
 					duration = -1
@@ -85,6 +97,7 @@ Traditions_setup = {
 				}
 			}
 			CHG = {
+				money = 250000
 				add_country_modifier = {
 					name = CHG_tradition
 					duration = -1
@@ -92,6 +105,7 @@ Traditions_setup = {
 				}
 			}	
 			ETH = {
+				money = 250000
 				add_country_modifier = {
 					name = ETH_tradition
 					duration = -1
@@ -99,6 +113,7 @@ Traditions_setup = {
 				}
 			}		
 			NAN = {
+				money = 250000
 				add_country_modifier = {
 					name = NAN_tradition
 					duration = -1
@@ -106,6 +121,7 @@ Traditions_setup = {
 				}
 			}		
 			JAP = {
+				money = 250000
 				add_country_modifier = {
 					name = JAP_tradition
 					duration = -1
@@ -113,6 +129,7 @@ Traditions_setup = {
 				}
 			}
 			DNG = {
+				money = 250000
 				add_country_modifier = {
 					name = DNG_tradition
 					duration = -1
@@ -120,6 +137,7 @@ Traditions_setup = {
 				}
 			}
 			AMA = {
+				money = 250000
 				add_country_modifier = {
 					name = AMA_tradition
 					duration = -1
@@ -127,6 +145,7 @@ Traditions_setup = {
 				}
 			}
 			LOT = {
+				money = 250000
 				add_country_modifier = {
 					name = LOT_tradition
 					duration = -1
@@ -134,6 +153,7 @@ Traditions_setup = {
 				}
 			}
 			VIN = {
+				money = 250000
 				add_country_modifier = {
 					name = VIN_tradition
 					duration = -1
@@ -141,6 +161,7 @@ Traditions_setup = {
 				}
 			}
 			NBG = {
+				money = 250000
 				add_country_modifier = {
 					name = NBG_tradition
 					duration = -1
@@ -148,6 +169,7 @@ Traditions_setup = {
 				}
 			}
 			ROM = {
+				money = 250000
 				add_country_modifier = {
 					name = ROM_tradition
 					duration = -1

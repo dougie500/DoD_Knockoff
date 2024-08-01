@@ -77,7 +77,7 @@ NOV_Tver = {
 	
 }
 
-NOV_Leutvia = {
+NOV_Latvia = {
 	
 potential = { 
 	OR = { tag = NOV
@@ -85,7 +85,7 @@ potential = {
 	 tag = HYP
 }
 	NOT = {
-		has_country_flag = NOV_Leutvia
+		has_country_flag = NOV_Latvia
 		
 	}
 }
@@ -97,7 +97,7 @@ allow = {
 }
 effect = { 
 
-	set_country_flag = NOV_Leutvia
+	set_country_flag = NOV_Latvia
 	LIT_698 = {
 		add_core = THIS
 	}

@@ -1348,7 +1348,7 @@ basic_chemistry = {
 	area = chemistry_and_electricity
 	year = 1836
 	cost = 3600
-
+	supply_limit = 0.10
 	activate_building = fertilizer_factory 
 	ai_chance = {
 		factor = 10
@@ -1367,7 +1367,7 @@ medicine = {
 	year = 1836
 	cost = 7200
 
-	supply_limit = 0.25
+	supply_limit = 0.15
 	
 	ai_chance = {
 		factor = 10

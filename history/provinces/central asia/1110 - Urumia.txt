@@ -3,6 +3,5 @@ controller = AZB
 add_core = KUR        
 add_core = ARY
 add_core = AZB
-
-trade_goods = wool
+trade_goods = sulphur
 life_rating = 35

@@ -2594,6 +2594,11 @@
 		religion = protestant
 		size = 400
 	}
+	craftsmen = {
+		culture = vinlander
+		religion = protestant
+		size = 4500
+	}
 
 	officers = {
 		culture = vinlander

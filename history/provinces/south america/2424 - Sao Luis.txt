@@ -1,7 +1,8 @@
 owner = POR
 controller = POR
+add_core = LOT
 add_core = POR
 add_core = EQN
-trade_goods = cattle
+trade_goods = iron
 terrain = savanna
 life_rating = 35

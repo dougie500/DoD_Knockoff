@@ -704,6 +704,7 @@ RGO_template_farmers = {
 			poptype = farmers 
 			effect = throughput
 			amount = 1
+			
 		}
 		
 		{
@@ -766,7 +767,7 @@ cattle_ranch = {
 coal_mine = {
 	template = RGO_template_labourers
 	output_goods = coal 
-	value = 2.4 #2.4
+	value = 2.5 #2.4
 	mine = yes
 }
 
@@ -780,28 +781,28 @@ coffee_plantation = {
 cotton_plantation = {
 	template = RGO_template_farmers
 	output_goods = cotton 
-	value = 1.8 #3
+	value = 1.9 #3
 	farm = yes
 }
 
 dye_plantation = {
 	template = RGO_template_farmers
 	output_goods = dye 
-	value = 0.22
+	value = 0.28
 	farm = yes
 }
 
 fishing_wharf = {
 	template = RGO_template_farmers
 	output_goods = fish 
-	value = 2.1 #2.2
+	value = 2.2 #2.2
 	farm = yes
 }
 
 grain_farm = {
 	template = RGO_template_farmers
 	output_goods = grain 
-	value = 1.7 #1.8
+	value = 1.8 #1.8
 	farm = yes
 }
 
@@ -829,7 +830,7 @@ opium_plantation = {
 orchard = {
 	template = RGO_template_farmers
 	output_goods = fruit 
-	value = 2.7 #2.8
+	value = 2.8 #2.8
 	farm = yes
 }
 
@@ -864,7 +865,7 @@ sheep_ranch = {
 silkworm_ranch = {
 	template = RGO_template_farmers
 	output_goods = silk 
-	value = 0.25	#0.25
+	value = 0.27	#0.25
 	farm = yes
 }
 
@@ -885,21 +886,21 @@ tea_plantation = {
 timber_lodge = {
 	template = RGO_template_labourers
 	output_goods = timber 
-	value = 8 #8
+	value = 8.2 #8
 	farm = yes
 }
 
 tobacco_plantation = {
 	template = RGO_template_farmers
 	output_goods = tobacco 
-	value = 2 #2.5
+	value = 2.5 #2.5
 	farm = yes
 }
 
 tropical_wood_lodge = {
 	template = RGO_template_labourers
 	output_goods = tropical_wood 
-	value = 4
+	value = 4.1
 	farm = yes
 }
 

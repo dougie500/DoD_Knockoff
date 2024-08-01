@@ -251,14 +251,7 @@
 	artisans = {
 		culture = russian
 		religion = orthodox
-		size = 7200
-	}
-
-	soldiers = {
-		culture = russian
-		religion = orthodox
-		size= 3000
-
+		size = 9200
 	}
 
 	soldiers = {
@@ -1299,7 +1292,11 @@ farmers = {
 		religion = orthodox
 		size = 1400
 	}
-
+	bureaucrats = {
+		culture = finnish
+		religion = protestant
+		size = 500
+	}
 	clergymen = {
 		culture = russian
 		religion = orthodox
@@ -1316,12 +1313,16 @@ farmers = {
 		culture = russian
 		religion = orthodox
 		size= 1100
-
 	}
-farmers = {
+	craftsmen = {
+		culture = russian
+		religion = orthodox
+		size= 10000
+	}
+	farmers = {
 		culture = finnish
 		religion = orthodox
-		size = 50000
+		size = 40000
 	}
 	farmers = {
 		culture = russian
@@ -1534,9 +1535,13 @@ farmers = {
 	farmers = {
 		culture = finnish
 		religion = protestant
-		size = 45000
+		size = 35000
 	}
-
+	craftsmen = {
+		culture = finnish
+		religion = protestant
+		size = 10000
+	}
 	bureaucrats = {
 		culture = ashkenazi
 		religion = jewish
@@ -1727,7 +1732,11 @@ farmers = {
 		religion = protestant
 		size = 125
 	}
-
+	craftsmen = {
+		culture = finnish
+		religion = protestant
+		size = 5000
+	}
 	artisans = {
 		culture = finnish
 		religion = protestant
@@ -1781,7 +1790,7 @@ farmers = {
 	}
 
 	bureaucrats = {
-		culture = russian
+		culture = finnish
 		religion = orthodox
 		size = 725
 	}
@@ -2088,7 +2097,16 @@ clergymen = {
 		religion = protestant
 		size = 425
 	}
-
+	craftsmen = {
+		culture = finnish
+		religion = protestant
+		size = 5000
+	}
+	bureaucrats = {
+		culture = finnish
+		religion = protestant
+		size = 100
+	}
 	artisans = {
 		culture = finnish
 		religion = protestant
@@ -2611,16 +2629,10 @@ clergymen = {
 		size = 4500
 	}
 
-	soldiers = {
-		culture = russian
-		religion = orthodox
-		size= 3000
-
-	}
 	farmers = {
 		culture = russian
 		religion = orthodox
-		size = 60000
+		size = 63000
 	}
 	serfs = {
 		culture = russian

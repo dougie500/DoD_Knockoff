@@ -1,0 +1,39 @@
+army = {
+	name = "Årmêye de Nord"
+	location = 574
+  regiment = {
+		name= "1. Infantrie de Bourgogne"
+		type = infantry
+		home = 576
+	}	
+	regiment = {
+		name= "1. Infantrie de Bourgogne"
+		type = infantry
+		home = 576
+	}	
+	regiment = {
+		name= "1. Infantrie de Bourgogne"
+		type = hussar
+		home = 575
+	}	
+	regiment = {
+		name= "1. Infantrie de Bourgogne"
+		type = artillery
+		home = 575
+	}	
+	regiment = {
+		name= "7. Infantrie d'Alsace"
+		type = artillery
+		home = 574	
+	}	
+	regiment = {
+		name= "7. Infantrie d'Alsace"
+		type = artillery
+		home = 574
+	}	
+	regiment = {
+		name= "7. Infantrie d'Alsace"
+		type = artillery
+		home = 571
+	}	
+}

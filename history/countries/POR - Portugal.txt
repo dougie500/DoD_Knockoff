@@ -1,4 +1,4 @@
-capital = 521
+capital = 2431
 primary_culture = portuguese
 culture = castilian
 religion = catholic
@@ -11,7 +11,7 @@ civilized = yes
 prestige = 10
 
 # Political reforms
-slavery = yes_slavery
+slavery = no_slavery
 upper_house_composition = state_equal_weight
 vote_franschise = wealth_voting
 public_meetings = yes_meeting
@@ -84,6 +84,7 @@ basic_chemistry = 1
 # Starting Consciousness
 consciousness = 3
 nonstate_consciousness = 1
+set_country_flag = new_world_nation
 
 oob = "POR_oob.txt"
 1861.1.1 = {

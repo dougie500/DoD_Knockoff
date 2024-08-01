@@ -1,4 +1,3 @@
-add_core = TAP
-add_core = EQN
+colonial = 1
 trade_goods = fruit
 life_rating = 25

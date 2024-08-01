@@ -1,6 +1,7 @@
 owner = POR
 controller = POR
+add_core = LOT
 add_core = POR
-trade_goods = coffee
+trade_goods = tobacco
 terrain = dryhills
 life_rating = 35

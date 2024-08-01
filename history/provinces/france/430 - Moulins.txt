@@ -4,4 +4,4 @@ add_core = DUA
 add_core = FRA
 fort = 1 
 trade_goods = coal
-life_rating = 33
+life_rating = 34

@@ -8,7 +8,7 @@ leader = {
 
 army = {
 	name = "Friesisch Heer"
-	location = 538
+	location = 386
 	regiment = {
 		name= "1. Friesisch Infanteriebrigade"
 		type = infantry
@@ -20,17 +20,26 @@ army = {
 		type = infantry
 		home = 538
 	}
-
 	regiment = {
 		name= "1. Friesisch Artilleriebrigade"
 		type = artillery
 		home = 538
 	}
+	regiment = {
+		name= "1. Friesisch Artilleriebrigade"
+		type = artillery
+		home = 386
+	}
+	regiment = {
+		name= "1. Friesisch Artilleriebrigade"
+		type = hussar
+		home = 384
+	}
 }
 
 navy = {
 	name = "Ducal Fleet"
-	location = 540
+	location = 383
 
 	ship = {
 		name= "Friesland"

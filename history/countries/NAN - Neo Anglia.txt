@@ -1,4 +1,4 @@
-capital = 2348
+capital = 2172
 primary_culture  = beornian
 culture = english
 religion = protestant

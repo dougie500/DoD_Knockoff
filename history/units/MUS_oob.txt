@@ -21,3 +21,83 @@ leader = {
 	personality = ballsy
 	background = natural_born_leader
 }
+army = {
+	name = "Army"
+	location = 1010
+	regiment = {
+		name= "1."
+		type = hussar
+		home = 943
+	}
+
+	regiment = {
+		name= "2"
+		type = artillery
+		home = 943
+	}
+	regiment = {
+		name= "3"
+		type = artillery
+		home = 1008
+	}
+
+	regiment = {
+		name= "4"
+		type = artillery
+		home = 1008
+	}
+	regiment = {
+		name= "5"
+		type = artillery
+		home = 1009
+	}
+	regiment = {
+		name= "6"
+		type = artillery
+		home = 1009
+	}
+
+	regiment = {
+		name= "7"
+		type = artillery
+		home = 1016
+	}
+
+}
+
+army = {
+	name = "Army 2"
+	location = 1016
+
+regiment = {
+	name= "8"
+	type = artillery
+	home = 1016
+}
+regiment = {
+	name= "9"
+	type = artillery
+	home = 1011
+}
+regiment = {
+	name= "10"
+	type = artillery
+	home = 1011
+}
+regiment = {
+	name= "11"
+	type = artillery
+	home = 1014
+}
+regiment = {
+	name= "12"
+	type = artillery
+	home = 1010
+}
+regiment = {
+	name= "13"
+	type = hussar
+	home = 1015
+}
+
+}

@@ -1,5 +1,5 @@
 owner = CHG
 controller = CHG   
 add_core = CHG
-trade_goods = iron
+trade_goods = coal
 life_rating = 35

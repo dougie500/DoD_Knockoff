@@ -26,7 +26,8 @@ country_event = {
 		badboy = 5 
 		prestige = 3 
 		BRZ_2408 = { 
-			add_core = POR
+			add_core = LOT
+add_core = POR
 			add_core = EQN
 		}
 		ai_chance = { 
