@@ -1,3 +1,4 @@
+
 capital = 1121
 primary_culture = persian
 culture = azerbaijani
@@ -5,8 +6,8 @@ religion = shiite
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.14
-non_state_culture_literacy = 0.01
+literacy = 0.13
+non_state_culture_literacy = 0.10
 is_releasable_vassal = no
 
 # Political reforms
@@ -46,6 +47,8 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+oob = "PER_oob.txt"
+
 
 set_country_flag = shiite_country
 
@@ -69,21 +72,3 @@ late_enlightenment_philosophy = 1
 consciousness = 0
 nonstate_consciousness = 0
 
-oob = "PER_oob.txt"
-1861.1.1 = {
-	oob = "/1861/PER_oob.txt"
-	literacy = 0.12
-	non_state_culture_literacy = 0.06
-
-	
-	foreign_weapons = yes_foreign_weapons
-	foreign_officers = yes_foreign_officers
-	finance_reform = yes_finance_reform
-	
-	# Technologies
-	military_staff_system = 1
-	flintlock_rifles = 1
-
-	# Inventions
-
-}

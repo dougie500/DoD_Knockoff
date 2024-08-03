@@ -45,25 +45,12 @@ political_decisions = {
 		
 			add_accepted_culture = south_italian
 			add_accepted_culture = catalan
-			
-			749 = {
-				add_core = THIS
-			}
-			750 = {
-				add_core = THIS
-			}
-			751 = {
-				add_core = THIS
-			}
-			752 = {
-				add_core = THIS
-			}
 
-			SIC_754 = { remove_core = ITA }
-			SIC_763 = { remove_core = ITA }
-			SAR_765 = { remove_core = ITA }
-			PAP_752 = { remove_core = ITA }
-			SIC_753 = { remove_core = ITA } 
+			TUS = {
+				all_core = {
+						add_core = THIS
+				}
+			}
 
 			any_country = {
 				limit = {
@@ -244,7 +231,36 @@ political_decisions = {
 		}
 		
 	}
+	Core_Venice = {
+		
+		potential = { 
+			tag = ARI
+			
+			NOT = {
+				has_country_flag = Core_Venice
+			
+			}
+			
+		}
 	
+		allow = {
+			AUS_729 = { owned_by = THIS }
+			
+		}
+	
+		effect = { 
+			AUS_729  = {
+				add_core = THIS
+			}
+			
+			
+			set_country_flag = Core_Venice
+
+		
+		}
+		
+	}
+
 	latin_empire = {	
 		picture = cat_occitania		
 		potential = {

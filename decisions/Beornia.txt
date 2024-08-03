@@ -100,8 +100,110 @@ political_decisions = {
 		}
 	}
 
-	NAN_Comin_Home= {
+	NAN_Comin_Home_Norf= {
 	
+		potential = {
+			OR = {
+				tag = NAN
+				tag = HBE
+			}
+			NOT = { has_country_flag = NAN_Comin_Home_Norf }
+		}
+	
+		allow = {
+			empiricism = 1
+			war = no
+			ENG_280 = {
+				owned_by = THIS
+			}
+			ENG_277 = {
+				owned_by = THIS
+			}
+			ENG_284 = {
+				owned_by = THIS
+			}
+
+			
+			
+			
+		}
+	
+		effect = {
+			ENG_280 = {
+				add_core = THIS
+			}
+			ENG_277 = {
+				add_core = THIS
+			}
+			ENG_284 = {
+				add_core = THIS
+			}
+
+			set_country_flag = NAN_Comin_Home_Norf
+			 
+			 
+
+		}
+	
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	NAN_Comin_Home_Souf= {
+	
+		potential = {
+			OR = {
+				tag = NAN
+				tag = HBE
+			}
+			NOT = { has_country_flag = NAN_Comin_Home_Souf }
+		}
+	
+		allow = {
+			empiricism = 1
+			war = no
+			ENG_296 = {
+				owned_by = THIS
+			}
+			ENG_300 = {
+				owned_by = THIS
+			}
+			ENG_291 = {
+				owned_by = THIS
+			}
+
+			
+			
+			
+		}
+	
+		effect = {
+			ENG_296 = {
+				add_core = THIS
+			}
+			ENG_300 = {
+				add_core = THIS
+			}
+			ENG_291 = {
+				add_core = THIS
+			}
+
+			set_country_flag = NAN_Comin_Home_Souf
+			 
+			 
+
+		}
+	
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+
+
+
+	NAN_Comin_Home= {
+		picture = wyvern
 		potential = {
 			OR = {
 				tag = NAN
@@ -130,9 +232,6 @@ political_decisions = {
 			factor = 1
 		}
 	}
-
-
-
 
 
 

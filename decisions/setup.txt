@@ -1,5 +1,36 @@
 political_decisions = {
 
+	zcountry_pass_reform = {
+		
+		alert = yes
+		potential = {
+			ai = no
+		}
+			
+		allow = {
+			civilized = yes
+			NOT = {
+				
+					has_country_modifier = reform_passed
+					
+			}
+		}
+
+		effect = {
+			set_country_flag = force_reform
+			add_country_modifier = {
+				name = force_reform
+				duration = 169
+			}
+			add_country_modifier = {
+				name = reform_passed
+				duration = 1825
+			}
+		}
+	}
+
+
+
 Traditions_setup = {
 		potential = {
 			tag = BUG
@@ -172,6 +203,30 @@ Traditions_setup = {
 				money = 250000
 				add_country_modifier = {
 					name = ROM_tradition
+					duration = -1
+
+				}
+			}
+			PER = {
+				money = 250000
+				add_country_modifier = {
+					name = PER_tradition
+					duration = -1
+
+				}
+			}
+			POR = {
+				money = 250000
+				add_country_modifier = {
+					name = POR_tradition
+					duration = -1
+
+				}
+			}
+			MCK = {
+				
+				add_country_modifier = {
+					name = CHI_tradition
 					duration = -1
 
 				}

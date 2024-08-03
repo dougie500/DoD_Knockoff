@@ -1129,7 +1129,7 @@ economic_reforms = {
 	
 		}
 		yes_firearms_production = {
-			technology_cost = 1400
+			technology_cost = 14000
 			civilization_progress_modifier = 0.2
 			allow = { NOT = { has_country_flag = lacking_writing_system } money = 10000 }
 			
@@ -1164,7 +1164,7 @@ economic_reforms = {
 	
 		}
 		yes_pre_indust = {
-			technology_cost = 1350
+			technology_cost = 13500
 			civilization_progress_modifier = 0.2
 			allow = { NOT = { has_country_flag = lacking_writing_system } money = 2000 }
 			

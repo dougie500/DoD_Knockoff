@@ -2763,6 +2763,7 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
+		year = 1837
 		exists = yes
 		war = no
 		NOT = { has_country_flag = existing_country }

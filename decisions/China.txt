@@ -1,6 +1,9 @@
 political_decisions = {
 
 #Oirat decisions
+
+
+
 CHG_Astrakhani = {
 	picture = chg_astrakhan
 	potential = {
@@ -170,7 +173,43 @@ CHG_Turkmen = {
 		factor = 1
 	}
 }
+CHG_Bejing = {
+	
+	potential = {
+		OR = {
+			tag = CHG
+			tag = YUA
+		}
 
+		NOT = { has_country_flag = CHG_Bejing }
+	}
+
+	allow = {
+		
+		civilized = yes
+		CHI_1612  = { owned_by = THIS }
+		
+
+	}
+
+	effect = {
+		
+
+		set_country_flag = CHG_Bejing
+		prestige = 5
+		455 = {
+			life_rating = 5
+			add_province_modifier = {
+					name = Bejing_but_better
+					duration = 4380
+		}
+	}
+	}
+
+	ai_will_do = {
+		factor = 1
+	}
+}
 
 
 

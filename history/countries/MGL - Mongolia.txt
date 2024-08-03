@@ -4,8 +4,8 @@ religion = gelugpa
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.04
-non_state_culture_literacy = 0.04 #Chinese
+literacy = 0.10
+non_state_culture_literacy = 0.08 #Chinese
 prestige = 3
 
 # Political reforms

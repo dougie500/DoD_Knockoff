@@ -421,7 +421,7 @@ political_decisions = {
 	
 		potential = { 
 		NOT = { has_global_flag = ponte_venice }
-		OR = { tag = VEN tag = ARI tag = ITA}
+		tag = VEN
 		owns = 729 
 		}
 		

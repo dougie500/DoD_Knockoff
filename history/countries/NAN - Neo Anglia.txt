@@ -1,6 +1,5 @@
 capital = 2172
 primary_culture  = beornian
-culture = english
 religion = protestant
 government = absolute_monarchy
 plurality = 0.0

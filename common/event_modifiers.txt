@@ -2,6 +2,39 @@
 # scriptable and usable for event-system below.
 ##################################################################################################
 
+
+
+reform_passed = {
+	core_pop_militancy_modifier = 0.03
+	icon = 6
+}
+cannot_pass_reform = {
+	icon = 6
+}
+
+force_reform  = {
+	icon = 5
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 no_potato_:3 = {
 	farm_RGO_eff = -0.5
 	immigrant_push = 0.50
@@ -51,7 +84,7 @@ DEN_tradition = {
 
 
 	navy_tech_research_bonus = 0.1
-	naval_unit_start_experience = 10
+	naval_unit_start_experience = 8
 	local_ship_build = -0.1
 	tax_efficiency = 0.02
 	land_unit_start_experience = 4
@@ -116,7 +149,7 @@ TUR_tradition = {
 	mobilisation_size = 0.005
 	farm_rgo_size = 0.1
 	industry_tech_research_bonus = -0.05
-	naval_unit_start_experience = -10
+	naval_unit_start_experience = -8	
 	local_ship_build = 0.1
 	
 }
@@ -141,10 +174,11 @@ CHG_tradition = {
 	administrative_efficiency_modifier = 0.10
 	land_organisation = 0.05
 	org_regain = 0.1
-	badboy = -0.03
-	factory_output = -0.05
+	badboy = -0.02
+	factory_output = -0.06
 	land_unit_start_experience = 7
-	research_points_on_conquer = 0.27
+	research_points_on_conquer = 0.25
+	cb_generation_speed_modifier = 0.3
 }
 ETH_tradition = {
 	icon = 3
@@ -196,8 +230,34 @@ ROM_tradition = {
 	farm_rgo_eff = 0.05
 	global_population_growth = 0.001
 }
+PER_tradition = {
+	icon = 3
+	education_efficiency_modifier = 0.08
+	tax_efficiency = 0.01
+	farm_rgo_eff = 0.10
+	
+}
+POR_tradition = {
+	icon = 3
+	research_points_modifier = 0.05
+	navy_tech_research_bonus = 0.05
+	culture_tech_research_bonus = 0.05
+}
+CHI_tradition = {
+	icon = 3
+	diplomatic_points_modifier = -1.9
+	max_military_spending = -0.99
+}
 
+Japanese_education = {
+	icon = 3
+	education_efficiency_modifier = 0.10
+	research_points_modifier = 0.10
+}
+Turkish_education = {
+	education_efficiency_modifier = 0.20
 
+}
 
 french_liberal_school = {
 	max_tariff = -0.25
@@ -2371,12 +2431,16 @@ gateway_to_harbor = {
 	icon = 9
 }
 Toulouse_but_better = {
-	population_growth = 0.002
+	population_growth = 0.003
 	icon = 9
 }
 Neva_but_better = {
 	population_growth = 0.0012
 	farm_RGO_eff = -0.1
+	icon = 9
+}
+Bejing_but_better = {
+	population_growth = 0.002
 	icon = 9
 }
 #Expires after 20 years

@@ -195,37 +195,7 @@ political_decisions = {
 		}
 	
 	}
-	Arcadia_Florida = {
-		
-		potential = {
-			tag = ARC
-			
-
-			NOT = { has_country_flag = Arcadia_Florida }
-
-		}
-
-		allow = {
-			NOT = { war = yes }
-			NA_16 = {
-				owned_by = THIS
-			}
-			
-		}
-		effect = {
-			
-			set_country_flag = Arcadia_Florida
-			
-			NA_16 = {
-				add_core = THIS
-			}
 	
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	
-	}
 
 	Arcadia_Lusitan = {
 		

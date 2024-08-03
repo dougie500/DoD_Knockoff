@@ -63,168 +63,110 @@ political_decisions = {
 			tag = PER
 		}
 		allow = {
-		 923 = {
-                OR = {
-                    owned_by = THIS
-                    owner = {
-                        in_sphere = THIS
-                    }
-                    owner = {
-                        vassal_of = THIS
-                    }
-                }
-            }
-            926 = {
-                OR = {
-                    owned_by = THIS
-                    owner = {
-                        in_sphere = THIS
-                    }
-                    owner = {
-                        vassal_of = THIS
-                    }
-                }
-            }
-            1108 = {
-                OR = {
-                    owned_by = THIS
-                    owner = {
-                        in_sphere = THIS
-                    }
-                    owner = {
-                        vassal_of = THIS
-                    }
-                }
-            }
-            1204 = {
-                OR = {
-                    owned_by = THIS
-                    owner = {
-                        in_sphere = THIS
-                    }
-                    owner = {
-                        vassal_of = THIS
-                    }
-                }
-            }
-            1209 = {
-                OR = {
-                    owned_by = THIS
-                    owner = {
-                        in_sphere = THIS
-                    }
-                    owner = {
-                        vassal_of = THIS
-                    }
-                }
-            }
-            KAL = {  
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            in_sphere = THIS
-                        }
-                        owner = {
-                            vassal_of = THIS
-                        }
-                    }
-                }
-            }
-            PER = {  
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            in_sphere = THIS
-                        }
-                        owner = {
-                            vassal_of = THIS
-                        }
-                        province_id = 931
-                    }
-                }
-            }
+			KAL_1221 = {
+				owned_by = THIS
+			}
+			RUS_1196 = {
+				owned_by = THIS
+			}
+			AFG_1214 = {
+				owned_by = THIS
+			}
+			ideological_thought = 1
         }
 		effect = {
-			prestige = 40
+			prestige = 10
 			change_tag = ARY
-			add_accepted_culture = persian
-			add_accepted_culture = pashtun
-			add_accepted_culture = baluchi
-			add_accepted_culture = azerbaijani
-			add_accepted_culture = parsi
-			add_accepted_culture = tat
-			add_accepted_culture = persian
-			add_accepted_culture = persiansih 			
-			any_country = {
-				limit = {
-					OR = {
-              AND = {
-                  is_culture_group = iranian
-					OR = {  in_sphere = THIS vassal_of = THIS }
-              } 
-              AND = {
-					tag = IRQ
-					OR = {  in_sphere = THIS vassal_of = THIS }
-              }
-              AND = {
-                  tag = KAL
-					OR = {  in_sphere = THIS vassal_of = THIS }
-              }
-              AND = {
-                  tag = AFG
-					OR = {  in_sphere = THIS vassal_of = THIS }
-              } 
-              AND = {
-                  tag = AFS
-					OR = {  in_sphere = THIS vassal_of = THIS }
-              }               
-          }
-				}
-			country_event = 11101
+			add_accepted_culture = turkmen
+			KAL_1221= {
+				add_core = THIS
 			}
-			PER = {
+			
+			UZB = {
 				all_core = {
 					add_core = THIS
 				}
 			}
-			KUR = {
-				all_core = {
-					add_core = THIS
-				}
-			}
-			IRQ = {
-				all_core = {
-					add_core = THIS
-				}
-			}
-			BDK = {
-				all_core = {
-					add_core = THIS
-				}
-			}
+
 			AFG = {
 				all_core = {
 					add_core = THIS
 				}
 			}
-			KAL = {
-				all_core = {
-					add_core = THIS
-				}
-			}
-			AFS = {
-				all_core = {
-					add_core = THIS
-				}
-			}
+		
 		}
 		ai_will_do = {
 			factor = 1
 		}
 	}
-	
+	PER_Patshun = {   
+		
+			potential = {
+				OR = {
+					tag = PER
+					tag = ARY
+					}
+
+				NOT = { has_country_flag = PER_Patshun }
+			}
+			allow = {
+				AFG_1217 = {
+					owned_by = THIS
+				}
+				AFG_1214 = {
+					owned_by = THIS
+				}
+				state_n_government = 1
+			}
+			effect = {
+				
+			
+				add_accepted_culture = pashtun
+				set_country_flag = PER_Patshun
+			
+			}
+			ai_will_do = {
+				factor = 1
+			}
+		}
+
+		PER_Baluchi = {   
+				potential = {
+					OR = {
+					tag = PER
+					tag = ARY
+					}
+					NOT = { has_country_flag = PER_Baluchi }
+				}
+				allow = {
+					KAL_1221 = {
+						owned_by = THIS
+					}
+					SIN_1288 = {
+						owned_by = THIS
+					}
+					nationalism_n_imperialism = 1
+				}
+				effect = {
+					
+					
+					add_accepted_culture = baluchi
+					KAL_1221= {
+						add_core = THIS
+					}
+					SIN_1288= {
+						add_core = THIS
+					}
+					set_country_flag = PER_Baluchi
+					
+					
+					
+				}
+				ai_will_do = {
+					factor = 1
+				}
+			}
+
 #	timurid_legacy = {
 #    picture = tamerlane_gate	
 #	potential = { 
