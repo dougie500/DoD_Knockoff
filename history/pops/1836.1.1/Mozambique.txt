@@ -77,7 +77,7 @@
     farmers = {
         culture = boer
         religion = protestant
-        size = 17555
+        size = 37555
     }
 
     bureaucrats = {
@@ -107,7 +107,7 @@
     soldiers = {
        culture = zulu
         religion = protestant
-        size = 6000
+        size = 2000
     }
 
     slaves = {

@@ -2,6 +2,5 @@ owner = MIG
 controller = MIG 
 add_core = MIG
 add_core = CHI
-
+life_rating = 35
 trade_goods = grain
-life_rating = 32

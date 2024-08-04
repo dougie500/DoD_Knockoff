@@ -182,10 +182,9 @@ CHG_tradition = {
 }
 ETH_tradition = {
 	icon = 3
-	administrative_efficiency_modifier = -0.05
-	land_unit_start_experience = -5
-	education_efficiency_modifier = -0.05
-	research_points_modifier = -0.1
+	administrative_efficiency_modifier = -0.04
+	land_unit_start_experience = -4
+	education_efficiency_modifier = -0.04
 	research_points_on_conquer = 0.2
 	global_population_growth = 0.002
 }
@@ -449,7 +448,9 @@ plantation = {
 	mine_rgo_size = 4
 	icon = 11
 }
-
+requested_grant = {
+	icon = 10
+}
 haussmanns_renovations = {
 	farm_rgo_size = 1
 	immigrant_attract = 0.25

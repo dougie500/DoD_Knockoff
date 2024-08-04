@@ -1,0 +1,37 @@
+political_decisions = {
+	z1manage_grants = {
+		picture = latin_monetary_union
+		alert = no
+		potential = {
+			ai = no
+		}
+		allow = {
+			ai = no
+			NOT = { has_country_modifier = requested_grant }
+		}
+		effect = {
+			country_event = { id = 91400 days = 0 }
+			add_country_modifier = { name = requested_grant duration = 7 }
+		}
+	}
+}
+country_event = {
+	id = 91706
+	title = "EVTNAME91706"
+	desc = "EVTDESC91706"
+	picture = upper_house
+
+	trigger = {
+		has_country_flag = force_reform
+		NOT = { has_country_modifier = force_reform }
+	}
+	
+	immediate = {
+		clr_country_flag = force_reform
+	}
+	
+	option = {
+		name = "EVTOPTA91706"
+	}
+}
+

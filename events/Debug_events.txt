@@ -27,3 +27,228 @@ country_event = {
 		any_pop = { militancy = -10 consciousness = -10 }
 	}
 }
+
+country_event = {
+	id = 91706
+	title = "EVTNAME91706"
+	desc = "EVTDESC91706"
+	picture = upper_house
+
+	trigger = {
+		has_country_flag = force_reform
+		NOT = { has_country_modifier = force_reform }
+	}
+	
+	immediate = {
+		clr_country_flag = force_reform
+	}
+	
+	option = {
+		name = "EVTOPTA91706"
+	}
+}
+
+
+
+country_event = {
+	title = "EVTNAMEgrantoptions"
+	desc = "EVTDESCgrantoptions"
+	id = 91400
+
+	is_triggered_only = yes
+	
+	option = {
+		name = "Enable Giving Grants and Military Supplies"
+		clr_country_flag = deny_grant
+	}
+	option = {
+		name = "Deny Giving Grants and Military Supplies"
+		set_country_flag = deny_grant
+	}
+	option = {
+		name = "Request Money"
+		any_country = {
+			limit = {
+				ai = no
+				NOT = { has_country_flag = deny_grant }
+				NOT = { war_with = THIS }
+			}
+			country_event = { id = 91402 days = 0 }
+		}
+		add_country_modifier = { name = requested_grant duration = 7 }
+	}
+}
+country_event = {
+	title = EVTNAMEgivemoney
+	desc = EVTDESCgivemoney
+	id = 91402
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Give_Nothing"
+	}
+	
+	option = {
+		name = "Give_0.05M_Grant"
+		random_owned = {
+			limit = {
+				owner = {
+					NOT = { money = 50000 }
+				}
+			}
+			owner = {
+				country_event = { id = 91401 days = 0 }
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = { money = 50000 }
+			}
+			owner = {
+				money = -50000
+				FROM = {
+					money = 50000
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = "Give_0.1M_Grant"
+		random_owned = {
+			limit = {
+				owner = {
+					NOT = { money = 100000 }
+				}
+			}
+			owner = {
+				country_event = { id = 91401 days = 0 }
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = { money = 100000 }
+			}
+			owner = {
+				money = -100000
+				FROM = {
+					money = 100000
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = "Give_0.25M_Grant"
+		random_owned = {
+			limit = {
+				owner = {
+					NOT = { money = 250000 }
+				}
+			}
+			owner = {
+				country_event = { id = 91401 days = 0 }
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = { money = 250000 }
+			}
+			owner = {
+				money = -250000
+				FROM = {
+					money = 250000
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = "Give_0.5M_Grant"
+		random_owned = {
+			limit = {
+				owner = {
+					NOT = { money = 500000 }
+				}
+			}
+			owner = {
+				country_event = { id = 91401 days = 0 }
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = { money = 500000 }
+			}
+			owner = {
+				money = -500000
+				FROM = {
+					money = 500000
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = "Give_1M_Grant"
+		random_owned = {
+			limit = {
+				owner = {
+					NOT = { money = 1000000 }
+				}
+			}
+			owner = {
+				country_event = { id = 91401 days = 0 }
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = { money = 1000000 }
+			}
+			owner = {
+				money = -1000000
+				FROM = {
+					money = 1000000
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = "Give_2M_Grant"
+		random_owned = {
+			limit = {
+				owner = {
+					NOT = { money = 1999000 }
+				}
+			}
+			owner = {
+				country_event = { id = 91401 days = 0 }
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = { money = 1999000 }
+			}
+			owner = {
+				money = -1999000
+				FROM = {
+					money = 1999000
+				}
+			}
+		}
+	}
+}
+
+country_event = {
+	title = EVTNAMEinsufficientmoney
+	desc = EVTDESCinsufficientmoney
+	id = 91401
+	picture = player_grants
+
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTAinsufficientmoney"
+	}
+}

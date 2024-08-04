@@ -23,7 +23,7 @@
     soldiers = {
        culture = zulu
         religion = protestant
-        size = 7500
+        size = 2500
     }
 
     farmers = {
@@ -47,8 +47,13 @@
     farmers = {
        culture = zulu
         religion = protestant
-        size = 12000
+        size = 3000
     }
+    farmers = {
+        culture = boer 
+         religion = protestant
+         size = 15000
+     }
 
     aristocrats = {
         culture = zulu

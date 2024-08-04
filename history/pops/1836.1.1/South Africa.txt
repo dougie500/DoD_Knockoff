@@ -1330,7 +1330,7 @@
 	soldiers = {
         culture = zulu
         religion = protestant
-        size = 6000
+        size = 2000
     }
 
     farmers = {
@@ -1346,9 +1346,9 @@
     }
 
     farmers = {
-        culture = zulu
+        culture = boer
         religion = fetishist
-        size = 2562
+        size = 10562
     }
 
     clergymen = {
@@ -1466,13 +1466,13 @@
     farmers = {
         culture = boer
         religion = protestant
-        size = 14580
+        size = 34580
     }
 
     soldiers = {
         culture = boer
         religion = protestant
-        size = 10430
+        size = 1530
     }
 
     clergymen = {
@@ -1516,13 +1516,13 @@
     farmers = {
         culture = boer
         religion = protestant
-        size = 8055
+        size = 10055
     } 
 
     soldiers = {
         culture = boer
         religion = protestant
-        size = 5430
+        size = 2430
     }
 
     clergymen = {
@@ -1534,7 +1534,7 @@
     farmers = {
         culture = zulu
         religion = fetishist
-        size = 5754
+        size = 7754
     }
 
     clergymen = {
@@ -1632,7 +1632,7 @@
     farmers = {
         culture = boer
         religion = protestant
-        size = 1040
+        size = 10040
     }
 
     aristocrats = {

@@ -884,56 +884,7 @@ assimilation_chance = {
 		}
 	}
 	
-	modifier = {
-		factor = -80
-		country = {
-			has_country_flag = new_world_nation
-			NOT = { has_country_flag = native_assimilation_enacted }
-		}
-		OR = {
-			is_culture_group = african_diaspora_cultures
-			is_culture_group = native_north_american			
-			is_culture_group = mesoandean
-			is_culture_group = native_south_american			
-			is_culture_group = oceanic
-		}
-		OR = {
-			location = { continent = north_america }
-			location = { continent = south_america }
-			location = { continent = australia_new_zealand }
-		}
-	}
-
-	modifier = {
-		factor = -80
-		country = { NOT = { has_country_flag = african_integration_policy } }
-		is_culture_group = african_diaspora_cultures
-		OR = {
-			location = { continent = north_america }
-			location = { continent = south_america }
-		}
-	}
 	
-	modifier = {
-		factor = -80
-		country = { NOT = { has_country_flag = african_integration_policy } }
-		location = { continent = africa }
-		OR = {
-			is_culture_group = african_diaspora_cultures
-			is_culture_group = west_african
-			is_culture_group = central_african
-			is_culture_group = east_african
-			is_culture_group = southern_african
-		}
-		OR = {
-			NOT = { country = { is_culture_group = african_diaspora_cultures } }
-			NOT = { country = { is_culture_group = west_african } }
-			NOT = { country = { is_culture_group = central_african } }
-			NOT = { country = { is_culture_group = east_african } }
-			NOT = { country = { is_culture_group = southern_african } }
-			NOT = { country = { is_culture_group = semitic } }
-		}
-	}
 	
 }
 

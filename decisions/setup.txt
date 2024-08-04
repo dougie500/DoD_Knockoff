@@ -12,7 +12,7 @@ political_decisions = {
 			NOT = {
 				
 					has_country_modifier = reform_passed
-					
+					has_country_modifier = cannot_pass_reform	
 			}
 		}
 
@@ -73,6 +73,7 @@ Traditions_setup = {
 			}
 			money = 400000
 			SPA= {
+				money = 400000
 				add_country_modifier = {
 					name = SPA_tradition
 					duration = -1
@@ -86,6 +87,7 @@ Traditions_setup = {
 				}
 			}	
 			PLC= {
+				money = 400000
 				add_country_modifier = {
 					name = PLC_tradition
 					duration = -1

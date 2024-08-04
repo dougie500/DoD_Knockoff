@@ -197,7 +197,7 @@ CHG_Bejing = {
 
 		set_country_flag = CHG_Bejing
 		prestige = 5
-		455 = {
+		1612 = {
 			life_rating = 5
 			add_province_modifier = {
 					name = Bejing_but_better

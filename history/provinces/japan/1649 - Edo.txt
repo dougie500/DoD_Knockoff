@@ -2,5 +2,5 @@ owner = AIN
 controller = AIN
 add_core = AIN
 trade_goods = grain
-life_rating = 37
+life_rating = 40
 fort = 1
