@@ -37,21 +37,7 @@ political_decisions = {
 	
 				}
 			}
-			NFL = {
-				all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								OR = {
-								in_sphere = THIS
-								vassal_of = THIS
-								}
-							}
-						}
-	
-					}
-				}
-			
+				state_n_government = 1
 			}
 	
 		effect = { 

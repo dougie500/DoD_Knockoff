@@ -140,7 +140,52 @@ political_decisions = {
 	factor = 1 
 		}
 	}
+
+	ELB_HEK = {
+		
+		
+	potential = { 
+		tag = CAE
+		NOT = {
+			has_country_flag = ELB_HEK
+			
+		}
+	}
+
+	allow = {
+		year = 1848
+		SAX_1 = { owned_by = THIS }
 	
+		HEK = { 
+		     	exists = yes 
+			 	vassal_of = CAE
+			 	all_core = {
+					OR = {
+			 			owned_by = THIS
+						owner = { vassal_of = THIS }
+					}
+				}
+			}
+		
+	
+	}
+	effect = { 
+	
+		set_country_flag = ELB_HEK
+		HES_566 = {
+			add_core = THIS
+		}
+		
+		random_country = { 
+			limit = {
+				tag = HEK
+				
+			}
+			annex_to = THIS
+		}
+	}
+	
+}
 	Unite_Elbians = {
 		
 		potential = { 

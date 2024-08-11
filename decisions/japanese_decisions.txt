@@ -25,7 +25,7 @@ political_decisions = {
 						add_core = THIS
 				}
 			}
-			add_accepted_culture = ainu
+			add_accepted_culture = korean
 		}
 		ai_will_do = {
 			factor = 1

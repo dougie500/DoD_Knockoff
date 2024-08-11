@@ -4002,3 +4002,5 @@ POR_Jewish_title;Force citzenship on the Jews ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 POR_Jewish_desc;The large Jewish population residing in Inner Brazil ramins largely independent from conscription. We should formalise them as our citizens.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 zcountry_pass_reform_title;§YPass Reform;;;;;;;;;x;;;;
 zcountry_pass_reform_desc;Lets you pass any reform without the support of the upper house and gives the reform passed modifier for several years. You must still meet other requirements listed in the reform, e.g. you must have medicine in order to enact trinket healthcare and it cannot be less than 6 months since you passed another reform. The passed modifier gives increased militancy.;;;;;;;;;x;;;;
+z1manage_grants_title;§YManage Grants;;;;;;;;;x;;;;
+z1manage_grants_desc;Enable Grants / Disable Grants / Request Grants.;;;;;;;;;x;;;;

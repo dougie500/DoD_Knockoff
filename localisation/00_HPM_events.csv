@@ -11967,3 +11967,5 @@ EVTOPTA180000;We must march West;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 EVTNAME180001;The Loss of the Levant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 EVTDESC180001;In the midst of the chaos created by the Ottoman Civil War and the Hungarian and Illyrian insurrections, the Pashaliks of Mosul and Baghdad, united under the leadership of Faysal Jalili, declared independence from the Sublime Porte. With no forces to spare for an expedition to the Levant, the House of Osman reluctantly recognised Jalili as Malik of Iraq. Although in the ensuing decades plans were repeatedly drawn to bring Baghdad under Turkish dominion, it is now painfully clear that the Ottoman state is too weak for such an adventure.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 EVTOPTA180001;We must relinquish our claims, for the sake of peace.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EVTNAMEgrantoptions;Grant Options;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EVTDESCgrantoptions;GIVE ME MONEY!!!.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
