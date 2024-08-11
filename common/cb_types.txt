@@ -5285,11 +5285,10 @@ establish_protectorate_casus_belli = {
 	sprite_index = 7
 	is_triggered_only = yes
 	months = 0
+	construction_speed = 0.5
 	crisis = no
 	
-	construction_speed = 0.5
-	
-	badboy_factor = 1.5
+	badboy_factor = 1.22
 	prestige_factor = 1
 	peace_cost_factor = 1
 	penalty_factor = 1
@@ -5297,7 +5296,7 @@ establish_protectorate_casus_belli = {
 	break_truce_prestige_factor = 5
 	break_truce_infamy_factor = 2
 	break_truce_militancy_factor = 2
-	truce_months = 48
+	truce_months = 60
 	
 	good_relation_prestige_factor = 0
 	good_relation_infamy_factor = 0
@@ -5306,138 +5305,23 @@ establish_protectorate_casus_belli = {
 	always = no
 	
 	can_use = {
-		civilized = no
-		is_vassal = no
-		OR = {
-			any_owned_province = { any_neighbor_province = { owned_by = THIS } }
-			AND = {
-				any_owned_province = { port = yes }
-				THIS = { any_owned_province = { port = yes } }
-			}
-		}
-		NOT = { is_our_vassal = THIS }
-		NOT = { 
-			has_country_modifier = neutrality
-			number_of_states = 2
-		}
-		OR = {
-			war_with = THIS
-			THIS = { NOT = { has_country_modifier = punitive_effects } }
-		}
-		OR = {
-			THIS = { war_policy = jingoism }
-			THIS = { civilized = no }
-			war_with = THIS
-			NOT = { relation = { who = THIS value = 0 } }
-			THIS = { ai = no }
-		}
-		
-		OR = {
-			THIS = { ai = no }
-			THIS = { war_policy = jingoism NOT = { government = democracy } }
-			NOT = { 
-				THIS = { 
-					OR = {
-						capital_scope = { continent = south_america } 
-						capital_scope = { continent = north_america }
-						capital_scope = { continent = australia_new_zealand }
-					}
-				}
-			}
-		}
-		
-		OR = {
-			THIS = { total_pops = 1000000 }
-			THIS = { machine_guns = 1 }
-			NOT = { total_pops = 200000 }
-		}
 		
 		THIS = {
 			civilized = yes
-			military_score = 1			
-			NOT = { has_country_modifier = neutrality }
-		}
-		
-		OR = {
-			THIS = { NOT = { nationalism_n_imperialism = 1 } }
-			NOT = { has_global_flag = berlin_conference }
-			civilization_progress = 0.6
-			has_country_flag = post_colonial_country
 		}
 		OR = {
-			THIS = { NOT = { nationalism_n_imperialism = 1 } }
-			civilization_progress = 0.6
-			has_country_flag = post_colonial_country
-			AND = {
-				THIS = { nationalism_n_imperialism = 1 }
-				capital_scope = { continent = africa }
-			}
-		}
-		
-		#Restrictions to non-African State conquering
-		OR = {
-			capital_scope = { continent = africa }
-		
-			NOT = { total_pops = 500000 }
-			
-			AND = {
-				NOT = { total_pops = 1000000 }
-				OR = {
-					capital_scope = { is_overseas = no }
-					THIS = {
-						ai = no
-						naval_logistics = 1
-					}
-					THIS = {
-						ai = yes
-						raider_group_doctrine = 1
-						iron_steamers = 1
-					}
-				}
-			}
-			
-			AND = {
-				NOT = { total_pops = 2000000 }
-				THIS = { machine_guns = 1 }
-				OR = {
-					capital_scope = { is_overseas = no }
-					THIS = {
-						ai = no
-						naval_directionism = 1
-					}
-					THIS = {
-						ai = yes
-						steam_turbine_ships = 1
-					}
-				}
+			NOT = {
+				number_of_states = 2 
 			}
 			AND = {
-				NOT = { total_pops = 3000000 }
 				THIS = {
-					bolt_action_rifles = 1
-					army_risk_management = 1
+					is_greater_power = yes
+					nationalism_n_imperialism = 1
 				}
-				OR = {
-					capital_scope = { is_overseas = no }
-					THIS = {
-						ai = no
-						naval_integration = 1
-					}
-					THIS = {
-						ai = yes
-						oil_driven_ships = 1
-					}
-				}
+				NOT = { number_of_states = 5 }
 			}
-			AND = {
-				total_pops = 3000000
-				THIS = {
-					modern_divisional_structure = 1
-					army_nco_training = 1
-				}
-			}
-		} ###End of Non-African Restrictions
-	
+		}
+		civilized = no
 	}
 	
 	po_annex = yes
@@ -5451,8 +5335,8 @@ establish_protectorate_casus_belli = {
 			value = 0.1
 		}
 	}
-	on_po_accepted = { tech_school = unciv_tech_school }
 }
+
 
 establish_protectorate_NI_casus_belli = {
 	sprite_index = 7

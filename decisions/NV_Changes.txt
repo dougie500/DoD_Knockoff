@@ -46,7 +46,7 @@ political_decisions = {
 	switch_to_order = {
 		picture = switch_to_order
 		potential = {
-			NOT = { has_country_flag = switched_nv }
+			
 			has_country_flag = nv_change
 		}
 		
@@ -84,7 +84,7 @@ political_decisions = {
 	switch_to_education = {
 		
 		potential = {
-			NOT = { has_country_flag = switched_nv }
+			
 			has_country_flag = nv_change
 		}
 		
@@ -109,7 +109,7 @@ political_decisions = {
 	switch_to_production = {
 		picture = switch_to_productivity
 		potential = {
-			NOT = { has_country_flag = switched_nv }
+			
 			has_country_flag = nv_change
 		}
 		
@@ -148,7 +148,7 @@ political_decisions = {
 	switch_to_autocracy = {
 		picture = switch_to_autocracy
 		potential = {
-			NOT = { has_country_flag = switched_nv }
+		
 			has_country_flag = nv_change
 		}
 		
@@ -187,7 +187,7 @@ political_decisions = {
 	switch_to_equality = {
 		picture = switch_to_equality
 		potential = {
-			NOT = { has_country_flag = switched_nv }
+			
 			has_country_flag = nv_change
 		}
 		
@@ -226,12 +226,13 @@ political_decisions = {
 	switch_to_liberty = {
 		picture = switch_to_liberty
 		potential = {
-			NOT = { has_country_flag = switched_nv }
+			
 			has_country_flag = nv_change
 		}
 		
 		allow = {
 			war = no
+			NOT = { has_country_modifier = national_confusion }
 		}
 		
 		effect = {

@@ -144,7 +144,11 @@ Renovate_Toulouse = {
 
 	potential = { 
 	NOT = {has_country_flag = Toulouse_but_better }
+	OR = {
 	tag = OCC
+	tag = GEN
+	}
+
 	}
 	
 	allow = { 
