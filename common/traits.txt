@@ -26,7 +26,10 @@ personality = {
 		defence = 4
 		
 	}
-
+	defence_5.1 = {
+		defence = 5
+		
+	}
 	aggressive = {
 		defence = 1
 	}
