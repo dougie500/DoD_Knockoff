@@ -28,10 +28,10 @@ personality = {
 	}
 
 	aggressive = {
-		attack = 1
+		defence = 1
 	}
 	relentless = {
-		attack = 2
+		defence = 2
 	}
 	active_p = {
 		speed = 0.05
@@ -68,7 +68,7 @@ personality = {
 		morale = -0.25
 	}
 	brutish = {
-		attack = 1
+		defence = 1
 		reliability = -0.02
 	}
 	bigoted = {
@@ -93,24 +93,24 @@ personality = {
 		experience = 0.10
 	}
 	vicious = {
-		attack = 2
+		defence = 2
 		morale = -0.10
 	}
 	hellbent = {
 		speed = 0.40
 	}
 	deeply_religious = {
-		attack = -1
+	
 		defence = -1
 		morale = 0.20
 	}
 	imperious = {
-		attack = 1
+		
 		defence = -2
 		morale = 0.20
 	}
 	choleric = {
-		attack = 1
+		defence = 1
 		organisation = -0.05
 	}
 	fanatic = {
@@ -118,29 +118,29 @@ personality = {
 		reliability = 0.04
 	}
 	irate = {
-		attack = 1
+		defence = 1
 	}
 	wrathful = {
-		attack = 2
+		defence = 2
 	}
 	calm = {
-		attack = -1
+		defence = -1
 	}
 	reserved = {
-		attack = -1
+		defence = -1
 	}
 	harsh = {
-		attack = 1
 		defence = 1
+		
 		morale = -0.10
 	}
 	merciless = {
-		attack = 2
+		defence = 2
 		defence = 2
 		morale = -0.20
 	}
 	implacable = {
-		attack = 3
+		
 		defence = 3
 		morale = -0.30
 	}
@@ -174,30 +174,30 @@ personality = {
 		morale = 0.50
 	}
 	brash = {
-		attack = 1
+		defence = 1
 		morale = 0.10
 		organisation = -0.05
 		experience = -0.10
 	}
 	daring = {
-		attack = 3
+		defence = 3
 	}
 	soldierly = {
-		attack = 1
+		defence = 1
 	}
 	disciplined = {
-		attack = 2
+		defence = 2
 	}
 	unflinching = {
-		attack = 3
+		defence = 3
 	}
 	bold = {
-		attack = 1
+		defence = 1
 		morale = 0.10
 		speed = 0.05
 	}
 	audacious = {
-		attack = 2
+		defence = 2
 		defence = 2
 		speed = 0.10
 	}
@@ -210,17 +210,17 @@ personality = {
 		reliability = 0.02
 	}
 	stalwart = {
-		attack = 1
+		defence = 1
 		defence = 1
 	}
 	stouthearted = {
-		attack = 1
+		defence = 1
 	}
 	steadfast = {
-		attack = 2
+		defence = 2
 	}
 	chivalrous = {
-		attack = 2
+		defence = 2
 		morale = 0.20
 	}
 	ballsy = {
@@ -287,15 +287,15 @@ personality = {
 		reconnaissance = 0.25
 	}
 	skilled = {
-		attack = 1
+		defence = 1
 		organisation = 0.05
 	}
 	efficient = {
-		attack = 2
+		defence = 2
 		organisation = 0.10
 	}
 	au_fait = {
-		attack = 3
+		defence = 3
 		organisation = 0.15
 	}
 	indifferent = {
@@ -308,31 +308,31 @@ personality = {
 		organisation = -0.10
 	}
 	timid = {
-		attack = -1
+		defence = -1
 		speed = -0.10
 	}
 	chickenhearted = {
-		attack = -2
+		defence = -2
 		speed = -0.10
 	}
 	lilylivered = {
-		attack = -2
+		defence = -2
 		morale = -0.20
 		speed = -0.20
 	}
 	soft = {
-		attack = -2
+		defence = -2
 	}
 	spineless = {
-		attack = -2
+		defence = -2
 		morale = -0.20
 	}
 	unmanly = {
-		attack = -3
+		defence = -3
 		morale = -0.30
 	}
 	yellow = {
-		attack = -4
+		defence = -4
 		morale = -0.40
 	}
 	pusillanimous = {
@@ -377,10 +377,10 @@ personality = {
 		reliability = -0.01
 	}
 	inept = {
-		attack = -1
+		defence = -1
 	}
 	inefficient = {
-		attack = -2
+		defence = -2
 	}
 	perverse = {
 		morale = -0.20
@@ -396,11 +396,11 @@ personality = {
 		reliability = -0.02
 	}
 	wretched = {
-		attack = -1
+		defence = -1
 		morale = -0.20
 	}
 	pisspoor = {
-		attack = -2
+		defence = -2
 		morale = -0.20
 	}
 	unsound = {
@@ -463,7 +463,7 @@ background = {
 		defence = 1
 	}
 	amateur = {
-		defence = -1
+		attack = -1
 		speed = -0.25
 	}
 	madman = {
@@ -477,9 +477,11 @@ background = {
 	}
 	butcher = {
 		organisation = -0.05
+		attack = 3
 	}
 	exranker = {
 		morale = -0.10
+		attack = 1
 	}
 	adventurer = {
 		attack = 2
@@ -487,9 +489,10 @@ background = {
 	}
 	debutante = {
 		reliability = -0.02
+		attack = 4
 	}
 	colonial_b = {
-		defence = -2
+		attack = -2
 		organisation = -0.05
 		speed = 0.20
 	}
@@ -515,12 +518,12 @@ background = {
 	}
 	professor = {
 		attack = -1
-		defence = -1
+		
 		morale = 0.20
 	}
 	old_school = {
 		attack = 1
-		defence = -2
+		defence = -1
 		morale = 0.20
 	}
 	eccentric_genius = {
@@ -547,12 +550,11 @@ background = {
 	}
 	hated = {
 		attack = 1
-		defence = 1
+		
 		morale = -0.20
 	}
 	cursed_luck = {
-		attack = 2
-		defence = 2
+		attack = 3
 		morale = -0.40
 	}
 	clueless = {
@@ -583,7 +585,7 @@ background = {
 		organisation = -0.10
 	}
 	bootlicker = {
-		defence = 1
+		attack = 1
 		reliability = 0.02
 	}
 	sycophant = {
@@ -616,7 +618,7 @@ background = {
 	}
 	school_of_the_bayonet = {
 		attack = 2
-		defence = 1
+		
 		speed = 0.10
 	}
 	school_of_firepower = {
@@ -624,13 +626,13 @@ background = {
 		morale = 0.30
 	}
 	artillerist = {
-		defence = 1
+		attack = 1
 		morale = 0.10
 		reliability = 0.02
 	}
 	uncommonly_young = {
 		attack = 1
-		defence = 1
+		
 	}
 	sucker = {
 		attack = -1
@@ -640,19 +642,23 @@ background = {
 	}
 	unfit = {
 		attack = -2
-		morale = -0.20
+		
 	}
 	unqualified = {
 		organisation = -0.05
 		speed = -0.10
+		attack = 2
+
 	}
 	pawn = {
 		reliability = 0.05
+		attack = 2
 	}
 	elderly = {
 		reliability = 0.04
 	}
 	incompetent = {
 		reliability = -0.03
+		attack = 2
 	}
 }
