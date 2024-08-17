@@ -256,7 +256,7 @@ reactionary_rebels = {
 		OR = {
 			capital_scope = {
 				controlled_by = REB
-				province_control_days = 250
+				province_control_days = 180
 			}
 			NOT = {
 				any_owned_province = {
@@ -547,7 +547,7 @@ fascist_rebels = {
 		OR = {
 			capital_scope = {
 				controlled_by = REB
-				province_control_days = 250
+				province_control_days = 180
 			}
 			NOT = {
 				any_owned_province = {
@@ -824,7 +824,7 @@ communist_rebels = {
 		OR = {
 			capital_scope = {
 				controlled_by = REB
-				province_control_days = 250
+				province_control_days = 180
 			}
 			NOT = {
 				any_owned_province = {
@@ -1139,7 +1139,7 @@ anarcho_liberal_rebels = {
 		OR = {
 			capital_scope = {
 				controlled_by = REB
-				province_control_days = 250
+				province_control_days = 180
 			}
 			NOT = {
 				any_owned_province = {
@@ -1743,7 +1743,7 @@ pan_nationalist_rebels = {
 		OR = {
 			capital_scope = {
 				controlled_by = REB
-				province_control_days = 250
+				province_control_days = 180
 			}
 			NOT = {
 				any_owned_province = {
@@ -2036,7 +2036,7 @@ red_shirts = {
 		}
 		capital_scope = {
 			controlled_by = REB
-			province_control_days = 250
+			province_control_days = 180
 		}
 	}
 	
@@ -2259,7 +2259,7 @@ indian_nationalists = {
 					controlled_by = REB
 					NOT = { owned_by = THIS }
 				}
-				province_control_days = 250
+				province_control_days = 180
 			}
 		}		
 	}
@@ -2628,7 +2628,7 @@ liberal_rebels = {
 		OR = {
 			capital_scope = {
 				controlled_by = REB
-				province_control_days = 250
+				province_control_days = 180
 			}
 			NOT = {
 				any_owned_province = {
@@ -2941,7 +2941,7 @@ unciv_reactionary_rebels = {
 		OR = {
 			capital_scope = {
 				controlled_by = REB
-				province_control_days = 250
+				province_control_days = 180
 			}
 			NOT = {
 				any_owned_province = {
@@ -3189,7 +3189,7 @@ separatist_rebels = {
 	demands_enforced_trigger = {
 		capital_scope = {
 			controlled_by = REB
-			province_control_days = 250
+			province_control_days = 180
 		}
 	}
 	demands_enforced_effect = {
@@ -3542,7 +3542,7 @@ socialist_rebels = {
 		OR = {
 			capital_scope = {
 				controlled_by = REB
-				province_control_days = 250
+				province_control_days = 180
 			}
 			NOT = {
 				any_owned_province = {
@@ -3833,7 +3833,7 @@ independence_rebels = {
 		OR = {
 			capital_scope = {
 				controlled_by = REB
-				province_control_days = 250
+				province_control_days = 180
 			}
 			NOT = {
 				any_owned_province = {
@@ -4067,7 +4067,7 @@ turkish_nationalist_rebels = {
 		OR = {
 			capital_scope = {
 				controlled_by = REB
-				province_control_days = 250
+				province_control_days = 180
 			}
 			NOT = {
 				any_owned_province = {
@@ -4260,7 +4260,7 @@ native_rebels = {
 		OR = {
 			capital_scope = {
 				controlled_by = REB
-				province_control_days = 250
+				province_control_days = 180
 			}
 			NOT = {
 				any_owned_province = {
