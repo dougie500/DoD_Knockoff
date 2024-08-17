@@ -106,7 +106,7 @@ demand_concession_casus_belli_small
 demand_concession_casus_belli_medium
 demand_concession_casus_belli_large
 demand_concession_casus_belli_huge
-rude_boy
+#rude_boy
 conquest
 conquest_any
 establish_protectorate_casus_belli
@@ -121,7 +121,7 @@ negotiated_transfer
 establish_protectorate_casus_belli = {
 	sprite_index = 7
 	is_triggered_only = yes
-	months = 0
+	months = 10
 	construction_speed = 0.5
 	crisis = no
 	
@@ -133,8 +133,8 @@ establish_protectorate_casus_belli = {
 	break_truce_prestige_factor = 5
 	break_truce_infamy_factor = 2
 	break_truce_militancy_factor = 2
-	truce_months = 60
-	
+	truce_months = 48
+	g
 	good_relation_prestige_factor = 0
 	good_relation_infamy_factor = 0
 	good_relation_militancy_factor = 0
@@ -316,6 +316,7 @@ negotiated_transfer = {
 	prestige_factor = 0
 	peace_cost_factor = 0
 	penalty_factor = 0
+	
 
 	break_truce_prestige_factor = 0
 	break_truce_infamy_factor = 0
@@ -382,7 +383,7 @@ acquire_core_state_tiny = {
 	break_truce_prestige_factor = 5
 	break_truce_infamy_factor = 2
 	break_truce_militancy_factor = 2
-	truce_months = 60
+	truce_months = 48
 	
 	good_relation_prestige_factor = 1
 	good_relation_infamy_factor = 1
@@ -432,7 +433,7 @@ acquire_core_state_small = {
 	break_truce_prestige_factor = 5
 	break_truce_infamy_factor = 2
 	break_truce_militancy_factor = 2
-	truce_months = 60
+	truce_months = 48
 	
 	good_relation_prestige_factor = 1
 	good_relation_infamy_factor = 1
@@ -482,7 +483,7 @@ acquire_core_state_medium = {
 	break_truce_prestige_factor = 5
 	break_truce_infamy_factor = 2
 	break_truce_militancy_factor = 2
-	truce_months = 60
+	truce_months = 48
 	
 	good_relation_prestige_factor = 1
 	good_relation_infamy_factor = 1
@@ -532,7 +533,7 @@ acquire_core_state_large = {
 	break_truce_prestige_factor = 5
 	break_truce_infamy_factor = 2
 	break_truce_militancy_factor = 2
-	truce_months = 60
+	truce_months = 48
 	
 	good_relation_prestige_factor = 1
 	good_relation_infamy_factor = 1
@@ -581,7 +582,7 @@ acquire_core_state_huge = {
 	break_truce_prestige_factor = 5
 	break_truce_infamy_factor = 2
 	break_truce_militancy_factor = 2
-	truce_months = 60
+	truce_months = 48
 	
 	good_relation_prestige_factor = 1
 	good_relation_infamy_factor = 1
@@ -631,7 +632,7 @@ place_in_the_sun_tiny = {
 	break_truce_prestige_factor = 1
 	break_truce_infamy_factor = 2
 	break_truce_militancy_factor = 1
-	truce_months = 60
+	truce_months = 48
 	
 	good_relation_prestige_factor = 1
 	good_relation_infamy_factor = 1
@@ -1738,7 +1739,7 @@ acquire_all_cores = {
 
 colonial_reconquest_cb = {
 	sprite_index = 2
-	is_triggered_only = no
+	is_triggered_only = yes
 	months = 12
 	
 	badboy_factor = 0
@@ -2113,7 +2114,7 @@ add_to_sphere = {
 
 	can_use = {
 		NOT = { is_our_vassal = THIS }
-		NOT = { total_pops = 11000000 }
+		
 		THIS = { is_greater_power = yes }
 		is_greater_power = no
 		is_vassal = no
@@ -3300,7 +3301,7 @@ liberate_puppet = {
 	break_truce_prestige_factor = 1
 	break_truce_infamy_factor = 1
 	break_truce_militancy_factor = 1
-	truce_months = 0
+	truce_months = 48
 	
 	good_relation_prestige_factor = 1
 	good_relation_infamy_factor = 1
@@ -4583,7 +4584,7 @@ demand_concession_casus_belli_tiny = {
 	break_truce_prestige_factor = 1
 	break_truce_infamy_factor = 1
 	break_truce_militancy_factor = 1
-	truce_months = 60
+	truce_months = 48
 	
 	good_relation_prestige_factor = 0
 	good_relation_infamy_factor = 0
@@ -4637,7 +4638,7 @@ demand_concession_casus_belli_small = {
 	break_truce_prestige_factor = 1
 	break_truce_infamy_factor = 1
 	break_truce_militancy_factor = 1
-	truce_months = 60
+	truce_months = 48
 	
 	good_relation_prestige_factor = 0
 	good_relation_infamy_factor = 0
@@ -4692,7 +4693,7 @@ demand_concession_casus_belli_medium = {
 	break_truce_prestige_factor = 1
 	break_truce_infamy_factor = 1
 	break_truce_militancy_factor = 1
-	truce_months = 60
+	truce_months = 48
 	
 	good_relation_prestige_factor = 0
 	good_relation_infamy_factor = 0
@@ -4747,7 +4748,7 @@ demand_concession_casus_belli_large = {
 	break_truce_prestige_factor = 1
 	break_truce_infamy_factor = 1
 	break_truce_militancy_factor = 1
-	truce_months = 60
+	truce_months = 48
 	
 	good_relation_prestige_factor = 0
 	good_relation_infamy_factor = 0
@@ -4801,7 +4802,7 @@ demand_concession_casus_belli_huge = {
 	break_truce_prestige_factor = 1
 	break_truce_infamy_factor = 1
 	break_truce_militancy_factor = 1
-	truce_months = 60
+	truce_months = 48
 	
 	good_relation_prestige_factor = 0
 	good_relation_infamy_factor = 0
@@ -4841,57 +4842,58 @@ demand_concession_casus_belli_huge = {
 
 
 # Bad Boy
-rude_boy = {
-	sprite_index = 28
-	is_triggered_only = no
-	months = 12
-	construction_speed = 2
-	crisis = no
-	
-	badboy_factor = 0
-	prestige_factor = 0.5
-	peace_cost_factor = 1.5
-	penalty_factor = 1
+# rude_boy = {
+# 	sprite_index = 28
+# 	is_triggered_only = yes
+# 	months = 12
+# 	construction_speed = 0.5
 
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 1
-	break_truce_militancy_factor = 1
-	truce_months = 48
+# 	crisis = no
 	
-	good_relation_prestige_factor = 0
-	good_relation_infamy_factor = 0
-	good_relation_militancy_factor = 0
-	
-	always = yes
+# 	badboy_factor = 0
+# 	prestige_factor = 0.5
+# 	peace_cost_factor = 1.5
+# 	penalty_factor = 1
 
-	can_use = {
-		NOT = { is_our_vassal = THIS }
-		badboy = 1
-		is_disarmed = no
-		THIS = {
-			NOT = { has_country_modifier = neutrality }
-		}
-		OR = {
-			NOT = { has_country_flag = dismantle_declared }
-			THIS = { NOT = { has_country_flag = in_great_war } }
-			THIS = { ai = no }
-		}
-	}
+# 	break_truce_prestige_factor = 1
+# 	break_truce_infamy_factor = 1
+# 	break_truce_militancy_factor = 1
+# 	truce_months = 48
+	
+# 	good_relation_prestige_factor = 0
+# 	good_relation_infamy_factor = 0
+# 	good_relation_militancy_factor = 0
+	
+# 	always = yes
 
-	po_remove_prestige = yes
-	po_disarmament = yes
-	po_reparations = yes
+# 	can_use = {
+# 		NOT = { is_our_vassal = THIS }
+# 		badboy = 1
+# 		is_disarmed = no
+# 		THIS = {
+# 			NOT = { has_country_modifier = neutrality }
+# 		}
+# 		OR = {
+# 			NOT = { has_country_flag = dismantle_declared }
+# 			THIS = { NOT = { has_country_flag = in_great_war } }
+# 			THIS = { ai = no }
+# 		}
+# 	}
+
+# 	po_remove_prestige = yes
+# 	po_disarmament = yes
+# 	po_reparations = yes
 	
-	war_name = WAR_RUDEBOI_NAME
+# 	war_name = WAR_RUDEBOI_NAME
 	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.1
-		}
-	}
-}
+# 	on_add = {
+# 		move_issue_percentage = { 
+# 			from = jingoism 
+# 			to = pro_military
+# 			value = 0.1
+# 		}
+# 	}
+# }
 
 # Conquest
 conquest = {
@@ -5296,7 +5298,7 @@ establish_protectorate_casus_belli = {
 	break_truce_prestige_factor = 5
 	break_truce_infamy_factor = 2
 	break_truce_militancy_factor = 2
-	truce_months = 60
+	truce_months = 48
 	
 	good_relation_prestige_factor = 0
 	good_relation_infamy_factor = 0
@@ -6403,7 +6405,7 @@ acquire_core_substate_region = {
 	break_truce_prestige_factor = 1
 	break_truce_infamy_factor = 2
 	break_truce_militancy_factor = 2
-	truce_months = 0
+	truce_months = 48
 	
 	good_relation_prestige_factor = 1
 	good_relation_infamy_factor = 1
@@ -7093,121 +7095,7 @@ war_reparations = {
 	}
 }
 
-hre_unification = {
-	sprite_index = 11
-	is_triggered_only = no
-	months = 12
-	crisis = no
 
-	badboy_factor = 1
-	prestige_factor = 1
-	peace_cost_factor = 25
-	penalty_factor = 1
-	always = yes
-	
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 1
-	break_truce_militancy_factor = 1
-	truce_months = 0
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-	
-	can_use = {
-		THIS ={
-			tag = BOH 
-			is_greater_power = yes
-			NOT = { has_global_flag = liberal_revolutions_should_now_fire }
-		}
-		NOT = { is_our_vassal = THIS }
-		is_vassal = no
-		tag = SCA 
-		is_greater_power = yes
-		OR = {
-			war_with = THIS
-			THIS = {
-				NOT = { has_country_modifier = no_more_war }
-			}
-		}
-	}
-	
-	po_remove_prestige = yes 
-	
-	on_po_accepted = {
-		country_event =	410001 # Nice event
-	}
-	
-	tws_battle_factor = 2.0 # battle score twice that of opponent
-	
-	war_name = UNIFICATION_HUMILIATE_NAME
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.1
-		}
-	}
-}
-
-hre_unification2 = {
-	sprite_index = 11
-	is_triggered_only = no
-	months = 12
-	crisis = no
-
-	badboy_factor = 1
-	prestige_factor = 1
-	peace_cost_factor = 25
-	penalty_factor = 1
-	always = yes
-	
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 1
-	break_truce_militancy_factor = 1
-	truce_months = 0
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-	
-	can_use = {
-		THIS ={
-			tag = BOH 
-			is_greater_power = yes
-			NOT = { has_global_flag = liberal_revolutions_should_now_fire }
-		}
-		NOT = { is_our_vassal = THIS }
-		is_vassal = no
-		tag = BRG
-		is_greater_power = yes
-		OR = {
-			war_with = THIS
-			THIS = {
-				NOT = { has_country_modifier = no_more_war }
-			}
-		}
-	}
-	
-	po_remove_prestige = yes 
-	
-	on_po_accepted = {
-		country_event =	410001 # Nice event
-	}
-	
-	tws_battle_factor = 2.0 # battle score twice that of opponent
-	
-	war_name = UNIFICATION_HUMILIATE_NAME
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.1
-		}
-	}
-}
 
 # Selon Treaty AI
 annex_india_AI = {
@@ -7629,7 +7517,7 @@ acquire_capital = {
 # 	break_truce_prestige_factor = 1
 # 	break_truce_infamy_factor = 2
 # 	break_truce_militancy_factor = 2
-# 	truce_months = 60
+# 	truce_months = 48
 	
 # 	good_relation_prestige_factor = 1
 # 	good_relation_infamy_factor = 1
@@ -7975,7 +7863,7 @@ minor_conquest = {
 	break_truce_prestige_factor = 5
 	break_truce_infamy_factor = 2
 	break_truce_militancy_factor = 2
-	truce_months = 60
+	truce_months = 48
 	
 	good_relation_prestige_factor = 1
 	good_relation_infamy_factor = 1
