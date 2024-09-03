@@ -1,7 +1,5 @@
-owner = IRQ
-controller = IRQ
-
-add_core = IRQ
-add_core = NEJ
+owner = TUR
+controller = TUR
+add_core = TUR
 trade_goods = grain
 life_rating = 35

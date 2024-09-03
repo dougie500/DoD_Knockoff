@@ -1,5 +1,5 @@
-owner = CHG
-controller = CHG   
-add_core = CHG
+owner = ASK
+controller = ASK   
+add_core = ASK
 trade_goods = cattle
 life_rating = 35

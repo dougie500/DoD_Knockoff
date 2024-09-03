@@ -1,4 +1,4 @@
-color = { 20 20 20}
+color = { 80 80 80}
 graphical_culture = MoroccoGC
 
 party = {

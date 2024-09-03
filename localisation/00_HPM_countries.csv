@@ -2333,12 +2333,12 @@ TUR_ADJ;Turkish;Turque;Turkisch;;;;;;;;;;;
 TUR_proletarian_dictatorship;Turkey;Turquie;T�rkei;;;;;;;;;;;
 TUR_presidential_dictatorship;The Sublime Porte;The Sublime Porte;The Sublime Porte;;;;;;;;;;;
 TUR_presidential_dictatorship_ADJ;Ottoman;Ottoman;Osmanisch;;;;;;;;;;;
-TUR_absolute_monarchy;The Ottoman Empire;Empire ottoman;Osmanisches Reich;;;;;;;;;;;
-TUR_absolute_monarchy_ADJ;Ottoman;Ottoman;Osmanisch;;;;;;;;;;;
-TUR_prussian_constitutionalism;The Ottoman Empire;Empire ottoman;Osmanisches Reich;;;;;;;;;;;
-TUR_prussian_constitutionalism_ADJ;Ottoman;Ottoman;Osmanisch;;;;;;;;;;;
-TUR_hms_government;The Ottoman Empire;Empire ottoman;Osmanisches Reich;;;;;;;;;;;
-TUR_hms_government_ADJ;Ottoman;Ottoman;Osmanisch;;;;;;;;;;;
+TUR_absolute_monarchy;Sultanate of Rum;Empire ottoman;Osmanisches Reich;;;;;;;;;;;
+TUR_absolute_monarchy_ADJ;Seljuk;Ottoman;Osmanisch;;;;;;;;;;;
+TUR_prussian_constitutionalism;Sultanate of Rum;Empire ottoman;Osmanisches Reich;;;;;;;;;;;
+TUR_prussian_constitutionalism_ADJ;Seljuk;Ottoman;Osmanisch;;;;;;;;;;;
+TUR_hms_government;Sultanate of Rum;Empire ottoman;Osmanisches Reich;;;;;;;;;;;
+TUR_hms_government_ADJ;Seljuk;Ottoman;Osmanisch;;;;;;;;;;;
 TUR_bourgeois_dictatorship;Turkish Free State;;;;;;;;;;;;;
 TUR_proletarian_dictatorship;Turkish Socialist Republic;;;;;;;;;;;;;
 TUR_proletarian_dictatorship_ADJ;Turkish;;;;;;;;;;;;;
@@ -3659,11 +3659,11 @@ ARI_fascist_2;P�tria i Tradici�;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ARI_liberal_1;Socialdem�crates Aragonesos-Italians;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ARY;Iranshahr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ARY_ADJ;Aryan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-ASK;Saltlan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-ASK_ADJ;Saltlan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-ASK_feudal_monarchy;Saltlan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-ASK_khanate;Saltlan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-ASK_absolute_monarchy;Saltlan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ASK;Astrakan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ASK_ADJ;Astrakan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ASK_feudal_monarchy;Astrakan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ASK_khanate;Astrakan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ASK_absolute_monarchy;Astrakan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ATL;Atlantia;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ATL_ADJ;Atlantian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ATS;Athesia;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -4308,8 +4308,8 @@ UCA_prussian_constitutionalism;Greater Salvador;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 UCA_hms_government;Greater Salvador;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 CHR;Christiania;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 CHR_ADJ;Christian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-MRL;Tver;;;;;;;;;;;;x
-MRL_ADJ;Tver;;;;;;;;;;;;x
+MRL;Ryazan;;;;;;;;;;;;x
+MRL_ADJ;Ryazan;;;;;;;;;;;;x
 MRD;Mordvinia;;;;;;;;;;;;x
 MRD_ADJ;Mordvin;;;;;;;;;;;;x
 MRD_proletarian_dictatorship;The Mordvin ASSR;;;;;;;;;;;;x

@@ -1,7 +1,6 @@
-owner = RHI
-controller = RHI
-add_core = RHI
-
+owner = BRG
+controller = BRG
+add_core = BRG
 add_core = GER
 trade_goods = iron
 life_rating = 37

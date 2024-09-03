@@ -1,6 +1,6 @@
-owner = SWI
-controller = SWI
-add_core = SWI
+owner = OCC
+controller = OCC
+add_core = OCC
 
 trade_goods = iron
 life_rating = 35

@@ -1,7 +1,6 @@
-owner = OCC
-controller = OCC
-add_core = OCC
-
+owner = ARA
+controller = ARA
+add_core = ARA
 add_core = SRD
 trade_goods = fish
 life_rating = 35

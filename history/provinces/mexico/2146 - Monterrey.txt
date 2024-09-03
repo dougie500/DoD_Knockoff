@@ -1,5 +1,6 @@
-add_core = TUN
-add_core = TRI
+owner = MGH
+controller = MGH
+add_core = MGH
 trade_goods = wool
 life_rating = 25
 terrain = desert

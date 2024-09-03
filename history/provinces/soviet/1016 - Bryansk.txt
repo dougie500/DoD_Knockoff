@@ -1,6 +1,6 @@
-owner = MUS
-controller = MUS
-add_core = MUS
+owner = MRL
+controller = MRL
+add_core = MRL
 trade_goods = cattle
 life_rating = 35
 add_core = RUT

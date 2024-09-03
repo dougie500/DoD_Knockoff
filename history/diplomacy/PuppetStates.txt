@@ -1,20 +1,8 @@
 #PLC substates
 
-vassal = {
-	first = NOV
-	second = MUS
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
 substate = {
 	first = PLC
 	second = LIT
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-substate = {
-	first = PLC
-	second = BLR
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }

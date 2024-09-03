@@ -1,5 +1,5 @@
-owner = CRI
-controller = CRI
-add_core = CRI
+owner = ASK
+controller = ASK   
+add_core = ASK
 trade_goods = wool
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = FRI
-controller = FRI
-add_core = FRI
+owner = BRG
+controller = BRG
+add_core = BRG
 add_core = NET
 naval_base = 2
 trade_goods = grain

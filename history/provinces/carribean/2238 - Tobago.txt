@@ -1,5 +1,5 @@
-owner = RUT
-controller = RUT
+owner = MGH
+controller = MGH
 add_core = UBD
 trade_goods = cotton
 life_rating = 35
