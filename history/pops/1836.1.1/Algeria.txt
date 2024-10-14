@@ -3,39 +3,39 @@
 #Algiers (280000/70000 POPS)
 1700 = {
     aristocrats = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
         size = 100
     }
 
     bureaucrats = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
         size = 300
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
         size = 170
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
         size = 2400
     }
 	
     soldiers = {
-		culture = catalan
+		culture = maghrebi
 		religion = catholic
-		size = 3000
+		size = 2000
     }	
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
-        size = 20065
+        size = 50065
     }
 
     clergymen = {
@@ -87,12 +87,6 @@
         culture = maghrebi
         religion = sunni
         size = 1200
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = catholic
-        size = 3000
     }
 
     soldiers = {
@@ -252,7 +246,7 @@
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 14000
+        size = 19000
     }
 
     clergymen = {
@@ -294,7 +288,7 @@
     soldiers = {
 		culture = maghrebi
 		religion = catholic
-		size = 5300
+		size = 2300
     }
 
     soldiers = {
@@ -308,25 +302,25 @@
 #Oran (108000/27000 POPS)
 1704 = {
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
         size = 45
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
         size = 1020
     }
 	
     soldiers = {
-		culture = catalan
+		culture = maghrebi
 		religion = catholic
-		size = 3000
+		size = 2000
     }	
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
         size = 8120
     }
@@ -364,20 +358,20 @@
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 2600
+        size = 30600
     }
 }
 #Aljazair-ruled in 1836 :
 #Tilimsan - Tlemcen (221600/55400 POPS)
 1705 = {
     officers = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
         size = 100
     }
 	
     soldiers = {
-		culture = catalan
+		culture = maghrebi
 		religion = catholic
 		size = 3000
     }	
@@ -425,21 +419,21 @@
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
         size = 450
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
-        size = 7510
+        size = 17510
     }
 }
 #Mustaghanim (188000/47000 POPS)
@@ -449,6 +443,11 @@
         religion = sunni
         size = 240
     }
+    soldiers = {
+		culture = catalan
+		religion = catholic
+		size = 1500
+    }	
 
     artisans = {
         culture = maghrebi
@@ -477,23 +476,23 @@
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 12575
+        size = 22575
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
         size = 60
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
         size = 8510
     }
@@ -565,15 +564,15 @@
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
         size = 720
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
-        size = 2440
+        size = 22440
     }
 
     clergymen = {
@@ -740,14 +739,9 @@
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 12950
+        size = 24950
     }
 
-    aristocrats = {
-        culture = tuareg
-        religion = sunni
-        size = 100
-    }
 
     clergymen = {
         culture = tuareg
@@ -764,7 +758,7 @@
     soldiers = {
         culture = tuareg
         religion = sunni
-        size = 3100
+        size =  100
     }
 
     farmers = {
@@ -932,13 +926,13 @@
     soldiers = {
         culture = tuareg
         religion = sunni
-        size = 13000
+        size = 2000
     }
 
     farmers = {
         culture = tuareg
         religion = sunni
-        size = 10200
+        size = 45200
     }
 
     aristocrats = {

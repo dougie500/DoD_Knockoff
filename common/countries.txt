@@ -3,13 +3,6 @@
 # Special countries...
 REB 	= 	"countries/rebels.txt"
 
-# Special countries...
-TIN		= 	"countries/Tiny State.txt"
-SMA		= 	"countries/Small State.txt"
-MED		=	"countries/Medium State.txt"
-LRG		=	"countries/Large State.txt"
-HUG		=	"countries/Huge State.txt"
-
 ##DoD
 POH    = "countries/Pohjola.txt"
 ZPS    = "countries/Zapadoslavia.txt"
@@ -728,3 +721,10 @@ D47		= "countries/D47.txt"
 D48		= "countries/D48.txt"
 D49		= "countries/D49.txt"
 D50		= "countries/D50.txt"
+
+# Special countries...
+TIN		= 	"countries/Tiny State.txt"
+SMA		= 	"countries/Small State.txt"
+MED		=	"countries/Medium State.txt"
+LRG		=	"countries/Large State.txt"
+HUG		=	"countries/Huge State.txt"

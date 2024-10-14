@@ -2370,12 +2370,12 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 80000
+		size = 90000
 	}
 	farmers = {
 		culture = provencal
 		religion = catholic
-		size = 55000
+		size = 35000
 	}
 }
 #Poitiers (288000/72000 POPS)
@@ -2427,12 +2427,12 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 45000
+		size = 55000
 	}
 	farmers = {
 		culture = provencal
 		religion = catholic
-		size = 45000
+		size = 30000
 	}
 }
 #Limousin Region (1596000)
@@ -2541,13 +2541,13 @@
 	}
 
 	farmers = {
-		culture = provencal
+		culture = french
 		religion = protestant
-		size = 78600
+		size = 48600
 	}
 
 	farmers = {
-		culture = french
+		culture = provencal
 		religion = catholic
 		size = 25000
 	}
@@ -2643,7 +2643,11 @@
 		religion = protestant
 		size = 725
 	}
-
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 10000
+	}
 	artisans = {
 		culture = provencal
 		religion = protestant
@@ -3076,7 +3080,7 @@
 	}
 
 	farmers = {
-		culture = provencal
+		culture = french
 		religion = protestant
 		size = 110510
 	}
@@ -3110,13 +3114,13 @@
 	farmers = {
 		culture = provencal
 		religion = protestant
-		size = 80675
+		size = 70675
 	}
     
 	farmers = {
-		culture = provencal
+		culture = french
 		religion = catholic
-		size = 40675
+		size = 50675
 	}
 }
 #Pau (676000/169000 POPS)
@@ -3148,13 +3152,13 @@
 	farmers = {
 		culture = provencal
 		religion = protestant
-		size = 84300
+		size = 69300
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 30000
+		size = 55000
 	}
 
 	aristocrats = {
@@ -3185,7 +3189,7 @@
 	farmers = {
 		culture = castilian
 		religion = catholic
-		size = 41200
+		size = 31200
 	}
 
 }

@@ -1,8 +1,6 @@
 owner = NOV
 controller = NOV
 add_core = NOV
-add_core = EST
-add_core = LAT
 trade_goods = grain
 life_rating = 40
 fort = 1

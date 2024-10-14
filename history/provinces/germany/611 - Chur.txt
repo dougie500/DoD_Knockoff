@@ -1,5 +1,5 @@
-owner = OCC
-controller = OCC
-add_core = OCC
+owner = BAV
+controller = BAV
+add_core = BAV
 trade_goods = cattle
 life_rating = 37

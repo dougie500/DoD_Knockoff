@@ -1,6 +1,6 @@
-owner = OCC
-controller = OCC
-add_core = OCC
+owner = LOM
+controller = LOM
+add_core = LOM
 add_core = ITA
 add_core = TUS
 trade_goods = timber

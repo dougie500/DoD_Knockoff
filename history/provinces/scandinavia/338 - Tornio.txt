@@ -1,7 +1,6 @@
-owner = NOV
-controller = NOV
-add_core = NOV
-add_core = FIN
+owner = SWE
+controller = SWE
+add_core = SWE
 trade_goods = iron
 terrain = boreal
 life_rating = 35

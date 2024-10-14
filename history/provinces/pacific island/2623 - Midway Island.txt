@@ -1,6 +1,5 @@
-owner = HAW
-controller = HAW
-add_core = HAW
+owner = DNG
+controller = DNG
 trade_goods = fish
 life_rating = 10
 terrain = coral_island

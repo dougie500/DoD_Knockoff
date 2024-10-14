@@ -1,6 +1,6 @@
-owner = DEN
-controller =DEN
-add_core = DEN
+owner = SWE
+controller = SWE
+add_core = SWE
 trade_goods = grain
 terrain = montane_tundra
 life_rating = 35

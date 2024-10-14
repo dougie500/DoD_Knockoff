@@ -1,6 +1,6 @@
-owner = TAR
-controller = TAR
-add_core = TAR
+owner = CRI
+controller = CRI
+add_core = CRI
 trade_goods = coal
 terrain = mining_district
 life_rating = 40

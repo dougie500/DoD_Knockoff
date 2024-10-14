@@ -1,6 +1,5 @@
-owner = DEN
-controller =DEN
-add_core = DEN
+owner = IRE
+controller =IRE
 add_core = IRE
 trade_goods = cattle
 naval_base = 1

@@ -101,7 +101,7 @@
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 46860
+        size = 56860
     }
 
     slaves = {
@@ -130,7 +130,7 @@
     soldiers = {
         culture = catalan
         religion = catholic
-        size = 6000
+        size = 4000
     }	
 
     farmers = {
@@ -180,13 +180,13 @@
     soldiers = {
         culture = maghrebi
         religion = sunni
-        size = 6200
+        size = 3200
     }
 
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 22025
+        size = 32025
     }
 
     slaves = {
@@ -212,13 +212,13 @@
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 32180
+        size = 42180
     }
 	
     soldiers = {
         culture = maghrebi
         religion = sunni
-        size = 6000
+        size = 3000
     }	
 
     slaves = {
@@ -262,13 +262,13 @@
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 17300
+        size = 27300
     }
 	
     soldiers = {
         culture = maghrebi
         religion = sunni
-        size = 3000
+        size = 2000
     }	
 
     slaves = {
@@ -294,13 +294,13 @@
     soldiers = {
         culture = maghrebi
         religion = sunni
-        size = 6000
+        size = 3000
     }
 
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 32660
+        size = 52660
     }
 
     slaves = {

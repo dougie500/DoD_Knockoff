@@ -8,3 +8,4 @@ colonial = 2
 	controller = RUS
 	colonial = 2
 }
+trade_goods = iron

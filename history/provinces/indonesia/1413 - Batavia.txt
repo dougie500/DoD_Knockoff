@@ -1,5 +1,5 @@
-owner = JAV
-controller = JAV
+owner = DUA
+controller = JADV
 add_core = JAV
 trade_goods = coffee
 life_rating = 35

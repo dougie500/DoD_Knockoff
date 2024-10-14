@@ -383,11 +383,15 @@
 		religion = protestant
 		size = 200
 	}
-
+	farmers = {
+		culture = scandinavian
+		religion = protestant
+		size = 23000
+	}
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 20000
+		size = 7000
 	}
 }
 

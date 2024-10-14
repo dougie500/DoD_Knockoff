@@ -1,7 +1,5 @@
-owner = PLC
-controller = PLC
-add_core = PLC
-
-
+owner = UKR
+controller = UKR
+add_core = UKR
 trade_goods = grain
 life_rating = 35

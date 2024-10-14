@@ -1688,62 +1688,62 @@
 #Seville (376000/94000 POPS)
 509 = {
 	aristocrats = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 1800
 	}
 
 	capitalists = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 200
 	}
 
 	officers = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 550
 	}
 
 	bureaucrats = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 1100
 	}
 
 	artisans = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 10000
 	}
 	
 	artisans = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 10000
 	}
 	
 	artisans = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 82200
 	}
@@ -1784,32 +1784,32 @@
 #Huelva (140000/35000 POPS)
 511 = {
 	aristocrats = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 375
 	}
 
 	artisans = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size= 500
 
 	}
 
 	farmers = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 31375
 	}
@@ -1817,38 +1817,38 @@
 #Cadiz (336000/84000 POPS)
 512 = {
 	aristocrats = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 850
 	}
 
 	artisans = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 10000
 	}
 	
 	artisans = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 6500
 	}
 
 	soldiers = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size= 3100
 
 	}
 
 	farmers = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 64650
 	}
@@ -1858,89 +1858,89 @@
 #Granada (382000/95500 POPS)
 513 = {
 	aristocrats = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 2750
 	}
 
 	officers = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 450
 	}
 
 	bureaucrats = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 500
 	} 
 
 	craftsmen = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 10000
 	}
   
   capitalists = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 50
 	}
   
   clerks = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 950
 	}
 
 	artisans = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 10000
 	}
 	
 	artisans = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 5000
 	}
 
 	soldiers = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 72850
 	}
 }
 #Malaga (402000/100500 POPS)
 514 = {
 	aristocrats = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 2700
 	}
 
 	clergymen = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 900
 	}
 
 	artisans = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 10000
 	}
 	
@@ -1951,48 +1951,48 @@
 	}
 
 	soldiers = {
-		culture = castilian
-		religion = catholic
-		size= 3100
+		culture = maghrebi
+		religion = sunni
+		size= 4100
 
 	}
 
 	farmers = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 78400
 	}
 }
 #Almeria (242000/60500 POPS)
 515 = {
 	aristocrats = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 1650
 	}
 
 	clergymen = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 550
 	}
 
 	artisans = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 5000
 	}
 
 	soldiers = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size= 2100
 
 	}
 
 	farmers = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 52600
 	}
 }
@@ -2126,40 +2126,40 @@
 #Gibraltar (16000/4000 POPS)
 517 = {
 	officers = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 15
 	}
 
 	bureaucrats = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 55
 	}
 
 	clergymen = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 105
 	}
 
 	soldiers = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size= 350
 
 	}
 
 	artisans = {
-		culture = castilian
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 4135
 	}
 
 	farmers = {
-		culture = castilian
-		religion = catholic
-		size = 3200
+		culture = maghrebi
+		religion = sunni
+		size = 13200
 	}
 
 }

@@ -1,7 +1,6 @@
-owner = BRG
-controller = BRG
-add_core = BRG
-
+owner = DUA
+controller = DUA
+add_core = DUA
 trade_goods = fish
 life_rating = 35
 fort = 2

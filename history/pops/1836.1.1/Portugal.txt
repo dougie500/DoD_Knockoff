@@ -709,61 +709,61 @@
 #Faro (120000/30000 POPS)
 527 = {
 	aristocrats = {
-		culture = portuguese
+		culture = maghrebi
 		religion = catholic
 		size = 275
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = maghrebi
 		religion = catholic
 		size = 130
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = maghrebi
 		religion = catholic
 		size = 875
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = maghrebi
 		religion = catholic
 		size= 175
 	}
 
 	farmers = {
-		culture = portuguese
+		culture = maghrebi
 		religion = catholic
 		size = 22161
 	}
 
 	aristocrats = {
-		culture = portuguese
+		culture = maghrebi
 		religion = catholic
 		size = 275
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = maghrebi
 		religion = catholic
 		size = 195
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = maghrebi
 		religion = catholic
 		size = 875
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = maghrebi
 		religion = catholic
 		size = 175
 	}
 
 	farmers = {
-		culture = portuguese
+		culture = maghrebi
 		religion = catholic
 		size = 18864
 	}

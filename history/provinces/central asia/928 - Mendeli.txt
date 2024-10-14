@@ -1,6 +1,6 @@
-owner = IRQ
-controller = IRQ
-add_core = IRQ
+owner = TUR
+controller = TUR
+add_core = TUR  
 add_core = NEJ
 add_core = KUR
 trade_goods = grain
