@@ -1,6 +1,6 @@
-owner = CHG
-controller = CHG   
-add_core = CHG
+owner = RWA
+controller = RWA   
+add_core = RWA
 terrain = semidesert
 trade_goods = fish
 life_rating = 35

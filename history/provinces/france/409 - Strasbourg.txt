@@ -1,6 +1,6 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = BAD
+controller = BAD
+add_core = BAD
 add_core = LRR
 
 trade_goods = grain

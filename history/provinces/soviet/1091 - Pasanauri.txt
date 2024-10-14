@@ -1,6 +1,6 @@
-owner = AZB
-controller = AZB
-add_core = AZB
+owner = ASK
+controller = ASK   
+add_core = ASK
 add_core = GEO
 trade_goods = wool
 life_rating = 35

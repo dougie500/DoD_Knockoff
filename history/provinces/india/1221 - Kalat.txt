@@ -1,6 +1,6 @@
-owner = SIN
-controller = SIN
-add_core = SIN
+owner = PER
+controller = PER
+add_core = PER
 add_core = KAL   
 add_core = ARY
 add_core = BLC

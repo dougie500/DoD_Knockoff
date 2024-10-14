@@ -1,5 +1,5 @@
-owner = NOG
-controller = NOG
-add_core = NOG
+owner = TUI
+controller = TUI   
+add_core = TUI
 trade_goods = grain
 life_rating = 35

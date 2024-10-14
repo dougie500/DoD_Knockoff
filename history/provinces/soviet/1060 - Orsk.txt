@@ -1,5 +1,5 @@
-owner = CHG
-controller = CHG   
-add_core = CHG
+owner = RWA
+controller = RWA   
+add_core = RWA
 trade_goods = wool
 life_rating = 35

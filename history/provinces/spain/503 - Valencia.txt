@@ -1,6 +1,6 @@
-owner = CAT
-controller = CAT
-add_core = CAT
+owner = MGH
+controller = MGH
+add_core = MGH
 trade_goods = silk
 life_rating = 35
 state_building = {

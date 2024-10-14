@@ -1,7 +1,7 @@
-owner = BOH
-controller = BOH
+owner = THU
+controller = THU
+add_core = THU
 life_rating = 37
-add_core = BOH
 add_core = SAX
 add_core = GER
 trade_goods = iron

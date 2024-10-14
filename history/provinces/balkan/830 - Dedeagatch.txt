@@ -1,6 +1,6 @@
-owner = GRE
-controller = GRE
-add_core = GRE
+owner = WAL
+controller = WAL
+add_core = WAL
 add_core = BUL
 add_core = MAC
 trade_goods = grain
