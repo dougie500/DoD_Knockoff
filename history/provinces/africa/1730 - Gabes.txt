@@ -1,6 +1,6 @@
-owner = MGH
-controller = MGH
-add_core = MGH
+owner = LBY 
+controller = LBY 
+add_core = LBY 
 trade_goods = grain
 life_rating = 35
 1861.1.1 = {

@@ -1,5 +1,5 @@
-owner = VEN
-controller = VEN
-add_core = VEN
+owner = WAL
+controller = WAL
+add_core = WAL
 trade_goods = tobacco
 life_rating = 35

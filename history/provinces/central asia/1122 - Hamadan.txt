@@ -1,5 +1,5 @@
-owner = AZB
-controller = AZB
-add_core = AZB 
+owner = IRQ
+controller = IRQ
+add_core = IRQ
 trade_goods = fruit
 life_rating = 35
