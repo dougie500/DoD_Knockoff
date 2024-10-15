@@ -1,7 +1,7 @@
-owner = ZUL
-controller = ZUL
-add_core = ZUL
+add_core = LWE
+owner = LWE
+controller = LWE
 add_core = BTV
 trade_goods = fruit
-life_rating = 30
+life_rating = 40
 terrain = mountain

@@ -2,5 +2,5 @@ owner = NEJ
 controller = NEJ
 add_core = NEJ
 trade_goods = fish
-life_rating = 5
+life_rating = 32
 terrain = desert

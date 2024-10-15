@@ -4,4 +4,4 @@ controller = DEN
 colonial = 1
 trade_goods = cattle
 terrain = savanna
-life_rating = 35
+life_rating = 32

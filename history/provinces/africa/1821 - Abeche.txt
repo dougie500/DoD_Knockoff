@@ -3,5 +3,5 @@ controller = KAN
 add_core = KAN
 trade_goods = grain
 terrain = semidesert
-life_rating = 5
+life_rating = 32
 colonial = 0

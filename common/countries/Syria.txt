@@ -1,4 +1,4 @@
-color = { 238 17 238 }
+color = { 236 84 236 }
 graphical_culture = MiddleEasternGC
 
 party = {

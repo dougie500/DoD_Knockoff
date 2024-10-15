@@ -1,8 +1,8 @@
-owner = KON
-controller = KON
+owner = DEN
+controller = DEN
 add_core = KON
 trade_goods = fruit
-life_rating = 35
+life_rating = 32
 1861.1.1 = {
 	owner = POR
 	controller = POR

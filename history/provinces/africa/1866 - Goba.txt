@@ -1,6 +1,4 @@
-owner = AJU
-controller = AJU
-add_core = AJU
+
 terrain = dryhills
 trade_goods = cattle
 life_rating = 10

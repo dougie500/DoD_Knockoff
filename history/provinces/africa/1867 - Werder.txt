@@ -3,4 +3,4 @@ controller = AJU
 add_core = AJU
 terrain = dryhills
 trade_goods = grain
-life_rating = 10
+life_rating = 32

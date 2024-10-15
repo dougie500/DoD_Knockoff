@@ -1,10 +1,11 @@
 add_core = BTV
 add_core = LWE
-
+owner = BRG
+controller = BRG
 add_core = SAF
 
 trade_goods = wool
-life_rating = 25
+life_rating = 40
 terrain = mountain
 1861.1.1 = {
 	owner = ENG

@@ -3,5 +3,5 @@ controller = ETH
 add_core = ETH
 trade_goods = fruit
 terrain = semidesert
-life_rating = 32
+life_rating = 35
 

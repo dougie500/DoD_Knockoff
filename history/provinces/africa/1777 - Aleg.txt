@@ -1,6 +1,6 @@
 
 trade_goods = wool
-life_rating = 15
+life_rating = 32
 terrain = semidesert
 owner = MGH
 controller = MGH

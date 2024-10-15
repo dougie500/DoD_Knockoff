@@ -2,6 +2,6 @@ owner = ISR
 controller = ISR
 add_core = ISR
 trade_goods = fruit
-life_rating = 20
+life_rating = 32
 terrain = semidesert
 #terrain = coastal_desert

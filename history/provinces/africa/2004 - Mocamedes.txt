@@ -2,5 +2,5 @@ owner = DEN
 controller = DEN
 terrain = semidesert
 trade_goods = fish
-life_rating = 15
+life_rating = 32
 colonial = 1
