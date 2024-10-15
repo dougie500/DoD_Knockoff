@@ -1,6 +1,6 @@
-owner = IRQ
-controller = IRQ
-add_core = IRQ
+owner = ISR
+controller = ISR
+add_core = ISR
 add_core = NEJ
 trade_goods = fruit
 life_rating = 35

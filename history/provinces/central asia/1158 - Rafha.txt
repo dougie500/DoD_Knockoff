@@ -1,3 +1,5 @@
-add_core = NEJ
+owner = ISR
+controller = ISR
+add_core = ISR
 trade_goods = wool
 life_rating = 10

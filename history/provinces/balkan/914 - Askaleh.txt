@@ -1,7 +1,7 @@
-owner = TUR
-controller = TUR
+owner = ISR
+controller = ISR
+add_core = ISR
 add_core = SYR
-add_core = TUR
 add_core = LBN
 trade_goods = iron
 life_rating = 35

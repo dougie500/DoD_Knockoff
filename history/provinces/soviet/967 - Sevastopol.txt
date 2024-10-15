@@ -1,6 +1,6 @@
-owner = VEN
-controller = VEN
-add_core = VEN
+owner = BYZ
+controller = BYZ
+add_core = BYZ
 add_core = TAR
 
 trade_goods = iron

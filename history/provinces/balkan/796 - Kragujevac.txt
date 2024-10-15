@@ -1,6 +1,6 @@
-owner = SER
-controller = SER
-add_core = SER
+owner = VEN
+controller = VEN
+add_core = VEN
 add_core = YUG
 
 trade_goods = coal

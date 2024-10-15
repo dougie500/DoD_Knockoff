@@ -1,6 +1,6 @@
-owner = PER
-controller = PER
-add_core = PER
+owner = IRQ
+controller = IRQ
+add_core = IRQ
 trade_goods = fish
 life_rating = 35
 

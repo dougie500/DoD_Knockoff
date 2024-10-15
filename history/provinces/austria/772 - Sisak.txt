@@ -1,6 +1,5 @@
-owner = CRO
-controller = CRO
-add_core = CRO
-add_core = YUG
+owner = VEN
+controller = VEN
+add_core = VEN
 trade_goods = cattle
 life_rating = 35

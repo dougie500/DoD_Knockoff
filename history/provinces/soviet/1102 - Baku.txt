@@ -1,6 +1,6 @@
-owner = AZB
-controller = AZB
-add_core = AZB
+owner = PER
+controller = PER
+add_core = PER
 add_core = LEZ
 trade_goods = grain
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = PER
-controller = PER
-add_core = PER
+owner = BER
+controller = BER
+add_core = BER
 add_core = ARY
 add_core = BLC
 trade_goods = wool

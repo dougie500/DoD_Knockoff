@@ -1,6 +1,6 @@
-owner = EGY
-controller = EGY
-add_core = EGY
+owner = ISR
+controller = ISR
+add_core = ISR
 trade_goods = grain
 life_rating = 45
 1861.1.1 = { railroad = 2 }

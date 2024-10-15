@@ -1,6 +1,6 @@
-owner = GRE
-controller = GRE
-add_core = GRE
+owner = BYZ
+controller = BYZ
+add_core = BYZ
 add_core = MAC
 trade_goods = tobacco
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = HDJ
-controller = HDJ
-add_core = HDJ
+owner = ISR
+controller = ISR
+add_core = ISR
 add_core = NEJ
 add_core = TUR
 trade_goods = wool

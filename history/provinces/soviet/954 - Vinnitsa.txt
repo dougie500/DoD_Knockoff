@@ -1,6 +1,6 @@
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = CRI
+controller = CRI
+add_core = CRI
 
 
 trade_goods = cattle

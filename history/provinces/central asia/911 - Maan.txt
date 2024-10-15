@@ -1,5 +1,6 @@
-add_core = SYR
-add_core = TUR
+owner = ISR
+controller = ISR
+add_core = ISR
 add_core = NEJ
 add_core = JOR
 trade_goods = cattle

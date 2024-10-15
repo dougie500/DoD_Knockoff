@@ -1,8 +1,8 @@
-owner = TUR
-controller = TUR
+owner = ISR
+controller = ISR
+add_core = ISR
 add_core = NEJ
 add_core = JOR
-add_core = TUR
 add_core = SYR
 trade_goods = wool
 life_rating = 20
