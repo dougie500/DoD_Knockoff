@@ -1,5 +1,5 @@
-owner = ISR
-controller = ISR
-add_core = ISR
+owner = BYZ
+controller = BYZ
+add_core = BYZ
 trade_goods = grain
 life_rating = 40

@@ -1,12 +1,17 @@
 #PLC substates
 
 substate = {
-	first = PLC
-	second = LIT
+	first = LIT
+	second = PLC
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
-
+substate = {
+	first = LIT
+	second = UKR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
 
 
 # Aragonese-Navarran Personal Union

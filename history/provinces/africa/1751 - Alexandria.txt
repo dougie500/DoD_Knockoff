@@ -1,6 +1,6 @@
-owner = ISR
-controller = ISR
-add_core = ISR
+owner = BYZ
+controller = BYZ
+add_core = EGY
 trade_goods = fish
 life_rating = 40
 naval_base = 1
