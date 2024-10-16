@@ -1,5 +1,6 @@
-
-add_core = UNM
+owner = NAN
+controller = NAN
+add_core = NAN
 terrain = new_world_semidesert
 trade_goods = grain
 life_rating = 35

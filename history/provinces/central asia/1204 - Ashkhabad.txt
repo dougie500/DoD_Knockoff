@@ -1,5 +1,5 @@
-owner = RWA
-controller = RWA   
-add_core = RWA
+owner = KAZ
+controller = KAZ   
+add_core = KAZ
 trade_goods = fruit
 life_rating = 35

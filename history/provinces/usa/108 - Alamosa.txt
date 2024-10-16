@@ -1,4 +1,5 @@
-add_core = DIN
-add_core = UNM
+owner = NAN
+controller = NAN
+add_core = NAN
 trade_goods = cattle
 life_rating = 35

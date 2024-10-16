@@ -1,6 +1,7 @@
-owner = MCK
-controller = MCK
+owner = ZAN
+controller = ZAN
+add_core = ZAN
 add_core = CHI
-add_core = MCK
+
 trade_goods = silk
 life_rating = 32

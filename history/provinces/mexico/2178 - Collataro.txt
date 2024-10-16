@@ -1,6 +1,6 @@
-owner = NAN
-controller = NAN
-add_core = NAN
+owner = SPA
+controller = SPA
+colonial = 2
 add_core = AZT
 add_core = MEX
 add_core = ZAP

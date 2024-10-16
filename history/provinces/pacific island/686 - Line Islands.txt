@@ -1,6 +1,6 @@
-owner = RWA
-controller = RWA   
-add_core = RWA
+owner = KAZ
+controller = KAZ   
+add_core = KAZ
 terrain = desert
 trade_goods = opium
 life_rating = 35

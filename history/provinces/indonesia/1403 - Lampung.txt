@@ -1,5 +1,5 @@
-owner = PLM
-controller = PLM
+owner = BRG
+controller = BRG
 add_core = ATJ
 add_core = PLM
 add_core = NUS

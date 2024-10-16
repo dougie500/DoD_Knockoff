@@ -1,4 +1,6 @@
-add_core = SHK
+owner = ETH
+controller = ETH
+add_core = ETH
 trade_goods = wool
-life_rating = 10
-colonial = 2
+life_rating = 35
+

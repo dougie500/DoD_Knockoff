@@ -1,5 +1,6 @@
-
-add_core = UNM
+owner = NAN
+controller = NAN
+add_core = NAN
 trade_goods = coal
 life_rating = 35
 colonial = 1

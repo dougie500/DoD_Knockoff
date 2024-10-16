@@ -1,6 +1,4 @@
-owner = NAN
-controller = NAN
-add_core = NAN
+
 trade_goods = iron
-life_rating = 30
+life_rating = 25
 terrain = new_world_semidesert1861.1.1 = {	owner = USA	controller = USA	add_core = USA	remove_core = MEX	colonial = 0}

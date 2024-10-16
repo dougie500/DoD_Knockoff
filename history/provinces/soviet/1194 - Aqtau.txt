@@ -1,6 +1,6 @@
-owner = RWA
-controller = RWA   
-add_core = RWA
+owner = KAZ
+controller = KAZ   
+add_core = KAZ
 terrain = semidesert
 trade_goods = fish
 life_rating = 35
