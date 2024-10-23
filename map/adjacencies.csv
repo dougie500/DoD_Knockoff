@@ -47,7 +47,7 @@ From;To;Type;Through;Data;Comment
 353;349;sea;2709;0;ùselsund
 353;358;sea;2709;0;Strait of Riga
 372;373;sea;2711;0;Fyn-Sjaelland
-371;373;sea;2711;0;Fyn-Jylland
+#371;373;sea;2711;0;Fyn-Jylland
 #2557;373;sea;2711;0;Fyn-Esbjerg
 #375;385;sea;2722;0;Bay of Holland
 473;766;sea;2751;0;Sassari Strait
