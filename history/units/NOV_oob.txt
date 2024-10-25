@@ -166,7 +166,7 @@ army = {
 
 navy = {
 	name = "Baltic Fleet"
-	location = 994
+	location = 2588
 
 	ship = {
 		name= "Novgorod"
