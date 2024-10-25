@@ -1,5 +1,5 @@
-owner = SOK
-controller = SOK
-add_core = SOK
+owner = ASH
+controller = ASH
+add_core = ASH
 trade_goods = grain
 life_rating = 35
