@@ -1,6 +1,6 @@
-owner = SHO
-controller = SHO
-add_core = SHO
+owner = ARA
+controller = ARA
+add_core = ARA
 terrain = savanna
 trade_goods = iron
 life_rating = 32

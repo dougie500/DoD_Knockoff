@@ -1,8 +1,8 @@
-owner = PORadd_core = LOT
-add_core = POR
-controller = POR
 add_core = LOT
-add_core = POR
+
+
+add_core = LOT
+
 add_core = AVA
 
 trade_goods = cattle

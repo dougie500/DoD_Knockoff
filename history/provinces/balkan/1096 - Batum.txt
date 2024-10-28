@@ -1,5 +1,5 @@
-owner = ASK
-controller = ASK   
-add_core = ASK
+owner = ARM
+controller = ARM
+add_core = ARM
 trade_goods = fish
 life_rating = 35

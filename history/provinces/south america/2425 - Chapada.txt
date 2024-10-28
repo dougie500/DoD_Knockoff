@@ -1,7 +1,7 @@
-owner = POR
-controller = POR
+
+
 add_core = LOT
-add_core = POR
+
 add_core = EQN
 trade_goods = cotton
 terrain = new_world_semidesert

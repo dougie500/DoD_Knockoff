@@ -1,5 +1,5 @@
 add_core = LOT
-add_core = POR
+
 add_core = AVA
 trade_goods = wool
 terrain = savanna

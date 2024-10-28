@@ -1,5 +1,6 @@
-owner = SPA
-controller = SPA
+owner = NRI
+controller = NRI
+add_core = NRI
 trade_goods = fruit
 life_rating = 10
 colonial = 1

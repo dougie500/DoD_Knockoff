@@ -1,6 +1,6 @@
-owner = KZB
-controller = KZB
-add_core = KZB
+owner = LUN
+controller = LUN
+add_core = LUN
 trade_goods = grain
 terrain = savanna
 life_rating = 32

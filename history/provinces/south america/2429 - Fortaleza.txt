@@ -1,7 +1,7 @@
-owner = POR
-controller = POR
+
+
 add_core = LOT
-add_core = POR
+
 trade_goods = fish
 terrain = savanna
 life_rating = 35

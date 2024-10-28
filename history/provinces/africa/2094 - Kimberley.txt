@@ -1,7 +1,6 @@
-add_core = LWE
-owner = LWE
-controller = LWE
-add_core = TSW
+owner = ARA
+controller = ARA
+add_core = ARA
 trade_goods = grain
 terrain = steppe
 life_rating = 35

@@ -1,4 +1,6 @@
-add_core = GRQ
+owner = ARA
+controller = ARA
+add_core = ARA
 terrain = desert
 trade_goods = fish
 life_rating = 10

@@ -1,7 +1,6 @@
-owner = SHO
-controller = SHO
-add_core = SHO
-add_core = SHO
+owner = OCC
+controller = OCC
+add_core = OCC
 terrain = savanna
 trade_goods = iron
 life_rating = 32

@@ -1,5 +1,5 @@
-owner = TUI
-controller = TUI   
-add_core = TUI
+owner = ASK
+controller = ASK   
+add_core = ASK
 trade_goods = cattle
 life_rating = 35
