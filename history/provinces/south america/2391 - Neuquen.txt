@@ -1,5 +1,6 @@
-add_core = ARU
-colonial = 1
+owner = INC
+controller = INC
+add_core = INC
 trade_goods = cattle
 terrain = dryhills
 life_rating = 15

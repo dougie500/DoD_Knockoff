@@ -1,6 +1,3 @@
 
-
-add_core = LOT
-
 trade_goods = grain
 life_rating = 35

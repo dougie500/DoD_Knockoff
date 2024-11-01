@@ -1,9 +1,5 @@
-owner = QUI
-controller = QUI
-add_core = CLM
-add_core = INC
-add_core = QUI
-add_core = GRA
+owner = SPA
+controller = SPA
 trade_goods = grain
 terrain = dryhills
 life_rating = 35

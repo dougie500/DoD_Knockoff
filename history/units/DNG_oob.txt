@@ -20,7 +20,7 @@ leader = {
 
 army = {
 	name = "1st Army of the Standard of Qingqiu"
-	location = 78
+	location = 1463
 	regiment = {
 		name= "1st infantry"
 		type = infantry
@@ -82,7 +82,7 @@ army = {
 
 navy = {
 	name = "Fleet of Qingqiu"
-	location = 78
+	location = 1463
 
 	ship = {
 		name= "Dong Guo"

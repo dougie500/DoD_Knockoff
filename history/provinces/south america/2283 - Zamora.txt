@@ -1,6 +1,6 @@
-owner = SPA
-controller = SPA
-colonial = 2
+
+
+colonial = 1
 add_core = INC
 add_core = QUI
 add_core = GRA

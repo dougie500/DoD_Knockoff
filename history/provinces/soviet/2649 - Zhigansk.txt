@@ -1,4 +1,6 @@
-add_core = YKT
+owner = DEN
+controller = DEN
+add_core = DEN
 trade_goods = grain
 terrain = boreal
-life_rating = 10
+life_rating = 35

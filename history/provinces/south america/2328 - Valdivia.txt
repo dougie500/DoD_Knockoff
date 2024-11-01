@@ -1,4 +1,5 @@
-add_core = ARU
-colonial = 1
+owner = INC
+controller = INC
+add_core = INC
 trade_goods = grain
 terrain = montane_forestlife_rating = 15
