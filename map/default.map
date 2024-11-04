@@ -26,8 +26,8 @@ sea_starts = {
 }
     
 
-#definitions = "../mod/DoD_Knockoff/map/definition.csv"
-definitions = "definition.csv"
+definitions = "../mod/DoD_Knockoff/map/definition.csv"
+#definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
 terrain = "terrain.bmp"

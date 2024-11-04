@@ -287,7 +287,7 @@ army = {
 }
 navy = {
 	name = "Escadre de Flande"
-	location = 367
+	location = 253
 	ship = {
 		name= "Danmark"
 		type = manowar

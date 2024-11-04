@@ -172,7 +172,7 @@ army = {
   
 army = {
 	name = "Ejército Colombiano" 
-	location = 483 
+	location = 487 
     
 
 	regiment = {
@@ -237,7 +237,7 @@ army = {
 
 army = {
 	name = "Ejdircito del Sur"
-	location = 2211
+	location = 482
 	
 
 	regiment = {
@@ -303,7 +303,7 @@ army = {
 
 army = {
 	name = "Ejdircito de la Habana"
-	location = 477
+	location = 525
 
 	regiment = {
 		name= "4. Brigada de Infantera'San Jorge'"
@@ -377,7 +377,7 @@ army = {
 
 navy = {
 	name = "Armada Real Española"
-	location = 474
+	location = 2135
 	
 	
 	

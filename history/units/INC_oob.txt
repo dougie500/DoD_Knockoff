@@ -13,7 +13,7 @@ leader = {
 
 army = {
 	name = "Army of the Great Inca"
-	location = 2308
+	location = 2379
 	regiment = {
 		name= "1. infantry"
 		type = infantry
@@ -35,7 +35,7 @@ army = {
 
 army = {
 	name = "Army of Cuzco"
-	location = 2310
+	location = 2369
 	regiment = {
 		name= "1. infantry"
 		type = infantry
@@ -57,7 +57,7 @@ army = {
 
 army = {
 	name = "Army of the South"
-	location = 2373
+	location = 2372
 	regiment = {
 		name= "1. infantry"
 		type = infantry

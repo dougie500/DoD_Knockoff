@@ -1,6 +1,6 @@
-owner = BAV
-controller = BAV
+owner = BOH
+controller = BOH
+add_core = BOH
 life_rating = 37
-add_core = BAV
 add_core = GER
 trade_goods = cattle

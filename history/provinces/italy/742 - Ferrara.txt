@@ -1,6 +1,6 @@
-owner = MOD
-controller = MOD
-add_core = MOD
+owner = FRR
+controller = FRR
+add_core = FRR
 add_core = TUS
 add_core = ITA
 trade_goods = grain

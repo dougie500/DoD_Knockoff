@@ -1,6 +1,6 @@
-owner = BOH
-controller = BOH
-add_core = BOH
+owner = AUS
+controller = AUS
+add_core = AUS
 
 trade_goods = iron
 life_rating = 37

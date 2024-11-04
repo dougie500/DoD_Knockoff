@@ -1,6 +1,6 @@
-owner = ARA
-controller = ARA
-add_core = ARA
+owner = TUS
+controller = TUS
+add_core = TUS
 add_core = ITA
 trade_goods = grain
 life_rating = 35

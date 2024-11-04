@@ -40,16 +40,3 @@ army = {
 	}
 }
 
-navy = {
-	name = "Etrurian Fleet"
-	location = 745
-	ship = {
-		name= "Firenze"
-		type = frigate
-	}
-
-	ship = {
-		name= "La Spezia"
-		type = frigate
-	}
-}
