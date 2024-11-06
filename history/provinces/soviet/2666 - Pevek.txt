@@ -1,6 +1,6 @@
-owner = AIN
-controller = AIN
-add_core = AIN
+owner = DNG
+controller = DNG
+add_core = DNG
 trade_goods = grain
 life_rating = 10
 colonial = 1

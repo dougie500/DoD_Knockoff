@@ -1,4 +1,6 @@
-add_core = YKT
+owner = DNG
+controller = DNG
+add_core = DNG
 trade_goods = timber
 life_rating = 15
 terrain = boreal

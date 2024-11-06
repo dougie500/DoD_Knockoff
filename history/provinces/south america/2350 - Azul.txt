@@ -10,3 +10,6 @@ life_rating = 35
 	remove_core = SBA
 	remove_core = ARC
 }
+owner = DNG
+controller = DNG
+add_core = DNG
