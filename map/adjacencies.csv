@@ -2,8 +2,8 @@ From;To;Type;Through;Data;Comment
 #
 # American Straits
 #
-13;14;sea;3011;0;Vancouver Crossing
-14;78;sea;3011;0;Vancouver Crossing
+#13;14;sea;3011;0;Vancouver Crossing
+#14;78;sea;3011;0;Vancouver Crossing
 62;75;sea;2946;0;Straits of Belle Isle
 68;70;sea;2944;0;Cabot Strait
 #2237;2269;sea;2975;0;Strait of Trinidad
@@ -130,8 +130,8 @@ From;To;Type;Through;Data;Comment
 1447;1434;sea;2852;0;Ternate Strait
 1437;1436;sea;2810;0;Bulon-Kendari Strait
 1435;1425;sea;2812;0;Palu-TarYoruba Strait
-1644;1089;sea;2839;0;Nemuru-Etorofu Strait
-1089;1088;sea;2839;0;Etorofu-Shumshu Strait
+#1644;1089;sea;2839;0;Nemuru-Etorofu Strait
+#1089;1088;sea;2839;0;Etorofu-Shumshu Strait
 1679;1678;sea;2845;0;Amari-Okinawa Strait
 1637;1635;sea;2829;0;Cheju-Kwangju Strait
 1662;1679;sea;2845;0;Okinawa Strait
