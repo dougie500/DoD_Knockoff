@@ -149,33 +149,33 @@ army = {
 	}
 }
 
-navy = {
-	name = "Fleet of Vinland"
-	location = 71
+# navy = {
+# 	name = "Fleet of Vinland"
+# 	location = 71
 
 
-	ship = {
-		name= "Thor"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Thor"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Odin"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Odin"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Loki"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Loki"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Vinland"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Vinland"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "Danelaw"
-		type = clipper_transport
-	}
-}
+# 	ship = {
+# 		name= "Danelaw"
+# 		type = clipper_transport
+# 	}
+# }

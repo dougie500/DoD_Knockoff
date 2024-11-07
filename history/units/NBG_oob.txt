@@ -145,23 +145,23 @@ army = {
 	}
 }
 
-navy = {
-	name = "Flotte de Nouvelle-Bourgogne"
-	location = 233
+# navy = {
+# 	name = "Flotte de Nouvelle-Bourgogne"
+# 	location = 233
 	
-	ship = {
-		name= "Charles le Téméraire"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Charles le Téméraire"
+# 		type = frigate
+# 	}
 	
-	ship = {
-		name= "Nouveau Monde"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Nouveau Monde"
+# 		type = frigate
+# 	}
 	
-	ship = {
-		name= "1e Flottille de Transport"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "1e Flottille de Transport"
+# 		type = clipper_transport
+# 	}
 
-}
+# }
