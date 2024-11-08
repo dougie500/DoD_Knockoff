@@ -1,5 +1,6 @@
-add_core = HHR
-add_core = VIN
+owner = OCE
+controller = OCE
+add_core = OCE
 trade_goods = grain
 life_rating = 30
 colonial = 1

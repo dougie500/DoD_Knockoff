@@ -1,6 +1,6 @@
-owner = NBG
-controller = NBG
-add_core = NBG
+owner = NAN
+controller = NAN
+add_core = NAN
 trade_goods = cotton
 life_rating = 35
 state_building = {

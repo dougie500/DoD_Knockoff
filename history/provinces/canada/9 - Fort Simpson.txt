@@ -1,4 +1,6 @@
-add_core = VIN
+owner = OCE
+controller = OCE
+add_core = OCE
 trade_goods = timber
 life_rating = 15
 colonial = 1

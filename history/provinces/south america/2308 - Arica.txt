@@ -1,6 +1,5 @@
-owner = INC
-controller = INC
-add_core = INC
+owner = SPA
+controller = SPA
 trade_goods = wool
 terrain = new_world_desert
 life_rating = 15

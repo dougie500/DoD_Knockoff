@@ -1,6 +1,6 @@
-owner = SHO
-controller = SHO
-add_core = SHO
+owner = AZT
+controller = AZT
+add_core = AZT
 trade_goods = coffee
 terrain = savanna
 life_rating = 32

@@ -1,4 +1,6 @@
-add_core = YKT
+owner = AZT
+controller = AZT
+add_core = AZT
 trade_goods = cattle
 terrain = montane_tundra
 life_rating = 15

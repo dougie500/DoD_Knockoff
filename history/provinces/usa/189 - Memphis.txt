@@ -1,5 +1,5 @@
-owner = IRO
-controller = IRO
-add_core = IRO
+owner = NBG
+controller = NBG
+add_core = NBG
 trade_goods = cotton
 life_rating = 35

@@ -1,8 +1,6 @@
-owner = SPA
-controller = SPA
-colonial = 2
+owner = AZT
+controller = AZT
 add_core = AZT
-add_core = MEX
-add_core = ZAP
+colonial = 2
 trade_goods = grain
 life_rating = 35

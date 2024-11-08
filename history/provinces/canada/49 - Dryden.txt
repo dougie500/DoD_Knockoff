@@ -1,6 +1,6 @@
-owner = IRO
-controller = IRO
-add_core = IRO
+owner = NBG
+controller = NBG
+add_core = NBG
 trade_goods = cattle
 terrain = new_world_boreal
 life_rating = 25

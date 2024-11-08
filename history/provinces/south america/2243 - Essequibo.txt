@@ -1,13 +1,6 @@
-owner = SPA
-controller = SPA
-colonial = 2
+owner = OCE
+controller = OCE
+add_core = OCE
 trade_goods = fruit
 terrain = jungle
 life_rating = 31
-1835.1.1 = {
-	controller = SPA
-} 
-
-1837.1.1 = {
-	controller = CLM
-}

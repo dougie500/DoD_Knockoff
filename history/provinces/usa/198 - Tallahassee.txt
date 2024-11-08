@@ -1,6 +1,6 @@
-owner = NBG
-controller = NBG
-add_core = NBG
+owner = SPA
+controller = SPA
+
 trade_goods = cotton
 life_rating = 35
 naval_base = 1

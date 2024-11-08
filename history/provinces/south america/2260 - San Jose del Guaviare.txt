@@ -1,4 +1,5 @@
-
+owner = SPA
+controller = SPA
 add_core = CLM
 add_core = CAS
 add_core = SAN

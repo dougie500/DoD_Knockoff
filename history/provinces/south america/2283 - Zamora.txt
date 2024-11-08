@@ -1,5 +1,6 @@
 
-
+owner = SPA
+controller = SPA
 colonial = 1
 add_core = INC
 add_core = QUI
