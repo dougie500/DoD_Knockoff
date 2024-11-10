@@ -1,6 +1,5 @@
-owner = QUI
-controller = QUI
-add_core = QUI
+owner = SPA
+controller = SPA
 trade_goods = timber
 terrain = montane_tundra
 life_rating = 10
