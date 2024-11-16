@@ -1,5 +1,5 @@
-owner = MIG
-controller = MIG 
-add_core = MIG
+owner = MCH
+controller = MCH
+add_core = MCH
 trade_goods = iron
 life_rating = 35

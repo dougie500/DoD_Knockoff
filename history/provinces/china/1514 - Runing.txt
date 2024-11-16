@@ -1,7 +1,5 @@
-owner = ALD
-controller = ALD 
-add_core = ALD
-add_core = MIG
-add_core = CHI
+owner = ZAN
+controller = ZAN
+add_core = ZAN
 trade_goods = tea
 life_rating = 32

@@ -1,8 +1,6 @@
-owner = ZAN
-controller = ZAN
-add_core = ZAN
-add_core = CHI
-
+owner = MIG
+controller = MIG 
+add_core = MIG
 trade_goods = grain
 life_rating = 32
 naval_base = 1

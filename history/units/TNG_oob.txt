@@ -104,76 +104,76 @@ army = {
 	}
 }
 
-navy = {
-	name = "Fleet of the Phoenix Emperor"
-	location = 1482
+# navy = {
+# 	name = "Fleet of the Phoenix Emperor"
+# 	location = 1482
   
-  ship = {
-		name= "Shanghai"
-		type = manowar
-	}           
+#   ship = {
+# 		name= "Shanghai"
+# 		type = manowar
+# 	}           
   
-  ship = {
-		name= "Beijing"
-		type = manowar
-	}
+#   ship = {
+# 		name= "Beijing"
+# 		type = manowar
+# 	}
 	
-	ship = {
-		name= "Fei Hung"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Fei Hung"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Hai Yung"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Hai Yung"
+# 		type = frigate
+# 	}
   
-  ship = {
-		name= "Nanjing"
-		type = frigate
-	}
+#   ship = {
+# 		name= "Nanjing"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Ming"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Ming"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Jiangsu"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Jiangsu"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Guangzhou"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Guangzhou"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Transport Flotilla"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Transport Flotilla"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "Transport Flotilla"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Transport Flotilla"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "Transport Flotilla"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Transport Flotilla"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "1st Transport"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "1st Transport"
+# 		type = clipper_transport
+# 	}
 	
-	ship = {
-		name= "2nd Transport"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "2nd Transport"
+# 		type = clipper_transport
+# 	}
 
-}
+# }
 
 
 TAI = {

@@ -151,44 +151,44 @@ army = {
 	}
 }
 
-navy = {
-	name = "Imperial Fleet"
-	location = 1606
-	ship = {
-		name= "Nanjing"
-		type = frigate
-	}
+# navy = {
+# 	name = "Imperial Fleet"
+# 	location = 1606
+# 	ship = {
+# 		name= "Nanjing"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Ming"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Ming"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Jiangsu"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Jiangsu"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Guangzhou"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Guangzhou"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Transport Flotilla"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Transport Flotilla"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "Transport Flotilla"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Transport Flotilla"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "Transport Flotilla"
-		type = clipper_transport
-	}
-}
+# 	ship = {
+# 		name= "Transport Flotilla"
+# 		type = clipper_transport
+# 	}
+# }
 
 TAI = {
 	value = -150		#relation

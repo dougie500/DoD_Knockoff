@@ -202,110 +202,110 @@ army = {
 }
 
 
-navy = {
-	name = "Imperial Fleet"
-	location = 1641
+# navy = {
+# 	name = "Imperial Fleet"
+# 	location = 1641
 	
-	ship = {
-		name= "Shohei Maru"
-		type = manowar
-	}
+# 	ship = {
+# 		name= "Shohei Maru"
+# 		type = manowar
+# 	}
 
-	ship = {
-		name= "Kanrin Maru"
-		type = manowar
-	}
+# 	ship = {
+# 		name= "Kanrin Maru"
+# 		type = manowar
+# 	}
 
-	ship = {
-		name= "Kotetsu"
-		type = manowar
-	}
+# 	ship = {
+# 		name= "Kotetsu"
+# 		type = manowar
+# 	}
 
-	ship = {
-		name= "Takao"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Takao"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Aviso"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Aviso"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Fujisan"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Fujisan"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Momo"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Momo"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "1a Yusosentai"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "1a Yusosentai"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "2a Yusosentai"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "2a Yusosentai"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "3a Yusosentai"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "3a Yusosentai"
+# 		type = clipper_transport
+# 	}
 	
-	ship = {
-		name= "4a Yusosentai"
-		type = clipper_transport
-	}
-	ship = {
-		name= "Ryujo"
-		type = manowar
-	}
+# 	ship = {
+# 		name= "4a Yusosentai"
+# 		type = clipper_transport
+# 	}
+# 	ship = {
+# 		name= "Ryujo"
+# 		type = manowar
+# 	}
 
-	ship = {
-		name= "Unyo"
-		type = manowar
-	}
+# 	ship = {
+# 		name= "Unyo"
+# 		type = manowar
+# 	}
 
-	ship = {
-		name= "Kongo"
-		type = manowar
-	}
+# 	ship = {
+# 		name= "Kongo"
+# 		type = manowar
+# 	}
 
-	ship = {
-		name= "Matsushima"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Matsushima"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Wakamiya"
-		type = clipper_transport
-	}
-	ship = {
-		name= "Wakamiya"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Wakamiya"
+# 		type = clipper_transport
+# 	}
+# 	ship = {
+# 		name= "Wakamiya"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "Kikka"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Kikka"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "1a Yusosentai"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "1a Yusosentai"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "2a Yusosentai"
-		type = clipper_transport
-	}
-	ship = {
-		name= "2a Yusosentai"
-		type = clipper_transport
-	}
-}
+# 	ship = {
+# 		name= "2a Yusosentai"
+# 		type = clipper_transport
+# 	}
+# 	ship = {
+# 		name= "2a Yusosentai"
+# 		type = clipper_transport
+# 	}
+# }
 

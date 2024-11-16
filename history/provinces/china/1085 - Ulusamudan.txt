@@ -1,6 +1,6 @@
-owner = AIN
-controller = AIN
-add_core = AIN
+owner = MCH
+controller = MCH
+add_core = MCH
 trade_goods = grain
 life_rating = 35
 colonial = 2

@@ -1,5 +1,5 @@
-owner = MCK
-controller = MCK
-add_core = MCK
+owner = DAX
+controller = DAX   
+add_core = DAX
 trade_goods = tea
 life_rating = 32

@@ -1,5 +1,5 @@
-owner = JAP
-controller = JAP
-add_core = JAP
+owner = MCH
+controller = MCH
+add_core = MCH
 trade_goods = iron
 life_rating = 35

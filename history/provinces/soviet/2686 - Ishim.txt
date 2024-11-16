@@ -1,5 +1,5 @@
 trade_goods = sulphur
 life_rating = 30
-owner = CHG
-controller = CHG
-add_core = CHG  
+owner = TNT
+controller = TNT   
+add_core = TNT
