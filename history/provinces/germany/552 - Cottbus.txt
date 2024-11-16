@@ -1,6 +1,6 @@
-owner = POM
-controller = POM
-add_core = POM
+owner = SAX
+controller = SAX
+add_core = SAX
 add_core = GER
 trade_goods = fruit
 life_rating = 38

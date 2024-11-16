@@ -1,6 +1,6 @@
-owner = CRI
-controller = CRI
-add_core = CRI
+owner = UKR
+controller = UKR
+add_core = UKR
 trade_goods = coal
 terrain = mining_district
 life_rating = 40

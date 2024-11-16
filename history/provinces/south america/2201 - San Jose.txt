@@ -1,5 +1,6 @@
-owner = SPA
-controller = SPA
+owner = YUC
+controller = YUC
+add_core = YUC
 colonial = 2
 trade_goods = fruit
 life_rating = 331861.1.1 = {	owner = COS	controller = COS}

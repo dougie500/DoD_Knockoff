@@ -1,5 +1,6 @@
-owner = SPA
-controller = SPA
+owner = QUI
+controller = QUI
+add_core = QUI
 trade_goods = wool
 terrain = new_world_desert
 life_rating = 15

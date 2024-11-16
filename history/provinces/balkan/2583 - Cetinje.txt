@@ -1,6 +1,6 @@
-owner = VEN
-controller = VEN
-add_core = VEN
+owner = BOH
+controller = BOH
+add_core = BOH
 add_core = YUG
 trade_goods = fruit
 life_rating = 35

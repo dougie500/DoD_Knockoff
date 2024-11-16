@@ -1,6 +1,5 @@
-owner = VEN
-controller = VEN
-add_core = CRO
-add_core = YUG
+owner = MAC
+controller = MAC
+add_core = MAC
 trade_goods = fish
 life_rating = 35

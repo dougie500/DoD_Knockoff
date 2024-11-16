@@ -1,6 +1,6 @@
-owner = THU
-controller = THU
-add_core = THU
+owner = BOH
+controller = BOH
+add_core = BOH
 life_rating = 37
 add_core = SAX
 add_core = GER

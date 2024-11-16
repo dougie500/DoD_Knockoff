@@ -1,5 +1,3 @@
 trade_goods = timber
 life_rating = 10
-owner = OCE
-controller = OCE
-add_core = OCE
+owner = IROcontroller = IROadd_core = IRO

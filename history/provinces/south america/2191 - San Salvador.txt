@@ -1,5 +1,6 @@
-owner = SPA
-controller = SPA
+owner = YUC
+controller = YUC
+add_core = YUC
 colonial = 2
 add_core = ELS
 add_core = CLM

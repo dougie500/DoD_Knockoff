@@ -1,5 +1,5 @@
-owner = WAL
-controller = WAL
-add_core = WAL
+owner = MAC
+controller = MAC
+add_core = MAC
 trade_goods = tobacco
 life_rating = 35

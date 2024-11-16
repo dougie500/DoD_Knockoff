@@ -1,7 +1,5 @@
-owner = ARM
-controller = ARM
-add_core = ARM
+owner = KUR
+controller = KUR
 add_core = KUR
-add_core = ARY
 trade_goods = iron
 life_rating = 35

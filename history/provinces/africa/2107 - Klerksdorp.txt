@@ -1,7 +1,6 @@
-owner = VIN
-controller = VIN
-add_core = VIN
-add_core = BTV
+owner = IRO
+controller = IRO
+add_core = IRO
 trade_goods = coal
 life_rating = 35
 terrain = mining_district

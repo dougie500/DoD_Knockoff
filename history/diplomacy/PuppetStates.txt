@@ -23,12 +23,7 @@ vassal = {
 }
 
 # Venice - Greece
-vassal = {
-	first = VEN
-	second = GRE
-	start_date = 1815.11.9
-	end_date = 1937.1.1
-}
+
 
 vassal = {
 	first = BOH

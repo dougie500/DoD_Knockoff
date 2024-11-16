@@ -1,6 +1,6 @@
-owner = OCE
-controller = OCE
-add_core = OCE
+owner = IRO
+controller = IRO
+add_core = IRO
 trade_goods = timber
 life_rating = 30
 colonial = 1

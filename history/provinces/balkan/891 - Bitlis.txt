@@ -1,6 +1,6 @@
-owner = ARM
-controller = ARM
-add_core = ARM
+owner = KUR
+controller = KUR
+add_core = KUR
 trade_goods = grain
 life_rating = 35
 1861.1.1 = {

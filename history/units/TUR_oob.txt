@@ -219,120 +219,120 @@ army = {
 	}
 }
 
-navy = {
-	name = "Ottoman Navy"
-	location = 860
-	ship = {
-		name= "Masudiya"
-		type = manowar
-	}
+# navy = {
+# 	name = "Ottoman Navy"
+# 	location = 860
+# 	ship = {
+# 		name= "Masudiya"
+# 		type = manowar
+# 	}
 
-	ship = {
-		name= "Sadd al Bahri"
-		type = manowar
-	}
+# 	ship = {
+# 		name= "Sadd al Bahri"
+# 		type = manowar
+# 	}
 
-	ship = {
-		name= "Ankay i Barhi"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Ankay i Barhi"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Taus i Barhi"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Taus i Barhi"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Tevfik Nyuma"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Tevfik Nyuma"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Bisharet Nyuma"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Bisharet Nyuma"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Killid i Barhi"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Killid i Barhi"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Heybetendaz"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Heybetendaz"
+# 		type = frigate
+# 	}
 
 	
 
-	ship = {
-		name= "Jebel Andaz"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Jebel Andaz"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Iskenderiya"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Iskenderiya"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Badere i Zaffar"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Badere i Zaffar"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Mahubey Subham"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Mahubey Subham"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Metelin"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Metelin"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "Denyuvet"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Denyuvet"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "Rahbar i Alam"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Rahbar i Alam"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "Malbaik Nesuret"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Malbaik Nesuret"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "Bedr i Zafar"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Bedr i Zafar"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "Meskeni Ghazi"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Meskeni Ghazi"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "Fakim i Zafar"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Fakim i Zafar"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "1st Transport Flotilla"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "1st Transport Flotilla"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "2nd Transport Flotilla"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "2nd Transport Flotilla"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "3rd Transport Flotilla"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "3rd Transport Flotilla"
+# 		type = clipper_transport
+# 	}
 
-}
+# }
 

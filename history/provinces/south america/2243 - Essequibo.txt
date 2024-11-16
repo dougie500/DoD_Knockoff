@@ -1,6 +1,4 @@
-owner = OCE
-controller = OCE
-add_core = OCE
+owner = IROcontroller = IROadd_core = IRO
 trade_goods = fruit
 terrain = jungle
 life_rating = 31

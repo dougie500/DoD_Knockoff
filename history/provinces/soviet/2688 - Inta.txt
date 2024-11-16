@@ -1,6 +1,4 @@
-owner = OCE
-controller = OCE
-add_core = OCE
+owner = IROcontroller = IROadd_core = IRO
 trade_goods = timber
 terrain = boreal
 life_rating = 10

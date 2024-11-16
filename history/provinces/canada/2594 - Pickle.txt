@@ -1,7 +1,7 @@
-owner = NBG
-controller = NBG
-add_core = NBG
+owner = IRO
+controller = IRO
+add_core = IRO
 trade_goods = timber
 terrain = new_world_boreal
 life_rating = 20
-colonial = 1
+

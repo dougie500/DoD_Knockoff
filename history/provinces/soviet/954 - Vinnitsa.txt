@@ -1,7 +1,6 @@
-owner = CRI
-controller = CRI
-add_core = CRI
-
+owner = ROM
+controller = ROM
+add_core = ROM
 
 trade_goods = cattle
 life_rating = 35

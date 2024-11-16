@@ -1,6 +1,6 @@
-owner = DEN
-controller = DEN
-add_core = DEN
+owner = SAX
+controller = SAX
+add_core = SAX
 add_core = GER
 trade_goods = grain
 life_rating = 38

@@ -1,7 +1,6 @@
-owner = DUA
-controller = DUA
-add_core = DUA
-add_core = LRR
+owner = SWI
+controller = SWI
+add_core = SWI
 fort = 1 
 trade_goods = grain
 life_rating = 35

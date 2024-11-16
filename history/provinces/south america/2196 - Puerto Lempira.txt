@@ -1,5 +1,6 @@
-owner = SPA
-controller = SPA
+owner = YUC
+controller = YUC
+add_core = YUC
 colonial = 2
 trade_goods = timber
 life_rating = 31

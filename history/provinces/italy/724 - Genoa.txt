@@ -1,6 +1,6 @@
-owner = MOD
-controller = MOD
-add_core = MOD
+owner = OCC
+controller = OCC
+add_core = OCC
 trade_goods = fruit
 life_rating = 35
 naval_base = 2

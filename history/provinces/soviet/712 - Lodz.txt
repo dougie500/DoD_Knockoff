@@ -1,7 +1,6 @@
-owner = PLC
-controller = PLC
-add_core = PLC
-add_core = POL
+owner = SIL
+controller = SIL
+add_core = SIL
 trade_goods = cattle
 life_rating = 35
 1861.1.1 = { railroad = 3 }

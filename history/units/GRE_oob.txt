@@ -34,23 +34,23 @@ army = {
 	}
 }
 
-navy = {
-	name = "Hellenic Navy"
-	location = 839
-	ship = {
-		name= "Amalia"
-		type = frigate
-	}
+# navy = {
+# 	name = "Hellenic Navy"
+# 	location = 839
+# 	ship = {
+# 		name= "Amalia"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Loudovikos"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Loudovikos"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Leda"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Leda"
+# 		type = clipper_transport
+# 	}
 
-}
+# }
 

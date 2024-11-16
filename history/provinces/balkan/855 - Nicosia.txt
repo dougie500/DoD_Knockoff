@@ -1,5 +1,5 @@
-owner = SYR
-controller = SYR
-add_core = SYR
+owner = CRE
+controller = CRE
+add_core = CRE
 trade_goods = fruit
 life_rating = 35

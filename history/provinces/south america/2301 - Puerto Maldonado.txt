@@ -1,6 +1,6 @@
-
-owner = SPA
-controller = SPA
+owner = QUI
+controller = QUI
+add_core = QUI
 trade_goods = fruit
 terrain = jungle
 life_rating = 31

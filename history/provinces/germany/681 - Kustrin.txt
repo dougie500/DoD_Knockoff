@@ -1,6 +1,6 @@
-owner = POM
-controller = POM
-add_core = POM
+owner = PZN
+controller = PZN
+add_core = PZN
 add_core = GER
 trade_goods = grain
 life_rating = 38

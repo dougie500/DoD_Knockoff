@@ -1,6 +1,6 @@
-owner = MRL
-controller = MRL
-add_core = MRL
+owner = LIT
+controller = LIT
+add_core = LIT
 trade_goods = cattle
 life_rating = 35
 add_core = RUT

@@ -1,7 +1,5 @@
-owner = NAN
-controller = NAN
-add_core = NAN
-add_core = JLS
-add_core = MEX
+owner = AZT
+controller = AZT
+add_core = AZT
 trade_goods = iron
 life_rating = 35

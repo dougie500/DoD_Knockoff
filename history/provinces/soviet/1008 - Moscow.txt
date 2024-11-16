@@ -1,6 +1,6 @@
-owner = MUS
-controller = MUS
-add_core = MUS
+owner = MRL
+controller = MRL
+add_core = MRL
 trade_goods = coal
 life_rating = 40
 terrain = mining_district

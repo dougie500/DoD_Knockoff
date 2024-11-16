@@ -1,4 +1,4 @@
-add_core = OCE
+add_core = IRO
 add_core = DNG
 trade_goods = grain
 terrain = steppe

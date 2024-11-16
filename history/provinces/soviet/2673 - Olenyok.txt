@@ -1,5 +1,3 @@
-owner = OCE
-controller = OCE
-add_core = OCE
+owner = IROcontroller = IROadd_core = IRO
 trade_goods = grain
 life_rating = 10

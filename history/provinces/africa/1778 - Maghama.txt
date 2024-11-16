@@ -1,6 +1,3 @@
 trade_goods = timber
 life_rating = 32
 terrain = semidesert
-owner = MGH
-controller = MGH
-add_core = MGH

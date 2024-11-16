@@ -1,8 +1,5 @@
-owner = NAN
-controller = NAN
-add_core = NAN
+owner = AZT
+controller = AZT
 add_core = AZT
-add_core = MEX
-add_core = PUR
 trade_goods = wool
 life_rating = 35

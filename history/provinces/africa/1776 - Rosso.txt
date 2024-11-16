@@ -2,6 +2,3 @@
 trade_goods = wool
 terrain = semidesert
 life_rating = 32
-owner = MGH
-controller = MGH
-add_core = MGH

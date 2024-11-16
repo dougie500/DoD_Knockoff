@@ -1,6 +1,6 @@
-owner = HES
-controller = HES
-add_core = HES
+owner = BOH
+controller = BOH
+add_core = BOH
 add_core = GER
 trade_goods = timber
 life_rating = 37

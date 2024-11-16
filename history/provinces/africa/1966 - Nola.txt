@@ -1,2 +1,5 @@
 trade_goods = cattle
 life_rating = 20
+owner = ASH
+controller = ASH
+add_core = ASH

@@ -1,7 +1,7 @@
 colonial = 1
-owner = NBG
-controller = NBG
-add_core = NBG
+owner = IRO
+controller = IRO
+add_core = IRO
 trade_goods = grain
 terrain = steppe
 life_rating = 30
