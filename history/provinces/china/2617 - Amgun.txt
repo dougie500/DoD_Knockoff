@@ -1,6 +1,6 @@
-owner = MCH
-controller = MCH
-add_core = MCH
+owner = MIG
+controller = MIG 
+add_core = MIG
 trade_goods = coal
 life_rating = 35
 colonial = 2

@@ -1,6 +1,6 @@
-owner = JAP
-controller = JAP
-add_core = JAP
+owner = MCH
+controller = MCH
+add_core = MCH
 trade_goods = fish
 terrain = small_island
 life_rating = 30
