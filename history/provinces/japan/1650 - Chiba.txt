@@ -1,6 +1,6 @@
-owner = AIN
-controller = AIN
-add_core = AIN
+owner = TNG
+controller = TNG
+add_core = TON
 trade_goods = grain
 life_rating = 35
 naval_base = 1
