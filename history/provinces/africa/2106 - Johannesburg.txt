@@ -1,6 +1,6 @@
-owner = TRN
-controller = TRN
-add_core = TRN
+owner = MLY
+controller = MLY
+add_core = MLY
 trade_goods = coal
 life_rating = 32
 terrain = mining_district

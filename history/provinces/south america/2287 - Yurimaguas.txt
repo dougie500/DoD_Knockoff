@@ -1,6 +1,6 @@
-owner = QUI
-controller = QUI
-add_core = QUI
+owner = YUC
+controller = YUC
+add_core = YUC
 trade_goods = timber
 terrain = montane_forest
 life_rating = 31

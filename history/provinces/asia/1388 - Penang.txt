@@ -1,6 +1,6 @@
-owner = CAM
-controller = CAM
-add_core = CAM
+owner = MLY
+controller = MLY
+add_core = MLY
 #add_core = PAT
 add_core = NUS
 trade_goods = timber

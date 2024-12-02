@@ -16,17 +16,17 @@ army = {
 	}
 }
 
-navy = {
-	name = "Trade Fleet"
-	location = 1426
+# navy = {
+# 	name = "Trade Fleet"
+# 	location = 1426
 
-	ship = {
-		name= "Transport Flotilla"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Transport Flotilla"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "Transport Flotilla"
-		type = clipper_transport
-	}
-}
+# 	ship = {
+# 		name= "Transport Flotilla"
+# 		type = clipper_transport
+# 	}
+# }

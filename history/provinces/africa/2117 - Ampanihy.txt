@@ -1,6 +1,6 @@
-owner = MAD
-controller = MAD
-add_core = MAD
+owner = SUL
+controller = SUL
+add_core = SUL
 terrain = semidesert
 trade_goods = grain
 life_rating = 35

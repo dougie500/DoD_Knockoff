@@ -1,5 +1,3 @@
-owner = SUL
-controller = SUL
-add_core = SUL
+
 trade_goods = timber
 life_rating = 30

@@ -1,5 +1,5 @@
-owner = DNG
-controller = DNG
+owner = PLM
+controller = PLM
 add_core = MLD
 trade_goods = fish
 life_rating = 32

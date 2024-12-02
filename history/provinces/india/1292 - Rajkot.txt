@@ -1,6 +1,6 @@
-owner = BER
-controller = BER
-add_core = BER
+owner = AWA
+controller = AWA
+add_core = AWA
 add_core = HND
 trade_goods = fish
 life_rating = 32

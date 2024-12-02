@@ -1,3 +1,5 @@
-owner = IROcontroller = IROadd_core = IRO
+owner = IRO
+controller = IRO
+add_core = IRO
 trade_goods = cattle
 life_rating = 30

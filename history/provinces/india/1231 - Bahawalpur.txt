@@ -1,7 +1,6 @@
-owner = AFG
-controller = AFG
-add_core = PNJ
-add_core = HND
+owner = MEW
+controller = MEW
+add_core = MEW
 trade_goods = cattle
 life_rating = 32
 1861.1.1 = {

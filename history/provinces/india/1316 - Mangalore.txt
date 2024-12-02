@@ -1,7 +1,6 @@
-owner = TRA
-controller = TRA
-add_core = MYS
-add_core = DRA
+owner = BUR
+controller = BUR
+add_core = BUR
 #add_core = VIJ
 add_core = TRA
 trade_goods = fruit

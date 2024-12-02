@@ -1,7 +1,6 @@
-owner = ZAN
-controller = ZAN
-add_core = ZAN
-add_core = MIG
+owner = TAI
+controller = TAI
+add_core = TAI
 add_core = CHI
 trade_goods = silk
 life_rating = 32

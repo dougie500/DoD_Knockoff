@@ -1,6 +1,6 @@
-owner = BEN
-controller = BEN
-add_core = HND
+owner = BUR
+controller = BUR
+add_core = BUR
 #add_core = MUG
 add_core = BEN
 add_core = ASM

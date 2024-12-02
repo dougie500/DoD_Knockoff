@@ -1,6 +1,6 @@
-owner = JAV
-controller = JAV
-add_core = JAV
+owner = MLY
+controller = MLY
+add_core = MLY
 trade_goods = timber
 life_rating = 35
 1860.1.1 = {

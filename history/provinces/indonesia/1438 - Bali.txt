@@ -1,6 +1,6 @@
-owner = JAV
-controller = JAV
-add_core = JAV
+owner = LFG
+controller = LFG
+add_core = LFG
 trade_goods = fish
 life_rating = 35
 1860.1.1 = {

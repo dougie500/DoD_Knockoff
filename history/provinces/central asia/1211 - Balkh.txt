@@ -1,6 +1,6 @@
-owner = AFG
-controller = AFG
-add_core = AFG   
+owner = PER
+controller = PER
+add_core = PER 
 terrain = dryhills
 trade_goods = grain
 life_rating = 35

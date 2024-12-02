@@ -1,6 +1,6 @@
-owner = MAD
-controller = MAD
-add_core = MAD
+owner = MLY
+controller = MLY
+add_core = MLY
 terrain = dryhills
 trade_goods = fruit
 life_rating = 35

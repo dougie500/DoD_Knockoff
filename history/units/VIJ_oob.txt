@@ -106,41 +106,41 @@ army = {
 
 
 
-navy = {
-	name = "Maharaja's Fleet"
-	location = 1297
-	ship = {
-		name= "Vijayanagar"
-		type = frigate
-	}
+# navy = {
+# 	name = "Maharaja's Fleet"
+# 	location = 1297
+# 	ship = {
+# 		name= "Vijayanagar"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Bombay"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Bombay"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Goa"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Goa"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Hispania"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Hispania"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "Transport Flotilla"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Transport Flotilla"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "Transport Flotilla"
-		type = clipper_transport
-	}
+# 	ship = {
+# 		name= "Transport Flotilla"
+# 		type = clipper_transport
+# 	}
 
-	ship = {
-		name= "Transport Flotilla"
-		type = clipper_transport
-	}
-}
+# 	ship = {
+# 		name= "Transport Flotilla"
+# 		type = clipper_transport
+# 	}
+# }

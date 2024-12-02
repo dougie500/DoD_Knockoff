@@ -1,6 +1,5 @@
-owner = POM
-controller = POM
-add_core = GER
-add_core = POM
+owner = DUA
+controller = DUA
+add_core = DUA
 trade_goods = grain
 life_rating = 38

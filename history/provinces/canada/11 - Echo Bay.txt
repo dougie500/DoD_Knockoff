@@ -1,6 +1,7 @@
 trade_goods = fish
 life_rating = 15
 colonial = 1
-owner = IROcontroller = OCE
+owner = IRO
+controller = IRO
 add_core = IRO
 terrain = new_world_arctic

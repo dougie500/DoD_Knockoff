@@ -1,6 +1,6 @@
-owner = LFG
-controller = LFG
-add_core = LFG
+owner = SUL
+controller = SUL
+add_core = SUL
 add_core = NUS
 trade_goods = timber
 life_rating = 25
