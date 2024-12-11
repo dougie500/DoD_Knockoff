@@ -1,6 +1,6 @@
-owner = DEN
-controller = DEN
-add_core = ASH
+owner = MLI
+controller = MLI
+add_core = MLI
 trade_goods = cattle
 life_rating = 35
 colonial = 1

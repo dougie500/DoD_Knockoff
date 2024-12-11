@@ -1,4 +1,6 @@
-
+owner = CAM
+controller = CAM
+add_core = CAM
 trade_goods = cotton
 terrain = montane_forest
 life_rating = 10

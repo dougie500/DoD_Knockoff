@@ -2,3 +2,6 @@
 trade_goods = grain
 terrain = semidesert
 life_rating = 32
+owner = MLI
+controller = MLI
+add_core = MLI

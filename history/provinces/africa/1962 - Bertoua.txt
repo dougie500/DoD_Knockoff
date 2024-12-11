@@ -1,5 +1,5 @@
 trade_goods = grain
 life_rating = 20
-owner = ASH
-controller = ASH
-add_core = ASH
+owner = KON
+controller = KON
+add_core = KON

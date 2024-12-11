@@ -1,4 +1,5 @@
-owner = DEN
-controller = DEN
+owner = SHO
+controller = SHO
+add_core = SHO
 trade_goods = grain
 life_rating = 32

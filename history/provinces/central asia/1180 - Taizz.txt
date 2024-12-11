@@ -1,7 +1,6 @@
-owner = HDJ
-controller = HDJ
-add_core = HDJ
-add_core = NEJ
+owner = YEM
+controller = YEM
+add_core = YEM
 trade_goods = coffee
 life_rating = 35
 1861.1.1 = {

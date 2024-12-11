@@ -1,6 +1,4 @@
-owner = AZA
-controller = AZA
-add_core = AZA
+
 life_rating = 32
 trade_goods = fruit
 

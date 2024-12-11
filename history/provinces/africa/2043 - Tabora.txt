@@ -1,3 +1,6 @@
 trade_goods = tobacco
 terrain = savanna
 life_rating = 10
+owner = MLY
+controller = MLY
+add_core = MLY

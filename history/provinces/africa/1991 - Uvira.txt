@@ -1,7 +1,6 @@
+owner = LBA
+controller = LBA
 add_core = LBA
 trade_goods = fruit
 terrain = montane_forest
 life_rating = 32
-owner = AZA
-controller = AZA
-add_core = AZA

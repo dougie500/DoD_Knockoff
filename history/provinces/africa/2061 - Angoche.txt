@@ -1,5 +1,6 @@
-owner = DEN
-controller = DEN
+owner = SHO
+controller = SHO
+add_core = SHO
 trade_goods = tobacco
 life_rating = 32
 colonial = 1

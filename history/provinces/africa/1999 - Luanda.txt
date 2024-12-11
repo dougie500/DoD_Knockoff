@@ -1,6 +1,6 @@
-owner = DEN
-controller = DEN
-add_core = KON
+owner = LUN
+controller = LUN
+add_core = LUN
 trade_goods = coffee
 life_rating = 32
 colonial = 1

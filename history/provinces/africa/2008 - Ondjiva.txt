@@ -1,6 +1,6 @@
 terrain = savanna
 trade_goods = iron
 life_rating = 32
-owner = DEN
-controller = DEN
+owner = LUN
+controller = LUN
 add_core = LUN

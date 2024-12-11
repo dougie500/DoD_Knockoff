@@ -1,6 +1,6 @@
-owner = AZA
-controller = AZA
-add_core = AZA
+owner = FUN
+controller = FUN
+add_core = FUN
 trade_goods = coffee
 terrain = savanna
 life_rating = 32

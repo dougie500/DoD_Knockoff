@@ -1,6 +1,6 @@
-owner = TAI
-controller = TAI
-add_core = TAI
+owner = MIG
+controller = MIG 
+add_core = MIG
 
 trade_goods = tea
 life_rating = 32

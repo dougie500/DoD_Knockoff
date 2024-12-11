@@ -1,6 +1,6 @@
-owner = ETH
-controller = ETH
-add_core = ETH
+owner = SID
+controller = SID
+add_core = SID
 trade_goods = cattle
 terrain = semidesert
 life_rating = 35

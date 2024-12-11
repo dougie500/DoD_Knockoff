@@ -1,7 +1,6 @@
-
-
-add_core = LOT
-
+owner = MLI
+controller = MLI
+add_core = MLI
 trade_goods = tobacco
 terrain = dryhills
 life_rating = 35

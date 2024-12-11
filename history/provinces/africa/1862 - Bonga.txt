@@ -1,6 +1,6 @@
-owner = ETH
-controller = ETH
-add_core = ETH
+owner = FUN
+controller = FUN
+add_core = FUN
 trade_goods = wool
 life_rating = 35
 
