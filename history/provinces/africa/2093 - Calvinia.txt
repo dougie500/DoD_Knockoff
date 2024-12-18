@@ -1,8 +1,4 @@
-add_core = BTV
-add_core = LWE
-owner = LWE
-controller = LWE
-add_core = SAF
+
 
 trade_goods = grain
 life_rating = 40

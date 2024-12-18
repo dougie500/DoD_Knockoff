@@ -1,7 +1,3 @@
-add_core = LWE
-owner = LWE
-controller = LWE
-add_core = BTV
-add_core = XHO
+
 trade_goods = fruit
 life_rating = 40

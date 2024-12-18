@@ -285,414 +285,414 @@ army = {
 		home = 530
 	}
 }
-navy = {
-	name = "Escadre de Flande"
-	location = 253
-	ship = {
-		name= "Danmark"
-		type = manowar
-	}
-
-	ship = {
-		name= "Dronning Marie"
-		type = manowar
-	}
-
-	ship = {
-		name= "Frederik den sjette"
-		type = manowar
-	}
-
-	ship = {
-		name= "Phoenix"
-		type = manowar
-	}
-
-	ship = {
-		name= "Prindsesse Lovise Augusta"
-		type = manowar
-	}
-
-	ship = {
-		name= "Skjold"
-		type = manowar
-	}
-
-	ship = {
-		name= "Ghana"
-		type = manowar
-	}
-
-	ship = {
-		name= "India"
-		type = manowar
-	}
-
-	ship = {
-		name= "Wilhelm"
-		type = manowar
-	}
-
-	ship = {
-		name= "Frederick Karl"
-		type = manowar
-	}
-
-	ship = {
-		name= "Svenson"
-		type = manowar
-	}
-
-	ship = {
-		name= "Viken"
-		type = manowar
-	}
-
-	ship = {
-		name= "Aurora"
-		type = manowar
-	}
-	ship = {
-		name= "Jan Mayen"
-		type = manowar
-	}
-
-	ship = {
-		name= "Reykjavik"
-		type = manowar
-	}
-
-	ship = {
-		name= "Hvanadalshnukur"
-		type = manowar
-	}
-
-	ship = {
-		name= "Heimdall"
-		type = manowar
-	}
-
-	ship = {
-		name= "Torstensson"
-		type = manowar
-	}
-
-	ship = {
-		name= "Glasgow"
-		type = manowar
-	}
-	ship = {
-		name= "Finland"
-		type = manowar
-	}
-
-	ship = {
-		name= "Helsinki"
-		type = manowar
-	}
-
-	ship = {
-		name= "Oulu"
-		type = manowar
-	}
-
-	ship = {
-		name= "Farrad"
-		type = manowar
-	}
-
-	ship = {
-		name= "Eire"
-		type = manowar
-	}
-
-	ship = {
-		name= "Ilverness"
-		type = manowar
-	}
-
-	ship = {
-		name= "Barracuda"
-		type = manowar
-	}
-
-	ship = {
-		name= "Celsius"
-		type = manowar
-	}
-
-	ship = {
-		name= "Bellona"
-		type = frigate
-	}
-
-	ship = {
-		name= "Diana"
-		type = frigate
-	}
-
-	ship = {
-		name= "Freja"
-		type = frigate
-	}
-
-	ship = {
-		name= "Fylla"
-		type = frigate
-	}
-
-	ship = {
-		name= "Havfruen"
-		type = frigate
-	}
-
-	ship = {
-		name= "Minerva"
-		type = frigate
-	}
-
-	ship = {
-		name= "Nymphen"
-		type = frigate
-	}
-
-	ship = {
-		name= "Rota"
-		type = frigate
-	}
-
-	ship = {
-		name= "Venus"
-		type = frigate
-	}
-
-	ship = {
-		name= "Kiel"
-		type = commerce_raider
-	}
-
-	ship = {
-		name= "Copenhagen"
-		type = frigate
-	}
-
-	ship = {
-		name= "Odin"
-		type = frigate
-	}
-
-	ship = {
-		name= "Schleswig"
-		type = frigate
-	}
-
-	ship = {
-		name= "Holstein"
-		type = frigate
-	}
-
-	ship = {
-		name= "Bornholm"
-		type = frigate
-	}
-
-	ship = {
-		name= "Skane"
-		type = frigate
-	}
-
-	ship = {
-		name= "Inuit"
-		type = frigate
-	}
-
-	ship = {
-		name= "Nuuk"
-		type = frigate
-	}
-
-	ship = {
-		name= "Vinland"
-		type = frigate
-	}
-
-	ship = {
-		name= "Arcadia"
-		type = commerce_raider
-	}
-
-	ship = {
-		name= "1st Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "2nd Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "3rd Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "4th Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "5th Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "6th Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "7th Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "8th Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "9th Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "10th Transport Flotilla"
-		type = clipper_transport
-	}
-	ship = {
-		name= "Aarhus"
-		type = frigate
-	}
-
-	ship = {
-		name= "Aarbjorg"
-		type = frigate
-	}
-
-	ship = {
-		name= "Riga"
-		type = frigate
-	}
-
-	ship = {
-		name= "Livland"
-		type = frigate
-	}
-
-	ship = {
-		name= "Kurland"
-		type = frigate
-	}
-
-	ship = {
-		name= "Jelgava"
-		type = frigate
-	}
-
-	ship = {
-		name= "Grand Lahou"
-		type = frigate
-	}
-
-	ship = {
-		name= "Harald"
-		type = frigate
-	}
-
-	ship = {
-		name= "Hardraade"
-		type = frigate
-	}
-
-	ship = {
-		name= "Tomiel"
-		type = frigate
-	}
-
-	ship = {
-		name= "Osel"
-		type = frigate
-	}
-
-	ship = {
-		name= "Gotland"
-		type = frigate
-	}
-
-	ship = {
-		name= "Reval"
-		type = frigate
-	}
-
-	ship = {
-		name= "Narva"
-		type = frigate
-	}
-
-	ship = {
-		name= "Pskov"
-		type = frigate
-	}
-
-	ship = {
-		name= "Hindustan"
-		type = frigate
-	}
-
-	ship = {
-		name= "Tartaros"
-		type = frigate
-	}
-
-	ship = {
-		name= "Amesbury"
-		type = frigate
-	}
-
-	ship = {
-		name= "Ireland"
-		type = frigate
-	}
-
-	ship = {
-		name= "Drakkar"
-		type = frigate
-	}
-
-	ship = {
-		name= "1st Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "2nd Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "3rd Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "4th Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "5th Transport Flotilla"
-		type = clipper_transport
-	}
-
-}
+# navy = {
+# 	name = "Escadre de Flande"
+# 	location = 253
+# 	ship = {
+# 		name= "Danmark"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Dronning Marie"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Frederik den sjette"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Phoenix"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Prindsesse Lovise Augusta"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Skjold"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Ghana"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "India"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Wilhelm"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Frederick Karl"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Svenson"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Viken"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Aurora"
+# 		type = manowar
+# 	}
+# 	ship = {
+# 		name= "Jan Mayen"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Reykjavik"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Hvanadalshnukur"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Heimdall"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Torstensson"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Glasgow"
+# 		type = manowar
+# 	}
+# 	ship = {
+# 		name= "Finland"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Helsinki"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Oulu"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Farrad"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Eire"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Ilverness"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Barracuda"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Celsius"
+# 		type = manowar
+# 	}
+
+# 	ship = {
+# 		name= "Bellona"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Diana"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Freja"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Fylla"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Havfruen"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Minerva"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Nymphen"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Rota"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Venus"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Kiel"
+# 		type = commerce_raider
+# 	}
+
+# 	ship = {
+# 		name= "Copenhagen"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Odin"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Schleswig"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Holstein"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Bornholm"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Skane"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Inuit"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Nuuk"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Vinland"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Arcadia"
+# 		type = commerce_raider
+# 	}
+
+# 	ship = {
+# 		name= "1st Transport Flotilla"
+# 		type = clipper_transport
+# 	}
+
+# 	ship = {
+# 		name= "2nd Transport Flotilla"
+# 		type = clipper_transport
+# 	}
+
+# 	ship = {
+# 		name= "3rd Transport Flotilla"
+# 		type = clipper_transport
+# 	}
+
+# 	ship = {
+# 		name= "4th Transport Flotilla"
+# 		type = clipper_transport
+# 	}
+
+# 	ship = {
+# 		name= "5th Transport Flotilla"
+# 		type = clipper_transport
+# 	}
+
+# 	ship = {
+# 		name= "6th Transport Flotilla"
+# 		type = clipper_transport
+# 	}
+
+# 	ship = {
+# 		name= "7th Transport Flotilla"
+# 		type = clipper_transport
+# 	}
+
+# 	ship = {
+# 		name= "8th Transport Flotilla"
+# 		type = clipper_transport
+# 	}
+
+# 	ship = {
+# 		name= "9th Transport Flotilla"
+# 		type = clipper_transport
+# 	}
+
+# 	ship = {
+# 		name= "10th Transport Flotilla"
+# 		type = clipper_transport
+# 	}
+# 	ship = {
+# 		name= "Aarhus"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Aarbjorg"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Riga"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Livland"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Kurland"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Jelgava"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Grand Lahou"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Harald"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Hardraade"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Tomiel"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Osel"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Gotland"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Reval"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Narva"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Pskov"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Hindustan"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Tartaros"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Amesbury"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Ireland"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "Drakkar"
+# 		type = frigate
+# 	}
+
+# 	ship = {
+# 		name= "1st Transport Flotilla"
+# 		type = clipper_transport
+# 	}
+
+# 	ship = {
+# 		name= "2nd Transport Flotilla"
+# 		type = clipper_transport
+# 	}
+
+# 	ship = {
+# 		name= "3rd Transport Flotilla"
+# 		type = clipper_transport
+# 	}
+
+# 	ship = {
+# 		name= "4th Transport Flotilla"
+# 		type = clipper_transport
+# 	}
+
+# 	ship = {
+# 		name= "5th Transport Flotilla"
+# 		type = clipper_transport
+# 	}
+
+# }

@@ -1,8 +1,4 @@
-add_core = LWE
-owner = LWE
-controller = LWE
-add_core = BSH
-add_core = BTV 
+
 trade_goods = fruit
 life_rating = 40
 terrain = savanna

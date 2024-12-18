@@ -34,22 +34,22 @@ army = {
 	}
 }
 
-navy = {
-	name = "Republican Navy"
-	location = 2096
+# navy = {
+# 	name = "Republican Navy"
+# 	location = 2096
 
-	ship = {
-		name= "Leeuwin"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "Leeuwin"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "President"
-		type = frigate
-	}
+# 	ship = {
+# 		name= "President"
+# 		type = frigate
+# 	}
 
-	ship = {
-		name= "van Holt"
-		type = clipper_transport
-	}
-}
+# 	ship = {
+# 		name= "van Holt"
+# 		type = clipper_transport
+# 	}
+# }

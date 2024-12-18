@@ -1,5 +1,3 @@
-owner = MLY
-controller = MLY
-add_core = MLY
+
 trade_goods = cotton
 life_rating = 34

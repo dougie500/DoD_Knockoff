@@ -1,5 +1,5 @@
 trade_goods = tobacco
 life_rating = 32
-owner = SHO
-controller = SHO
-add_core = SHO
+owner = DEN
+controller = DEN
+add_core = KZB

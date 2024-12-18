@@ -44,12 +44,12 @@ army = {
 	}
 }
 
-navy = {
-	name = "Red Sea Fleet"
-	location = 1412
-	ship = {
-		name= "Transport Flotilla"
-		type = clipper_transport
-	}
+# navy = {
+# 	name = "Red Sea Fleet"
+# 	location = 1412
+# 	ship = {
+# 		name= "Transport Flotilla"
+# 		type = clipper_transport
+# 	}
 
-}
+# }
