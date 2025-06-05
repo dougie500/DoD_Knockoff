@@ -1,6 +1,6 @@
-owner = SUR
-controller = SUR
-add_core = SUR
+owner = BUR
+controller = BUR
+add_core = BUR
 trade_goods = opium
 life_rating = 35
 1861.1.1 = {

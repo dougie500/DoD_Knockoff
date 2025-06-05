@@ -1,5 +1,5 @@
-owner = BRG
-controller = BRG
+owner = WLL
+controller = WLL
 
 
 trade_goods = wool

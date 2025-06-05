@@ -1,6 +1,6 @@
-owner = BOH
-controller = BOH
-add_core = BOH
+owner = PRU
+controller = PRU
+add_core = PRU
 trade_goods = iron
 life_rating = 35
 1861.1.1 = { railroad = 3 }

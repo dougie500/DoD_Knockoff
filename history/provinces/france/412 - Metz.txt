@@ -1,6 +1,6 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = WLL
+controller = WLL
+add_core = WLL
 add_core = LRR
 trade_goods = cattle
 life_rating = 35

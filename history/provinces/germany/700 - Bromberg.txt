@@ -1,5 +1,5 @@
-owner = SIL
-controller = SIL
-add_core = SIL
+owner = PRU
+controller = PRU
+add_core = PRU
 trade_goods = grain
 life_rating = 35

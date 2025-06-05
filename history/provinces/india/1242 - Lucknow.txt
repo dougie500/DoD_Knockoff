@@ -1,6 +1,6 @@
-owner = AWA
-controller = AWA
-add_core = AWA
+owner = MUG
+controller = MUG
+add_core = MUG
 add_core = HND
 add_core = MUG
 trade_goods = timber

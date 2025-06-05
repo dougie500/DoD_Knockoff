@@ -1,4 +1,4 @@
 trade_goods = fish
 life_rating = 32
-owner = BRG
-controller = BRG
+owner = WLL
+controller = WLL

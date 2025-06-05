@@ -7,5 +7,5 @@ terrain = small_island
 	controller = FRA
 	naval_base = 1
 }
-owner = BRG
-controller = BRG
+owner = WLL
+controller = WLL
