@@ -1,6 +1,6 @@
-owner = AZT
-controller = AZT
-add_core = AZT
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = coffee
 terrain = savanna
 life_rating = 32

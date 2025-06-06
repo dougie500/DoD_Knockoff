@@ -1,8 +1,6 @@
-owner = YUC
-controller = YUC
-add_core = YUC
-add_core = MEX                                       
-add_core = ELS
-add_core = UCA
+owner = SPA
+controller = SPA
+add_core = SPA
+add_core = CUB
 trade_goods = timber
 life_rating = 35

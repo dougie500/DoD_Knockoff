@@ -1,5 +1,3 @@
-owner = QUI
-controller = QUI
-add_core = QUI
+
 trade_goods = coal
 life_rating = 35

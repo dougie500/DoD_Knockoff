@@ -1,6 +1,6 @@
-owner = KOR
-controller = KOR
-add_core = KOR
+owner = TNG
+controller = TNG
+add_core = TON
 trade_goods = tea
 life_rating = 35
 state_building = {

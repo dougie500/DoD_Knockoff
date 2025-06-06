@@ -1,6 +1,6 @@
-owner = AZT
-controller = AZT
-add_core = AZT
+owner = MEX
+controller = MEX
+add_core = MEX
 colonial = 2
 trade_goods = grain
 life_rating = 32

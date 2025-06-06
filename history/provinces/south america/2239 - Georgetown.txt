@@ -1,4 +1,6 @@
-
+owner = NAN
+controller = NAN
+add_core = NAN
 colonial = 2
 trade_goods = fruit
 terrain = plains

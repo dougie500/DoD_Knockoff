@@ -1,5 +1,5 @@
-owner = BUR
-controller = BUR
-add_core = BUR
+owner = VIJ
+controller = VIJ
+add_core = VIJ
 trade_goods = grain
 life_rating = 35

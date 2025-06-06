@@ -1,6 +1,6 @@
-owner = QUI
-controller = QUI
-add_core = QUI
+owner = MEX
+controller = MEX
+add_core = MEX
 colonial = 2
 trade_goods = tropical_wood
 life_rating = 15

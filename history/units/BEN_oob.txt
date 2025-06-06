@@ -72,27 +72,5 @@ army = {
 
 
 
-navy = {
-	name = "New Model Fleet"
-	location = 1251
-	ship = {
-		name= "Bengal"
-		type = frigate
-	}
 
-	ship = {
-		name= "India"
-		type = frigate
-	}
-
-	ship = {
-		name= "Tiger"
-		type = frigate
-	}
-
-	ship = {
-		name= "Sultanate"
-		type = frigate
-	}
-}
 

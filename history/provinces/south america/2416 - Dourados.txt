@@ -2,4 +2,6 @@ colonial = 1
 trade_goods = fruit
 terrain = savanna
 life_rating = 25
-owner = IROcontroller = IROadd_core = IRO
+owner = IRO
+controller = IRO
+add_core = IRO

@@ -1,6 +1,6 @@
-owner = VIJ
-controller = VIJ
-add_core = VIJ
+owner = CAM
+controller = CAM
+add_core = CAM
 trade_goods = grain
 life_rating = 35
 1861.1.1 = {

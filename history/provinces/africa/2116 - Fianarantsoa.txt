@@ -1,4 +1,6 @@
-
+owner = SUL
+controller = SUL
+add_core = SUL
 terrain = montane_forest
 trade_goods = coal
 life_rating = 35

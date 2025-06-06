@@ -1,5 +1,5 @@
-owner = NAN
-controller = NAN
-add_core = NAN
+owner = AZT
+controller = AZT
+add_core = AZT
 trade_goods = cattle
 life_rating = 35

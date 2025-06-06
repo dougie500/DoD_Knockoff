@@ -1,5 +1,5 @@
-owner = KOR
-controller = KOR
-add_core = KOR
+owner = TNG
+controller = TNG
+add_core = TON
 trade_goods = fish
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = AZT
-controller = AZT
-add_core = AZT
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = cattle
 terrain = montane_tundra
 life_rating = 15

@@ -1,6 +1,6 @@
-owner = QUI
-controller = QUI
-add_core = QUI
+owner = YUC
+controller = YUC
+add_core = YUC
 colonial = 2
 trade_goods = coffee
 life_rating = 33

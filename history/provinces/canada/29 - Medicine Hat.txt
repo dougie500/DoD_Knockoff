@@ -1,6 +1,6 @@
-owner = PER
-controller = PER
-add_core = PER
+owner = KAZ
+controller = KAZ   
+add_core = KAZ
 trade_goods = fruit
 terrain = desert
 life_rating = 35

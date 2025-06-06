@@ -1,5 +1,5 @@
-owner = AZT
-controller = AZT
-add_core = AZT
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = coffee
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = NAN
-controller = NAN
-add_core = NAN
+owner = AZT
+controller = AZT
+add_core = AZT
 terrain = new_world_semidesert
 trade_goods = dye
 life_rating = 30
