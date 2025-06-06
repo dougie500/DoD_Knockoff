@@ -1,4 +1,6 @@
-owner = IROcontroller = IROadd_core = IRO
+owner = IRO
+controller = IRO
+add_core = IRO
 trade_goods = wool
 life_rating = 35
 1860.1.1 = {

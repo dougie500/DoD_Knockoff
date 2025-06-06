@@ -1,7 +1,5 @@
-owner = BOH
-controller = BOH
-add_core = BOH
-life_rating = 37
-add_core = SAX
-add_core = GER
+owner = AZT
+controller = AZT
+add_core = AZT
+life_rating = 35
 trade_goods = iron

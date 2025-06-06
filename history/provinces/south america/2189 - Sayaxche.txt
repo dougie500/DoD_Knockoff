@@ -1,6 +1,6 @@
-owner = YUC
-controller = YUC
-add_core = YUC
+owner = ELS
+controller = ELS
+add_core = ELS
 colonial = 2
 add_core = MEX
 add_core = ELS

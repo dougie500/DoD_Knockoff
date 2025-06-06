@@ -1,6 +1,5 @@
-owner = ALB
-controller = ALB
-add_core = ALB
-add_core = YUG
+owner = PRU
+controller = PRU
+add_core = PRU
 trade_goods = timber
 life_rating = 35

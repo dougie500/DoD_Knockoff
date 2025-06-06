@@ -9,4 +9,6 @@ life_rating = 35
 	remove_core = ARC
 	remove_core = SBA
 	}
-owner = IROcontroller = IROadd_core = IRO
+owner = IRO
+controller = IRO
+add_core = IRO

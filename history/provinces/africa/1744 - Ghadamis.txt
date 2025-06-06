@@ -1,10 +1,5 @@
-owner = LYB
+owner = LBY
 controller = LBY
 add_core = LBY
 trade_goods = fruit
 life_rating = 10
-1861.1.1 = {
-	owner = TUR
-	controller = TUR
-	colonial = 2
-}
