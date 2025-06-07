@@ -1,5 +1,5 @@
-owner = ALB
-controller = ALB
-add_core = ALB
+owner = NOV
+controller = NOV
+add_core = NOV
 trade_goods = fruit
 life_rating = 35

@@ -3,53 +3,57 @@
 #Chisinau (332000/83000 POPS)  
 676 = {
 	farmers = {
-		culture = gypsy
+		culture = galician
 		religion = orthodox
 		size = 400
 	}
 
     aristocrats = {
-        culture = romanian
+        culture = galician
         religion = orthodox
         size = 4800
     }
 
     bureaucrats = {
-        culture = romanian
+        culture = galician
         religion = orthodox
         size = 225
     }
 
     officers = {
-        culture = romanian
+        culture = galician
         religion = orthodox
         size = 175
     }
 
     clergymen = {
-        culture = romanian
+        culture = galician
         religion = orthodox
         size = 700
     }
 
     artisans = {
-        culture = romanian
+        culture = galician
         religion = orthodox
         size = 10000
     }
 
     soldiers = {
-        culture = romanian
+        culture = galician
         religion = orthodox
         size = 5075
     }
 
     farmers = {
-        culture = romanian
+        culture = galician
         religion = orthodox
-        size = 56750
+        size = 25750
     }
-
+    farmers = {
+        culture = astrakhani
+        religion = orthodox
+        size = 31000
+    }
     clergymen = {
         culture = ashkenazi
         religion = jewish
@@ -75,61 +79,60 @@
     }
 
     clergymen = {
-        culture = turkish #gagauz
+        culture = galician #gagauz
         religion = orthodox
         size = 75
     }
 
     artisans = {
-        culture = turkish
+        culture = galician
         religion = orthodox
         size = 250
     }
 
     soldiers = {
-        culture = turkish
+        culture = galician
         religion = orthodox
         size = 75
     }
 
     farmers = {
-        culture = turkish
+        culture = galician
         religion = orthodox
         size = 4625
     }
 
-    soldiers = {
-        culture = bulgarian
-        religion = orthodox
-        size = 25
-    }
 }
 #Balti (320000/80000 POPS)  
 677 = {
 	farmers = {
-		culture = gypsy
+		culture = galician
 		religion = orthodox
 		size = 400
 	}
 	
     clergymen = {
-        culture = romanian
+        culture = galician
         religion = orthodox
         size = 700
     }
 
     artisans = {
-        culture = romanian
+        culture = galician
         religion = orthodox
         size = 3600
     }
 
     farmers = {
-        culture = romanian
+        culture = astrakhani
         religion = orthodox
-        size = 65675
+        size = 52675
     }
-
+    farmers = {
+        culture = galician
+        religion = orthodox
+        size = 47675
+    }
     clergymen = {
         culture = ashkenazi
         religion = jewish

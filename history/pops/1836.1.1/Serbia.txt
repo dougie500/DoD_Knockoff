@@ -903,99 +903,99 @@
 #Prizren (186000/46000 POPS)
 803 = {
 	clergymen = {
-		culture = serb
+		culture = sorbian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serb
+		culture = sorbian
 		religion = orthodox
 		size = 600
 	}
 
 	farmers = {
-		culture = serb
+		culture = sorbian
 		religion = orthodox
 		size = 15100
 	}
 
 	aristocrats = {
-		culture = greek
+		culture = sorbian
 		religion = sunni
 		size = 750
 	}
 
 	clergymen = {
-		culture = greek
+		culture = sorbian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = greek
+		culture = sorbian
 		religion = sunni
 		size = 1750
 	}
 
 	soldiers = {
-		culture = greek
+		culture = sorbian
 		religion = sunni
 		size= 3100
 
 	}
 
 	farmers = {
-		culture = greek
+		culture = sorbian
 		religion = sunni
 		size = 4550
 	}
 
 	clergymen = {
-		culture = albanian
+		culture = sorbian
 		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = albanian
+		culture = sorbian
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = albanian
+		culture = sorbian
 		religion = sunni
 		size= 100
 
 	}
 
 	farmers = {
-		culture = albanian
+		culture = sorbian
 		religion = sunni
 		size = 24550
 	}
 
 	clergymen = {
-		culture = greek
+		culture = sorbian
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = greek
+		culture = sorbian
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = greek
+		culture = sorbian
 		religion = orthodox
 		size = 1825
 	}
 	
 	farmers = {
-		culture = gypsy
+		culture = sorbian
 		religion = sunni
 		size = 600
 	}

@@ -478,38 +478,38 @@
 #Ventspils (140000/35000 POPS) #uralic = Livonian 
 358 = {
     clergymen = {
-        culture = ugrian
+        culture = estonian
         religion = protestant
-        size = 450
+        size = 1450
     }
 
     artisans = {
         	culture = estonian
 		religion = catholic
-        size = 300
+        size = 3100
     }
 
     farmers = {
     	culture = estonian
 		religion = catholic
-        size = 29388
+        size = 79388
     }
 	
     aristocrats = {
-        culture = north_german
+        culture = lithuanian
         religion = protestant
-        size = 100
+        size = 8100
     }	
 
     clergymen = {
-        culture = north_german
+        culture = lithuanian
         religion = protestant
-        size = 100
+        size = 1000
     }
 
     artisans = {
-        culture = north_german
-        religion = protestant
+        culture = lithuanian
+        religion = lithuanian
         size = 700
     }
 
@@ -548,7 +548,7 @@
     farmers = {
         	culture = estonian
 		religion = catholic
-        size = 19972
+        size = 49972
     }
 	
     aristocrats = {

@@ -540,91 +540,91 @@
 #Sukhumi (72000/18000 POPS) #north_caucasian = abkhaz
 1095 = {
 	aristocrats = {
-		culture = georgian
+		culture = lithuanian
 		religion = orthodox
 		size = 150
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = lithuanian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = georgian
+		culture = lithuanian
 		religion = orthodox
 		size = 300
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = lithuanian
 		religion = orthodox
 		size= 1100
 	}
 
 	farmers = {
-		culture = georgian
+		culture = polish
 		religion = orthodox
 		size = 18600
 	}
 
 	aristocrats = {
-		culture = georgian
+		culture = lithuanian
 		religion = orthodox
 		size = 150
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = lithuanian
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = georgian
+		culture = lithuanian
 		religion = orthodox
 		size = 450
 	}
 	
 	farmers = {
-		culture = georgian
+		culture = lithuanian
 		religion = orthodox
 		size = 28225
 	}
 
 	aristocrats = {
-		culture = georgian
+		culture = lithuanian
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = lithuanian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = georgian
+		culture = lithuanian
 		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = lithuanian
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = georgian
+		culture = lithuanian
 		religion = sunni
 		size = 20550
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = lithuanian
 		religion = sunni
 		size= 3000
 		militancy = 9

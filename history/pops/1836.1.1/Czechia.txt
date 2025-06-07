@@ -319,57 +319,57 @@
 #Aussig (317600/79400 POPS)
 628 = {
 	clergymen = {
-		culture = czech
+		culture = sorbian
 		religion = catholic
 		size = 475 
 	}
 
 	artisans = {
-		culture = czech
+		culture = sorbian
 		religion = catholic
 		size = 6500
 	}
 
 	soldiers = {
-		culture = czech
+		culture = sorbian
 		religion = catholic
 		size= 2100
 
 	}
 
 	farmers = {
-		culture = czech
+		culture = sorbian
 		religion = catholic
 		size = 89325
 	}
 
 	aristocrats = {
-		culture = czech
+		culture = sorbian
 		religion = catholic
 		size = 1650  
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = czech
 		religion = catholic
 		size = 375
 	}
 
 	artisans = {
-		culture = south_german
+		culture = czech
 		religion = catholic
 		size = 2950
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = czech
 		religion = catholic
 		size= 500
 
 	}
 
 	farmers = {
-		culture = south_german
+		culture = czech
 		religion = catholic
 		size = 13825
 	}

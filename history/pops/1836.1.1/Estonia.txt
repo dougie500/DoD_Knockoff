@@ -115,9 +115,13 @@
     farmers = {
         culture = estonian
         religion = protestant
-        size = 37967
+        size = 47967
     }
-	
+	 farmers = {
+        culture = finnish
+        religion = protestant
+        size = 87967
+    }
     aristocrats = {
         culture = north_german
         religion = protestant

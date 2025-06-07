@@ -1240,85 +1240,79 @@
 #Birmingham (644000/161000 POPS)
 284 = {
 	aristocrats = {
-		culture = english
+		culture = scandinavian
 		religion = catholic
 		size = 1100
 	}
 
 	officers = {
-		culture = english
+		culture = scandinavian
 		religion = catholic
 		size = 500
 	}
 
 	bureaucrats = {
-		culture = english
+		culture = scandinavian
 		religion = catholic
 		size = 2525
 	}
 
 	capitalists = {
-		culture = english
+		culture = scandinavian
 		religion = catholic
 		size = 350
 	}
 
 	clergymen = {
-		culture = english
+		culture = scandinavian
 		religion = catholic
 		size = 1625
 	}
 
 	clerks = {
-		culture = english
+		culture = scandinavian
 		religion = catholic
 		size = 1100
 	}
 
 	craftsmen = {
-		culture = english
+		culture = scandinavian
 		religion = catholic
-		size = 16000
+		size = 6000
 	}
 
 	artisans = {
-		culture = english
+		culture = scandinavian
 		religion = catholic
-		size = 30000
+		size = 20000
 	}
 	
 	artisans = {
-		culture = english
+		culture = scandinavian
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = english
+		culture = scandinavian
 		religion = catholic
 		size = 6000
 	}
 	
 	soldiers = {
-		culture = english
+		culture = scandinavian
 		religion = protestant
 		size = 1500
 	}
 	
 	labourers = {
-		culture = english
-		religion = catholic
-		size = 118900
-	}
-
-	labourers = {
-		culture = english
+		culture = scandinavian
 		religion = protestant
 		size = 50000
 	}
 	
 	farmers = {
-		culture = welsh
+		culture = scandinavian
 		religion = catholic
 		size = 3000
 	}

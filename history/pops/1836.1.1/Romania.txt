@@ -2120,109 +2120,84 @@
 #Suceava (204000/51000 POPS)  
 663 = {
 	clergymen = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size = 250 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size = 1250
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size= 250
 
 	}
 
 	farmers = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
-		size = 24250 
+		size = 44250 
 	}
 
 	clergymen = {
-		culture = russian
+		culture = galician
 		religion = orthodox
 		size = 125   
 	}
 
 	artisans = {
-		culture = russian
+		culture = galician
 		religion = orthodox
 		size = 700 
 	}
 
 	soldiers = {
-		culture = russian
+		culture = galician
 		religion = orthodox
 		size= 150
 
 	}
 
 	farmers = {
-		culture = russian
+		culture = galician
 		religion = orthodox
 		size = 14025   
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = galician
 		religion = catholic
 		size = 600   
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = galician
 		religion = catholic
 		size = 75   
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = galician
 		religion = catholic
 		size = 175  
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = galician
 		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = galician
 		religion = catholic
 		size = 2100  
-	}
-
-	clergymen = {
-		culture = south_german
-		religion = catholic
-		size = 50 
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 600  
-	}
-
-	soldiers = {
-		culture = south_german
-		religion = catholic
-		size= 50
-
-	}
-
-	farmers = {
-		culture = south_german
-		religion = catholic
-		size = 4300    
 	}
 
 	clergymen = {
@@ -2526,187 +2501,161 @@
 #Iasi (468000/117000 POPS)  
 670 = {
 	aristocrats = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size = 2250  
 	}
 
 	bureaucrats = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size = 575 
 	}
 
 	officers = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size = 350 
 	}
 
 	clergymen = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size = 1175
 	}
 
 	artisans = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
-		size = 10000
+		size = 20000
 	}
 	
 	artisans = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size = 5000
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
-		size = 106375
+		size = 116375
 	}
 	
-	slaves = {
-		culture = romanian
-		religion = orthodox
-		size = 4750
-	}
-
-	slaves = {
-		culture = gypsy
-		religion = orthodox
-		size = 10000
-	}
 }
 #Botosani (176000/44000 POPS)  
 671 = {
 	aristocrats = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size = 850 
 	}
 	farmers = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size = 39432 
 	}
 	
 	clergymen = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size = 450 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size = 2200
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size= 450
 
 	}
 
 	farmers = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size = 36050 
 	}
 	
-	slaves = {
-		culture = gypsy
-		religion = orthodox
-		size = 4000
-	}
 }
 #Bacau (440000/110000 POPS)  
 672 = {
 	aristocrats = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size = 2000 
 	}
 
 	clergymen = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size = 1050 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
-		size = 4500
+		size = 9500
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
-		size= 2000
+		size= 3000
 
 	}
 
 	farmers = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size = 91450
 	}
 	
-	slaves = {
-		culture = gypsy
-		religion = orthodox
-		size = 10000
-	}
 }
 #Galati (272000/68000 POPS)  
 673 = {
 	aristocrats = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size = 1300 
 	}
 
 	clergymen = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size = 675
 	}
 
 	artisans = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size = 5500
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = romanian
+		culture = galician
 		religion = orthodox
-		size = 53525
+		size = 63525
 	}
 	
-	slaves = {
-		culture = gypsy
-		religion = orthodox
-		size = 6000
-	}
 }
 #Dobruja Region (168000) #see Bulgaria.txt for balance of Region  
 #under the rule of the Ottoman Empire in 1836 

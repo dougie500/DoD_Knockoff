@@ -51,11 +51,15 @@
 		religion = orthodox
 		size = 32584
 	}
-	
+	farmers = {
+		culture = lithuanian
+		religion = orthodox
+		size = 10584
+	}
 	serfs = {
 		culture = russian
 		religion = orthodox
-		size = 50966
+		size = 40966
 	}	
 
 	clergymen = {
@@ -265,6 +269,11 @@
 		culture = russian
 		religion = orthodox
 		size = 43924
+	}
+	farmers = {
+		culture = lithuanian
+		religion = orthodox
+		size = 20000
 	}
 	farmers = {
 		culture = russian

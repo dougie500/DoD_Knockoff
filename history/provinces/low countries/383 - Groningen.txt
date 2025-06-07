@@ -1,6 +1,6 @@
-owner = NET
-controller = NET
-add_core = NET
+owner = LIT
+controller = LIT
+add_core = LIT
 naval_base = 2
 trade_goods = grain
 life_rating = 37

@@ -494,63 +494,63 @@
 #Groningen (186600/46650 POPS)
 383 = {
 	artisans = {
-		culture = ashkenazi
+		culture = lithuanian
 		religion = jewish
 		size = 250
 	}
 
 	aristocrats = {
-		culture = dutch
+		culture = lithuanian
 		religion = protestant
 		size = 300
 	}
 
 	officers = {
-		culture = dutch
+		culture = lithuanian
 		religion = protestant
 		size = 150
 	}
 
 	bureaucrats = {
-		culture = dutch
+		culture = lithuanian
 		religion = protestant
 		size = 800
 	}
 
 	clergymen = {
-		culture = dutch
+		culture = lithuanian
 		religion = protestant
 		size = 200
 	}
 
 	artisans = {
-		culture = dutch
+		culture = lithuanian
 		religion = protestant
 		size = 7000
 	}
 
 	soldiers = {
-		culture = dutch
+		culture = lithuanian
 		religion = protestant
 		size= 3000
 
 	}
 
 	soldiers = {
-		culture = dutch
+		culture = lithuanian
 		religion = protestant
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = dutch
+		culture = lithuanian
 		religion = protestant
-		size = 35450
+		size = 55450
 	}
 
 	labourers = {
-		culture = rheinish
+		culture = lithuanian
 		religion = protestant
 		size = 1100
 	}
