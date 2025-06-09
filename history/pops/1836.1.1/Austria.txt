@@ -135,7 +135,12 @@
     farmers = {
         culture = south_german
         religion = catholic
-        size = 29700
+        size = 15700
+    }
+    farmers = {
+        culture = swiss
+        religion = catholic
+        size = 12700
     }
 }
 #Lienz (52000/13000 POPS)
@@ -179,7 +184,7 @@
     farmers = {
         culture = south_german
         religion = catholic
-        size = 21975
+        size = 41975
     }
 
     artisans = {
@@ -267,7 +272,7 @@
     farmers = {
         culture = south_german
         religion = catholic
-        size = 120675
+        size = 105675
     }
 
     soldiers = {
@@ -411,13 +416,13 @@
     }
 
     clergymen = {
-        culture = hungarian
+        culture = romanian
         religion = catholic
         size = 20
     }
 
     artisans = {
-        culture = hungarian
+        culture = romanian
         religion = catholic
         size = 980
     }
@@ -491,7 +496,7 @@
     farmers = {
         culture = south_german
         religion = catholic
-        size = 153900
+        size = 123900
     }
 }
 #Odenburg Region (196000) #see Hungary.txt for balance of region
@@ -517,37 +522,37 @@
     }
 
     clergymen = {
-        culture = hungarian
+        culture = romanian
         religion = catholic
         size = 60
     }
 
     artisans = {
-        culture = hungarian
+        culture = romanian
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = hungarian
+        culture = romanian
         religion = catholic
         size = 2765
     }
 
     clergymen = {
-        culture = hungarian
+        culture = romanian
         religion = protestant
         size = 35
     }
 
     artisans = {
-        culture = hungarian
+        culture = romanian
         religion = protestant
         size = 150
     }
 
     farmers = {
-        culture = hungarian
+        culture = romanian
         religion = protestant
         size = 1790
     }

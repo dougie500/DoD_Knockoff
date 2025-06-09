@@ -3,62 +3,62 @@
 #Luxembourg (172000/43000 POPS)
 397 = {
 	aristocrats = {
-		culture = burgundian
+		culture = wallonian
 		religion = protestant
 		size = 2825
 	}
 
 	officers = {
-		culture = burgundian
+		culture = wallonian
 		religion = protestant
 		size = 1250
 	}
 
 	bureaucrats = {
-		culture = burgundian
+		culture = wallonian
 		religion = protestant
 		size = 2375
 	}
 
 	capitalists = {
-		culture = burgundian
+		culture = wallonian
 		religion = protestant
 		size = 350
 	}
 
 	clergymen = {
-		culture = burgundian
+		culture = wallonian
 		religion = protestant
 		size = 2725
 	}
 
 	craftsmen = {
-		culture = burgundian
+		culture = wallonian
 		religion = protestant
 		size = 17000
 	}
 
 	craftsmen = {
-		culture = rheinish
+		culture = wallonian
 		religion = protestant
 		size = 8000
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = wallonian
 		religion = protestant
 		size = 30000
 	}
 
 	artisans = {
-		culture = rheinish
+		culture = wallonian
 		religion = protestant
 		size = 16000
 	}
 
 
 	soldiers = {
-		culture = burgundian
+		culture = wallonian
 		religion = protestant
 		size= 4000
 
@@ -72,7 +72,7 @@
 	}
 
 	farmers = {
-		culture = burgundian
+		culture = wallonian
 		religion = protestant
 		size = 73275
 	}

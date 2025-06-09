@@ -199,19 +199,19 @@
 	}
 
 	clergymen = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 160
 	}
 
 	artisans = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 2100
 	}
@@ -250,32 +250,32 @@
 	}
 
 	aristocrats = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 125
 	}
 
 	clergymen = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 90
 	}
 
 	artisans = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 375
 	}
 
 	soldiers = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size= 75
 
 	}
 
 	farmers = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 7750
 	}
@@ -314,68 +314,68 @@
 #Kutaisi (120000/30000 POPS)
 1092 = {
 	aristocrats = {
-		culture = georgian
+		culture = tatar
 		religion = orthodox
 		size = 710
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = tatar
 		religion = orthodox
 		size = 390
 	}
 
 	artisans = {
-		culture = georgian
+		culture = tatar
 		religion = orthodox
 		size = 3000
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = tatar
 		religion = orthodox
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = georgian
+		culture = tatar
 		religion = orthodox
-		size = 41300
+		size = 32000
 	}
 
 	bureaucrats = {
-		culture = sephardic
+		culture = tatar
 		religion = jewish
 		size = 60
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = tatar
 		religion = jewish
 		size = 115
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = tatar
 		religion = jewish
 		size = 945
 	}
 
 	clergymen = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 40
 	}
 
 	farmers = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 900
 	}
@@ -476,44 +476,44 @@
 #Poti (104000/26000 POPS)
 1094 = {
 	aristocrats = {
-		culture = georgian
+		culture = tatar
 		religion = orthodox
 		size = 800
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = tatar
 		religion = orthodox
 		size = 450
 	}
 
 	artisans = {
-		culture = georgian
+		culture = tatar
 		religion = orthodox
 		size = 2200
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = tatar
 		religion = orthodox
 		size= 750
 
 	}
 
 	farmers = {
-		culture = georgian
+		culture = tatar
 		religion = orthodox
 		size = 30675
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = tatar
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = georgian
+		culture = tatar
 		religion = sunni
 		size = 650
 	}
@@ -525,13 +525,13 @@
 	}
 	
 	farmers = {
-		culture = greek
+		culture = tatar
 		religion = orthodox
 		size = 5500
 	}
 	
 	farmers = {
-		culture = georgian
+		culture = tatar
 		religion = orthodox
 		size = 1000
 	}	

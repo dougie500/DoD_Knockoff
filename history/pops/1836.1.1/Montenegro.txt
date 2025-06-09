@@ -2,53 +2,47 @@
 #under the rule of Ottoman Empire in 1836  
 #Ulcinj (36000/9000 POPS) 
 800 = {
-	clergymen = {
-		culture = serb
-		religion = orthodox
-		size = 50
+	aristocrats = {
+		culture = slovene
+		religion = catholic
+		size = 825
 	}
-	
+
 	bureaucrats = {
-		culture = serb
-		religion = orthodox
-		size = 20
+		culture = slovene
+		religion = catholic
+		size = 225
 	}
 
-	artisans = {
-		culture = serb
-		religion = orthodox
-		size = 400
-	}
-
-	farmers = {
-		culture = serb
-		religion = orthodox
-		size = 7550
+	officers = {
+		culture = slovene
+		religion = catholic
+		size = 100
 	}
 
 	clergymen = {
-		culture = albanian
-		religion = sunni
-		size = 25
+		culture = slovene
+		religion = catholic
+		size = 700
 	}
 
 	artisans = {
-		culture = albanian
-		religion = sunni
-		size = 50
+		culture = slovene
+		religion = catholic
+		size = 4000
 	}
 
 	soldiers = {
-		culture = albanian
-		religion = sunni
-		size= 100
+		culture = slovene
+		religion = catholic
+		size= 1100
 
 	}
 
 	farmers = {
-		culture = albanian
-		religion = sunni
-		size = 825
+		culture = slovene
+		religion = catholic
+		size = 63150
 	}
 }
 #Niksic (52000/13000 POPS) 
@@ -112,46 +106,46 @@
 #Cetinje (104000/26000 POPS) 
 2583 = {
 	aristocrats = {
-		culture = serb
+		culture = czech
 		religion = orthodox
 		size = 100
 	}
 	
 	bureaucrats = {
-		culture = serb
+		culture = czech
 		religion = orthodox
 		size = 100
 	}
 
 	officers = {
-		culture = serb
+		culture = czech
 		religion = orthodox
 		size = 25
 	}
 
 	clergymen = {
-		culture = serb
+		culture = czech
 		religion = orthodox
 		size = 275
 	}
 
 	artisans = {
-		culture = serb
+		culture = czech
 		religion = orthodox
 		size = 1300
 	}
 
 	soldiers = {
-		culture = serb
+		culture = czech
 		religion = orthodox
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = serb
+		culture = czech
 		religion = orthodox
-		size = 23375
+		size = 113375
 	}
 }
 #Kosovo-Sanjak Region (52000)  #see Serbia.txt for balance of region 

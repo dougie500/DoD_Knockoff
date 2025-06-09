@@ -102,56 +102,56 @@
 #Ismail (332000/83000 POPS)  
 678 = {
 	farmers = {
-		culture = gypsy
+		culture = tatar
 		religion = orthodox
 		size = 100
 	}
 	
 	aristocrats = {
-		culture = romanian
+		culture = tatar
 		religion = orthodox
 		size = 2100 
 	}
 
 	clergymen = {
-		culture = romanian
+		culture = tatar
 		religion = orthodox
 		size = 600 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = tatar
 		religion = orthodox
 		size = 3000
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = tatar
 		religion = orthodox
 		size= 600
 
 	}
 
 	farmers = {
-		culture = romanian
+		culture = tatar
 		religion = orthodox
-		size = 53800 
+		size = 33800 
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = tatar
 		religion = jewish
 		size = 75    
 	}
 
 	artisans = {
-		culture = ashkenazi
+		culture = tatar
 		religion = jewish
 		size = 1400  
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = tatar
 		religion = jewish
 		size= 75
 
@@ -164,76 +164,76 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 50 
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 75
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size= 25
 
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 2850
 	}
 
 	clergymen = {
-		culture = russian
+		culture = tatar
 		religion = orthodox
 		size = 100 
 	}
 
 	artisans = {
-		culture = russian
+		culture = tatar
 		religion = orthodox
 		size = 500
 	}
 
 	soldiers = {
-		culture = russian
+		culture = tatar
 		religion = orthodox
 		size= 100
 
 	}
 
 	farmers = {
-		culture = russian
+		culture = tatar
 		religion = orthodox
 		size = 9300 
 	}
 
 	clergymen = {
-		culture = turkish #gagauz
+		culture = tatar #gagauz
 		religion = orthodox
 		size = 50   
 	}
 
 	artisans = {
-		culture = turkish
+		culture = tatar
 		religion = orthodox
 		size = 150  
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = tatar
 		religion = orthodox
 		size= 25
 
 	}
 
 	farmers = {
-		culture = turkish
+		culture = tatar
 		religion = orthodox
 		size = 2775 
 	}
@@ -243,109 +243,109 @@
 #Uzgorod (856000/214000 POPS) #Part of Ukraine today
 950 = {
 	clergymen = {
-		culture = polish
+		culture = galician
 		religion = orthodox
 		size = 850  
 	}
 
 	artisans = {
-		culture = polish
+		culture = galician
 		religion = orthodox
 		size = 4600 
 	}
 
 	soldiers = {
-		culture = russian
+		culture = galician
 		religion = orthodox
 		size= 900
 
 	}
 
 	farmers = {
-		culture = polish
+		culture = galician
 		religion = orthodox
-		size = 85650  
+		size = 45650  
 	}
 
 	clergymen = {
-		culture = slovak
+		culture = galician
 		religion = catholic
 		size = 150 
 	}
 
 	artisans = {
-		culture = slovak
+		culture = galician
 		religion = catholic
 		size = 850
 	}
 
 	soldiers = {
-		culture = slovak
+		culture = galician
 		religion = catholic
 		size= 175
 
 	}
 
 	farmers = {
-		culture = slovak
+		culture = galician
 		religion = catholic
 		size = 15825
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = romanian
 		religion = catholic
 		size = 4250  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = romanian
 		religion = catholic
 		size = 425  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = romanian
 		religion = catholic
 		size = 2150 
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = romanian
 		religion = catholic
 		size= 450
 
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = romanian
 		religion = catholic
-		size = 35725  
+		size = 15725  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = romanian
 		religion = protestant
 		size = 400  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = romanian
 		religion = protestant
 		size = 2250 
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = romanian
 		religion = protestant
 		size= 400
 
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = romanian
 		religion = protestant
-		size =  38950   
+		size =  28950   
 	}
 
 	clergymen = {
@@ -373,55 +373,6 @@
 		size = 3075    
 	}
 
-	clergymen = {
-		culture = south_german
-		religion = catholic
-		size = 25  
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 75 
-	}
-
-	soldiers = {
-		culture = south_german
-		religion = catholic
-		size= 25
-
-	}
-
-	farmers = {
-		culture = south_german
-		religion = catholic
-		size = 875  
-	}
-
-	clergymen = {
-		culture = romanian
-		religion = orthodox
-		size = 125  
-	}
-
-	artisans = {
-		culture = romanian
-		religion = orthodox
-		size = 750 
-	}
-
-	soldiers = {
-		culture = romanian
-		religion = orthodox
-		size= 150
-
-	}
-
-	farmers = {
-		culture = romanian
-		religion = orthodox
-		size = 13975
-	}
 }
 #Galicia Region (2576000) #see Poland.txt for balance of region 
 #under the rule of Austria in 1836
@@ -616,7 +567,7 @@
 	farmers = {
 		culture = galician
 		religion = orthodox
-		size = 114200
+		size = 64200
 	}
 
 	aristocrats = {
@@ -1173,7 +1124,7 @@
 
 	}
 	farmers = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 30300
 	}
@@ -1460,13 +1411,13 @@ farmers = {
 #Cherkassy (460000/115000 POPS)
 961 = {
 	aristocrats = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 1600
 	}
 
 	clergymen = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 800
 	}
@@ -1485,7 +1436,7 @@ farmers = {
 	}
 
 	farmers = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 40250
 	}
@@ -1603,7 +1554,7 @@ farmers = {
 		size = 20000
 	}
 	farmers = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 22150
 	}
@@ -1666,7 +1617,7 @@ farmers = {
 #Poltava (1552000/388000 POPS)
 963 = {
 	aristocrats = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 4000
 	}
@@ -1697,7 +1648,7 @@ farmers = {
 
 
 	farmers = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 94100
 	}

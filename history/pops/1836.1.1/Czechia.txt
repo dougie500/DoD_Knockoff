@@ -17,7 +17,7 @@
   craftsmen = {
 		culture = czech
 		religion = catholic
-		size = 90000
+		size = 50000
 	}
   
   capitalists = {
@@ -73,7 +73,7 @@
 	farmers = {
 		culture = czech
 		religion = catholic
-		size = 310000
+		size = 140000
 	}
 
 	aristocrats = {
@@ -377,32 +377,32 @@
 #Pilsen (490400/122600 POPS)
 629 = {
 	clergymen = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 1200 
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size= 1500
 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 		religion = catholic
-		size = 103100 
+		size = 53100 
 	}
 
 	aristocrats = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 1600 
 	}
@@ -427,9 +427,9 @@
 	}
 
 	farmers = {
-		culture = south_german
+		culture = rheinish
 		religion = catholic
-		size = 18850   
+		size = 48850   
 	}
 
 	clergymen = {
@@ -479,13 +479,17 @@
 	}
 
 	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 53100 
+	}
+farmers = {
 		culture = czech
 		religion = catholic
-		size = 93100 
+		size = 40100 
 	}
-
 	aristocrats = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 1200 
 	}
@@ -596,7 +600,7 @@
 	farmers = {
 		culture = czech
 		religion = catholic
-		size = 153550 
+		size = 123550 
 	}
 
 	aristocrats = {
@@ -691,7 +695,7 @@
 	farmers = {
 		culture = czech
 		religion = catholic
-		size = 90700 
+		size = 70700 
 	}
 
 	aristocrats = {
@@ -788,9 +792,13 @@
 	farmers = {
 		culture = czech
 		religion = catholic
-		size = 65385 
+		size = 30385 
 	}
-
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 19385 
+	}
 	aristocrats = {
 		culture = czech
 		religion = catholic

@@ -938,52 +938,52 @@
 #Cochinoca (4000/1000 POPS)
 2370 = {
 	aristocrats = {
-		culture = quechua
-		religion = inti
+		culture = galician
+		religion = orthodox
 		size = 150
 	}
 
 	clergymen = {
-		culture = quechua
-		religion = inti
+		culture = galician
+		religion = orthodox
 		size = 125
 	}
 
 	soldiers = {
-		culture = quechua
-		religion = inti
+		culture = galician
+		religion = orthodox
 		size= 500
 
 	}
 
 	artisans = {
-		culture = quechua
-		religion = inti	
+		culture = galician
+		religion = orthodox
 		size = 1200
 	}
 
 	farmers = {
-		culture = quechua
-		religion = inti
+		culture = galician
+		religion = orthodox
 		size = 16400
 	}
 
 	clergymen = {
-		culture = aimara
-		religion = inti	
+		culture = galician
+		religion = orthodox
 		size = 250
 	}
 
 	artisans =  {
-		culture = aimara
-		religion = inti
+		culture = galician
+		religion = orthodox
 		size = 2300
 	}
 
 	farmers = {
-		culture = aimara
-		religion = inti
-		size = 23600
+		culture = galician
+		religion = orthodox
+		size = 63600
 	}
 }
 #Equia (4000/1000 POPS)

@@ -1,6 +1,6 @@
 capital = 2235
 primary_culture = burgundian
-culture = dutch
+culture = north_german
 culture = plantagenian 
 religion = protestant
 government = democracy

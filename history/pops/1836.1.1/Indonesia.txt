@@ -102,25 +102,25 @@
 	}
 
 	bureaucrats = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 10
 	}
 
 	clergymen = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 20
 	}
 
 	artisans = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 20
 	}
 
 	soldiers = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size= 50
 
@@ -918,13 +918,13 @@
 #Padang (240000/60000 POPS)
 1408 = {
 	aristocrats = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 100
 	}
 	
 	bureaucrats = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 100
 	}
@@ -1207,25 +1207,25 @@
 	}
 
 	bureaucrats = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 10
 	}
 
 	clergymen = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 20
 	}
 
 	artisans = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 20
 	}
 
 	soldiers = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size= 50
 
@@ -1336,31 +1336,31 @@
 	}
 
 	aristocrats = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 750
 	}
 
 	bureaucrats = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 1750
 	}
 
 	clergymen = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 1075
 	}
 
 	soldiers = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size= 3000
 
@@ -2031,13 +2031,13 @@
 #Banjarmasin (166000/44000 POPS)
 1423 = {
 	aristocrats = {
-		culture = burgundian
+		culture = wallonian
 		religion = protestant
 		size = 100
 	}
 	
 	bureaucrats = {
-		culture = burgundian
+		culture = wallonian
 		religion = protestant
 		size = 50
 	}
@@ -3306,13 +3306,13 @@
 #Kaupeng (24400/6100 POPS)
 1445 = {
 	aristocrats = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 50
 	}
 	
 	bureaucrats = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 20
 	}
@@ -3380,25 +3380,25 @@
 	}
 
 	bureaucrats = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 10
 	}
 
 	artisans = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 15
 	}
 
 	clergymen = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 25
 	}
 
 	soldiers = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size= 50
 
@@ -3669,25 +3669,25 @@
 	}
 
 	bureaucrats = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 10
 	}
 
 	artisans = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 15
 	}
 
 	clergymen = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 25
 	}
 
 	soldiers = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size= 50
 
@@ -3697,13 +3697,13 @@
 #Ternate (120000/30000 POPS)
 1447 = {
 	aristocrats = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 100
 	}
 	
 	bureaucrats = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 50
 	}
@@ -4057,13 +4057,13 @@
 #Biak (32000/8000 POPS)
 1452 = {
 	aristocrats = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 100
 	}
 	
 	bureaucrats = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 100
 	}

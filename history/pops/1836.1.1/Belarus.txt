@@ -259,7 +259,7 @@
 	farmers = {
 			culture = polish
 		religion = catholic
-		size = 45200
+		size = 43200
 	}
 
 	aristocrats = {
@@ -290,7 +290,7 @@
 	clergymen = {
 		culture = lithuanian
 		religion = orthodox
-		size = 150
+		size = 1150
 	}
 
 	artisans = {
@@ -302,7 +302,7 @@
 	soldiers = {
 		culture = lithuanian
 		religion = orthodox
-		size= 150
+		size= 1150
 
 	}
 

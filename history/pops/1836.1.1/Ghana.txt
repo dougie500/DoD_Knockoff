@@ -85,13 +85,13 @@
 #Sekondi (88000/22000 POPS) #Dutch Tradepost in 1836  
 1909 = {
 	aristocrats = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 50
 	}
 	
 	bureaucrats = {
-		culture = dutch
+		culture = north_german
 		religion = protestant
 		size = 20
 	}

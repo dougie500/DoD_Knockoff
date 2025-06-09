@@ -399,11 +399,15 @@
 		size= 1150
 
 	}
-
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 107275
+		size = 50275
+	}
+	farmers = {
+		culture = swiss
+		religion = catholic
+		size = 43275
 	}
 }
 #Brescia (708000/177000 POPS)
@@ -785,99 +789,99 @@
 #Trieste (112000/28000 POPS)
 736 = {
 	aristocrats = {
-		culture = venetian
+		culture = south_german
 		religion = catholic
 		size = 425
 	}
 
 	bureaucrats = {
-		culture = venetian
+		culture = south_german
 		religion = catholic
 		size = 200
 	}
 
 	officers = {
-		culture = venetian
+		culture = south_german
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = south_german
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = venetian
+		culture = south_german
 		religion = catholic
 		size = 10000
 	}
 	
 	artisans = {
-		culture = venetian
+		culture = south_german
 		religion = catholic
 		size = 3500
 	}
 
 	soldiers = {
-		culture = venetian
+		culture = south_german
 		religion = catholic
-		size= 175
+		size= 2175
 
 	}
 
 	farmers = {
-		culture = venetian
+		culture = south_german
 		religion = catholic
 		size = 4375
 	}
 
 	clergymen = {
-		culture = slovene
+		culture = south_german
 		religion = catholic
 		size = 100
 	} 
 
 	craftsmen = {
-		culture = venetian
+		culture = south_german
 		religion = catholic
-		size = 20000
+		size = 40000
 	}
   
   capitalists = {
-		culture = venetian
+		culture = south_german
 		religion = catholic
 		size = 400
 	}
   
   clerks = {
-		culture = venetian
+		culture = south_german
 		religion = catholic
 		size = 4000
 	}
 
 	craftsmen = {
-		culture = slovene
+		culture = south_german
 		religion = catholic
 		size = 10000
 	}
   
 	artisans = {
-		culture = slovene
+		culture = south_german
 		religion = catholic
 		size = 4500
 	}
 
 	soldiers = {
-		culture = slovene
+		culture = south_german
 		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
-		culture = slovene
+		culture = south_german
 		religion = catholic
 		size = 4300
 	}
@@ -2427,7 +2431,11 @@
 		religion = catholic
 		size = 300
 	}
-
+	farmers = {
+		culture = swiss
+		religion = catholic
+		size = 17000
+	}
 	farmers = {
 		culture = north_italian
 		religion = catholic

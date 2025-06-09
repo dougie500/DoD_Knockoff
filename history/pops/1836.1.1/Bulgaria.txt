@@ -693,75 +693,75 @@
 #Silistre (84000/21000 POPS) #now part of Bulgaria  
 818 = {
 	clergymen = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 50 
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 450
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 9250
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size= 250
 
 	}
 	
 	clergymen = {
-		culture = romanian
+		culture = tatar
 		religion = orthodox
 		size = 75 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = tatar
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = romanian
+		culture = tatar
 		religion = orthodox
 		size = 4725 
 	}
 
 	aristocrats = {
-		culture = greek
+		culture = tatar
 		religion = sunni
 		size = 400 
 	}
 
 	clergymen = {
-		culture = greek
+		culture = tatar
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = greek
+		culture = tatar
 		religion = sunni
 		size = 450
 	}
 
 	soldiers = {
-		culture = greek
+		culture = tatar
 		religion = sunni
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = greek
+		culture = tatar
 		religion = sunni
 		size = 4100  
 	}

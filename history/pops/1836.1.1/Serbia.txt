@@ -148,50 +148,50 @@
 	}	
 
 	aristocrats = {
-		culture = hungarian
+		culture = romanian
 		religion = catholic
 		size = 600  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = romanian
 		religion = catholic
 		size = 100  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = romanian
 		religion = catholic
 		size = 500  
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = romanian
 		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = romanian
 		religion = catholic
 		size = 5220 
 	}
 	
 	serfs = {
-		culture = hungarian
+		culture = romanian
 		religion = catholic
 		size = 3480 
 	}	
 
 	farmers = {
-		culture = hungarian
+		culture = romanian
 		religion = sunni
 		size = 750 
 	}
 	
 	serfs = {
-		culture = hungarian
+		culture = romanian
 		religion = sunni
 		size = 600 
 	}
@@ -328,50 +328,50 @@
 	}	
 
 	aristocrats = {
-		culture = hungarian
+		culture = romanian
 		religion = catholic
 		size = 1400  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = romanian
 		religion = catholic
 		size = 300  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = romanian
 		religion = catholic
 		size = 1500  
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = romanian
 		religion = catholic
 		size= 300
 
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = romanian
 		religion = catholic
 		size = 14000 
 	}
 	
 	serfs = {
-		culture = hungarian
+		culture = romanian
 		religion = catholic
 		size = 10000 
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = romanian
 		religion = sunni
 		size = 3750 
 	}
 	
 	serfs = {
-		culture = hungarian
+		culture = romanian
 		religion = sunni
 		size = 1600 
 	}	
@@ -408,32 +408,32 @@
 	}	
 
 	clergymen = {
-		culture = slovak
+		culture = czech
 		religion = catholic
 		size = 75 
 	}
 
 	artisans = {
-		culture = slovak
+		culture = czech
 		religion = catholic
 		size = 450 
 	}
 
 	soldiers = {
-		culture = slovak
+		culture = czech
 		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
-		culture = slovak
+		culture = czech
 		religion = catholic
 		size = 5625 
 	}
 	
 	serfs = {
-		culture = slovak
+		culture = czech
 		religion = catholic
 		size = 3750 
 	}	

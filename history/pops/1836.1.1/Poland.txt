@@ -489,54 +489,37 @@
 #Oppeln (492000/123000 POPS) 
 684 = {
 	aristocrats = {
-		culture = czech
+		culture = polish
 		religion = catholic
 		size = 2000
 	}
 
 	clergymen = {
-		culture = czech
+		culture = polish
 		religion = catholic
 		size = 325 
 	}
 
 	artisans = {
-		culture = czech
+		culture = polish
 		religion = catholic
 		size = 1900 
 	}
 
 	soldiers = {
-		culture = czech
+		culture = polish
 		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = czech
+		culture = polish
 		religion = catholic
-		size = 52775  
+		size = 22775  
 	}
 
-	clergymen = {
-		culture = south_german
-		religion = catholic
-		size = 125
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 750
-	}
-
-	soldiers = {
-		culture = south_german
-		religion = catholic
-		size= 1000
-
-	}
+	
 
 	farmers = {
 		culture = polish
@@ -570,13 +553,13 @@
 	}
 
 	clergymen = {
-		culture = czech
+		culture = polish
 		religion = catholic
 		size = 625
 	}
 
 	artisans = {
-		culture = czech
+		culture = polish
 		religion = catholic
 		size = 3200
 	}
@@ -589,9 +572,9 @@
 	}
 
 	farmers = {
-		culture = czech
+		culture = polish
 		religion = catholic
-		size = 40375 
+		size = 30375 
 	}
 }
 #Kattowitz (452000/113000 POPS) 
@@ -624,7 +607,7 @@
 	farmers = {
 		culture = czech
 		religion = catholic
-		size = 47575  
+		size = 42575  
 	}
 
 	clergymen = {
@@ -649,7 +632,7 @@
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 25000 
+		size = 35000 
 	}
 
 	clergymen = {
@@ -671,11 +654,6 @@
 
 	}
 
-	farmers = {
-		culture = czech
-		religion = catholic
-		size = 35000
-	}
 }
 #under the rule of Austria in 1836  
 #Bielsko (204000/52000 POPS) #now part of Poland
@@ -1680,7 +1658,7 @@
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 86500 
+		size = 46500 
 	}
 
 	clergymen = {
@@ -3124,7 +3102,7 @@ farmers = {
 	}
 
 	farmers = {
-		culture = astrakhani
+		culture = tatar
 		religion = sunni
 		size = 4000
 	}
