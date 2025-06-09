@@ -269,31 +269,31 @@
 #Geneva (316000/79000 POPS)
 607 = {
 	aristocrats = {
-		culture = wallonian
+		culture = swiss
 		religion = protestant
 		size = 500
 	}
 
 	bureaucrats = {
-		culture = wallonian
+		culture = swiss
 		religion = protestant
 		size = 200
 	}
 
 	officers = {
-		culture = wallonian
+		culture = swiss
 		religion = protestant
 		size = 110
 	}
 
 	clergymen = {
-		culture = wallonian
+		culture = swiss
 		religion = protestant
 		size = 650
 	}
 
 	artisans = {
-		culture = wallonian
+		culture = swiss
 		religion = protestant
 		size = 7000
 	}

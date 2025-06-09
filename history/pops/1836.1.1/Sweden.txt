@@ -225,7 +225,7 @@
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 10000
+		size = 5000
 	}
 	
 	artisans = {
@@ -250,7 +250,7 @@
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 3000
+		size = 1000
 
 	}
 
@@ -263,7 +263,7 @@
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 65250
+		size = 45250
 	}
 }
 #Falun (144000/36000 POPS)

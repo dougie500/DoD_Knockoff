@@ -212,26 +212,26 @@
 #Kotor (64000/16000 POPS) 
 2582 = {
 	clergymen = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 4650
 	}
@@ -268,37 +268,37 @@
 	}
 	
 	aristocrats = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size = 50
 	}
 	
 	officers = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size = 100
 	}

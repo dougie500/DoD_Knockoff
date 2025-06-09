@@ -3,44 +3,44 @@
 #Nicosia (64000/16000 POPS)
 855 = {
 	aristocrats = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size = 275
 	}
 
 	bureaucrats = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size = 50
 	}
 
 	officers = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size= 175
 
 	}
 
 	farmers = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size = 2875
 	}
@@ -66,32 +66,32 @@
 #Limassol (44000/11000 POPS)
 856 = {
 	aristocrats = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size = 1350
 	}
@@ -117,32 +117,32 @@
 #Famagusta (44000/11000 POPS)
 857 = {
 	aristocrats = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
-		culture = venetian
+		culture = north_italian
 		religion = catholic
 		size = 2500
 	}

@@ -3,37 +3,37 @@
 #Sarajevo (148000/37000 POPS)
 783 = {
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 105
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 1075
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 6116
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 791
     }
 	
     officers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 19
     }
 
     bureaucrats = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 20
     }
@@ -126,19 +126,19 @@
     }
 
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 76
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 312
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 5764
     }
@@ -164,19 +164,19 @@
 #Banja Luka (116000/29000 POPS)
 785 = {
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 7
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 120
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 652
     }
@@ -200,19 +200,19 @@
     }
 
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 4153
     }
@@ -238,19 +238,19 @@
 #Tuzla (168000/42000 POPS)
 786 = {
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 26
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 172
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 2179
     }
@@ -274,19 +274,19 @@
     }
 
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 5143
     }
@@ -312,19 +312,19 @@
 #Foca (92000/23000 POPS)
 787 = {
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 11
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 90
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 859
     }
@@ -368,55 +368,55 @@
 #Mostar (104000/26000 POPS)
 788 = {
     aristocrats = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 517
     }
 
     clergymen = {
-        culture = croat
+        culture = serb
         religion = catholic
-        size = 7
+        size = 117
     }
 
     artisans = {
-        culture = croat
+        culture = serb
         religion = catholic
-        size = 90
+        size = 190
     }
 
     soldiers = {
-        culture = croat
+        culture = serb
         religion = catholic
-        size = 139
+        size = 1139
     }
 
     farmers = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 547
     }
 
     clergymen = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 125
     }
 
     artisans = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = croat
+        culture = serb
         religion = catholic
-        size = 15813
+        size = 25813
     }
 
     soldiers = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 1615
     }
@@ -454,7 +454,7 @@
     artisans = {
         culture = serb
         religion = sunni
-        size = 510
+        size = 2510
     }
 
     soldiers = {
@@ -472,39 +472,39 @@
 #Livno (136000/34000 POPS)
 789 = {
     clergymen = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 4
     }
 
     artisans = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 37
     }
 
     farmers = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 150
     }
 
     clergymen = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 125
     }
 
     artisans = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 800
     }
 
     farmers = {
-        culture = croat
+        culture = serb
         religion = catholic
-        size = 17183
+        size = 37183
     }
 
     clergymen = {

@@ -437,62 +437,62 @@
 #Masvingo (72000/18000 POPS) 
 2073 = {
 	aristocrats = {
-		culture = zulu
-		religion = animist
-		size = 25
+		culture = provencal
+		religion = protestant
+		size = 125
 	}
 
 	clergymen = {
-		culture = zulu
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = zulu
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = zulu
-		religion = animist
-		size = 1800
-	}
-
-	aristocrats = {
-		culture = zulu
-		religion = animist
-		size = 300
-	}
-
-	clergymen = {
-		culture = zulu
-		religion = animist
+		culture = provencal
+		religion = protestant
 		size = 150
 	}
 
 	artisans = {
-		culture = zulu
-		religion = animist
+		culture = provencal
+		religion = protestant
+		size = 1100
+	}
+
+	soldiers = {
+		culture = provencal
+		religion = protestant
+		size = 215
+	}
+
+	farmers = {
+		culture = provencal
+		religion = protestant
+		size = 25800
+	}
+
+	aristocrats = {
+		culture = provencal
+		religion = protestant
+		size = 300
+	}
+
+	clergymen = {
+		culture = provencal
+		religion = protestant
+		size = 150
+	}
+
+	artisans = {
+		culture = provencal
+		religion = protestant
 		size = 800
 	}
 
 	soldiers = {
-		culture = zulu
-		religion = animist
+		culture = provencal
+		religion = protestant
 		size = 175
 	}
 
 	farmers = {
-		culture = zulu
-		religion = animist
+		culture = north_italian
+		religion = protestant
 		size = 14575
 	}
 

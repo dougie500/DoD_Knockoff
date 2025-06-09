@@ -330,7 +330,7 @@
 	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 38050
+		size = 48050
 	}
 
 	clergymen = {
@@ -342,7 +342,7 @@
 	farmers = {
 		culture = scandinavian
 		religion = protestant
-		size = 15000
+		size = 26000
 	}
 }
 #Lunenburg (180000/45000 POPS)
@@ -401,7 +401,12 @@
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 400
+		size = 20400
+	}
+	farmers = {
+		culture = scandinavian
+		religion = protestant
+		size = 10000
 	}
 
 }
@@ -449,7 +454,7 @@
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 13395 
+		size = 23395 
 	}
 
 	clergymen = {
@@ -467,7 +472,7 @@
 	farmers = {
 		culture = scandinavian
 		religion = protestant
-		size = 21200 
+		size = 31200 
 	}
 }
 #under the Rule of Mecklenburg 1836 
@@ -959,14 +964,14 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size= 1000
+		size= 2000
 
 	}
 
 	farmers = {
-		culture = north_german
+		culture = scandinavian
 		religion = catholic
-		size = 3225
+		size = 19225
 	}
 
 	clergymen = {
@@ -978,7 +983,7 @@
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 2975
+		size = 32975
 	}
 }
 #under the rule of Oldenburg 1836 
@@ -1027,6 +1032,11 @@
 		size = 38800
 	}
 
+	farmers = {
+		culture = scandinavian
+		religion = protestant
+		size = 22800
+	}
 	clergymen = {
 		culture = north_german
 		religion = catholic
@@ -1295,10 +1305,10 @@
 		religion = protestant
 		size = 17250
 	}
-farmers = {
+	farmers = {
 		culture = estonian
 		religion = protestant
-		size = 20250
+		size = 22250
 	}
 	clergymen = {
 		culture = north_german

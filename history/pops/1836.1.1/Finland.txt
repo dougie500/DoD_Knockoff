@@ -547,37 +547,37 @@
 #Aland Islands (11000 POPS)
 348 = {
     clergymen = {
-        culture = finnish
+        culture = swedish
         religion = protestant
         size = 70
     }
 
     artisans = {
-        culture = finnish
+        culture = swedish
         religion = protestant
         size = 150
     }
 
     farmers = {
-        culture = finnish
+        culture = swedish
         religion = protestant
-        size = 2223
+        size = 22223
     }
 
     clergymen = {
-        culture = finnish
+        culture = swedish
         religion = protestant
         size = 10
     }
 
     artisans = {
-        culture = finnish
+        culture = swedish
         religion = protestant
-        size = 10
+        size = 2000
     }
 
     farmers = {
-        culture = finnish
+        culture = swedish
         religion = protestant
         size = 4121
     }

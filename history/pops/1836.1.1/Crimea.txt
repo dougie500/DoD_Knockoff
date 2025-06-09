@@ -312,7 +312,7 @@
 	}
 	
 	farmers = {
-		culture = venetian
+		culture = north_italian
 	religion = orthodox
 		size = 50500
 	}
@@ -320,25 +320,25 @@
 #Sevastopol (60000/15000 POPS)
 967 = {
 	aristocrats = {
-		culture = venetian
+		culture = north_italian
 		religion = orthodox
 		size = 750
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = north_italian
 		religion = orthodox
 		size = 300
 	}
 
 	artisans = {
-		culture = venetian
+		culture = north_italian
 		religion = orthodox
 		size = 525
 	}
 
 	soldiers = {
-	culture = venetian
+	culture = north_italian
 	religion = orthodox
 		size= 3800
 
@@ -350,7 +350,7 @@
 		size = 17000
 	}
    farmers = {
-		culture = venetian
+		culture = north_italian
 	    religion = orthodox
 		size = 17000
 	}

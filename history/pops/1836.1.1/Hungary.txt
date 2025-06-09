@@ -122,48 +122,13 @@
 }
 #Zalaegerszeg (860000/215000 POPS) #part of Hungary today
 639 = {
-	aristocrats = {
-		culture = south_german
-		religion = catholic
-		size = 450 
-	}
 
-	clergymen = {
-		culture = south_german
-		religion = catholic
-		size = 300 
-	}
-
-	bureaucrats = {
-		culture = south_german
-		religion = catholic
-		size = 400 
-	}
-	
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 1500
-	}
-
-	soldiers = {
-		culture = south_german
-		religion = catholic
-		size= 1100
-
-	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
 		size = 16744 
 	}
-	
-	serfs = {
-		culture = south_german
-		religion = catholic
-		size = 10706 
-	}	
 
 	aristocrats = {
 		culture = romanian
@@ -254,12 +219,6 @@
 		size = 17735  
 	}
 	
-	serfs = {
-		culture = romanian
-		religion = protestant
-		size = 11340  
-	}	
-
 	clergymen = {
 		culture = romanian
 		religion = jewish
@@ -291,79 +250,8 @@
 		size = 1200   
 	}	
 
-	clergymen = {
-		culture = slovene
-		religion = catholic
-		size = 150 
-	}
-
-	artisans = {
-		culture = slovene
-		religion = catholic
-		size = 750
-	}
-
-	soldiers = {
-		culture = slovene
-		religion = catholic
-		size= 150
-
-	}
-
-	farmers = {
-		culture = slovene
-		religion = catholic
-		size = 8510 
-	}
 	
-	serfs = {
-		culture = slovene
-		religion = catholic
-		size = 5440 
-	}	
-
-	clergymen = {
-		culture = croat
-		religion = catholic
-		size = 50 
-	}
-
-	artisans = {
-		culture = croat
-		religion = catholic
-		size = 350
-	}
-
-	soldiers = {
-		culture = croat
-		religion = catholic
-		size= 75
-
-	}
-
-	farmers = {
-		culture = croat
-		religion = catholic
-		size = 3980 
-	}
 	
-	serfs = {
-		culture = croat
-		religion = catholic
-		size = 2545 
-	}
-
-	farmers = {
-		culture = south_german
-		religion = sunni
-		size = 5000 
-	}
-	
-	serfs = {
-		culture = south_german
-		religion = sunni
-		size = 3500 
-	}	
 }
 #Baranya Region (232000) #see Croatia.txt for balance of Region
 #under the rule of Austria in 1836  
@@ -500,38 +388,38 @@
 	}	
 
 	officers = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 15 
 	}
 
 	clergymen = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 400 
 	}
 
 	soldiers = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size= 75
 
 	}
 
 	farmers = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 4461 
 	}
 	
 	serfs = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 2974 
 	}

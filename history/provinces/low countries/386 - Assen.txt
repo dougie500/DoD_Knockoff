@@ -1,5 +1,5 @@
-owner = NET
-controller = NET
-add_core = NET
+owner = DEN
+controller =DEN
+add_core = DEN
 trade_goods = wool
 life_rating = 37

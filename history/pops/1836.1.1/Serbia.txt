@@ -34,32 +34,32 @@
 	}	
 
 	clergymen = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 75  
 	}
 
 	artisans = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 200 
 	}
 
 	soldiers = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 2205  
 	}
 	
 	serfs = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 1470  
 	}	
@@ -377,32 +377,32 @@
 	}	
 
 	clergymen = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 75  
 	}
 
 	artisans = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 250 
 	}
 
 	soldiers = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 2775  
 	}
 	
 	serfs = {
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size = 1850  
 	}	

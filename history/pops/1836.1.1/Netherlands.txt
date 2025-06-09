@@ -22,14 +22,9 @@
 	aristocrats = {
 		culture = north_german
 		religion = protestant
-		size = 2500
+		size = 1500
 	}
 
-	aristocrats = {
-		culture = wallonian
-		religion = protestant
-		size = 1050
-	}
 
 	officers = {
 		culture = north_german
@@ -70,13 +65,13 @@
 	artisans = {
 		culture = north_german
 		religion = protestant
-		size = 10000
+		size = 5000
 	}
 	
 	artisans = {
 		culture = north_german
 		religion = protestant
-		size = 10000
+		size = 5000
 	}
 
 	artisans = {
@@ -94,7 +89,7 @@
 	clerks = {
 		culture = north_german
 		religion = protestant
-		size = 7000
+		size = 1000
 	}
 
 	craftsmen = {
@@ -103,30 +98,20 @@
 		size = 53000
 	}
 
-	craftsmen = {
-		culture = wallonian
-		religion = protestant
-		size = 9325
-	}
 
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size= 6000
+		size= 3000
 
 	}
 
 	soldiers = {
 		culture = wallonian
 		religion = protestant
-		size = 3000
+		size = 1000
 	}
 
-	farmers = {
-		culture = north_german
-		religion = protestant
-		size = 61300
-	}
 }
 #Rotterdam (567000/141750 POPS)
 376 = {
@@ -163,14 +148,14 @@
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size= 3000
+		size= 2000
 
 	}
 
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 108125
+		size = 68125
 	}
 
 	artisans = {
@@ -230,16 +215,12 @@
 
 	}
 
-	soldiers = {
-		culture = wallonian
-		religion = protestant
-		size = 3000
-	}
+	
 
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 78525
+		size = 38525
 	}
 
 	farmers = {
@@ -476,7 +457,7 @@
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 96350
+		size = 46350
 	}
 
 	clergymen = {
