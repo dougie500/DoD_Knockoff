@@ -578,13 +578,13 @@
 	}
 
 	officers = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 350
 	}
 
 	clergymen = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 375
 	}
@@ -596,13 +596,13 @@
 	}
 
 	craftsmen = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 4100
 	}
 
 	artisans = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 6300
 	}
@@ -614,13 +614,13 @@
 	}
 
 	soldiers = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 1500
 	}
 	
 	labourers = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 88000
 	}
@@ -646,7 +646,7 @@
 #Cardigan (168000/42000 POPS)
 274 = {
 	aristocrats = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 250
 	}
@@ -658,19 +658,19 @@
 	}
 	
 	clergymen = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 30625
 	}
@@ -684,7 +684,7 @@
 #Llandrindod (182000/45500 POPS)
 275 = {
 	aristocrats = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 450
 	}
@@ -696,19 +696,19 @@
 	}
 	
 	clergymen = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 2250
 	}
 
 	farmers = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 42250
 	}
@@ -716,37 +716,37 @@
 #Holyhead (240000/60000 POPS)
 276 = {
 	aristocrats = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 250
 	}
 
 	clerks = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 150
 	}
 
 	craftsmen = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 3000
 	}
 
 	artisans = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 3100
 	}
 
 	farmers = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 52500
 	}
@@ -1352,13 +1352,13 @@
 #Shrewsbury (316000/79000 POPS)
 286 = {
 	aristocrats = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 375
 	}
@@ -1370,7 +1370,7 @@
 	}
 
 	labourers = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 40875
 	}
@@ -1879,7 +1879,7 @@
 	}
 	
 	labourers = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 20000
 	}
@@ -1945,31 +1945,31 @@
 #Bath (408000/102000 POPS)
 298 = {
 	aristocrats = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 1750
 	}
 
 	clergymen = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 1625
 	}
 
 	artisans = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 5000
 	}
 
 	craftsmen = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 12000
 	}
 
 	labourers = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 37625
 	}
@@ -2009,23 +2009,23 @@
 	labourers = {
 		culture = anglois
 		religion = catholic
-		size = 56250
+		size = 58250
 	}
 
 	farmers = {
-		culture = english
+		culture = irish
 		religion = catholic
-		size = 31100
+		size = 29100
 	}
 
 	farmers = {
-		culture = english
+		culture = irish
 		religion = protestant
 		size = 20000
 	}
 	
 	farmers = {
-		culture = welsh
+		culture = irish
 		religion = catholic
 		size = 81100
 	}

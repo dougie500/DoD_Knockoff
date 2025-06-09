@@ -493,7 +493,7 @@
 	}
 
 	slaves = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 500
 	}
@@ -1957,7 +1957,7 @@
 	}
 
 	slaves = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 1000
 	}
@@ -2300,7 +2300,7 @@
 	}
 
 	farmers = {
-		culture = astrakhani
+		culture = tatar
 		religion = sunni
 		size = 4650
 	}
@@ -2375,7 +2375,7 @@
 	}
 
 	farmers = {
-		culture = astrakhani
+		culture = tatar
 		religion = sunni
 		size = 2500
 	}
@@ -2451,7 +2451,7 @@
 	}
 
 	farmers = {
-		culture = astrakhani
+		culture = tatar
 		religion = sunni
 		size = 2200
 	}
@@ -2707,13 +2707,13 @@
 	}
 
 	clergymen = {
-		culture = astrakhani
+		culture = tatar
 		religion = sunni
 		size = 30
 	}
 
 	farmers = {
-		culture = astrakhani
+		culture = tatar
 		religion = sunni
 		size = 800
 	}

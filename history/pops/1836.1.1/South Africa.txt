@@ -47,37 +47,37 @@
     }
 
     aristocrats = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 20
     }
 
     clergymen = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 43
     }
 
     bureaucrats = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 90
     }
 
     artisans = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 1050
     }
 
     soldiers = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 4618
     }
@@ -211,19 +211,19 @@
     }
 
     clergymen = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 28
     }
 
     artisans = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 300
     }
 
     farmers = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 1225
     }
@@ -309,19 +309,19 @@
     }
 
     clergymen = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 19
     }
 
     artisans = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 280
     }
 
     farmers = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 1405
     }
@@ -395,31 +395,31 @@
 #Mossel Bay (34700/8675 POPS)
 2091 = {
     clergymen = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 27
     }
 
     artisans = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 150
     }
 
     officers = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 70
     }
 
     bureaucrats = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 2012
     }
@@ -583,25 +583,25 @@
 #Beaufort (34600/8650 POPS)
 2092 = {
     clergymen = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 12
     }
 
     artisans = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 105
     }
 
     soldiers = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 350
     }
 
     farmers = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 967
     }
@@ -933,19 +933,19 @@
 #Port Elizabeth (44000/11000 POPS)
 2096 = {
     clergymen = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 28
     }
 
     artisans = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 360
     }
 
     farmers = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 9200
     }

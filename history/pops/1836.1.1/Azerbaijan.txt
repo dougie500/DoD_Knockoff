@@ -348,19 +348,19 @@
 	}
 	
 	aristocrats = {
-		culture = astrakhani
+		culture = tatar
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = astrakhani
+		culture = tatar
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = astrakhani
+		culture = tatar
 		religion = sunni
 		size = 4000
 	}
@@ -569,25 +569,25 @@
 	}
 
 	farmers = {
-		culture = astrakhani
+		culture = tatar
 		religion = sunni
 		size = 4600
 	}
 	
 	clergymen = {
-		culture = astrakhani
+		culture = tatar
 		religion = shiite
 		size = 200
 	}
 
 	artisans = {
-		culture = astrakhani
+		culture = tatar
 		religion = shiite
 		size = 650
 	}
 
 	farmers = {
-		culture = astrakhani
+		culture = tatar
 		religion = shiite
 		size = 1000
 	}

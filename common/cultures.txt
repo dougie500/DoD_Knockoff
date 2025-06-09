@@ -200,7 +200,7 @@ beneluxian = {
 		Orban Pétillon Picquet Pirmez Pirson Raikem Roeser Rogier Rouen Rouppe Seron Thonus Thorn "van Snick" Wahis Wangermée Wyvekens Zoude }
 	}
 	burgundian = { 
-		color = { 190 90 20}
+		color = { 128 0 32}
 		first_names = { Albert Alexandre Alexis Alphonse André Antoine Auguste Barthélémy Baudouin Blaise Camille Clément Charles Constant 
 		Damien David Désiré Didier Edmond Édouard Emmanuel Émile Etienne Eugène Félix Fernand Feullien Florent François Frédéric Georges 
 		Gérard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore Jacques Jean Jean-Baptiste Jean-François Jean-Louis 
@@ -1441,8 +1441,8 @@ tatar_group = {
 	is_overseas = no
 	unit = ChineseGC
 	union = TAR
-	tatar = {
-		color = {96 65 144}
+	tatar = { 
+		color = {97 115 155}
 		first_names = {
 			Asaf Baqi Galiaskar Ismail Makhmut  Musa Rustam Yusuf
 		}
@@ -1460,7 +1460,7 @@ tatar_group = {
 		}
 	}
 	astrakhani = {
-		color = {97 115 155}
+		color = {96 65 144}
 		first_names = {
 			Asaf Baqi Galiaskar Ismail Makhmut  Musa Rustam Yusuf
 		}

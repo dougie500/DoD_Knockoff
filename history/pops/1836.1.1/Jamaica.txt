@@ -3,31 +3,31 @@
 #Jamaica (372000/93000 POPS)
 2217 = {
 	aristocrats = {
-		culture = burgundian
+		culture = wallonian
 		religion = protestant
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = burgundian
+		culture = wallonian
 		religion = protestant
 		size = 85
 	}
 
 	clergymen = {
-		culture = burgundian
+		culture = wallonian
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = wallonian
 		religion = protestant
 		size = 2550
 	}
 
 	farmers = {
-		culture = burgundian
+		culture = wallonian
 		religion = protestant
 		size = 2190
 	}

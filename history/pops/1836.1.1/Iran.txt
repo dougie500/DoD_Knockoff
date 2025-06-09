@@ -576,7 +576,7 @@
 	}	
 	
 	slaves = {
-		culture = astrakhani
+		culture = tatar
 		religion = coptic
 		size = 5000
 	}

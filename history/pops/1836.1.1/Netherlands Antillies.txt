@@ -3,20 +3,20 @@
 #Curacao (12300/3100 POPS)
 2234 = {
 	bureaucrats = {
-		culture = burgundian
+		culture = wallonian
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = burgundian
+		culture = wallonian
 		religion = protestant
 		size= 25
 
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = wallonian
 		religion = protestant
 		size = 70
 	}

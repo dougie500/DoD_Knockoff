@@ -61,13 +61,13 @@
 #Tristan da Cunha (100/25 POPS)
 2132 = {
     soldiers = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 10
     }
 
     farmers = {
-        culture = burgundian
+        culture = wallonian
         religion = protestant
         size = 25
     }

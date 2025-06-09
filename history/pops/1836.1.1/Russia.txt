@@ -329,7 +329,7 @@
 	
 
 	serfs = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 24640
 	}	
@@ -409,7 +409,7 @@
 
 	}
 	farmers = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 20650
 	}
@@ -422,13 +422,13 @@
 #Belgorod (748000/187000 POPS)
 1018 = {
 	aristocrats = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 2500
 	}
 
 	clergymen = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 375
 	}
@@ -447,13 +447,13 @@
 	}
 
 	farmers = {
-	culture = astrakhani
+	culture = tatar
 		religion = orthodox
 		size = 58790
 	}
 
 	serfs = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 18185
 	}	
@@ -498,25 +498,25 @@
 #Voronets (1540000/385000 POPS)
 1019 = {
 	aristocrats = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 4000
 	}
 
 	clergymen = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 485
 	}
 
 	artisans = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 12400
 	}
 
 	farmers = {
-		culture = astrakhani
+		culture = tatar
 		religion = orthodox
 		size = 84100
 	}

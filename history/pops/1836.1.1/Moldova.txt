@@ -50,7 +50,7 @@
         size = 25750
     }
     farmers = {
-        culture = astrakhani
+        culture = tatar
         religion = orthodox
         size = 31000
     }
@@ -124,7 +124,7 @@
     }
 
     farmers = {
-        culture = astrakhani
+        culture = tatar
         religion = orthodox
         size = 52675
     }

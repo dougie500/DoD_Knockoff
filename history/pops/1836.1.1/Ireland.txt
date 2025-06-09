@@ -3,43 +3,43 @@
 #Belfast (540000/135000 POPs)
 254 = {
 	aristocrats = {
-		culture = scottish
+		culture = anglois
 		religion = catholic
 		size = 1100
 	}
 	
 	officers = {
-		culture = scottish
+		culture = anglois
 		religion = catholic
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = scottish
+		culture = anglois
 		religion = catholic
 		size = 1125
 	}
 
 	capitalists = {
-		culture = scottish
+		culture = anglois
 		religion = catholic
 		size = 200
 	}
 	
 	clergymen = {
-		culture = scottish
+		culture = anglois
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = scottish
+		culture = anglois
 		religion = catholic
 		size = 3000
 	}
 
 	artisans = {
-		culture = scottish
+		culture = anglois
 		religion = catholic
 		size = 12000
 	}
@@ -47,12 +47,12 @@
 	farmers = {
 		culture = irish
 		religion = catholic
-		size = 52287
+		size = 62287
 	}
 	farmers = {
-		culture = scottish
+		culture = anglois
 		religion = catholic
-		size = 62287
+		size = 52287
 	}
 }
 #Londonderry (524000/131000 POPS)
