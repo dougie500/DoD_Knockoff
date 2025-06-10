@@ -449,7 +449,7 @@
 	farmers = {
 	culture = tatar
 		religion = orthodox
-		size = 58790
+		size = 44790
 	}
 
 	serfs = {
@@ -2064,12 +2064,12 @@ farmers = {
 	farmers = {
 		culture = russian
 		religion = orthodox
-		size = 100000
+		size = 80000
 	}
 	farmers = {
 		culture = finnish
 		religion = protestant
-		size = 80000
+		size = 60000
 	}
 	serfs = {
 		culture = finnish
@@ -2253,14 +2253,14 @@ clergymen = {
 	}
 
 	farmers = {
-		culture = russian
+		culture = finnish
 		religion = orthodox
-		size = 50000
+		size = 20000
 	}
 	farmers = {
 		culture = russian
-		religion = protestant
-		size = 60000
+		religion = orthodox
+		size = 50000
 	}
 	clergymen = {
 		culture = estonian
@@ -2591,7 +2591,7 @@ clergymen = {
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 3000
+		size= 2000
 
 	}
 	
@@ -2603,7 +2603,7 @@ clergymen = {
 	serfs = {
 		culture = russian
 		religion = orthodox
-		size = 164725
+		size = 124725
 	}
 }
 #Riazan (1192000/298000 POPS)
@@ -2646,7 +2646,7 @@ clergymen = {
 	serfs = {
 		culture = russian
 		religion = orthodox
-		size = 73000
+		size = 43000
 	}
 	craftsmen = {
 		culture = russian
@@ -2741,7 +2741,7 @@ clergymen = {
 	farmers = {
 		culture = tatar
 		religion = orthodox
-		size = 54975
+		size = 24975
 	}
 
 	clergymen = {
@@ -2851,12 +2851,6 @@ clergymen = {
 
 	}
 
-	farmers = {
-		culture = tatar
-		religion = orthodox
-		size = 17050
-	}
-
 	artisans = {
 		culture = tatar
 		religion = sunni
@@ -2879,7 +2873,7 @@ clergymen = {
 	farmers = {
 		culture = tatar
 		religion = orthodox
-		size = 117700
+		size = 107700
 	}
 	
 }
@@ -3203,7 +3197,7 @@ clergymen = {
 	serfs = {
 		culture = tatar
 		religion = orthodox
-		size = 40655
+		size = 24655
 	}	
 	
 }
@@ -3249,13 +3243,7 @@ clergymen = {
 	serfs = {
 		culture = tatar
 		religion = orthodox
-		size = 20900
-	}
-
-	serfs = {
-		culture = tatar
-		religion = orthodox
-		size = 15000
+		size = 11000
 	}
 	
 	artisans = {
@@ -3731,11 +3719,6 @@ clergymen = {
 
 	}
 
-	farmers = {
-		culture = tatar
-		religion = orthodox
-		size = 22700
-	}
 	
 	clergymen = {
 		culture = tatar
@@ -4054,13 +4037,13 @@ clergymen = {
 	farmers = {
 		culture = tatar
 		religion = sunni
-		size = 111225
+		size = 99000
 	}
 
 	farmers = {
 		culture = russian
 		religion = orthodox
-		size = 20000
+		size = 10000
 	}
 
 	soldiers = {

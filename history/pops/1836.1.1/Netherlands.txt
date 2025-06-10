@@ -278,9 +278,13 @@
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 56400
+		size = 36400
 	}
-
+	farmers = {	
+		culture = wallonian
+		religion = protestant
+		size = 20400
+	}
 }
 #Limburg-Gelderland Region - 979400
 #Eindhoven (230000/57500 POPS)
@@ -371,11 +375,15 @@
 		size= 3000
 
 	}
-
+	labourers = {
+		culture = wallonian
+		religion = protestant
+		size = 14050
+	}
 	labourers = {
 		culture = north_german
 		religion = protestant
-		size = 35050
+		size = 26050
 	}
 }
 #Maastricht/Limburg (164200/41050 POPS)
@@ -652,18 +660,18 @@
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size= 3000
+		size= 2000
 
 	}
 
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 16750
+		size = 19750
 	}
 
 	farmers = {
-		culture = rheinish
+		culture = scandinavian
 		religion = protestant
 		size = 1100
 	}

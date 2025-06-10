@@ -1622,53 +1622,35 @@
 }
 #Qina (52000/13000 POPS)
 1769 = {
-	aristocrats = {
-		culture = misri
-		religion = sunni
-		size = 200
-	}
-
-	clergymen = {
-		culture = misri
-		religion = sunni
-		size = 100
-	}
-
 	artisans = {
-		culture = misri
-		religion = sunni
-		size = 550
+		culture = scandinavian
+		religion = protestant
+		size = 1100
 	}
-
+	clergymen = {
+		culture = scandinavian
+		religion = protestant
+		size = 800
+	}
 	soldiers = {
-		culture = misri
-		religion = sunni
-		size= 3150
-
+		culture = scandinavian
+		religion = protestant
+		size = 800
 	}
-
+	aristocrats = {
+		culture = scandinavian
+		religion = protestant
+		size = 250
+	}
 	farmers = {
-		culture = misri
-		religion = sunni
-		size = 10000
+		culture = scandinavian
+		religion = protestant
+		size = 23453
 	}
-
-	clergymen = {
-		culture = coptic
-		religion = coptic
-		size = 50
-	}
-
-	artisans = {
-		culture = coptic
-		religion = coptic
-		size = 100
-	}
-
-	farmers = {
-		culture = coptic
-		religion = coptic
-		size = 1850
+	craftsmen = {
+		culture = scandinavian
+		religion = protestant
+		size = 2000
 	}
 }
 #Red Sea Region (44000) #see Sudan.txt for balance of the region  

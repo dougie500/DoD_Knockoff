@@ -142,7 +142,7 @@
 	}
 	
 	serfs = {
-		culture = serb
+		culture = romanian
 		religion = orthodox
 		size = 9730
 	}	
@@ -482,16 +482,11 @@
 	}
 
 	farmers = {
-		culture = serb
+		culture = romanian
 		religion = catholic
-		size = 10225 
+		size = 20225 
 	}
-
-	serfs = {
-		culture = serb
-		religion = catholic
-		size = 4150 
-	}		
+	
 }
 #Serbia Region (180310) - 721.240 people
 #under the rule of Serbia in 1836
@@ -674,19 +669,19 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 150
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 3800
 	}
@@ -737,69 +732,50 @@
 #Leskovac (220000/55000 POPS)
 799 = {
 	clergymen = {
-		culture = serb
-		religion = orthodox
+		culture = scandinavian
+		religion = protestant
 		size = 325
 	}
 
 	artisans = {
-		culture = serb
-		religion = orthodox
+		culture = scandinavian
+		religion = protestant
 		size = 1500
 	}
 
 	farmers = {
-		culture = serb
-		religion = orthodox
+		culture = scandinavian
+		religion = protestant
 		size = 39325
 	}
 
 	clergymen = {
-		culture = bulgarian
-		religion = orthodox
-		size = 50
+		culture = scandinavian
+		religion = protestant
+		size = 250
 	}
 
 	artisans = {
-		culture = bulgarian
-		religion = orthodox
+		culture = scandinavian
+		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = bulgarian
-		religion = orthodox
+		culture = scandinavian
+		religion = protestant
 		size = 8050
 	}
 
 	aristocrats = {
-		culture = greek
-		religion = sunni
+		culture = scandinavian
+		religion = protestant
 		size = 850
 	}
 
-	clergymen = {
-		culture = greek
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = greek
-		religion = sunni
-		size = 2500
-	}
-
-	soldiers = {
-		culture = greek
-		religion = sunni
-		size= 100
-
-	}
-
 	farmers = {
-		culture = greek
-		religion = sunni
+		culture = scandinavian
+		religion = protestant
 		size = 4575
 	}
 }
@@ -876,26 +852,26 @@
 	}
 
 	clergymen = {
-		culture = albanian
+		culture = serb
 		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = albanian
+		culture = serb
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = albanian
+		culture = serb
 		religion = sunni
 		size= 100
 
 	}
 
 	farmers = {
-		culture = albanian
+		culture = serb
 		religion = sunni
 		size = 20800
 	}
@@ -973,13 +949,13 @@
 	farmers = {
 		culture = sorbian
 		religion = sunni
-		size = 24550
+		size = 54550
 	}
 
 	clergymen = {
 		culture = sorbian
 		religion = orthodox
-		size = 75
+		size = 275
 	}
 
 	artisans = {

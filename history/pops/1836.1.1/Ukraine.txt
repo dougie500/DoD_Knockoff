@@ -1431,16 +1431,20 @@ farmers = {
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 900
+		size= 1900
 
 	}
 
 	farmers = {
 		culture = tatar
 		religion = orthodox
-		size = 40250
+		size = 14250
 	}
-
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 26250
+	}
 	aristocrats = {
 		culture = polish
 		religion = catholic
@@ -1643,16 +1647,20 @@ farmers = {
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size= 500
+		size= 1500
 	}
 
 
 	farmers = {
 		culture = tatar
 		religion = orthodox
-		size = 94100
+		size = 34100
 	}
-
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 64100
+	}
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish

@@ -546,29 +546,7 @@
 		size = 475 
 	}
 
-	clergymen = {
-		culture = serb
-		religion = sunni
-		size = 800   
-	}
-
-	artisans = {
-		culture = serb
-		religion = sunni
-		size = 4500   
-	}
-
-	farmers = {
-		culture = serb
-		religion = sunni
-		size = 42416  
-	}
 	
-	serfs = {
-		culture = serb
-		religion = sunni
-		size = 22058  
-	}		
 
 	clergymen = {
 		culture = slovene
@@ -620,17 +598,7 @@
 
 	}
 
-	farmers = {
-		culture = serb
-		religion = orthodox
-		size = 38848
-	}
 	
-	serfs = {
-		culture = serb
-		religion = orthodox
-		size = 21852
-	}	
 }
 #Orsova (376000/94000 POPS) #part of Romania today
 653 = {
@@ -1367,7 +1335,7 @@
 	farmers = {
 		culture = galician
 		religion = protestant
-		size = 12265      
+		size = 43265      
 	}
 	
 	serfs = {
@@ -1385,7 +1353,7 @@
 	farmers = {
 		culture = romanian
 		religion = protestant
-		size = 15795
+		size = 45795
 	}
 	
 	serfs = {

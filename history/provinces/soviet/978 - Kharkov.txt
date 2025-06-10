@@ -1,6 +1,6 @@
-owner = UKR
-controller = UKR
-add_core = UKR
+owner = TAR
+controller = TAR
+add_core = TAR
 trade_goods = iron
 terrain = mining_district
 life_rating = 38

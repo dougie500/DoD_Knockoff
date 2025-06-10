@@ -3,51 +3,51 @@
 #Buenos Aires (132000/33000 POPS)
 2348 = {
 	aristocrats = {
-		culture = patagonian
-		religion = protestant
+		culture = south_italian
+		religion = catholic
 		size = 625
 	}
 
 	bureaucrats = {
-		culture = patagonian
-		religion = protestant
+		culture = south_italian
+		religion = catholic
 		size = 500
 	}
 
 	officers = {
-		culture = patagonian
-		religion = protestant
+		culture = south_italian
+		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = patagonian
-		religion = protestant
+		culture = south_italian
+		religion = catholic
 		size = 375
 	}
 
 	artisans = {
-		culture = patagonian
-		religion = protestant
+		culture = south_italian
+		religion = catholic
 		size = 10000
 	}
 	
 	artisans = {
-		culture = patagonian
-		religion = protestant
+		culture = south_italian
+		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = patagonian
-		religion = protestant
-		size= 3000
+		culture = south_italian
+		religion = catholic
+		size= 2000
 
 	}
 
 	farmers = {
-		culture = patagonian
-		religion = protestant
+		culture = south_italian
+		religion = catholic
 		size = 49825
 	}
 }

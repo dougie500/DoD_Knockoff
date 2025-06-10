@@ -41,84 +41,75 @@
 #Madingou (160000/40000 POPS)
 1978 = {
 	aristocrats = {
-		culture = zulu
-		religion = animist
+		culture = south_italian
+		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = zulu
-		religion = animist
+		culture = south_italian
+		religion = catholic
 		size = 500
 	}
 
 	artisans = {
-		culture = zulu
-		religion = animist
+		culture = south_italian
+		religion = catholic
 		size = 1750
 	}
 
 	soldiers = {
-		culture = zulu
-		religion = animist
+		culture = south_italian
+		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = zulu
-		religion = animist
-		size = 26500
+		culture = south_italian
+		religion = catholic
+		size = 36500
 	}
 
-	slaves = {
-		culture = zulu
-		religion = animist
-		size = 10000
-	}
+	
 }
 #Loango (320000/80000 POPS)
 2624 = {
 	aristocrats = {
-		culture = zulu
-		religion = animist
+		culture = south_italian
+		religion = catholic
 		size = 1500
 	}
 	
 	bureaucrats = {
-		culture = zulu
-		religion = animist
+		culture = south_italian
+		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = zulu
-		religion = animist
-		size = 750
+		culture = south_italian
+		religion = catholic
+		size = 1750
 	}
 
 	artisans = {
-		culture = zulu
-		religion = animist
+		culture = south_italian
+		religion = catholic
 		size = 3250
 	}
 
 	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 1000
+		culture = south_italian
+		religion = catholic
+		size = 2000
 	}
 
 	farmers = {
-		culture = zulu
-		religion = animist
-		size = 53500
+		culture = south_italian
+		religion = catholic
+		size = 73500
 	}
 
-	slaves = {
-		culture = zulu
-		religion = animist
-		size = 20000
-	}
 }
 #uncolonized in 1836 
 #Djambala (28000/7000 POPS)

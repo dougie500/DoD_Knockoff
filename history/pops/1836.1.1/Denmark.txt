@@ -83,13 +83,13 @@
 	aristocrats = {
 		culture = scandinavian
 		religion = protestant
-		size = 250
+		size = 1250
 	}
 
 	clergymen = {
 		culture = scandinavian
 		religion = protestant
-		size = 250
+		size = 950
 	}
 
 	artisans = {
@@ -101,13 +101,13 @@
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size = 1100
+		size = 2100
 	}
 
 	farmers = {
 		culture = scandinavian
 		religion = protestant
-		size = 14500
+		size = 44500
 	}
 }
 #Ribe (148000/37000 POPS)
@@ -181,7 +181,7 @@
 	craftsmen = {
 		culture = scandinavian
 		religion = protestant
-		size = 10000
+		size = 15000
 	}
 }
 	
@@ -345,7 +345,7 @@
 	artisans = {
 		culture = scandinavian
 		religion = protestant
-		size = 10000
+		size = 15000
 	}
 
 	artisans = {
@@ -361,14 +361,6 @@
 	}
 
 	
-
-	soldiers = {
-		culture = scandinavian
-		religion = protestant
-		size= 3000
-
-	}
-
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
@@ -464,7 +456,7 @@
 	farmers = {
 		culture = scandinavian
 		religion = protestant
-		size = 3500
+		size = 17500
 	}
 
 }

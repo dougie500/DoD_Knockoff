@@ -2,5 +2,4 @@ owner = ARA
 controller = ARA
 add_core = ARA
 trade_goods = grain
-terrain = savanna
-life_rating = 32
+life_rating = 35

@@ -1,6 +1,6 @@
 trade_goods = timber
 terrain = boreal
-life_rating = 15
-owner = TNT
-controller = TNT   
-add_core = TNT
+life_rating = 32
+owner = NOV
+controller = NOV
+add_core = NOV

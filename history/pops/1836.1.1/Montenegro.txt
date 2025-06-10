@@ -262,7 +262,7 @@
 	}
 
 	farmers = {
-		culture = albanian
+		culture = serb
 		religion = catholic
 		size = 350
 	}

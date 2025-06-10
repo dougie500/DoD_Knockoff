@@ -859,15 +859,11 @@
 	}
 
 	farmers = {
-		culture = russian
-		religion = orthodox
-		size = 30000
-	}
-farmers = {
 		culture = lithuanian
 		religion = orthodox
-		size = 2000
+		size = 22000
 	}
+	
 	clergymen = {
 		culture = russian
 		religion = orthodox
@@ -890,7 +886,7 @@ farmers = {
 	farmers = {
 		culture = russian
 		religion = orthodox
-		size = 34700
+		size = 46700
 	}
 
 	clergymen = {

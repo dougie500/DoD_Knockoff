@@ -566,12 +566,12 @@
 	farmers = {
 		culture = anglois
 		religion = protestant
-		size = 5950
+		size = 8950
 	}
 	farmers = {
 		culture = irish
 		religion = protestant
-		size = 29950
+		size = 49950
 	}
 }
 #Hannover Region (1288000)
@@ -1117,63 +1117,33 @@
 #Lingen (80000/20000 POPS)
 542 = {
 	aristocrats = {
-		culture = rheinish
+		culture = scandinavian
 		religion = protestant
-		size = 150 
-	}
-
-	bureaucrats = {
-		culture = rheinish
-		religion = protestant
-		size = 75 
-	}
-
-	officers = {
-		culture = rheinish
-		religion = protestant
-		size =  50
+		size = 1250
 	}
 
 	clergymen = {
-		culture = rheinish
+		culture = scandinavian
 		religion = protestant
-		size = 150 
+		size = 950
 	}
 
 	artisans = {
-		culture = rheinish
+		culture = scandinavian
 		religion = protestant
-		size = 800
-	}
-
-	farmers = {
-		culture = rheinish
-		religion = protestant
-		size = 12150
-	}
-
-	artisans = {
-		culture = north_german
-		religion = protestant
-		size = 150  
+		size = 5000
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = scandinavian
 		religion = protestant
-		size= 200
-	}
-
-	clergymen = {
-		culture = north_german
-		religion = protestant
-		size = 80 
+		size = 1100
 	}
 
 	farmers = {
-		culture = north_german
+		culture = scandinavian
 		religion = protestant
-		size = 7745
+		size = 42500
 	}
 }
 #Emden (84000/21000 POPS)
@@ -1503,12 +1473,12 @@
 	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 48350
+		size = 50350
 	}
-farmers = {
+	farmers = {
 		culture = sorbian
 		religion = catholic
-		size = 25350
+		size = 35350
 	}
 
 	
@@ -1576,7 +1546,11 @@ farmers = {
 		religion = catholic
 		size = 750 
 	}
-
+	farmers = {
+		culture = north_german
+		religion = catholic
+		size = 10350
+	}
 	clergymen = {
 		culture = sorbian
 		religion = catholic
@@ -1875,9 +1849,9 @@ farmers = {
 	}
 
 	farmers = {
-		culture = sorbian
+		culture = north_german
 		religion = protestant
-		size = 40225       
+		size = 50225       
 	}
 
 	clergymen = {
@@ -2011,7 +1985,7 @@ farmers = {
 	farmers = {
 		culture = sorbian
 		religion = protestant
-		size = 8920       
+		size = 18920       
 	}
 	farmers = {
 		culture = north_german
@@ -2285,65 +2259,37 @@ farmers = {
 #under the rule of Saxe-Weimar 1836  
 #Weimar (365000/91250 POPS)
 561 = {
-	aristocrats = {
-		culture = north_german
-		religion = catholic
-		size = 1100 
-	}
-
-	bureaucrats = {
-		culture = north_german
-		religion = catholic
-		size = 150 
-	}
-
-	officers = {
-		culture = north_german
-		religion = catholic
-		size = 100 
-	}
-
-	clergymen = {
-		culture = south_german
-		religion = catholic
-		size = 875
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 4250
-	}
-
-	soldiers = {
-		culture = south_german
-		religion = catholic
-		size= 1000
-
-	}
-
-	farmers = {
-		culture = south_german
-		religion = catholic
-		size = 40625 
-	}
 	
-	farmers = { 
-		culture = north_german 
-		religion = catholic 
-		size = 43000 
-		}
-
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 5    
-	}
 
 	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 245    
+		culture = scandinavian
+		religion = protestant
+		size = 1100
+	}
+	clergymen = {
+		culture = scandinavian
+		religion = protestant
+		size = 800
+	}
+	soldiers = {
+		culture = scandinavian
+		religion = protestant
+		size = 800
+	}
+	aristocrats = {
+		culture = scandinavian
+		religion = protestant
+		size = 250
+	}
+	farmers = {
+		culture = scandinavian
+		religion = protestant
+		size = 43453
+	}
+	craftsmen = {
+		culture = scandinavian
+		religion = protestant
+		size = 5000
 	}
 }
 #under the rule of Saxe-Coburg 1836  
@@ -2469,7 +2415,7 @@ farmers = {
 	artisans = {
 		culture = rheinish
 		religion = protestant
-		size = 10000
+		size = 15000
 	}
 	
 	artisans = {
@@ -2492,26 +2438,26 @@ farmers = {
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = wallonian
 		religion = catholic
 		size = 140
 	}
 
 	artisans = {
-		culture = south_german
+		culture = wallonian
 		religion = catholic
 		size = 2800       
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = wallonian
 		religion = catholic
 		size= 20
 
 	}
 
 	farmers = {
-		culture = south_german
+		culture = wallonian
 		religion = catholic
 		size = 2340       
 	}
@@ -2939,9 +2885,9 @@ farmers = {
 	}
 
 	farmers = {
-		culture = south_german
+		culture = wallonian
 		religion = protestant
-		size = 13875          
+		size = 43875          
 	}
 }
 #Palatinate-Moselle Region (1815200) 
@@ -2949,50 +2895,50 @@ farmers = {
 #Mannheim (261000/65250 POPS)
 569 = {
 	aristocrats = {
-		culture = south_german
+		culture = wallonian
 		religion = catholic
 		size = 200 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = wallonian
 		religion = catholic
 		size = 150           
 	}
 
 	artisans = {
-		culture = south_german
+		culture = wallonian
 		religion = catholic
 		size = 750          
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = wallonian
 		religion = catholic
 		size= 150
 
 	}
 
 	farmers = {
-		culture = south_german
+		culture = wallonian
 		religion = catholic
 		size = 23750           
 	}
 
 	clergymen = {
-		culture = rheinish
+		culture = wallonian
 		religion = protestant
 		size = 400 
 	}
 
 	artisans = {
-		culture = rheinish
+		culture = wallonian
 		religion = protestant
 		size = 2500
 	}
 
 	soldiers = {
-		culture = rheinish
+		culture = wallonian
 		religion = protestant
 		size= 500
 
@@ -3001,7 +2947,7 @@ farmers = {
 	farmers = {
 		culture = rheinish
 		religion = protestant
-		size = 36600 
+		size = 37600 
 	}
 
 	clergymen = {
@@ -3111,7 +3057,7 @@ farmers = {
 	farmers = {
 		culture = rheinish
 		religion = protestant
-		size = 76400         
+		size = 56400         
 	}
 
 	clergymen = {
@@ -3136,7 +3082,7 @@ farmers = {
 	farmers = {
 		culture = wallonian
 		religion = protestant
-		size = 51750
+		size = 71750
 	}
 
 	clergymen = {
@@ -3194,7 +3140,7 @@ farmers = {
 	farmers = {
 		culture = wallonian
 		religion = protestant
-		size = 43775
+		size = 73775
 	}
 
 	aristocrats = {
@@ -3580,9 +3526,13 @@ farmers = {
 	farmers = {
 		culture = rheinish
 		religion = catholic
-		size = 62425 
+		size = 52425 
 	}
-
+	farmers = {
+		culture = wallonian
+		religion = catholic
+		size = 12425 
+	}
 	aristocrats = {
 		culture = rheinish
 		religion = protestant
@@ -3665,6 +3615,11 @@ farmers = {
 		religion = protestant
 		size= 500
 
+	}
+	farmers = {
+		culture = wallonian
+		religion = protestant
+		size = 10000
 	}
 
 	farmers = {
@@ -4290,6 +4245,11 @@ farmers = {
 	}
 
 	farmers = {
+		culture = wallonian
+		religion = protestant
+		size = 8000
+	}
+	farmers = {
 		culture = rheinish
 		religion = protestant
 		size = 37725 
@@ -4415,19 +4375,19 @@ farmers = {
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = wallonian
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = south_german
+		culture = wallonian
 		religion = catholic
 		size = 1500
 	}
 
 	farmers = {
-		culture = south_german
+		culture = wallonian
 		religion = catholic
 		size = 24200
 	}
@@ -4592,47 +4552,35 @@ farmers = {
 #under the rule of Prussia in 1836  
 #Sigmaringen (61000/15250 POPS)
 594 = {
-	aristocrats = {
-		culture = rheinish
-		religion = protestant
-		size = 150  
-	}
-
-	bureaucrats = {
-		culture = rheinish
-		religion = protestant
-		size = 20  
-	}
-
-	officers = {
-		culture = rheinish
-		religion = protestant
-		size = 15  
-	}
-
-	clergymen = {
-		culture = rheinish
-		religion = protestant
-		size = 150
-	}
-
 	artisans = {
-		culture = rheinish
+		culture = scandinavian
 		religion = protestant
-		size = 775 
+		size = 1100
 	}
-
+	clergymen = {
+		culture = scandinavian
+		religion = protestant
+		size = 800
+	}
 	soldiers = {
-		culture = rheinish
+		culture = scandinavian
 		religion = protestant
-		size= 1000
-
+		size = 800
 	}
-
-	farmers = {
-		culture = rheinish
+	aristocrats = {
+		culture = scandinavian
 		religion = protestant
-		size = 13140
+		size = 250
+	}
+	farmers = {
+		culture = scandinavian
+		religion = protestant
+		size = 33743
+	}
+	craftsmen = {
+		culture = scandinavian
+		religion = protestant
+		size = 2000
 	}
 }
 #Franconia Region (1876000) 
@@ -4723,12 +4671,6 @@ farmers = {
 		religion = protestant
 		size= 1500
 
-	}
-
-	farmers = {
-		culture = south_german
-		religion = protestant
-		size = 91275
 	}
 
 	clergymen = {
@@ -4956,7 +4898,7 @@ farmers = {
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 175650
+		size = 145650
 	}
 
 	clergymen = {
@@ -5073,11 +5015,15 @@ farmers = {
 		size= 1000
 
 	}
-
+	farmers = {
+		culture = rheinish
+		religion = catholic
+		size = 25000
+	}
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 57175
+		size = 32175
 	}
 }
 #Regensburg (248000/62000 POPS)
@@ -5149,13 +5095,13 @@ farmers = {
 	farmers = {
 		culture = sorbian
 		religion = catholic
-		size = 61450
+		size = 81450
 	}
 
 	clergymen = {
 		culture = sorbian
 		religion = catholic
-		size = 370 
+		size = 770 
 	}
 
 	artisans = {
@@ -5429,14 +5375,14 @@ farmers = {
 	}
 
 	farmers = {
-		culture = rheinish
+		culture = scandinavian
 		religion = protestant
 		size = 985
 	}
 	
 	farmers = {
-		culture = rheinish
-		size = 500
+		culture = scandinavian
+		size = 2500
 		religion = catholic
 	}
 
@@ -5449,7 +5395,7 @@ farmers = {
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 8075 
+		size = 9075 
 	}
 
 }

@@ -185,7 +185,7 @@
 	farmers = {
 		culture = mongol
 		religion = sunni
-		size = 4575
+		size = 44575
 	}
 }
 #Eastern Kazakh Steppes Region (376000)

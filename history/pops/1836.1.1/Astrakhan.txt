@@ -1128,25 +1128,25 @@
 1053 = {
 
 	clergymen = {
-	    culture = persian
+	    culture = russian
 		religion = sunni
 		size = 75
 	}
 	
 	artisans = {
-	    culture = persian
+	    culture = russian
 		religion = sunni
 		size = 175
 	}
 
 	farmers = {
-		culture = dagestani
-		religion = sunni
-		size = 5500
+		culture = russian
+		religion = orthodox
+		size = 25500
 	}
 	
 	farmers = {
-		culture = dagestani
+		culture = russian
 		religion = animist
 		size = 2200
 	}	
@@ -1202,7 +1202,7 @@
 	farmers = {
 		culture = tatar
 		religion = animist
-		size = 22500
+		size = 8500
 	}	
 
 	clergymen = {
@@ -1224,34 +1224,17 @@
 	}
 
 	artisans = {
-		culture = azerbaijani
+		culture = russian
 		religion = sunni
 		size = 200
 	}
 
 	farmers = {
-		culture = azerbaijani
+		culture = russian
 		religion = sunni
 		size= 1500
 	}
 	
-	farmers = {
-		culture = lezgin
-		religion = sunni
-		size = 200
-	}		
-	
-	farmers = {
-		culture = lezgin
-		religion = animist
-		size = 1800
-	}
-
-	farmers = {
-		culture = tatar
-		religion = sunni
-		size = 3000
-	}	
 	
 }
 

@@ -690,59 +690,59 @@
 #Split (140000/35000 POPS)
 780 = {
 	aristocrats = {
-		culture = north_italian
+		culture = anglois
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = slovene
+		culture = anglois
 		religion = catholic
-		size = 350
+		size = 1550
 	}
 
 	artisans = {
-		culture = slovene
+		culture = anglois
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = slovene
+		culture = anglois
 		religion = catholic
-		size= 350
+		size= 2350
 
 	}
 
 	farmers = {
-		culture = slovene
+		culture = anglois
 		religion = catholic
-		size = 20350
+		size = 80350
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = anglois
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = anglois
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = anglois
 		religion = catholic
 		size= 25
 
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = english
 		religion = catholic
-		size = 14450
+		size = 24450
 	}
 }
 #Zadar (128000/32000 POPS)

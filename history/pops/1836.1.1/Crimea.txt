@@ -183,19 +183,19 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 2825
 	}
@@ -849,7 +849,7 @@
 	farmers = {
 		culture = tatar
 		religion = orthodox
-		size = 75000
+		size = 65000
 	}
 
 	aristocrats = {
@@ -871,21 +871,21 @@
 	}
 
 	clergymen = {
-		culture = krymchak
-		religion = jewish
+		culture = russian
+		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = krymchak
+		culture = russian
 		religion = jewish
 		size = 1500
 	}
 
 	farmers = {
-		culture = krymchak
-		religion = jewish
-		size = 7375
+		culture = russian
+		religion = orthodox
+		size = 17375
 	}
 }
 #Ekaterinoslav (252000/63000 POPS)

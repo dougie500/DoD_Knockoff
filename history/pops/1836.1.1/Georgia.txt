@@ -218,97 +218,34 @@
 }
 #Pasanauri (76000/19000 POPS)
 1091 = {
-	aristocrats = {
-		culture = georgian
-		religion = orthodox
-		size = 260
+aristocrats = {
+		culture = scandinavian
+		religion = protestant
+		size = 1050
 	}
-
+	
 	clergymen = {
-		culture = georgian
-		religion = orthodox
-		size = 125
+		culture = scandinavian
+		religion = protestant
+		size = 875
 	}
 
 	artisans = {
-		culture = georgian
-		religion = orthodox
-		size = 750
+		culture = scandinavian
+		religion = protestant
+		size = 1750
 	}
 
 	soldiers = {
-		culture = georgian
-		religion = orthodox
-		size= 200
-
+		culture = scandinavian
+		religion = protestant
+		size = 3000
 	}
 
 	farmers = {
-		culture = georgian
-		religion = orthodox
-		size = 14100
-	}
-
-	aristocrats = {
-		culture = tatar
-		religion = orthodox
-		size = 125
-	}
-
-	clergymen = {
-		culture = tatar
-		religion = orthodox
-		size = 90
-	}
-
-	artisans = {
-		culture = tatar
-		religion = orthodox
-		size = 375
-	}
-
-	soldiers = {
-		culture = tatar
-		religion = orthodox
-		size= 75
-
-	}
-
-	farmers = {
-		culture = tatar
-		religion = orthodox
-		size = 7750
-	}
-
-	aristocrats = {
-		culture = azerbaijani
-		religion = coptic
-		size = 80
-	}
-
-	clergymen = {
-		culture = azerbaijani
-		religion = coptic
-		size = 70
-	}
-
-	artisans = {
-		culture = azerbaijani
-		religion = coptic
-		size = 200
-	}
-
-	soldiers = {
-		culture = azerbaijani
-		religion = coptic
-		size= 75
-
-	}
-
-	farmers = {
-		culture = azerbaijani
-		religion = coptic
-		size = 3600
+		culture = scandinavian
+		religion = protestant
+		size = 64025
 	}
 }
 #Kutaisi (120000/30000 POPS)

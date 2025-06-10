@@ -1248,7 +1248,7 @@
 	soldiers = {
 		culture = catalan
 		religion = catholic
-		size= 15000
+		size= 6000
 
 	}
 
@@ -1399,7 +1399,7 @@
 	farmers = {
 		culture = catalan
 		religion = catholic
-		size = 49200
+		size = 69200
 	}
 }
 #Valencia Region (1016000)
@@ -1751,13 +1751,13 @@
 #Cordoba (324000/81000 POPS)
 510 = {
 	aristocrats = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 1700
 	}
 
 	clergymen = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 800
 	}
@@ -1774,11 +1774,15 @@
 		size= 3100
 
 	}
-
+	farmers = {
+		culture = maghrebi
+		religion = catholic
+		size = 38500
+	}
 	farmers = {
 		culture = castilian
 		religion = catholic
-		size = 68500
+		size = 38500
 	}
 }
 #Huelva (140000/35000 POPS)
@@ -2026,7 +2030,12 @@
 	farmers = {
 		culture = castilian
 		religion = catholic
-		size = 58200
+		size = 30200
+	}
+	farmers = {
+		culture = maghrebi
+		religion = catholic
+		size = 28200
 	}
 
 }

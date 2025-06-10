@@ -23,7 +23,12 @@
 	farmers = {
 		culture = inuit
 		religion = protestant
-		size = 1400
+		size = 11400
+	}
+	farmers = {
+		culture = scandinavian
+		religion = protestant
+		size = 8000
 	}
 }
 #Augmagsalik (12/3 POPS)
@@ -46,7 +51,12 @@
 	farmers = {
 		culture = inuit
 		religion = protestant
-		size = 475
+		size = 4750
+	}
+	farmers = {
+		culture = scandinavian
+		religion = protestant
+		size = 500
 	}
 }
 #Iceland (56000)

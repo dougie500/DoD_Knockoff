@@ -264,73 +264,50 @@
 #uncolonized/French have trade post in 1836
 #Saint-Louis (24000/6000 POPS)
 1784 = {
+	farmers = {
+		culture = french
+		religion = protestant
+		size = 10000
+	}
+
+	clergymen = {
+		culture = french
+		religion = protestant
+		size = 175
+	}
+
+	artisans = {
+		culture = french
+		religion = protestant
+		size = 1050
+	}
+
+	soldiers = {
+		culture = french
+		religion = protestant
+		size= 1025
+
+	}
+
+
 	aristocrats = {
-		culture = hausa
-		religion = sunni
+		culture = french
+		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = hausa
-		religion = sunni
+		culture = french
+		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = hausa
-		religion = sunni
+		culture = french
+		religion = protestant
 		size = 150
 	}
 
-	soldiers = {
-		culture = hausa
-		religion = sunni
-		size= 25
-
-	}
-
-	farmers = {
-		culture = hausa
-		religion = sunni
-		size = 2700
-	}
-
-	slaves = {
-		culture = hausa
-		religion = sunni
-		size = 1100
-	}
-
-	aristocrats = {
-		culture = tuareg
-		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
-		culture = tuareg
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = tuareg
-		religion = sunni
-		size = 150
-	}
-
-	soldiers = {
-		culture = tuareg
-		religion = sunni
-		size= 25
-
-	}
-
-	farmers = {
-		culture = tuareg
-		religion = sunni
-		size = 1700
-	}
 }
 #uncolonized/British have trade post in 1836
 #Banjul (108000/27000 POPS) #now part of Gambia

@@ -297,82 +297,60 @@
 #Massekisse (172000/43000 POPS)
 2052 = {
     aristocrats = {
-        culture = zulu
-        religion = animist
-        size = 50
-    }
+		culture = south_italian
+		religion = catholic
+		size = 500
+	}
 
-    officers = {
-        culture = zulu
-        religion = animist
-        size = 300
-    }
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic
+		size = 210
+	}
 
-    bureaucrats = {
-        culture = zulu
-        religion = animist
-        size = 100
-    }
+	officers = {
+		culture = south_italian
+		religion = catholic
+		size = 240
+	}
 
-    clergymen = {
-        culture = zulu
-        religion = animist
-        size = 500
-    }
+	clergymen = {
+		culture = south_italian
+		religion = catholic
+		size = 300
+	}
 
-    artisans = {
-        culture = zulu
-        religion = animist
-        size = 200
-    }
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 1200
+	}
 
-    soldiers = {
-        culture = zulu
-        religion = animist
-        size = 500
-    }
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 51433
+	}
 
-    farmers = {
-        culture = zulu
-        religion = animist
-        size = 3650
-    }
 
-    aristocrats = {
-        culture = zulu
-        religion = animist
-        size = 350
-    }
+	clergymen = {
+		culture = south_italian
+		religion = catholic
+		size = 1150
+	}
 
-    clergymen = {
-        culture = zulu
-        religion = animist
-        size = 375
-    }
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 300
+	}
 
-    artisans = {
-        culture = zulu
-        religion = animist
-        size = 1800
-    }
+	soldiers = {
+		culture = south_italian
+		religion = catholic
+		size = 2050
+	}
 
-    soldiers = {
-        culture = zulu
-        religion = animist
-        size = 1000
-    }
-
-    farmers = {
-        culture = zulu
-        religion = animist
-        size = 39375
-    }
-
-    slaves = {
-        culture = zulu
-        religion = animist
-        size = 22700
-    }
 }
 #Zambezia Region (912000)
 #Ruled (loosely) by Portugal in 1836)
@@ -852,156 +830,81 @@
 #Sofala (144000/36000 POPS)
 2057 = {
 	aristocrats = {
-		culture = zulu
-		religion = animist
-		size = 100
+		culture = south_italian
+		religion = catholic
+		size = 500
+	}
+
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic
+		size = 10
+	}
+
+	officers = {
+		culture = south_italian
+		religion = catholic
+		size = 40
 	}
 
 	clergymen = {
-		culture = zulu
-		religion = animist
-		size = 100
+		culture = south_italian
+		religion = catholic
+		size = 300
 	}
 
 	artisans = {
-		culture = zulu
-		religion = animist
-		size = 400
-	}
-
-	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 100
+		culture = south_italian
+		religion = catholic
+		size = 1200
 	}
 
 	farmers = {
-		culture = zulu
-		religion = animist
-		size = 17800
+		culture = south_italian
+		religion = catholic
+		size = 29000
 	}
 
-	slaves = {
-		culture = zulu
-		religion = animist
-		size = 2500
-	}
-
-	aristocrats = {
-		culture = zulu
-		religion = animist
-		size = 125
-	}
 
 	clergymen = {
-		culture = zulu
-		religion = animist
-		size = 100
+		culture = south_italian
+		religion = catholic
+		size = 2150
 	}
 
 	artisans = {
-		culture = zulu
-		religion = animist
-		size = 525
+		culture = south_italian
+		religion = catholic
+		size = 21300
 	}
 
 	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 150
+		culture = south_italian
+		religion = catholic
+		size = 1050
 	}
 
-	farmers = {
-		culture = zulu
-		religion = animist
-		size = 27100
-	}
-
-	aristocrats = {
-		culture = zulu
-		religion = animist
-		size = 150
-	}
-
-	clergymen = {
-		culture = zulu
-		religion = animist
-		size = 150
-	}
-
-	artisans = {
-		culture = zulu
-		religion = animist
-		size = 700
-	}
-
-	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 150
-	}
-
-	farmers = {
-		culture = zulu
-		religion = animist
-		size = 10850
-	}
-
-	slaves = {
-		culture = zulu
-		religion = animist
-		size = 3000
-	}
-
-	clergymen = {
-		culture = somali
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = somali
-		religion = sunni
-		size = 975
-	}
-	
-	soldiers = {
-		culture = somali
-		religion = sunni
-		size = 100
-	}
-
-	farmers = {
-		culture = somali
-		religion = sunni
-		size = 5000
-	}
 }
 #Mossurize (136000/34000 POPS)
 2058 = {
     clergymen = {
-        culture = zulu
-        religion = animist
-        size = 375
+        culture = south_italian
+		religion = catholic
+        size = 675
     }
 
     artisans = {
-        culture = zulu
-        religion = animist
-        size = 1750
+        culture = south_italian
+		religion = catholic
+        size = 12750
     }
 
     farmers = {
-        culture = zulu
-        religion = animist
-        size = 21275
+        culture = south_italian
+		religion = catholic
+        size = 39275
     }
 
-    slaves = {
-        culture = zulu
-        religion = animist
-        size = 10000
-    }
 }
 #Mocambique Region (964000)
 #Ruled by Portugal 1836

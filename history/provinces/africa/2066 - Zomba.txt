@@ -3,3 +3,4 @@ life_rating = 32
 owner = DEN
 controller = DEN
 add_core = KZB
+colonial = 1

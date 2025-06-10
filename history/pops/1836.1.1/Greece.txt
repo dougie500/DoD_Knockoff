@@ -46,25 +46,25 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 500
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 6200
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size= 250
 
@@ -147,19 +147,19 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 1925
 	}
@@ -223,19 +223,19 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 300
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 7650
 	}
@@ -300,19 +300,19 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 4900
 	}
@@ -427,19 +427,19 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 1925
 	}
@@ -517,50 +517,50 @@
 	}
 
 	aristocrats = {
-		culture = albanian
+		culture = serb
 		religion = sunni
 		size = 2600
 	}
 
 	clergymen = {
-		culture = albanian
+		culture = serb
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = albanian
+		culture = serb
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = albanian
+		culture = serb
 		religion = sunni
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = albanian
+		culture = serb
 		religion = sunni
 		size = 8075
 	}
 
 	clergymen = {
-		culture = albanian
+		culture = serb
 		religion = orthodox
 		size = 150
 	}
 
 	artisans = {
-		culture = albanian
+		culture = serb
 		religion = orthodox
 		size = 250
 	}
 
 	farmers = {
-		culture = albanian
+		culture = serb
 		religion = orthodox
 		size = 25600
 	}
@@ -836,13 +836,13 @@
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = tatar
 		religion = orthodox
 		size = 950
 	}
@@ -850,70 +850,64 @@
 #Dedeagatch (72000/18000 POPS)
 830 = {
 	aristocrats = {
-		culture = north_italian
-		religion = sunni
+		culture = finnish
+        religion = protestant
 		size = 450
 	}
 
 	clergymen = {
-		culture = north_italian
-		religion = sunni
+		culture = finnish
+        religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = north_italian
-		religion = sunni
+		culture = finnish
+        religion = protestant
 		size = 400
 	}
 
 	soldiers = {
-		culture = north_italian
-		religion = sunni
-		size= 175
+		culture = finnish
+        religion = protestant
+		size= 1175
 
 	}
 
 	farmers = {
-		culture = north_italian
-		religion = sunni
-		size = 6900
+		culture = finnish
+        religion = protestant
+		size = 20900
 	}
 
 	clergymen = {
-		culture = greek
-		religion = orthodox
+		culture = finnish
+        religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = greek
-		religion = orthodox
+		culture = finnish
+        religion = protestant
 		size = 450
 	}
 
-	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 7450
-	}
-
 	clergymen = {
-		culture = bulgarian
-		religion = orthodox
-		size = 25
+		culture = russian
+        religion = protestant
+		size = 125
 	}
 
 	artisans = {
-		culture = bulgarian
-		religion = orthodox
+		culture = russian
+        religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = bulgarian
-		religion = orthodox
-		size = 1925
+		culture = russian
+        religion = orthodox
+		size = 25925
 	}
 }
 #Thessaly Region (408000)  
@@ -1326,28 +1320,32 @@
 #Corinth (40000/10000 POPS)
 840 = {
 	clergymen = {
-		culture = greek
+		culture = irish
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = greek
+		culture = anglois
 		religion = orthodox
 		size = 500
 	}
 
 	soldiers = {
-		culture = greek
+		culture = anglois
 		religion = orthodox
 		size= 1100
 
 	}
-
 	farmers = {
-		culture = greek
+		culture = anglois
 		religion = orthodox
-		size = 18400
+		size = 20400
+	}
+	farmers = {
+		culture = irish
+		religion = orthodox
+		size = 48400
 	}
 }
 #Kalamai (68000/17000 POPS)
@@ -1386,26 +1384,30 @@
 #Patrai (40000/10000 POPS)
 842 = {
 	clergymen = {
-		culture = greek
+		culture = anglois
 		religion = orthodox
 		size = 300
 	}
 
 	artisans = {
-		culture = greek
+		culture = anglois
 		religion = orthodox
 		size = 1500
 	}
 
 	soldiers = {
-		culture = greek
+		culture = anglois
 		religion = orthodox
 		size= 1100
 
 	}
-
 	farmers = {
-		culture = greek
+		culture = irish
+		religion = orthodox
+		size = 20400
+	}
+	farmers = {
+		culture = anglois
 		religion = orthodox
 		size = 27400
 	}
@@ -1449,64 +1451,64 @@
 #Chios (68000/17000 POPS)
 843 = {
 	aristocrats = {
-		culture = north_italian
-		religion = sunni
+		culture = finnish
+        religion = protestant
 		size = 150
 	}
 
 	bureaucrats = {
-		culture = north_italian
-		religion = sunni
-		size = 50
+		culture = finnish
+        religion = protestant
+		size = 150
 	}
 
 	officers = {
-		culture = north_italian
-		religion = sunni
+		culture = finnish
+        religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = north_italian
-		religion = sunni
+		culture = finnish
+        religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = north_italian
-		religion = sunni
+		culture = finnish
+        religion = protestant
 		size = 600
 	}
 
 	soldiers = {
-		culture = north_italian
-		religion = sunni
-		size= 175
+		culture = finnish
+        religion = protestant
+		size= 1175
 
 	}
 
 	farmers = {
-		culture = north_italian
-		religion = sunni
+		culture = finnish
+        religion = protestant
 		size = 700
 	}
 
 	clergymen = {
-		culture = greek
-		religion = orthodox
+		culture = finnish
+        religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = greek
-		religion = orthodox
+		culture = finnish
+        religion = protestant
 		size = 2400
 	}
 
 	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 12750
+		culture = finnish
+        religion = protestant
+		size = 52750
 	}
 }
 #Mytilene (44000/11000 POPS)

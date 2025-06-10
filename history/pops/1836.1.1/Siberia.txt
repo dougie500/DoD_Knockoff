@@ -48,7 +48,7 @@
 	farmers = {
 		culture = tatar
 		religion = sunni
-		size = 76750
+		size = 36750
 	}	
 	farmers = {
 		culture = ugrian
@@ -317,35 +317,54 @@
 }
 #Nizhnevartovsk (4000/1000 POPS)
 1065 = {
-	aristocrats = {
-		culture = ugrian
-		religion = animist
-		size = 10
-	}
-
 	clergymen = {
-		culture = ugrian
-		religion = animist
-		size = 25
-	}
-
-	artisans = {
-		culture = ugrian
-		religion = animist
+		culture = russian
+		religion = orthodox
 		size = 50
 	}
 
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
 	soldiers = {
-		culture = ugrian
-		religion = animist
-		size= 10
+		culture = russian
+		religion = orthodox
+		size= 25
 
 	}
 
 	farmers = {
-		culture = ugrian
-		religion = animist
-		size = 900
+		culture = finnish
+		religion = protestant
+		size = 11825
+	}
+
+	clergymen = {
+		culture = finnish
+		religion = protestant
+		size = 25
+	}
+
+	artisans = {
+		culture = finnish
+		religion = protestant
+		size = 2150
+	}
+
+	soldiers = {
+		culture = finnish
+		religion = protestant
+		size= 25
+
+	}
+
+	farmers = {
+		culture = finnish
+		religion = protestant
+		size = 1035
 	}
 }
 #Ases Igan (4000/1000 POPS)
@@ -1080,59 +1099,62 @@
 2695 = {
 
 	aristocrats = {
-		culture = ugrian
-		religion = animist
-		size = 10
+		culture = english
+		religion = catholic
+		size = 1100
 	}
 
 	clergymen = {
-		culture = ugrian
-		religion = animist
-		size = 40
+		culture = english
+		religion = catholic
+		size = 750
 	}
 
+	craftsmen = {
+		culture = scandinavian
+		religion = catholic
+		size = 15000
+	}
+	
 	artisans = {
-		culture = ugrian
-		religion = animist
-		size = 110
+		culture = english
+		religion = catholic
+		size = 10000
 	}
-
-	soldiers = {
-		culture = ugrian
-		religion = animist
-		size= 50
-
-	}
-
-	farmers = {
-		culture = ugrian
-		religion = animist
-		size = 1800
-	}
-
-	clergymen = {
-		culture = ugrian
-		religion = orthodox
-		size = 5
-	}
-
+	
 	artisans = {
-		culture = ugrian
-		religion = orthodox
-		size = 10
+		culture = english
+		religion = protestant
+		size = 5900
 	}
-
-	soldiers = {
-		culture = ugrian
-		religion = orthodox
-		size= 10
-
-	}
-
+	
 	farmers = {
-		culture = ugrian
-		religion = orthodox
-		size = 475
+		culture = english
+		religion = catholic
+		size = 21850
+	}
+	
+	soldiers = {
+		culture = english
+		religion = catholic
+		size = 3000
+	}	
+	
+	aristocrats = {
+		culture = scottish
+		religion = catholic
+		size = 200
+	}
+	
+	artisans = {
+		culture = scottish
+		religion = catholic
+		size = 2000
+	}
+	farmers = {
+		culture = scottish
+		religion = protestant
+		size = 50000
 	}
 }
 #Nyurba (12000/3000 POPS)

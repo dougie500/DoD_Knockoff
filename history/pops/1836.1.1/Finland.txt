@@ -73,25 +73,25 @@
 #Tornio (40000/10000 POPS)
 338 = {
     clergymen = {
-        culture = finnish
+        culture = swedish
         religion = protestant
         size = 150
     }
 
     artisans = {
-        culture = finnish
+        culture = swedish
         religion = protestant
         size = 475
     }
 
     farmers = {
-        culture = finnish
+        culture = swedish
         religion = protestant
         size = 18207
     }
 
     farmers = {
-        culture = sami
+        culture = swedish
         religion = protestant
         size = 465
     }
@@ -323,7 +323,7 @@
     clergymen = {
         culture = finnish
         religion = protestant
-        size = 3000
+        size = 1000
     }
 
     artisans = {
@@ -335,13 +335,13 @@
     soldiers = {
         culture = finnish
         religion = protestant
-        size = 3455
+        size = 2455
     }
 
     farmers = {
         culture = finnish
         religion = protestant
-        size = 90000
+        size = 40000
     }
 
     aristocrats = {

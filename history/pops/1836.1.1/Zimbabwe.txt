@@ -65,95 +65,83 @@
 #Gweru (96000/24000 POPS) 
 2069 = {
 	aristocrats = {
-		culture = zulu
-		religion = animist
-		size = 450
+		culture = south_italian
+		religion = catholic
+		size = 1450
 	}
 
 	clergymen = {
-		culture = zulu
-		religion = animist
-		size = 250
+		culture = south_italian
+		religion = catholic
+		size = 1250
 	}
 
 	artisans = {
-		culture = zulu
-		religion = animist
-		size = 1200
+		culture = south_italian
+		religion = catholic
+		size = 31200
 	}
 
 	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 250
+		culture = south_italian
+		religion = catholic
+		size = 1250
 	}
 
 	farmers = {
-		culture = zulu
-		religion = animist
-		size = 21850
+		culture = south_italian
+		religion = catholic
+		size = 31850
 	}
 }
 #Mutare (96000/24000 POPS) 
 2070 = {
 	aristocrats = {
-		culture = zulu
-		religion = animist
-		size = 425
+		culture = south_italian
+		religion = catholic
+		size = 3350
+	}
+
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic
+		size = 175
+	}
+
+	officers = {
+		culture = south_italian
+		religion = catholic
+		size = 150
 	}
 
 	clergymen = {
-		culture = zulu
-		religion = animist
-		size = 225
+		culture = south_italian
+		religion = catholic
+		size = 1200
 	}
 
 	artisans = {
-		culture = zulu
-		religion = animist
-		size = 1100
+		culture = south_italian
+		religion = catholic
+		size = 6250
 	}
 
 	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 225
+		culture = south_italian
+		religion = catholic
+		size = 3000
 	}
 
 	farmers = {
-		culture = zulu
-		religion = animist
-		size = 20025
+		culture = south_italian
+		religion = catholic
+		size = 71875
 	}
-
-	aristocrats = {
-		culture = zulu
-		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = zulu
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = zulu
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 25
-	}
-
+	
 	farmers = {
-		culture = zulu
-		religion = animist
-		size = 1800
+		culture = south_italian
+		religion = catholic
+		size = 20000
 	}
 }
 #Kariba (36000/9000 POPS) 
@@ -253,186 +241,119 @@
 #Bulawayo (136000/34000 POPS) 
 2071 = {
 	aristocrats = {
-		culture = zulu
-		religion = animist
+		culture = south_italian
+		religion = catholic
 		size = 500
 	}
 
 	bureaucrats = {
-		culture = zulu
-		religion = animist
+		culture = south_italian
+		religion = catholic
 		size = 10
 	}
 
 	officers = {
-		culture = zulu
-		religion = animist
+		culture = south_italian
+		religion = catholic
 		size = 40
 	}
 
 	clergymen = {
-		culture = zulu
-		religion = animist
+		culture = south_italian
+		religion = catholic
 		size = 300
 	}
 
 	artisans = {
-		culture = zulu
-		religion = animist
+		culture = south_italian
+		religion = catholic
 		size = 1200
 	}
 
-	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 8050
-	}
-
 	farmers = {
-		culture = zulu
-		religion = animist
-		size = 29000
+		culture = south_italian
+		religion = catholic
+		size = 42950
 	}
 
-	aristocrats = {
-		culture = zulu
-		religion = animist
-		size = 100
-	}
 
 	clergymen = {
-		culture = zulu
-		religion = animist
-		size = 150
+		culture = south_italian
+		religion = catholic
+		size = 1150
 	}
 
 	artisans = {
-		culture = zulu
-		religion = animist
+		culture = south_italian
+		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 50
+		culture = south_italian
+		religion = catholic
+		size = 2050
 	}
 
-	farmers = {
-		culture = zulu
-		religion = animist
-		size = 5400
-	}
-
-	artisans = {
-		culture = zulu
-		religion = animist
-		size = 200
-	}
-
-	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 50
-	}
-
-	farmers = {
-		culture = zulu
-		religion = animist
-		size = 6650
-	}
+	
 }
 #Hwange (96000/24000 POPS)
 2072 = {
 	aristocrats = {
-		culture = zulu
-		religion = animist
-		size = 200
-	}
-
-	clergymen = {
-		culture = zulu
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = zulu
-		religion = animist
-		size = 400
-	}
-
-	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 150
-	}
-
-	farmers = {
-		culture = zulu
-		religion = animist
-		size = 10950
-	}
-
-	aristocrats = {
-		culture = zulu
-		religion = animist
-		size = 150
-	}
-
-	clergymen = {
-		culture = zulu
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = zulu
-		religion = animist
+		culture = south_italian
+		religion = catholic
 		size = 500
 	}
 
-	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 100
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic
+		size = 10
 	}
 
-	farmers = {
-		culture = zulu
-		religion = animist
-		size = 9150
-	}
-
-	aristocrats = {
-		culture = zulu
-		religion = animist
-		size = 20
+	officers = {
+		culture = south_italian
+		religion = catholic
+		size = 40
 	}
 
 	clergymen = {
-		culture = zulu
-		religion = animist
-		size = 30
+		culture = south_italian
+		religion = catholic
+		size = 300
 	}
 
 	artisans = {
-		culture = zulu
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 50
+		culture = south_italian
+		religion = catholic
+		size = 1200
 	}
 
 	farmers = {
-		culture = zulu
-		religion = animist
-		size = 2000
+		culture = south_italian
+		religion = catholic
+		size = 39900
 	}
+
+
+	clergymen = {
+		culture = south_italian
+		religion = catholic
+		size = 1150
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 300
+	}
+
+	soldiers = {
+		culture = south_italian
+		religion = catholic
+		size = 1050
+	}
+
 }
 #Masvingo (72000/18000 POPS) 
 2073 = {
@@ -463,7 +384,7 @@
 	farmers = {
 		culture = provencal
 		religion = protestant
-		size = 25800
+		size = 39780
 	}
 
 	aristocrats = {
@@ -487,13 +408,13 @@
 	soldiers = {
 		culture = provencal
 		religion = protestant
-		size = 175
+		size = 3175
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = protestant
-		size = 14575
+		size = 55575
 	}
 
 }

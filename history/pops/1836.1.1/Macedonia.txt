@@ -3,176 +3,153 @@
 #Skopje (424000/106000 POPS) 
 806 = {
 	aristocrats = {
-		culture = greek
+		culture = anglois
 		religion = sunni
 		size = 2450
 	}
 
 	clergymen = {
-		culture = greek
+		culture = anglois
 		religion = sunni
 		size = 325
 	}
 
 	artisans = {
-		culture = greek
+		culture = anglois
 		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = greek
+		culture = anglois
 		religion = sunni
 		size= 3000
 
 	}
 
 	farmers = {
-		culture = greek
+		culture = anglois
 		religion = sunni
-		size = 25225
+		size = 15225
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = irish
 		religion = orthodox
 		size = 425
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = irish
 		religion = orthodox
 		size = 2100
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = irish
 		religion = orthodox
-		size = 56475
+		size = 26475
 	}
 
 	clergymen = {
-		culture = greek
+		culture = irish
 		religion = orthodox
 		size = 200
 	}
 
 	artisans = {
-		culture = greek
+		culture = irish
 		religion = orthodox
 		size = 1200
 	}
 	
-	soldiers = {
-		culture = greek
-		religion = orthodox
-		size= 3000
-
-	}	
 
 	farmers = {
-		culture = greek
+		culture = anglois
 		religion = orthodox
 		size = 11600
 	}
 
-	clergymen = {
-		culture = sephardic
-		religion = jewish
-		size = 25
-	}
-
-	artisans = {
-		culture = sephardic
-		religion = jewish
-		size = 700
-	}
-
-	farmers = {
-		culture = sephardic
-		religion = jewish
-		size = 275
-	}
 }
 #Monastir Region (268000) #see Greece.txt for balance of region 
 #under the rule of Ottoman Empire in 1836  
 #Bitola (268000/67000 POPS) 
 807 = {
 	clergymen = {
-		culture = bulgarian
-		religion = orthodox
+		culture = scandinavian
+		religion = protestant
 		size = 200
 	}
 
 	artisans = {
-		culture = bulgarian
-		religion = orthodox
+		culture = scandinavian
+		religion = protestant
 		size = 1105
 	}
 
 	farmers = {
-		culture = bulgarian
-		religion = orthodox
-		size = 26675
+		culture = scandinavian
+		religion = protestant
+		size = 24675
 	}
 
 	aristocrats = {
-		culture = greek
-		religion = sunni
+		culture = scandinavian
+		religion = protestant
 		size = 1500
 	}
 
 	bureaucrats = {
-		culture = greek
-		religion = sunni
+		culture = scandinavian
+		religion = protestant
 		size = 225
 	}
 
 	officers = {
-		culture = greek
-		religion = sunni
+		culture = scandinavian
+		religion = protestant
 		size = 175
 	}
 
 	clergymen = {
-		culture = greek
-		religion = sunni
+		culture = scandinavian
+		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = greek
-		religion = sunni
+		culture = scandinavian
+		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
-		culture = greek
-		religion = sunni
-		size= 3100
+		culture = scandinavian
+		religion = protestant
+		size= 1100
 
 	}
 
 	farmers = {
-		culture = greek
-		religion = sunni
+		culture = scandinavian
+		religion = protestant
 		size = 1975
 	}
 	clergymen = {
-		culture = greek
-		religion = orthodox
+		culture = scandinavian
+		religion = protestant
 		size = 175
 	}
 
 	artisans = {
-		culture = greek
-		religion = orthodox
+		culture = scandinavian
+		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = greek
-		religion = orthodox
+		culture = scandinavian
+		religion = protestant
 		size = 11575
 	}
 }
@@ -180,56 +157,50 @@
 #Debar - Former Tichit
 1780 = {
  	clergymen = {
-		culture = albanian
-		religion = sunni
+		culture = scandinavian
+		religion = protestant
 		size = 125
 	}
 
 	artisans = {
-		culture = albanian
-		religion = sunni
+		culture = scandinavian
+		religion = protestant
 		size = 400
 	}
 
 	soldiers = {
-		culture = albanian
-		religion = sunni
+		culture = scandinavian
+		religion = protestant
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = albanian
-		religion = sunni
+		culture = scandinavian
+		religion = protestant
 		size = 9875
 	}
 	clergymen = {
-		culture = bulgarian
-		religion = orthodox
-		size = 100
+		culture = scandinavian
+		religion = protestant
+		size = 300
 	}
 
 	artisans = {
-		culture = bulgarian
-		religion = orthodox
+		culture = scandinavian
+		religion = protestant
 		size = 320
 	}
 
 	farmers = {
-		culture = bulgarian
-		religion = orthodox
+		culture = scandinavian
+		religion = protestant
 		size = 9600
 	}
 
-	clergymen = {
-		culture = sephardic
-		religion = jewish
-		size = 25
-	}
-
 	artisans = {
-		culture = sephardic
-		religion = jewish
+		culture = scandinavian
+		religion = protestant
 		size = 975
 	}
 }

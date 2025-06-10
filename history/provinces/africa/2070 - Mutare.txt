@@ -1,5 +1,5 @@
 owner = ARA
 controller = ARA
 add_core = ARA
-trade_goods = tobacco
-life_rating = 32
+trade_goods = fish
+life_rating = 35

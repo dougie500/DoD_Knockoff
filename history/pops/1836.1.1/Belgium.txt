@@ -295,7 +295,7 @@ farmers = {
 	craftsmen = {
 		culture = north_german
 		religion = protestant
-		size = 45000
+		size = 35000
 	}
 
 	artisans = {
@@ -320,7 +320,7 @@ farmers = {
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 87700
+		size = 27700
 	}
 
 	clergymen = {
@@ -374,7 +374,7 @@ farmers = {
 	farmers = {
 		culture = wallonian
 		religion = protestant
-		size = 72069
+		size = 52069
 	}
 }
 #Hasselt (272000/68000 POPS)
@@ -670,7 +670,7 @@ farmers = {
 	clergymen = {
 		culture = wallonian
 		religion = protestant
-		size = 350
+		size = 1350
 	}
 
 	clerks = {
@@ -682,7 +682,7 @@ farmers = {
 	craftsmen = {
 		culture = wallonian
 		religion = protestant
-		size = 2000
+		size = 10000
 	}
 
 	artisans = {
@@ -694,14 +694,14 @@ farmers = {
 	soldiers = {
 		culture = wallonian
 		religion = protestant
-		size= 3000
+		size= 6000
 
 	}
 
 	farmers = {
 		culture = wallonian
 		religion = protestant
-		size = 35800
+		size = 95800
 	}
 
 	capitalists = {
@@ -759,13 +759,13 @@ farmers = {
 	farmers = {
 		culture = wallonian
 		religion = protestant
-		size = 24175
+		size = 54175
 	}
 
 	clergymen = {
 		culture = north_german
 		religion = protestant
-		size = 75
+		size = 175
 	}
 
 	artisans = {
@@ -811,17 +811,17 @@ farmers = {
 	farmers = {
 		culture = wallonian
 		religion = protestant
-		size = 30625
+		size = 60625
 	}
 	
 	artisans = {
-		culture = north_german
+		culture = wallonian
 		religion = protestant
 		size = 600
 	}
 	
 	farmers = {
-		culture = north_german
+		culture = wallonian
 		religion = protestant
 		size = 8500
 	}

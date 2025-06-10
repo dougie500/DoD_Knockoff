@@ -240,13 +240,13 @@
 	clergymen = {
 		culture = sorbian
 		religion = protestant
-		size = 450 
+		size = 1450 
 	}
 
 	artisans = {
 		culture = sorbian
 		religion = protestant
-		size = 2400
+		size = 12400
 	}
 
 	soldiers = {
@@ -259,7 +259,7 @@
 	farmers = {
 		culture = sorbian
 		religion = protestant
-		size = 86425
+		size = 96425
 	}
 
 	artisans = {
@@ -2131,7 +2131,7 @@ farmers = {
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 87650
+		size = 57650
 	}
 
 	bureaucrats = {
@@ -2149,7 +2149,7 @@ farmers = {
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
-		size = 6550
+		size = 3550
 	}
 
 	soldiers = {

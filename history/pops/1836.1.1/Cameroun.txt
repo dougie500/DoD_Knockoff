@@ -3,45 +3,51 @@
 #Douala (328000/82000 POPS)
 1956 = {
 	aristocrats = {
-		culture = mongo
-		religion = animist
-		size = 1675
-	}
-
-	officers = {
-		culture = mongo
-		religion = animist
-		size = 150
+		culture = scottish
+		religion = protestant
+		size = 500
 	}
 
 	clergymen = {
-		culture = mongo
-		religion = animist
-		size = 825
+		culture = scottish
+		religion = protestant
+		size = 650
 	}
 
 	artisans = {
-		culture = mongo
-		religion = animist
-		size = 3300
-	}
-
-	soldiers = {
-		culture = mongo
-		religion = animist
-		size = 825
+		culture = scottish
+		religion = protestant
+		size = 4000
 	}
 
 	farmers = {
-		culture = mongo
-		religion = animist
-		size = 61225
+		culture = scottish
+		religion = protestant
+		size = 34550
 	}
-
-	slaves = {
-		culture = mongo
-		religion = animist
-		size = 14000
+	
+	aristocrats = {
+		culture = scandinavian
+		religion = protestant
+		size = 300
+	}
+	
+	clergymen = {
+		culture = scandinavian
+		religion = protestant
+		size = 450
+	}
+	
+	artisans = {
+		culture = scandinavian
+		religion = protestant
+		size = 3500
+	}
+	
+	farmers = {
+		culture = scandinavian
+		religion = protestant
+		size = 2800
 	}
 }
 #Buea (224000/56000 POPS)

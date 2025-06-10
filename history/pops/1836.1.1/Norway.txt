@@ -46,37 +46,37 @@
 #Bodo (56000/14000 POPS)
 306 = {
 	clergymen = {
-		culture = scandinavian
+		culture = swedish
 		religion = protestant
 		size = 50
 	}
 
 	aristocrats = {
-		culture = scandinavian
+		culture = swedish
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = scandinavian
+		culture = swedish
 		religion = protestant
 		size = 750
 	}
 
 	soldiers = {
-		culture = scandinavian
+		culture = swedish
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = scandinavian
+		culture = swedish
 		religion = protestant
 		size = 13100
 	}
 
 	farmers = {
-		culture = finnish
+		culture = swedish
 		religion = protestant
 		size = 1100
 	}
@@ -84,43 +84,43 @@
 #Hammerfest (36000/9000 POPS)
 307 = {
 	aristocrats = {
-		culture = scandinavian
+		culture = swedish
 		religion = protestant
 		size = 100
 	}
 	
 	clergymen = {
-		culture = scandinavian
+		culture = swedish
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = scandinavian
+		culture = swedish
 		religion = protestant
 		size = 500
 	}
 
 	soldiers = {
-		culture = scandinavian
+		culture = swedish
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = scandinavian
+		culture = swedish
 		religion = protestant
 		size = 5400
 	}
 
 	farmers = {
-		culture = sami
+		culture = swedish
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = finnish
+		culture = swedish
 		religion = protestant
 		size = 2000
 	}
@@ -450,31 +450,31 @@
 	aristocrats = {
 		culture = scandinavian
 		religion = protestant
-		size = 150
+		size = 1050
 	}
 	
 	clergymen = {
 		culture = scandinavian
 		religion = protestant
-		size = 75
+		size = 875
 	}
 
 	artisans = {
 		culture = scandinavian
 		religion = protestant
-		size = 750
+		size = 1750
 	}
 
 	soldiers = {
 		culture = scandinavian
 		religion = protestant
-		size = 150
+		size = 3150
 	}
 
 	farmers = {
 		culture = scandinavian
 		religion = protestant
-		size = 17025
+		size = 77025
 	}
 
 }

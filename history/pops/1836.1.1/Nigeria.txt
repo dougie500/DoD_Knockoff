@@ -3,69 +3,39 @@
 #Lagos (336000/84000 POPS)
 1923 = {
 	aristocrats = {
-		culture = hausa
-		religion = animist
+		culture = scandinavian
+		religion = protestant
 		size = 1550
 	}
 
 	clergymen = {
-		culture = hausa
-		religion = animist
-		size = 800
+		culture = scottish
+		religion = protestant
+		size = 600
 	}
 
 	artisans = {
-		culture = hausa
-		religion = animist
+		culture = scandinavian
+		religion = protestant
 		size = 3200
 	}
 
 	soldiers = {
-		culture = hausa
-		religion = animist
+		culture = scottish
+		religion = protestant
 		size = 1050
 	}
 
 	farmers = {
-		culture = hausa
-		religion = animist
-		size = 37400
-	}
-
-	slaves = {
-		culture = hausa
-		religion = animist
-		size = 36000
-	}
-
-	aristocrats = {
-		culture = hausa
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = hausa
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = hausa
-		religion = animist
-		size = 200
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = animist
-		size = 50
+		culture = scottish
+		religion = protestant
+		size = 17400
 	}
 
 	farmers = {
-		culture = hausa
-		religion = animist
-		size = 3600
+		culture = scandinavian
+		religion = protestant
+		size = 10600
 	}
 }
 #Abeokuta (784000/196000 POPS)

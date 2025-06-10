@@ -427,101 +427,94 @@
 #Aden (40000/10000 POPS)   
 1412 = {
 	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 150
+		culture = scottish
+		religion = protestant
+		size = 2400
 	}
 
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 100
+	bureaucrats = {
+		culture = scottish
+		religion = protestant
+		size = 1200
 	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
+	
+	officers = {
+		culture = scottish
+		religion = protestant
 		size = 500
 	}
 
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size= 100
-
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 7225
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = shiite
+	capitalists = {
+		culture = scottish
+		religion = protestant
 		size = 100
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = shiite
-		size = 150
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = shiite
-		size = 300
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = shiite
-		size= 2000
-
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = shiite
-		size = 5275
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 200
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size= 200
-
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 3750
 	}
 	
-	slaves = {
-		culture = kefficho
-		religion = animist
-		size = 1800
+	clergymen = {
+		culture = scottish
+		religion = protestant
+		size = 1100
+	}
+	
+	soldiers = {
+		culture = scottish
+		religion = protestant
+		size = 2000
+	}
+	
+	artisans = {
+		culture = scottish
+		religion = protestant
+		size = 10000
+	}
+
+	
+	craftsmen = {
+		culture = scottish
+		religion = protestant
+		size = 2700
+	}
+	
+	labourers = {
+		culture = scottish
+		religion = protestant
+		size = 37000
+	}
+	
+	aristocrats = {
+		culture = scandinavian
+		religion = protestant
+		size = 400
+	}
+	
+	bureaucrats = {
+		culture = scandinavian
+		religion = protestant
+		size = 300
+	}
+	
+	clergymen = {
+		culture = scandinavian
+		religion = protestant
+		size = 870
+	}
+	
+	artisans = {
+		culture = scandinavian
+		religion = protestant
+		size = 2100
+	}
+	
+	craftsmen = {
+		culture = scottish
+		religion = protestant
+		size = 5600
+	}
+	
+	
+	farmers = {
+		culture = scandinavian
+		religion = protestant
+		size = 4100
 	}
 }

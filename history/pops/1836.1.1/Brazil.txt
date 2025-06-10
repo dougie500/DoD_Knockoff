@@ -378,63 +378,69 @@
 }
 #Santarem (20000/5000 POPS)
 2411 = {
+	aristocrats = {
+		culture = castilian
+		religion = catholic
+		size = 1600
+	}
+
 	clergymen = {
-		culture = amazonian_native
-		religion = animist
-		size = 25
+		culture = castilian
+		religion = catholic
+		size = 800
 	}
 
 	artisans = {
-		culture = amazonian_native
-		religion = animist
-		size = 100
+		culture = castilian
+		religion = catholic
+		size = 4000
 	}
 
 	soldiers = {
-		culture = amazonian_native
-		religion = animist
-		size= 25
+		culture = castilian
+		religion = catholic
+		size= 1500
 
 	}
 
 	farmers = {
-		culture = amazonian_native
-		religion = animist
-		size = 1850
+		culture = castilian
+		religion = catholic
+		size = 35900
 	}
 }
 #Under loose authority of Brazil 1836
 #Obidos (8000/2000 POPS)
 2412 = {
 	aristocrats = {
-		culture = amazonian_native
-		religion = animist
-		size = 10
+		culture = castilian
+		religion = catholic
+		size = 600
 	}
 
 	clergymen = {
-		culture = amazonian_native
-		religion = animist
-		size = 25
+		culture = castilian
+		religion = catholic
+		size = 500
 	}
 
 	artisans = {
-		culture = amazonian_native
-		religion = animist
-		size = 50
+		culture = castilian
+		religion = catholic
+		size = 6000
 	}
 
 	soldiers = {
-		culture = amazonian_native
-		religion = animist
-		size= 15
+		culture = castilian
+		religion = catholic
+		size= 500
 
 	}
 
 	farmers = {
-		culture = amazonian_native
-		religion = animist
-		size = 900
+		culture = castilian
+		religion = catholic
+		size = 42933
 	}
 }
 #Cachimbo (12000/3000 POPS)
@@ -3424,78 +3430,46 @@
 #Under the rule of Brazil 1836
 #Curitiba (172000/43000 POPS)
 2457 = {
-	aristocrats = {
-		culture = ashkenazi
-		religion = protestant
-		size = 875
-	}
-
-	bureaucrats = {
-		culture = ashkenazi
-		religion = protestant
-		size = 200
-	}
-
-	officers = {
-		culture = ashkenazi
-		religion = protestant
-		size = 125
+	 aristocrats = {
+		culture = south_italian
+		religion = catholic
+		size = 600
 	}
 
 	clergymen = {
-		culture = ashkenazi
-		religion = protestant
-		size = 400
+		culture = south_italian
+		religion = catholic
+		size = 600
 	}
 
 	artisans = {
-		culture = ashkenazi
-		religion = protestant
-		size = 1525
+		culture = south_italian
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 1000
 	}
 
 	soldiers = {
-		culture = portuguese
-		religion = protestant
-		size= 1500
+		culture = south_italian
+		religion = catholic
+		size= 1600
 
 	}
 
 	farmers = {
-		culture = portuguese
-		religion = protestant
-		size = 33875
+		culture = south_italian
+		religion = catholic
+		size = 13850
 	}
-
-	clergymen = {
-		culture = ashkenazi
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = ashkenazi
-		religion = protestant
-		size = 250
-	}
-
-	soldiers = {
-		culture = ashkenazi
-		religion = protestant
-		size= 50
-
-	}
-
 	farmers = {
-		culture = portuguese
-		religion = protestant
-		size = 1700
-	}
-
-	slaves = {
-		culture = portuguese
-		religion = protestant
-		size = 3000
+		culture = catalan
+		religion = catholic
+		size = 29200
 	}
 }
 #Garapuava (40000/10000 POPS)

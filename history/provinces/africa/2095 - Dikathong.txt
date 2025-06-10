@@ -2,5 +2,4 @@ owner = ARA
 controller = ARA
 add_core = ARA
 trade_goods = grain
-terrain = semidesert
 life_rating = 35

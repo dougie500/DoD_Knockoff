@@ -1,6 +1,5 @@
-
-trade_goods = fruit
-terrain = semidesert
-life_rating = 32
-colonial = 1
-naval_base = 1
+owner = DUA
+controller = DUA
+add_core = DUA
+trade_goods = grain
+life_rating = 35

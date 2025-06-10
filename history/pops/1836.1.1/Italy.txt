@@ -139,15 +139,15 @@
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = provencal
 		religion = catholic
-		size= 2000
+		size= 3000
 
 	}
 	farmers = {
 		culture = provencal
 		religion = protestant	
-		size = 16525
+		size = 19525
 	}
 
 	farmers = {
@@ -324,41 +324,45 @@
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = provencal
 		religion = catholic
 		size = 3350
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = provencal
 		religion = catholic
 		size = 10000
 	}
 	
 	artisans = {
-		culture = north_italian
+		culture = provencal
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = provencal
 		religion = catholic
 		size= 3000
 
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = provencal
 		religion = catholic
 		size= 350
 
 	}
-
+	farmers = {
+		culture = provencal
+		religion = catholic
+		size = 20000
+	}
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 275925
+		size = 255925
 	}
 
 	clergymen = {
@@ -440,7 +444,7 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 159075
+		size = 88075
 	}
 }
 #Venetia Region (2060000)
@@ -1481,7 +1485,7 @@
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 230750
+		size = 210750
 	}
 
 	clergymen = {
@@ -1533,44 +1537,44 @@
 #Perugia (376000/94000 POPS)
 751 = {
 	aristocrats = {
-		culture = south_italian
+		culture = north_italian
 		religion = catholic
 		size = 2150
 	}
 
 	bureaucrats = {
-		culture = south_italian
+		culture = north_italian
 		religion = catholic
 		size = 225
 	}
 
 	officers = {
-		culture = south_italian
+		culture = north_italian
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = south_italian
+		culture = north_italian
 		religion = catholic
 		size = 950
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = north_italian
 		religion = catholic
 		size = 4500
 	}
 
 	soldiers = {
-		culture = south_italian
+		culture = north_italian
 		religion = catholic
 		size= 1100
 
 	}
 
 	farmers = {
-		culture = south_italian
+		culture = north_italian
 		religion = catholic
 		size = 54750
 	}
@@ -1578,32 +1582,32 @@
 #Ancona (180000/45000 POPS)
 752 = {
 	aristocrats = {
-		culture = south_italian
+		culture = north_italian
 		religion = catholic
 		size = 1075
 	}
 
 	clergymen = {
-		culture = south_italian
+		culture = north_italian
 		religion = catholic
 		size = 450
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = north_italian
 		religion = catholic
 		size = 8000
 	}
 
 	soldiers = {
-		culture = south_italian
+		culture = north_italian
 		religion = catholic
 		size= 450
 
 	}
 
 	farmers = {
-		culture = south_italian
+		culture = north_italian
 		religion = catholic
 		size = 35025
 	}
@@ -1654,7 +1658,7 @@
 	}
 	
 	farmers = {
-		culture = catalan
+		culture = south_italian
 		religion = catholic
 		size = 20000
 	}
@@ -1668,25 +1672,6 @@
 		religion = catholic
 		size = 6000
 	}
-
-	aristocrats = {
-		culture = catalan
-		religion = catholic
-		size = 2200
-	}
-  
-  capitalists = {
-		culture = catalan
-		religion = catholic
-		size = 75
-	} 
-  
-  craftsmen = {
-		culture = catalan
-		religion = catholic
-		size = 3300
-	}
-	
 	bureaucrats = {
 		culture = south_italian
 		religion = catholic
@@ -1715,37 +1700,21 @@
 		size = 10000
 	}
 	
-	artisans = {
-		culture = catalan
-		religion = catholic
-		size = 10000
-	}
 
 	soldiers = {
 		culture = south_italian
 		religion = catholic
-		size= 6000
+		size= 2000
 
 	}
 
-	soldiers = {
-		culture = catalan
-		religion = catholic
-		size= 6000
-
-	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 138925
+		size = 48925
 	}
 	
-	farmers = {
-		culture = catalan
-		religion = catholic
-		size = 64000
-	}
 }
 #Salerno (572000/143000 POPS)
 755 = {
@@ -1774,7 +1743,7 @@
 	}
 	
 	farmers = {
-		culture = catalan
+		culture = south_italian
 		religion = catholic
 		size = 22000
 	}
@@ -1806,7 +1775,7 @@
 	}
 	
 	farmers = {
-		culture = catalan
+		culture = south_italian
 		religion = catholic
 		size = 17000
 	}
@@ -1851,12 +1820,12 @@
 		size = 107800
 	}
 	farmers = {
-		culture = albanian
+		culture = south_italian
 		religion = catholic
 		size = 4000
 	}	
 	farmers = {
-		culture = catalan
+		culture = south_italian
 		religion = catholic
 		size = 16000
 	}
@@ -1888,7 +1857,7 @@
 	}
 	
 	farmers = {
-		culture = catalan
+		culture = south_italian
 		religion = catholic
 		size = 24000
 	}
@@ -1920,13 +1889,13 @@
 	}
 	
 	farmers = {
-		culture = catalan
+		culture = south_italian
 		religion = catholic
 		size = 10000
 	}
 	
 	farmers = {
-		culture = albanian
+		culture = south_italian
 		religion = catholic
 		size = 4000
 	}
@@ -1979,20 +1948,20 @@
 	}
 	
 	farmers = {
-		culture = catalan
+		culture = south_italian
 		religion = catholic
 		size = 19000
 	}
 	
 	farmers = {
-		culture = albanian
-		religion = orthodox
+		culture = south_italian
+		religion = catholic
 		size = 6000
 	}
 	
 	farmers = {
-		culture = greek
-		religion = orthodox
+		culture = south_italian
+		religion = catholic
 		size = 2000
 	}
 }
@@ -2030,14 +1999,14 @@
 	}
 	
 	farmers = {
-		culture = catalan
+		culture = south_italian
 		religion = catholic
 		size = 12000
 	}
 	
 	farmers = {
-		culture = albanian
-		religion = orthodox
+		culture = south_italian
+		religion = catholic
 		size = 3550
 	}
 }
@@ -2046,7 +2015,7 @@
 	aristocrats = {
 		culture = south_italian
 		religion = catholic
-		size = 3750
+		size = 2750
 	}
 
 	clergymen = {
@@ -2064,21 +2033,16 @@
 	soldiers = {
 		culture = south_italian
 		religion = catholic
-		size= 4000
+		size= 3000
 
 	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 119325
+		size = 98325
 	}
 	
-	farmers = {
-		culture = catalan
-		religion = catholic
-		size = 20000
-	}
 }
 #Sicily Region (1816000)
 #under the rule of Two Sicilies in 1836
@@ -2091,7 +2055,7 @@
 	}
 
 	aristocrats = {
-		culture = catalan
+		culture = south_italian
 		religion = catholic
 		size = 1200
 	}
@@ -2121,7 +2085,7 @@
 	}
 	
 	artisans = {
-		culture = catalan
+		culture = south_italian
 		religion = catholic
 		size = 12000
 	}
@@ -2131,30 +2095,13 @@
 		religion = catholic
 		size = 6000
 	}
-
-	soldiers = {
-		culture = catalan
-		religion = catholic
-		size = 6000
-	}
 	
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 147575
+		size = 107575
 	}
 	
-	farmers = {
-		culture = catalan
-		religion = catholic
-		size = 38550
-	}
-	
-	farmers = {
-		culture = albanian
-		religion = orthodox
-		size = 4450
-	}
 }
 #Messina (352000/88000 POPS)
 763 = {
@@ -2177,13 +2124,13 @@
 	}
 	
     soldiers = {
-		culture = catalan
+		culture = south_italian
 		religion = catholic
 		size = 4000
     }	
 
 	farmers = {
-		culture = catalan
+		culture = south_italian
 		religion = catholic
 		size = 20000
 	}
@@ -2195,8 +2142,8 @@
 	}
 	
 	farmers = {
-		culture = albanian
-		religion = orthodox
+		culture = south_italian
+		religion = catholic
 		size = 2000
 	}
 	
@@ -2212,19 +2159,19 @@
 	clergymen = {
 		culture = south_italian
 		religion = catholic
-		size = 700
+		size = 1700
 	}
 
 	artisans = {
 		culture = south_italian
 		religion = catholic
-		size = 1400
+		size = 10400
 	}
 
 	farmers = {
-		culture = catalan
+		culture = south_italian
 		religion = catholic
-		size = 40000
+		size = 20000
 	}
 
 	farmers = {
@@ -2234,8 +2181,8 @@
 	}
 	
 	farmers = {
-		culture = greek
-		religion = orthodox
+		culture = south_italian
+		religion = catholic
 		size = 1000
 	}
 }
@@ -2279,11 +2226,6 @@
 		size= 3000
 	}
 
-	soldiers = {
-		culture = catalan
-		religion = catholic
-		size = 3000
-	}
 	
 	farmers = {
 		culture = south_italian
@@ -2380,7 +2322,7 @@
 	}
 
 	farmers = {
-		culture = catalan
+		culture = south_italian
 		religion = catholic
 		size = 3000
 	}

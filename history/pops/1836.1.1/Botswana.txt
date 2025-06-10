@@ -3,160 +3,81 @@
 #Gaborone (28000/7000 POPS) 
 2074 = {
     aristocrats = {
-       culture = zulu
-        religion = protestant
-        size = 570
-    }
+		culture = south_italian
+		religion = catholic
+		size = 600
+	}
 
-    clergymen = {
-        culture = zulu
-        religion = animist
-        size = 75
-    }
+	clergymen = {
+		culture = south_italian
+		religion = catholic
+		size = 600
+	}
 
-    artisans = {
-        culture = zulu
-        religion = animist
-        size = 350
-    }
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 10000
+	}
 
-    soldiers = {
-       culture = zulu
-        religion = protestant
-        size = 2500
-    }
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 1000
+	}
 
-    farmers = {
-        culture = zulu
-        religion = animist
-        size = 6375
-    }
+	soldiers = {
+		culture = south_italian
+		religion = catholic
+		size= 1600
 
-    clergymen = {
-       culture = zulu
-        religion = protestant
-        size = 500
-    }
+	}
 
-    artisans = {
-       culture = zulu
-        religion = protestant
-        size = 689
-    }
-
-    farmers = {
-       culture = zulu
-        religion = protestant
-        size = 3000
-    }
-    farmers = {
-        culture = boer 
-         religion = protestant
-         size = 15000
-     }
-
-    aristocrats = {
-        culture = zulu
-        religion = animist
-        size = 250
-    }
-
-    aristocrats = {
-        culture = zulu
-        religion = animist
-        size = 50
-    }
-
-    soldiers = {
-        culture = zulu
-        religion = animist
-        size = 150
-    }
-
-    soldiers = {
-        culture = zulu
-        religion = animist
-        size = 25
-    }
-
-    soldiers = {
-        culture = zulu
-        religion = animist
-        size = 25
-    }
-
-    bureaucrats = {
-        culture = zulu
-        religion = animist
-        size = 5
-    }
+	farmers = {
+		culture = catalan
+		religion = catholic
+		size = 49200
+	}
 }
 #Nokaneng (12000/3000 POPS) 
 2076 = {
-    clergymen = {
-        culture = zulu
-        religion = animist
-        size = 25
+     clergymen = {
+        culture = south_italian
+		religion = catholic
+        size = 150
     }
 
     artisans = {
-        culture = zulu
-        religion = animist
+        culture = south_italian
+		religion = catholic
+        size = 2200
+    }
+
+    farmers = {
+        culture = south_italian
+		religion = catholic
+        size = 20053
+    }
+    farmers = {
+        culture = north_italian
+		religion = catholic
+        size = 18053
+    }
+    clergymen = {
+       culture = south_italian
+		religion = catholic
         size = 50
     }
 
-    farmers = {
-        culture = zulu
-        religion = animist
-        size = 900
-    }
-
-    clergymen = {
-        culture = zulu
-        religion = animist
-        size = 50
-    }
-
     artisans = {
-        culture = zulu
-        religion = animist
-        size = 100
+       culture = south_italian
+		religion = catholic
+        size = 200
     }
-
-    farmers = {
-        culture = zulu
-        religion = animist
-        size = 1800
-    }
-
-    officers = {
-        culture = zulu
-        religion = animist
-        size = 20
-    }
-
-    bureaucrats = {
-        culture = zulu
-        religion = animist
-        size = 20
-    }
-
-    clergymen = {
-       culture = zulu
-        religion = protestant
-        size = 250
-    }
-
-    artisans = {
-       culture = zulu
-        religion = protestant
-        size = 300
-    }
-
-    farmers = {
-       culture = zulu
-        religion = protestant
-        size = 4000
+    soldiers = {
+       culture = south_italian
+		religion = catholic
+        size = 1000
     }
 }
 #Tshabong (12000/3000 POPS) 
@@ -218,39 +139,38 @@
 #Mochidi (16000/4000 POPS) 
 2574 = {
     clergymen = {
-        culture = zulu
-        religion = animist
-        size = 50
+        culture = south_italian
+		religion = catholic
+        size = 150
     }
 
     artisans = {
-        culture = zulu
-        religion = animist
-        size = 200
+        culture = south_italian
+		religion = catholic
+        size = 2200
     }
 
     farmers = {
-        culture = zulu
-        religion = animist
-        size = 3650
+        culture = south_italian
+		religion = catholic
+        size = 53650
     }
 
     clergymen = {
-       culture = zulu
-        religion = protestant
+       culture = south_italian
+		religion = catholic
         size = 50
     }
 
     artisans = {
-       culture = zulu
-        religion = protestant
+       culture = south_italian
+		religion = catholic
         size = 200
     }
-
-    farmers = {
-       culture = zulu
-        religion = protestant
-        size = 5000
+    soldiers = {
+       culture = south_italian
+		religion = catholic
+        size = 2000
     }
 }
 #under the rule of Matabele in 1836

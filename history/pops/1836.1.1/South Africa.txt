@@ -835,97 +835,114 @@
 #Uncolonized in 1836
 #Kimberley (156000/39000 POPS)
 2094 = {
-    clergymen = {
-        culture = zulu
-        religion = fetishist
-        size = 224
-    }
+    aristocrats = {
+		culture = south_italian
+		religion = catholic
+		size = 6000
+	}
 
-    farmers = {
-        culture = boer
-        religion = protestant
-        size = 3204
-    }
+	aristocrats = {
+		culture = south_italian
+		religion = catholic
+		size = 2200
+	}
+  
+  capitalists = {
+		culture = south_italian
+		religion = catholic
+		size = 75
+	} 
+  
+  craftsmen = {
+		culture = south_italian
+		religion = catholic
+		size = 3300
+	}
+	
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic
+		size = 825
+	}
+	craftsmen = {
+		culture = south_italian
+		religion = catholic
+		size = 15000
+	}
+	officers = {
+		culture = south_italian
+		religion = catholic
+		size = 625
+	}
 
-    bureaucrats = {
-        culture = boer
-        religion = protestant
-        size = 25
-    }
+	clergymen = {
+		culture = south_italian
+		religion = catholic
+		size = 3375
+	}
 
-    artisans = {
-        culture = boer
-        religion = protestant
-        size = 482
-    }
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 10000
+	}
 
-    officers = {
-        culture = boer
-        religion = protestant
-        size = 100
-    }
+	soldiers = {
+		culture = south_italian
+		religion = catholic
+		size= 6000
 
-    farmers = {
-        culture = zulu
-        religion = fetishist
-        size = 16272
-    }
+	}
 
-    clergymen = {
-        culture = boer
-        religion = protestant
-        size = 145
-    }
-
-    farmers = {
-        culture = boer
-        religion = protestant
-        size = 11240
-    }
-
-    clergymen = {
-       culture = zulu
-        religion = protestant
-        size = 96
-    }
-
-    farmers = {
-       culture = zulu
-        religion = protestant
-        size = 8688
-    }
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 138925
+	}
+	
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 64000
+	}
 }
 #Bechuanaland Region (20000) #see Botswana.txt for balance of region
 #Dikathong (20000/5000 POPS)
 2095 = {
     clergymen = {
-        culture = zulu
-        religion = fetishist
-        size = 280
+        culture = south_italian
+		religion = catholic
+        size = 1280
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 500
+        culture = south_italian
+		religion = catholic
+        size = 4500
     }
 
     farmers = {
-        culture = zulu
-        religion = fetishist
+        culture = south_italian
+		religion = catholic
         size = 4604
     }
 	
     clergymen = {
-       culture = zulu
-        religion = protestant
-        size = 12
+       culture = south_italian
+		religion = catholic
+        size = 1212
     }
 
     farmers = {
-       culture = zulu
-        religion = protestant
-        size = 1116
+       culture = south_italian
+		religion = catholic
+        size = 99000
     }
 }
 #Eastern Cape Region (232000)
@@ -1271,97 +1288,104 @@
 #Bloemfontein (194000/48500 POPS)
 2101 = {
     soldiers = {
-        culture = boer
-        religion = protestant
+        culture = south_italian
+		religion = catholic
         size = 2030
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
+        culture = south_italian
+		religion = catholic
         size = 5000
     }
 
     aristocrats = {
-        culture = boer
-        religion = protestant
+        culture = south_italian
+		religion = catholic
         size = 2275
     }
 
     clergymen = {
-        culture = zulu
-        religion = fetishist
+        culture = south_italian
+		religion = catholic
         size = 266
     }
 
     farmers = {
-        culture = zulu
-        religion = fetishist
-        size = 24360
+        culture = south_italian
+		religion = catholic
+        size = 31360
     }
 
     clergymen = {
-       culture = zulu
-        religion = protestant
-        size = 114
+       culture = south_italian
+		religion = catholic
+        size = 1114
     }
 
     farmers = {
-       culture = zulu
-        religion = protestant
+       culture = south_italian
+		religion = catholic
         size = 10440
     }
 
-    soldiers = {
-       culture = zulu
-        religion = protestant
-        size = 1440
-    }
+   
 }
 #Winburg (102000/25500 POPS)
 2102 = {
-
-    clergymen = {
-        culture = zulu
-        religion = fetishist
-        size = 126
-    }
-	
+aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 400
+	}
 	soldiers = {
-        culture = zulu
-        religion = protestant
-        size = 2000
-    }
+		culture = north_italian
+		religion = catholic
+		size = 1000
+	}
+	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 150
+	}
 
-    farmers = {
-        culture = zulu
-        religion = fetishist
-        size = 10206
-    }
+	officers = {
+		culture = north_italian
+		religion = catholic
+		size = 50
+	}
 
-    clergymen = {
-        culture = zulu
-        religion = fetishist
-        size = 28
-    }
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic
+		size = 100
+	}
 
-    farmers = {
-        culture = boer
-        religion = fetishist
-        size = 10562
-    }
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 500
+	}
 
-    clergymen = {
-       culture = zulu
-        religion = protestant
-        size = 66
-    }
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 1500
+	}
 
-    farmers = {
-       culture = zulu
-        religion = protestant
-        size = 5472
-    }
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 57824
+	}
+
+	
 }
 #Philippolis (85000/21250 POPS)
 2103 = {
