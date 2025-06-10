@@ -1,6 +1,6 @@
 trade_goods = fish
 terrain = semidesert
-life_rating = 32
+life_rating = 33
 owner = MGH
 controller = MGH
 add_core = MGH

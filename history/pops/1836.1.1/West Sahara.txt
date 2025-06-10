@@ -57,7 +57,7 @@
     farmers = {
         culture = tuareg
         religion = sunni
-        size = 1500
+        size = 21500
     }
 }
 #Dahkla (8000/2000 POPS)  
@@ -83,6 +83,6 @@
     farmers = {
         culture = tuareg
         religion = sunni
-        size = 900
+        size = 34900
     }
 }

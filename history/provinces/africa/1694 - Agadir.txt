@@ -4,4 +4,3 @@ add_core = MGH
 trade_goods = fish
 life_rating = 33
 terrain = semidesert
-colonial = 1

@@ -4,10 +4,4 @@ add_core = MGH
 trade_goods = fish
 life_rating = 33
 terrain = semidesert
-colonial = 1
 naval_base = 1
-1861.1.1 = {
-	owner = SPA
-	controller = SPA
-	colonial = 2
-}

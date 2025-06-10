@@ -5,19 +5,19 @@
     aristocrats = {
         culture = maghrebi
         religion = catholic
-        size = 100
+        size = 1000
     }
 
     bureaucrats = {
         culture = maghrebi
         religion = catholic
-        size = 300
+        size = 600
     }
 
     clergymen = {
         culture = maghrebi
         religion = catholic
-        size = 170
+        size = 1470
     }
 
     artisans = {
@@ -37,7 +37,11 @@
         religion = catholic
         size = 50065
     }
-
+    craftsmen = {
+        culture = maghrebi
+        religion = catholic
+        size = 10000
+    }
     clergymen = {
         culture = maghrebi
         religion = sunni
@@ -47,25 +51,18 @@
     artisans = {
         culture = maghrebi
         religion = sunni
-        size = 3600
+        size = 13600
     }
 
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 31360
+        size = 61360
     }
-
-    clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 25
-    }
-
     artisans = {
         culture = maghrebi
         religion = sunni
-        size = 250
+        size = 1250
     }
 
     farmers = {
@@ -78,7 +75,7 @@
 #Bougie (448000/112000 POPS)
 1701 = {
     officers = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
         size = 200
     }
@@ -86,7 +83,7 @@
     soldiers = {
         culture = maghrebi
         religion = sunni
-        size = 1200
+        size = 2200
     }
 
     soldiers = {
@@ -98,25 +95,30 @@
     clergymen = {
         culture = maghrebi
         religion = sunni
-        size = 700
+        size = 1700
     }
 
     artisans = {
         culture = maghrebi
         religion = sunni
-        size = 3480
+        size = 10480
+    }
+    craftsmen = {
+        culture = maghrebi
+        religion = sunni
+        size = 10480
     }
 
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 61900
+        size = 131900
     }
 
     officers = {
         culture = maghrebi
         religion = sunni
-        size = 75
+        size = 175
     }
 
     clergymen = {
@@ -138,19 +140,19 @@
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
         size = 175
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
         size = 870
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = catholic
         size = 5475
     }
@@ -340,13 +342,13 @@
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 11680
+        size = 31680
     }
 
     clergymen = {
         culture = maghrebi
         religion = sunni
-        size = 25
+        size = 125
     }
 
     artisans = {
@@ -391,7 +393,7 @@
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 30040
+        size = 50040
     }
 
     officers = {
@@ -446,7 +448,7 @@
     soldiers = {
 		culture = catalan
 		religion = catholic
-		size = 1500
+		size = 1800
     }	
 
     artisans = {
@@ -494,7 +496,7 @@
     farmers = {
         culture = maghrebi
         religion = catholic
-        size = 8510
+        size = 38510
     }
 }
 #Mascara (60000/15000 POPS)
@@ -538,7 +540,7 @@
     clergymen = {
         culture = maghrebi
         religion = catholic
-        size = 15
+        size = 115
     }
 
     artisans = {
@@ -550,7 +552,7 @@
     farmers = {
         culture = maghrebi
         religion = catholic
-        size = 1285
+        size = 21285
     }
 }
 #Constantinois Region (344000)
@@ -590,7 +592,7 @@
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 8960
+        size = 44960
     }
 
     clergymen = {

@@ -3,34 +3,63 @@
 #Marabitanas (12000/3000 POPS) #now part of Brazil
 2401 = {
 	aristocrats = {
-		culture = amazonian_native
-		religion = animist
-		size = 50
+		culture = portuguese
+		religion = catholic
+		size = 250
 	}
 
 	clergymen = {
-		culture = amazonian_native
-		religion = animist
-		size = 75
+		culture = portuguese
+		religion = catholic
+		size = 125
 	}
 
 	artisans = {
-		culture = amazonian_native
-		religion = animist
-		size = 150
+		culture = portuguese
+		religion = catholic
+		size = 625
 	}
 
 	soldiers = {
-		culture = amazonian_native
-		religion = animist
-		size= 25
-
+		culture = portuguese
+		religion = catholic
+		size= 125
 	}
 
 	farmers = {
-		culture = amazonian_native
-		religion = animist
-		size = 2700
+		culture = portuguese
+		religion = catholic
+		size = 17788
+	}
+
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 125
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 625
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 125
+	}
+
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 32962
 	}
 }
 #Amazonas Region (80000)
@@ -65,68 +94,80 @@
 #Under loose authority of Brazil 1836
 #Cachoeira (8000/2000 POPS)
 2403 = {
-	aristocrats = {
-		culture = amazonian_native
-		religion = animist
-		size = 25
+		aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 260
 	}
 
 	clergymen = {
-		culture = amazonian_native
-		religion = animist
-		size = 50
+		culture = portuguese
+		religion = catholic
+		size = 210
 	}
 
 	artisans = {
-		culture = amazonian_native
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = amazonian_native
-		religion = animist
-		size= 25
-
+		culture = portuguese
+		religion = catholic
+		size =950
 	}
 
 	farmers = {
-		culture = amazonian_native
-		religion = animist
-		size = 1800
+		culture = portuguese
+		religion = catholic
+		size = 19960
 	}
+
+	aristocrats = {
+		culture = castilian
+		religion = catholic
+		size = 140
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 1050
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 250
+	}
+
 }
 #Tefe (4000/1000 POPS)
 2404 = {
 	aristocrats = {
-		culture = amazonian_native
-		religion = animist
-		size = 10
+		culture = castilian
+		religion = catholic
+		size = 1100
 	}
 
 	clergymen = {
-		culture = amazonian_native
-		religion = animist
-		size = 25
+		culture = castilian
+		religion = catholic
+		size = 550
 	}
 
 	artisans = {
-		culture = amazonian_native
-		religion = animist
-		size = 50
+		culture = castilian
+		religion = catholic
+		size = 2600
 	}
 
 	soldiers = {
-		culture = amazonian_native
-		religion = animist
-		size= 15
+		culture = castilian
+		religion = catholic
+		size= 1100
 
 	}
 
 	farmers = {
-		culture = amazonian_native
-		religion = animist
-		size = 900
+		culture = castilian
+		religion = catholic
+		size = 41750
 	}
 }
 #Borba (12000/3000 POPS)
@@ -165,67 +206,94 @@
 #Tabatinga (4000/1000 POPS)
 2407 = {
 	aristocrats = {
-		culture = amazonian_native
-		religion = animist
-		size = 10
+		culture = maghrebi
+		religion = catholic
+		size = 1250
+	}
+
+	officers = {
+		culture = maghrebi
+		religion = catholic
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = maghrebi
+		religion = catholic
+		size = 250
 	}
 
 	clergymen = {
-		culture = amazonian_native
-		religion = animist
-		size = 25
+		culture = maghrebi
+		religion = catholic
+		size = 550
 	}
 
 	artisans = {
-		culture = amazonian_native
-		religion = animist
-		size = 50
+		culture = maghrebi
+		religion = catholic
+		size = 4500
 	}
 
 	soldiers = {
-		culture = amazonian_native
-		religion = animist
-		size= 15
+		culture = maghrebi
+		religion = catholic
+		size= 2400
 
 	}
 
 	farmers = {
-		culture = amazonian_native
-		religion = animist
-		size = 900
+		culture = maghrebi
+		religion = catholic
+		size = 20000
+	}
+	farmers = {
+		culture = castilian
+		religion = catholic
+		size = 27850
 	}
 }
 #Oriximina (8000/2000 POPS)
 2408 = {
 	aristocrats = {
-		culture = amazonian_native
-		religion = animist
-		size = 25
+		culture = portuguese
+		religion = catholic
+		size = 260
 	}
 
 	clergymen = {
-		culture = amazonian_native
-		religion = animist
-		size = 50
+		culture = portuguese
+		religion = catholic
+		size = 210
 	}
 
 	artisans = {
-		culture = amazonian_native
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = amazonian_native
-		religion = animist
-		size= 25
-
+		culture = portuguese
+		religion = catholic
+		size =950
 	}
 
 	farmers = {
-		culture = amazonian_native
-		religion = animist
-		size = 1800
+		culture = portuguese
+		religion = catholic
+		size = 23805
+	}
+
+	aristocrats = {
+		culture = castilian
+		religion = catholic
+		size = 140
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 3445
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 500
 	}
 }
 #Forte Sao Joaquim (4000/1000 POPS) #now Roraima state Brazil 
@@ -480,126 +548,139 @@
 #Macapa (8000/2000 POPS)
 2415 = {
 	aristocrats = {
-		culture = guianan
+		culture = portuguese
 		religion = catholic
-		size = 40
+		size = 338
 	}
+
 	clergymen = {
-		culture = guianan
+		culture = portuguese
 		religion = catholic
-		size = 50
+		size = 245
 	}
 
 	artisans = {
-		culture = guianan
+		culture = portuguese
 		religion = catholic
-		size = 65
+		size = 1575
 	}
 
 	soldiers = {
-		culture = guianan
+		culture = portuguese
 		religion = catholic
-		size= 50
+		size= 260
 
 	}
 
 	farmers = {
-		culture = guianan
+		culture = portuguese
 		religion = catholic
-		size = 900
-	}
-	clergymen = {
-		culture = afro_latino
-		religion = catholic
-		size = 10
+		size = 42085
 	}
 
-	artisans = {
-		culture = afro_latino
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = afro_latino
-		religion = catholic
-		size= 10
-
-	}
-
-	farmers = {
-		culture = afro_latino
-		religion = catholic
-		size = 150
-	}
-
-	farmers = {
-		culture = afro_latino
-		religion = catholic
-		size = 680
-	}
 	aristocrats = {
-		culture = amazonian_native
-		religion = animist
-		size = 10
+		culture = castilian
+		religion = catholic
+		size = 112
 	}
 
 	clergymen = {
-		culture = amazonian_native
-		religion = animist
-		size = 50
+		culture = castilian
+		religion = catholic
+		size = 105
 	}
 
 	artisans = {
-		culture = amazonian_native
-		religion = animist
-		size = 100
+		culture = castilian
+		religion = catholic
+		size = 675
 	}
 
 	soldiers = {
-		culture = amazonian_native
-		religion = animist
-		size= 30
-
+		culture = castilian
+		religion = catholic
+		size = 140
 	}
 
 	farmers = {
-		culture = amazonian_native
-		religion = animist
-		size = 1810
+		culture = portuguese
+		religion = catholic
+		size = 36464
 	}
 }
 #Altamira (12000/3000 POPS)
 2600 = {
 	aristocrats = {
-		culture = amazonian_native
-		religion = animist
-		size = 25
+		culture = portuguese
+		religion = catholic
+		size = 1100
 	}
+	
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 1320
+	}
+	
+	officers = {
+		culture = portuguese
+		religion = catholic
+		size = 450
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 200
+	}
+	
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 450
+	}	
 
 	clergymen = {
-		culture = amazonian_native
-		religion = animist
-		size = 50
+		culture = portuguese
+		religion = catholic
+		size = 1700
 	}
+	
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 1300
+	}	
 
 	artisans = {
-		culture = amazonian_native
-		religion = animist
-		size = 100
+		culture = portuguese
+		religion = catholic
+		size = 2500
 	}
+	
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 3850
+	}	
 
 	soldiers = {
-		culture = amazonian_native
-		religion = animist
-		size= 25
+		culture = portuguese
+		religion = catholic
+		size= 3000
 
 	}
 
 	farmers = {
-		culture = amazonian_native
-		religion = animist
-		size = 1800
+		culture = portuguese
+		religion = catholic
+		size = 41700
+	}
+	
+	farmers = {
+		culture = castilian
+		religion = catholic
+		size = 62650
 	}
 }
 #Mato Grosso Region (108000)
@@ -2584,70 +2665,34 @@
 #Sao Joao del Rey (132000/33000 POPS)
 2446 = {
 	aristocrats = {
-		culture = ashkenazi
-		religion = protestant
-		size = 675
+		culture = castilian
+		religion = catholic
+		size = 1600
 	}
 
 	clergymen = {
-		culture = ashkenazi
-		religion = protestant
-		size = 225
+		culture = castilian
+		religion = catholic
+		size = 800
 	}
 
 	artisans = {
-		culture = ashkenazi
-		religion = protestant
-		size = 525
+		culture = castilian
+		religion = catholic
+		size = 4000
 	}
 
 	soldiers = {
-		culture = ashkenazi
-		religion = protestant
-		size= 125
+		culture = castilian
+		religion = catholic
+		size= 1500
 
 	}
 
 	farmers = {
-		culture = portuguese
-		religion = protestant
-		size = 10500
-	}
-
-	farmers = {
-		culture = ashkenazi
-		religion = protestant
-		size = 9500
-	}
-	clergymen = {
-		culture = ashkenazi
-		religion = protestant
-		size = 100
-	}
-
-	artisans = {
-		culture = ashkenazi
-		religion = protestant
-		size = 1100
-	}
-
-	soldiers = {
-		culture = ashkenazi
-		religion = protestant
-		size= 200
-
-	}
-
-	farmers = {
-		culture = ashkenazi
-		religion = protestant
-		size = 3700
-	}
-
-	slaves = {
-		culture = ashkenazi
-		religion = protestant
-		size = 8000
+		culture = castilian
+		religion = catholic
+		size = 33500
 	}
 }
 #Rio de Janeiro Region (976000)
@@ -4238,67 +4283,157 @@
 #Tarauaca (16000/4000 POPS) #now part of Brazil - Acre State
 2549 = {
 	aristocrats = {
-		culture = amazonian_native
-		religion = animist
-		size = 75
+		culture = maghrebi
+		religion = catholic
+		size = 1250
 	}
 
-	clergymen = {
-		culture = amazonian_native
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = amazonian_native
-		religion = animist
+	officers = {
+		culture = maghrebi
+		religion = catholic
 		size = 200
 	}
 
+	bureaucrats = {
+		culture = maghrebi
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = maghrebi
+		religion = catholic
+		size = 550
+	}
+
+	artisans = {
+		culture = maghrebi
+		religion = catholic
+		size = 4500
+	}
+
 	soldiers = {
-		culture = amazonian_native
-		religion = animist
-		size= 50
+		culture = maghrebi
+		religion = catholic
+		size= 2400
 
 	}
 
 	farmers = {
-		culture = amazonian_native
-		religion = animist
-		size = 3625
+		culture = maghrebi
+		religion = catholic
+		size = 10000
+	}
+	farmers = {
+		culture = castilian
+		religion = catholic
+		size = 14550
 	}
 }
 #Forte do Principe (16000/4000 POPS) #now part of Brazil - Rondonia State
 2550 = {
 	aristocrats = {
-		culture = amazonian_native
-		religion = animist
+		culture = castilian
+		religion = catholic
+		size = 2000
+	}
+
+	officers = {
+		culture = castilian
+		religion = catholic
+		size = 500
+	} 
+  
+  craftsmen = {
+		culture = castilian
+		religion = catholic
+		size = 10000
+	}
+  
+  capitalists = {
+		culture = castilian
+		religion = catholic
 		size = 50
+	}
+  
+  clerks = {
+		culture = castilian
+		religion = catholic
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = castilian
+		religion = catholic
+		size = 1100
 	}
 
 	clergymen = {
-		culture = amazonian_native
-		religion = animist
-		size = 75
+		culture = castilian
+		religion = catholic
+		size = 900
 	}
 
 	artisans = {
-		culture = amazonian_native
-		religion = animist
-		size = 150
+		culture = castilian
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = castilian
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = castilian
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = castilian
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = castilian
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = castilian
+		religion = catholic
+		size = 8000
+	}
+	
+	artisans = {
+		culture = castilian
+		religion = catholic
+		size = 4500
+	}
+	
+	craftsmen = {
+		culture = castilian
+		religion = catholic
+		size = 2000
 	}
 
+
 	soldiers = {
-		culture = amazonian_native
-		religion = animist
-		size= 25
+		culture = castilian
+		religion = catholic
+		size= 2000
 
 	}
 
 	farmers = {
-		culture = amazonian_native
-		religion = animist
-		size = 2700
+		culture = castilian
+		religion = catholic
+		size = 20100
 	}
 
 }

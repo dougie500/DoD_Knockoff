@@ -71,7 +71,7 @@
 	farmers = {
 		culture = castilian
 		religion = catholic
-		size = 112650
+		size = 62650
 	}	
 }
 #Oviedo (448000/112000 POPS)
@@ -496,46 +496,51 @@
 #Badajoz (216000/54000 POPS)
 484 = {
 	aristocrats = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 1250
 	}
 
 	officers = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 550
 	}
 
 	artisans = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 4500
 	}
 
 	soldiers = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size= 2400
 
 	}
 
 	farmers = {
+		culture = maghrebi
+		religion = catholic
+		size = 20000
+	}
+	farmers = {
 		culture = castilian
 		religion = catholic
-		size = 46650
+		size = 26650
 	}
 }
 #Almendralejo (192000/48000 POPS)
@@ -564,11 +569,15 @@
 		size= 2300
 
 	}
-
+	farmers = {
+		culture = maghrebi
+		religion = catholic
+		size = 32000
+	}
 	farmers = {
 		culture = castilian
 		religion = catholic
-		size = 43700
+		size = 53700
 	}
 }
 #Caceres (172000/43000 POPS)
@@ -597,11 +606,15 @@
 		size= 1800
 
 	}
-
+	farmers = {
+		culture = maghrebi
+		religion = catholic
+		size = 10000
+	}
 	farmers = {
 		culture = castilian
 		religion = catholic
-		size = 38725
+		size = 28725
 	}
 
 }
@@ -705,11 +718,15 @@
 		size= 3000
 
 	}
-
+	farmers = {
+		culture = maghrebi
+		religion = catholic
+		size = 14000
+	}
 	farmers = {
 		culture = castilian
 		religion = catholic
-		size = 20100
+		size = 10100
 	}
 }
 #Siguenza (204000/51000 POPS)
@@ -773,11 +790,15 @@
 	}
 
 	
-
+	farmers = {
+		culture = maghrebi
+		religion = catholic
+		size = 20000
+	}
 	farmers = {
 		culture = castilian
 		religion = catholic
-		size = 62200
+		size = 55200
 	}
 }
 #Cuenca (346000/86500 POPS)
@@ -843,9 +864,13 @@
 	farmers = {
 		culture = castilian
 		religion = catholic
-		size = 65600
+		size = 30600
 	}
-
+	farmers = {
+		culture = maghrebi
+		religion = catholic
+		size = 30000
+	}
 }
 #Vizcaya-Navarra Region (710000)
 #Bilbao (308000/77000 POPS)
@@ -1579,19 +1604,19 @@
 	}
 
 	clergymen = {
-		culture = catalan
+		culture = maghrebi
 		religion = catholic
 		size = 525
 	}
 
 	artisans = {
-		culture = catalan
+		culture = maghrebi
 		religion = catholic
 		size = 7000
 	}
 
 	soldiers = {
-		culture = catalan
+		culture = maghrebi
 		religion = catholic
 		size= 1550
 
@@ -1600,12 +1625,12 @@
 	farmers = {
 		culture = catalan
 		religion = catholic
-		size = 22375
+		size = 32375
 	}
 	farmers = {
-		culture = catalan
+		culture = maghrebi
 		religion = catholic
-		size = 22375
+		size = 37375
 	}	
 }
 #Murcia (92000/23000 POPS)
@@ -1637,12 +1662,12 @@
 	farmers = {
 		culture = catalan
 		religion = catholic
-		size = 31025
+		size = 21025
 	}
 	farmers = {
-		culture = catalan
+		culture = maghrebi
 		religion = catholic
-		size = 11025
+		size = 21025
 	}
 }
 #Albacete (20000/50000 POPS)
@@ -1673,9 +1698,9 @@
 	}
 
 	farmers = {
-		culture = catalan
+		culture = maghrebi
 		religion = catholic
-		size = 25600
+		size = 26600
 	}
 	farmers = {
 		culture = catalan
@@ -1692,7 +1717,11 @@
 		religion = catholic
 		size = 1800
 	}
-
+	farmers = {
+		culture = castilian
+		religion = catholic
+		size = 18864
+	}
 	capitalists = {
 		culture = maghrebi
 		religion = catholic
@@ -1763,13 +1792,13 @@
 	}
 
 	artisans = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 9000
 	}
 
 	soldiers = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size= 3100
 
@@ -1777,7 +1806,7 @@
 	farmers = {
 		culture = maghrebi
 		religion = catholic
-		size = 38500
+		size = 46500
 	}
 	farmers = {
 		culture = castilian
@@ -1792,7 +1821,11 @@
 		religion = catholic
 		size = 750
 	}
-
+	farmers = {
+		culture = castilian
+		religion = catholic
+		size = 8864
+	}
 	clergymen = {
 		culture = maghrebi
 		religion = catholic
@@ -2003,25 +2036,25 @@
 #Jaen (270000/67500 POPS)
 516 = {
 	aristocrats = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 1700
 	}
 
 	clergymen = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 600
 	}
 
 	artisans = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 6000
 	}
 
 	soldiers = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size= 3100
 
@@ -2035,7 +2068,7 @@
 	farmers = {
 		culture = maghrebi
 		religion = catholic
-		size = 28200
+		size = 32200
 	}
 
 }

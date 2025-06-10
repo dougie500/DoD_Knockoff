@@ -3,51 +3,51 @@
 #Port au Prince (312000/78000 POPS)
 2213 = {
 	aristocrats = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 825
 	}
 
 	bureaucrats = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 150
 	}
 
 	officers = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 150
 	}
 
 	clergymen = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 575
 	}
 
 	artisans = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 2700
 	}
 
 	soldiers = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size= 1500
 
 	}
 
 	soldiers = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 35000
 	}
@@ -88,32 +88,32 @@
 #Santo Domingo (68000/17000 POPS) #now part of Dominican Republic
 2214 = {
 	aristocrats = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 300
 	}
 
 	clergymen = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 125
 	}
 
 	artisans = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 350
 	}
 
 	soldiers = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size= 75
 
 	}
 
 	farmers = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 6150
 	}
@@ -153,31 +153,31 @@
 #Cap Haitien (204000/51000 POPS)
 2215 = {
 	aristocrats = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 550
 	}
 
 	clergymen = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 375
 	}
 
 	artisans = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 1550
 	}
 
 	soldiers = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 600
 	}
 
 	farmers = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 25025
 	}
@@ -216,32 +216,32 @@
 #La Vega (56000/15000 POPS) #now part of Dominican Republic
 2216 = {
 	aristocrats = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 250
 	}
 
 	clergymen = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 400
 	}
 
 	soldiers = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size= 75
 
 	}
 
 	farmers = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 7175
 	}
@@ -284,38 +284,38 @@
 #Puerto Rico (356000/89000 POPS)
 2222 = {
 	aristocrats = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 1350
 	}
 
 	bureaucrats = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 100
 	}
 
 	clergymen = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 500
 	}
 
 	artisans = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 3800
 	}
 
 	soldiers = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size= 500
 
 	}
 
 	farmers = {
-		culture = caribeno
+		culture = castilian
 		religion = protestant
 		size = 40850
 	}

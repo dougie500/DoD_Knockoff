@@ -1,7 +1,6 @@
 owner = MGH
 controller = MGH
 add_core = MGH
-add_core = SPA
 trade_goods = grain
 life_rating = 35
 naval_base = 1

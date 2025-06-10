@@ -49,11 +49,7 @@
 		size = 330
 	}
 	
-	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 10000
-	}
+	
 	
 	artisans = {
 		culture = portuguese
@@ -71,7 +67,7 @@
 	farmers = {
 		culture = portuguese
 		religion = catholic
-		size = 117140
+		size = 77140
 	}
 
 	aristocrats = {
@@ -113,7 +109,7 @@
 	soldiers = {
 		culture = castilian
 		religion = catholic
-		size = 3500
+		size = 1500
 	}
 
 	farmers = {
@@ -204,7 +200,7 @@
 	farmers = {
 		culture = portuguese
 		religion = catholic
-		size = 40500
+		size = 20500
 	}
 	
 	aristocrats = {
@@ -283,11 +279,6 @@
 		size = 825
 	}
 
-	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 10000
-	}
 	
 	artisans = {
 		culture = portuguese
@@ -316,7 +307,7 @@
 	farmers = {
 		culture = portuguese
 		religion = catholic
-		size = 51000
+		size = 31000
 	}
 
 	aristocrats = {
@@ -396,7 +387,7 @@
 	farmers = {
 		culture = portuguese
 		religion = catholic
-		size = 84870
+		size = 64870
 	}
 
 	aristocrats = {
@@ -594,11 +585,15 @@
 		size= 1220
 
 	}
-
 	farmers = {
 		culture = portuguese
 		religion = catholic
-		size = 38810
+		size = 18810
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 20810
 	}
 
 	aristocrats = {
@@ -747,7 +742,7 @@
 	clergymen = {
 		culture = maghrebi
 		religion = catholic
-		size = 195
+		size = 495
 	}
 
 	artisans = {
@@ -759,13 +754,17 @@
 	soldiers = {
 		culture = maghrebi
 		religion = catholic
-		size = 175
+		size = 375
 	}
-
+	farmers = {
+		culture = castilian
+		religion = catholic
+		size = 10000
+	}
 	farmers = {
 		culture = maghrebi
 		religion = catholic
-		size = 18864
+		size = 24864
 	}
 }
 #Azores & Madeira Region (308000)
