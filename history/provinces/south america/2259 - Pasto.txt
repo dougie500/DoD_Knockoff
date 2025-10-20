@@ -1,6 +1,5 @@
 owner = SPA
 controller = SPA
-colonial = 2
 trade_goods = cattle
 terrain = montane_forest
 life_rating = 33

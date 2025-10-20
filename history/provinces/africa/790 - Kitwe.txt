@@ -1,5 +1,5 @@
-owner = KZB
-controller = KZB
-add_core = KZB
+owner = LBA
+controller = LBA
+add_core = LBA
 trade_goods = tobacco
 life_rating = 32

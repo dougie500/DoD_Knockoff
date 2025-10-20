@@ -230,7 +230,7 @@
 	farmers = {
 		culture = portuguese
 		religion = catholic
-		size = 80750
+		size = 60750
 	}	
 
 }
@@ -590,11 +590,7 @@
 		religion = catholic
 		size = 18810
 	}
-	farmers = {
-		culture = portuguese
-		religion = catholic
-		size = 20810
-	}
+	
 
 	aristocrats = {
 		culture = portuguese
@@ -633,9 +629,9 @@
 	}
 
 	farmers = {
-		culture = portuguese
+		culture = castilian
 		religion = catholic
-		size = 25440
+		size = 46440
 	}
 }
 #Beja (96000/24000 POPS)

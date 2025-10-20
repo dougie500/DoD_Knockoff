@@ -1,6 +1,6 @@
 terrain = dryhills
 trade_goods = fruit
 life_rating = 32
-owner = LUN
-controller = LUN
-add_core = LUN
+owner = LBA
+controller = LBA
+add_core = LBA

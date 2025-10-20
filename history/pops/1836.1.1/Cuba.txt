@@ -74,9 +74,13 @@
 	farmers = {
 		culture = castilian
 		religion = catholic
-		size = 42625
+		size = 22625
 	}
-
+	farmers = {
+		culture = afro_latino
+		religion = catholic
+		size = 22625
+	}
 	artisans = {
 		culture = afro_latino
 		religion = catholic
@@ -274,40 +278,60 @@
 
 #Baker/Repulse Bay/ Echo Bay - Now Guantanamo Bay (5036/1259 POPS)
 44 = {
-	aristocrats = {
+		aristocrats = {
 		culture = castilian
 		religion = catholic
-		size = 5
+		size = 200
 	}
 
 	clergymen = {
 		culture = castilian
 		religion = catholic
-		size = 10
+		size = 175
 	}
 
 	artisans = {
 		culture = castilian
 		religion = catholic
-		size = 25
+		size = 3500
 	}
 
 	soldiers = {
 		culture = castilian
 		religion = catholic
-		size = 100
+		size= 150
+
 	}
 
 	farmers = {
 		culture = castilian
 		religion = catholic
-		size = 240
+		size = 8975
 	}
-	
+
+	artisans = {
+		culture = afro_latino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = afro_latino
+		religion = catholic
+		size= 200
+
+	}
+
 	farmers = {
 		culture = afro_latino
 		religion = catholic
-		size = 879
+		size = 3300
+	}
+
+	slaves = {
+		culture = afro_latino
+		religion = catholic
+		size = 2000
 	}
 }
 

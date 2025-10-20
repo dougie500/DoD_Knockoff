@@ -63,6 +63,11 @@
 		religion = catholic
 		size = 5075
 	}
+	farmers = {
+		culture = granadan
+		religion = catholic
+		size = 35075
+	}
 	
 	slaves = {
 		culture = afro_latino

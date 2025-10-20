@@ -25,7 +25,11 @@
         religion = catholic
         size = 2400
     }
-	
+	slaves = {
+		culture = mongo
+		religion = animist
+		size = 10000
+	}
     soldiers = {
 		culture = maghrebi
 		religion = catholic
@@ -348,7 +352,7 @@
     clergymen = {
         culture = maghrebi
         religion = sunni
-        size = 125
+        size = 305
     }
 
     artisans = {
@@ -360,7 +364,7 @@
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 30600
+        size = 50600
     }
 }
 #Aljazair-ruled in 1836 :
@@ -446,11 +450,15 @@
         size = 240
     }
     soldiers = {
-		culture = catalan
+		culture = maghrebi
 		religion = catholic
-		size = 1800
+		size = 2000
     }	
-
+    slaves = {
+		culture = mongo
+		religion = animist
+		size = 10000
+	}
     artisans = {
         culture = maghrebi
         religion = sunni
@@ -478,7 +486,7 @@
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 22575
+        size = 42575
     }
 
     clergymen = {
@@ -540,7 +548,7 @@
     clergymen = {
         culture = maghrebi
         religion = catholic
-        size = 115
+        size = 515
     }
 
     artisans = {
@@ -552,7 +560,7 @@
     farmers = {
         culture = maghrebi
         religion = catholic
-        size = 21285
+        size = 41285
     }
 }
 #Constantinois Region (344000)
@@ -864,7 +872,7 @@
     farmers = {
         culture = tuareg
         religion = sunni
-        size = 12000
+        size = 22000
     }
 
     clergymen = {

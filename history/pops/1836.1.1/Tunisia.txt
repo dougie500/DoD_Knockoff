@@ -76,7 +76,11 @@
         religion = jewish
         size = 18500
     }
-
+    slaves = {
+		culture = mongo
+		religion = animist
+		size = 32000
+	}
     bureaucrats = {
         culture = maghrebi
         religion = jewish

@@ -1,6 +1,5 @@
-owner = LUN
-controller = LUN
-add_core = LUN
+owner = DEN
+controller = DEN
 terrain = semidesert
 trade_goods = fish
 life_rating = 32

@@ -1040,59 +1040,58 @@
 1069 = {
 
 	aristocrats = {
-		culture = ugrian
-		religion = animist
-		size = 10
+		culture = plantagenian
+		religion = catholic
+		size = 250
 	}
 
 	clergymen = {
-		culture = ugrian
-		religion = animist
-		size = 40
+		culture = plantagenian
+		religion = catholic
+		size = 75
 	}
 
 	artisans = {
-		culture = ugrian
-		religion = animist
-		size = 50
+		culture = plantagenian
+		religion = catholic
+		size = 800
 	}
 
 	soldiers = {
-		culture = ugrian
-		religion = animist
-		size= 50
+		culture = plantagenian
+		religion = catholic
+		size= 200
 
 	}
 
 	farmers = {
-		culture = ugrian
-		religion = animist
-		size = 1800
+		culture = afro_latino
+		religion = catholic
+		size = 31675
 	}
 
 	clergymen = {
-		culture = ugrian
-		religion = orthodox
-		size = 5
+		culture = plantagenian
+		religion = catholic
+		size = 25
 	}
 
 	artisans = {
-		culture = ugrian
-		religion = orthodox
-		size = 60
-	}
-
-	soldiers = {
-		culture = ugrian
-		religion = orthodox
-		size= 10
-
+		culture = plantagenian
+		religion = catholic
+		size = 150
 	}
 
 	farmers = {
-		culture = ugrian
-		religion = orthodox
-		size = 475
+		culture = plantagenian
+		religion = catholic
+		size = 125
+	}
+
+	slaves = {
+		culture = plantagenian
+		religion = catholic
+		size = 8052
 	}
 }
 #Mukhtuya (10000/2500 POPS)

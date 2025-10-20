@@ -260,8 +260,8 @@
 		size = 300
 	}
 
-	clergymen = {
-		culture = soldiers
+	soldiers = {
+		culture = maghrebi
 		religion = catholic
 		size = 2000
 	}
@@ -322,15 +322,14 @@
 	}
 	
 	clergymen = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 25
 	}
-	
-	farmers = {
-		culture = castilian
-		religion = catholic
-		size = 400
+	slaves = {
+		culture = mongo
+		religion = animist
+		size = 11000
 	}
 }
 #Taza (80000/20000 POPS)
@@ -439,7 +438,11 @@
 		religion = sunni
 		size = 50
 	}
-
+	slaves = {
+		culture = mongo
+		religion = animist
+		size = 8000
+	}
 	aristocrats = {
 		culture = maghrebi
 		religion = catholic
@@ -467,7 +470,7 @@
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-		size = 23800
+		size = 34800
 	}
 
 	farmers = {
@@ -933,7 +936,11 @@
 		religion = catholic
 		size = 5700
 	}
-	
+	soldiers  = {
+		culture = maghrebi
+		religion = catholic
+		size = 1700
+	}
 	aristocrats = {
 		culture = maghrebi
 		religion = catholic
@@ -961,7 +968,7 @@
 	artisans = {
 		culture = maghrebi
 		religion = catholic
-		size = 1500
+		size = 12500
 	}
 	
 	farmers = {
@@ -973,7 +980,7 @@
 	farmers = {
 		culture = maghrebi
 		religion = catholic
-		size = 25300
+		size = 45300
 	}
 }
 
@@ -1135,19 +1142,19 @@ artisans = {
 	}
 
 	aristocrats = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 50
 	}
 	
 	clergymen = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 25
 	}
 	
 	farmers = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 6300
 	}
@@ -1277,15 +1284,15 @@ artisans = {
 	}
 	
 	clergymen = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
 		size = 10
 	}
 	
 	farmers = {
-		culture = castilian
+		culture = maghrebi
 		religion = catholic
-		size = 1340
+		size = 21340
 	}
 	
 	aristocrats = {
@@ -1309,7 +1316,7 @@ artisans = {
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-		size= 75
+		size= 975
 
 	}
 

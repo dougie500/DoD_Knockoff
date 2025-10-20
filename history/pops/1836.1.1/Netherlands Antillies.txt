@@ -54,28 +54,78 @@
 }
 #Aruba (2400/600 POPS)
 2235 = {
-	clergymen = {
-		culture = plantagenian
-		religion = protestant
+	aristocrats = {
+		culture = granadan
+		religion = catholic
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = granadan
+		religion = catholic
 		size = 25
+	}
+
+	officers = {
+		culture = granadan
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = granadan
+		religion = catholic
+		size = 75
 	}
 
 	artisans = {
-		culture = plantagenian
-		religion = protestant
-		size = 25
+		culture = granadan
+		religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = granadan
+		religion = catholic
+		size= 50
+
 	}
 
 	farmers = {
-		culture = plantagenian
-		religion = protestant
-		size = 550
+		culture = granadan
+		religion = catholic
+		size = 22775
+	}
+
+	clergymen = {
+		culture = afro_latino
+		religion = catholic
+		size = 20
+	}
+
+	artisans = {
+		culture = afro_latino
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = afro_latino
+		religion = catholic
+		size= 10
+
+	}
+
+	farmers = {
+		culture = afro_latino
+		religion = catholic
+		size = 120
 	}
 
 	slaves = {
-		culture = plantagenian
-		religion = protestant
-		size = 1050
+		culture = afro_latino
+		religion = catholic
+		size = 1200
 	}
 }
 #Philipsburg - Saint Martin (4800/1200 POPS)

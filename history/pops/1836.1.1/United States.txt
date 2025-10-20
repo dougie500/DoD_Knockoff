@@ -6430,7 +6430,7 @@ farmers = {
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = afro_latino
 		religion = catholic
 		size = 31675
 	}
@@ -6685,62 +6685,62 @@ farmers = {
 #Tallahassee (32000/8000 POPS)
 198 = {
 	aristocrats = {
-		culture = plantagenian
+		culture = afro_latino
 		religion = catholic
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = plantagenian
+		culture = afro_latino
 		religion = catholic
 		size = 125
 	}
 
 	officers = {
-		culture = plantagenian
+		culture = afro_latino
 		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = afro_latino
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = afro_latino
 		religion = catholic
 		size = 2175
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = afro_latino
 		religion = catholic
 		size = 600
 
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = afro_latino
 		religion = catholic
-		size = 63550
+		size = 53550
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = afro_latino
 		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = afro_latino
 		religion = catholic
 		size = 80
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = afro_latino
 		religion = catholic
 		size = 10
 	}
@@ -6748,7 +6748,7 @@ farmers = {
 	slaves = {
 		culture = plantagenian
 		religion = catholic
-		size = 3900
+		size = 13900
 	}
 }
 #St Augustine (48000/12000 POPS)
@@ -6808,43 +6808,38 @@ farmers = {
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = castilian
 		religion = catholic
 		size = 410
 	}
 
 	artisans = {
-		culture = plantagenian
+		culture = castilian
 		religion = catholic
 		size = 3780
 	}
 
 	soldiers = {
-		culture = plantagenian
+		culture = castilian
 		religion = catholic
 		size = 2000
 	}
 	
 	farmers = {
-		culture =afro_frankish
+		culture = castilian
 		religion = catholic
 		size = 5010
 	}
 
-	slaves = {
-		culture = plantagenian
-		religion = catholic
-		size = 10600
-	}
 
 	slaves = {
-		culture = plantagenian
+		culture = castilian
 		religion = sunni
 		size = 7300
 	}
 
 	slaves = {
-		culture = iroquois
+		culture = castilian
 		religion = animist
 		size = 6100
 	}
@@ -6857,7 +6852,7 @@ farmers = {
 		size = 430
 	}
 	soldiers = {
-		culture = plantagenian
+		culture = castilian
 		religion = catholic
 		size = 2000
 	}
@@ -6880,31 +6875,31 @@ farmers = {
 	}
 
 	clergymen = {
-		culture = plantagenian
+		culture = castilian
 		religion = catholic
 		size = 145
 	}
 
 	farmers = {
-		culture = plantagenian
+		culture = castilian
 		religion = catholic
 		size = 6450
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = castilian
 		religion = catholic
 		size = 5230
 	}
 
 	slaves = {
-		culture = plantagenian
+		culture = castilian
 		religion = sunni
 		size = 1270
 	}
 
 	slaves = {
-		culture = iroquois
+		culture = castilian
 		religion = animist
 		size = 2740
 	}

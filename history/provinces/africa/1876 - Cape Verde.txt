@@ -1,8 +1,6 @@
-
-
-add_core = LOT
-
+owner = WOL
+controller = WOL
+add_core = WOL
 trade_goods = coffee
-life_rating = 35
-colonial = 2
+life_rating = 32
 terrain = mountain

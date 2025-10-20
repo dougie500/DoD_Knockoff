@@ -1,4 +1,6 @@
-colonial = 1
+owner = DAR
+controller = DAR
+add_core = DAR
 trade_goods = tropical_wood
 terrain = savanna
-life_rating = 25
+life_rating = 35

@@ -1,6 +1,5 @@
 trade_goods = tobacco
 life_rating = 32
-owner = DEN
-controller = DEN
+owner = KZB
+controller = KZB
 add_core = KZB
-colonial = 1

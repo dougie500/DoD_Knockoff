@@ -3,109 +3,100 @@
 #Balboa (12000/3000 POPS)
 1723 = {
 	aristocrats = {
-		culture = central_american
+		culture = afro_latino
 		religion = catholic
-		size = 20
+		size = 1150
 	}
 
 	clergymen = {
-		culture = central_american
+		culture = afro_latino
 		religion = catholic
-		size = 25
+		size = 150
 	}
 
 	artisans = {
-		culture = central_american
+		culture = afro_latino
 		religion = catholic
-		size = 50
+		size = 1250
 	}
-
-	soldiers = {
-		culture = central_american
-		religion = catholic
-		size= 10
-
-	}
-
 	farmers = {
-		culture = central_american
+		culture = afro_latino
 		religion = catholic
-		size = 4895
+		size = 4500
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = granadan
 		religion = catholic
-		size = 50
+		size = 120
 	}
 
 	artisans = {
-		culture = afro_latino
+		culture = granadan
 		religion = catholic
-		size = 100
+		size = 150
 	}
 
 	soldiers = {
-		culture = afro_latino
+		culture = granadan
 		religion = catholic
-		size= 25
+		size= 300
 
 	}
 
 	farmers = {
 		culture = afro_latino
 		religion = catholic
-		size = 325
+		size = 11670
 	}
-
-	slaves = {
-		culture = afro_latino
+	farmers = {
+		culture = granadan
 		religion = catholic
-		size = 1500
+		size = 17200
 	}
 }
 
 #Panama City (52000/13000 POPS)
 2204 = {
 	aristocrats = {
-		culture = central_american
+		culture = granadan
 		religion = catholic
 		size = 225
 	}
 
 	bureaucrats = {
-		culture = central_american
+		culture = granadan
 		religion = catholic
-		size = 25
+		size = 125
 	}
 
 	officers = {
-		culture = central_american
+		culture = granadan
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = central_american
+		culture = granadan
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = central_american
+		culture = granadan
 		religion = catholic
 		size = 450
 	}
 
 	soldiers = {
-		culture = central_american
+		culture = granadan
 		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
-		culture = central_american
+		culture = granadan
 		religion = catholic
 		size = 8050
 	}
@@ -208,134 +199,115 @@
 #Penonome (24000/6000 POPS)
 2206 = {
 	aristocrats = {
-		culture = central_american
+		culture = afro_latino
+		religion = catholic
+		size = 1150
+	}
+
+	clergymen = {
+		culture = afro_latino
 		religion = catholic
 		size = 150
 	}
 
+	artisans = {
+		culture = afro_latino
+		religion = catholic
+		size = 1250
+	}
+	farmers = {
+		culture = afro_latino
+		religion = catholic
+		size = 4500
+	}
+
 	clergymen = {
-		culture = central_american
+		culture = granadan
+		religion = catholic
+		size = 120
+	}
+
+	artisans = {
+		culture = granadan
+		religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = granadan
+		religion = catholic
+		size= 300
+
+	}
+
+	farmers = {
+		culture = afro_latino
+		religion = catholic
+		size = 12670
+	}
+	farmers = {
+		culture = granadan
+		religion = catholic
+		size = 18670
+	}
+
+}
+#Yaviza (12000/3000 POPS)
+2208 = {
+	aristocrats = {
+		culture = granadan
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = granadan
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = central_american
+		culture = granadan
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = central_american
+		culture = granadan
 		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
-		culture = central_american
+		culture = granadan
 		religion = catholic
-		size = 4500
+		size = 12400
 	}
 
 	clergymen = {
 		culture = afro_latino
 		religion = catholic
-		size = 20
+		size = 75
 	}
 
 	artisans = {
-		culture = afro_latino
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = afro_latino
-		religion = catholic
-		size= 10
-
-	}
-
-	farmers = {
-		culture = afro_latino
-		religion = catholic
-		size = 670
-	}
-
-	slaves = {
-		culture = afro_latino
-		religion = catholic
-		size = 1250
-	}
-}
-#Yaviza (12000/3000 POPS)
-2208 = {
-	aristocrats = {
-		culture = central_american
-		religion = catholic
-		size = 20
-	}
-
-	clergymen = {
-		culture = central_american
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = central_american
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = central_american
-		religion = catholic
-		size= 10
-
-	}
-
-	farmers = {
-		culture = central_american
-		religion = catholic
-		size = 895
-	}
-
-	aristocrats = {
-		culture = granadan
-		religion = catholic
-		size = 20
-	}
-
-	clergymen = {
-		culture = granadan
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = granadan
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = granadan
-		religion = catholic
-		size= 10
-
-	}
-
-	farmers = {
-		culture = granadan
-		religion = catholic
-		size = 895
-	}
-
-	slaves = {
 		culture = afro_latino
 		religion = catholic
 		size = 350
 	}
+
+	soldiers = {
+		culture = afro_latino
+		religion = catholic
+		size= 75
+
+	}
+
+	farmers = {
+		culture = afro_latino
+		religion = catholic
+		size = 500
+	}
+
 }

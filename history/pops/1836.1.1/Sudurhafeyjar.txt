@@ -90,7 +90,7 @@
 	aristocrats = {
 		culture = castilian
 		religion = protestant
-		size = 300
+		size = 1300
 	}
 
 	clergymen = {
@@ -102,51 +102,51 @@
 	artisans = {
 		culture = castilian
 		religion = protestant
-		size = 350
+		size = 12350
 	}
 
 	soldiers = {
 		culture = castilian
 		religion = protestant
-		size= 75
+		size= 275
 
 	}
 
 	farmers = {
 		culture = castilian
 		religion = protestant
-		size = 6150
+		size = 46150
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = castilian
 		religion = protestant
-		size = 50
+		size = 1150
 	}
 
 	artisans = {
 		culture = afro_latino
 		religion = protestant
-		size = 500
+		size = 1500
 	}
 
 	soldiers = {
 		culture = afro_latino
 		religion = protestant
-		size= 100
+		size= 1000
 
 	}
 
 	farmers = {
 		culture = afro_latino
 		religion = protestant
-		size = 4050
+		size = 44050
 	}
 
 	slaves = {
 		culture = afro_latino
 		religion = protestant
-		size = 5300
+		size = 15300
 	}
 }
 
@@ -179,7 +179,7 @@
 	farmers = {
 		culture = castilian
 		religion = protestant
-		size = 25025
+		size = 45025
 	}
 
 	clergymen = {
@@ -203,13 +203,13 @@
 	farmers = {
 		culture = afro_latino
 		religion = protestant
-		size = 6400
+		size = 16400
 	}
 
 	slaves = {	
 		culture = afro_latino
 		religion = protestant
-		size = 15000
+		size = 18000
 	}
 }
 
@@ -224,26 +224,26 @@
 	clergymen = {
 		culture = castilian
 		religion = protestant
-		size = 100
+		size = 1100
 	}
 
 	artisans = {
 		culture = castilian
 		religion = protestant
-		size = 400
+		size = 1400
 	}
 
 	soldiers = {
 		culture = castilian
 		religion = protestant
-		size= 75
+		size= 575
 
 	}
 
 	farmers = {
 		culture = castilian
 		religion = protestant
-		size = 7175
+		size = 27175
 	}
 
 	clergymen = {
@@ -268,13 +268,13 @@
 	farmers = {
 		culture = afro_latino
 		religion = protestant
-		size = 1075
+		size = 11075
 	}
 
 	slaves = {
 		culture = afro_latino
 		religion = protestant
-		size = 4500
+		size = 14500
 	}
 
 }

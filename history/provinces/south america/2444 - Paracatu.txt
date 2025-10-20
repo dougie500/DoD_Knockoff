@@ -1,7 +1,6 @@
-
-
-add_core = LOT
-
+owner = CHP
+controller = CHP
+add_core = CHP
 trade_goods = cattle
 terrain = savanna
-life_rating = 25
+life_rating = 32

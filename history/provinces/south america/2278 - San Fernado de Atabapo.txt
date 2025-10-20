@@ -1,6 +1,4 @@
-life_rating = 20
-colonial = 1
+life_rating = 33
 trade_goods = fruit
-
 owner = SPA
 controller = SPA

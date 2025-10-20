@@ -173,34 +173,65 @@
 #Borba (12000/3000 POPS)
 2405 = {
 	aristocrats = {
-		culture = amazonian_native
-		religion = animist
-		size = 50
+		culture = castilian
+		religion = protestant
+		size = 300
 	}
 
 	clergymen = {
-		culture = amazonian_native
-		religion = animist
-		size = 75
+		culture = castilian
+		religion = protestant
+		size = 125
 	}
 
 	artisans = {
-		culture = amazonian_native
-		religion = animist
-		size = 150
+		culture = castilian
+		religion = protestant
+		size = 350
 	}
 
 	soldiers = {
-		culture = amazonian_native
-		religion = animist
-		size= 25
+		culture = castilian
+		religion = protestant
+		size= 275
 
 	}
 
 	farmers = {
-		culture = amazonian_native
-		religion = animist
-		size = 2700
+		culture = castilian
+		religion = protestant
+		size = 26150
+	}
+
+	clergymen = {
+		culture = castilian
+		religion = protestant
+		size = 150
+	}
+
+	artisans = {
+		culture = afro_latino
+		religion = protestant
+		size = 500
+	}
+
+	soldiers = {
+		culture = afro_latino
+		religion = protestant
+		size= 100
+
+	}
+
+	farmers = {
+		culture = afro_latino
+		religion = protestant
+		size = 14050
+	}
+
+	slaves = {
+		culture = afro_latino
+		religion = protestant
+		size = 8300
 	}
 }
 #Tabatinga (4000/1000 POPS)
@@ -326,7 +357,7 @@
 	farmers = {
 		culture = amazonian_native
 		religion = animist
-		size = 900
+		size = 7635
 	}
 }
 #Para Region (128000)
@@ -4322,12 +4353,12 @@
 	farmers = {
 		culture = maghrebi
 		religion = catholic
-		size = 10000
+		size = 42000
 	}
 	farmers = {
 		culture = castilian
 		religion = catholic
-		size = 14550
+		size = 34550
 	}
 }
 #Forte do Principe (16000/4000 POPS) #now part of Brazil - Rondonia State

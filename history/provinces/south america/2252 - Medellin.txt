@@ -1,6 +1,6 @@
 owner = SPA
 controller = SPA
-colonial = 2
+add_core = SPA
 trade_goods = coffee
 terrain = montane_forest
-life_rating = 33
+life_rating = 35

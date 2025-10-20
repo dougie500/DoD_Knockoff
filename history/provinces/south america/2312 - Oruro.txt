@@ -1,8 +1,4 @@
 
 trade_goods = iron
-life_rating = 20
+life_rating = 32
 terrain = savanna
-1860.1.1 = {
-	owner = BOL
-	controller = BOL
-}

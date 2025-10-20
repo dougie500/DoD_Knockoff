@@ -1,8 +1,6 @@
-
-
-add_core = LOT
-
-add_core = EQN
+owner = ENT
+controller = ENT
+add_core = ENT
 trade_goods = cotton
 terrain = new_world_semidesert
-life_rating = 25
+life_rating = 32

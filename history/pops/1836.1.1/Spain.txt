@@ -721,12 +721,12 @@
 	farmers = {
 		culture = maghrebi
 		religion = catholic
-		size = 14000
+		size = 24000
 	}
 	farmers = {
 		culture = castilian
 		religion = catholic
-		size = 10100
+		size = 30100
 	}
 }
 #Siguenza (204000/51000 POPS)

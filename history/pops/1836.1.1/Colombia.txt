@@ -193,57 +193,57 @@
 #Tunja (56000/14000 POPS)
 2249 = {
 	aristocrats = {
-		culture = granadan
+		culture = amazonian_native
 		religion = catholic
 		size = 300
 	}
 
 	clergymen = {
-		culture = granadan
+		culture = amazonian_native
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = granadan
+		culture = amazonian_native
 		religion = catholic
 		size = 450
 	}
 
 	soldiers = {
-		culture = granadan
+		culture = amazonian_native
 		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
-		culture = granadan
+		culture = amazonian_native
 		religion = catholic
 		size = 10050
 	}
 
 	clergymen = {
-		culture = iroquois
+		culture = amazonian_native
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = iroquois
+		culture = amazonian_native
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = iroquois
+		culture = amazonian_native
 		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
-		culture = iroquois
+		culture = amazonian_native
 		religion = catholic
 		size = 2700
 	}
@@ -311,25 +311,25 @@
 	farmers = {
 		culture = granadan
 		religion = catholic
-		size = 11525
+		size = 21525
 	}
 
 	clergymen = {
-		culture = iroquois
+		culture = afro_latino
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = iroquois
+		culture = afro_latino
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = iroquois
+		culture = afro_latino
 		religion = catholic
-		size = 4700
+		size = 11700
 	}
 }
 #Antioquia Region (452000)
@@ -682,100 +682,100 @@
 #Cali (92000/23000 POPS)
 2256 = {
 	aristocrats = {
-		culture = granadan
+		culture = amazonian_native
 		religion = catholic
 		size = 475
 	}
 
 	bureaucrats = {
-		culture = granadan
+		culture = amazonian_native
 		religion = catholic
 		size = 100
 	}
 
 	officers = {
-		culture = granadan
+		culture = amazonian_native
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = granadan
+		culture = amazonian_native
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = granadan
+		culture = amazonian_native
 		religion = catholic
 		size = 850
 	}
 
 	soldiers = {
-		culture = granadan
+		culture = amazonian_native
 		religion = catholic
 		size= 500
 
 	}
 
 	farmers = {
-		culture = granadan
+		culture = amazonian_native
 		religion = catholic
 		size = 14300
 	}
 
 	clergymen = {
-		culture = afro_latino
+		culture = amazonian_native
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_latino
+		culture = amazonian_native
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = afro_latino
+		culture = amazonian_native
 		religion = catholic
 		size= 50
 
 	}
 
 	farmers = {
-		culture = afro_latino
+		culture = amazonian_native
 		religion = catholic
 		size = 700
 	}
 
 	slaves = {
-		culture = afro_latino
+		culture = amazonian_native
 		religion = catholic
 		size = 2750
 	}
 
 	clergymen = {
-		culture = iroquois
+		culture = amazonian_native
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = iroquois
+		culture = amazonian_native
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = iroquois
+		culture = amazonian_native
 		religion = animist
 		size= 25
 
 	}
 
 	farmers = {
-		culture = iroquois
+		culture = amazonian_native
 		religion = animist
 		size = 2775
 	}

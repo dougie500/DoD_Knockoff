@@ -1,4 +1,6 @@
-
+owner = KZB
+controller = KZB
+add_core = KZB
 life_rating = 32
 trade_goods = fruit
 

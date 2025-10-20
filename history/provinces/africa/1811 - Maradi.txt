@@ -1,4 +1,7 @@
 trade_goods = grain
-life_rating = 10
+life_rating = 25
 colonial = 1
 terrain = semidesert
+owner = VEN
+controller = VEN
+add_core = VEN

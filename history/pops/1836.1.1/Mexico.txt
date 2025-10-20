@@ -3471,91 +3471,91 @@
 #Merida (240000/60000 POPS)
 2183 = {
 	aristocrats = {
-		culture  = beornian
+		culture  = afro_latino
 		religion = catholic
 		size = 1275
 		militancy = 9
 	}
 
 	bureaucrats = {
-		culture  = beornian
+		culture  = afro_latino
 		religion = catholic
 		size = 200
 		militancy = 9
 	}
 
 	officers = {
-		culture = central_american
+		culture = afro_latino
 		religion = catholic
 		size = 50
 		militancy = 9
 	}
 
 	clergymen = {
-		culture = central_american
+		culture = afro_latino
 		religion = catholic
 		size = 475
 		militancy = 9
 	}
 
 	artisans = {
-		culture  = beornian
+		culture  = afro_latino
 		religion = catholic
 		size = 500
 		militancy = 9
 	}
 	artisans = {
-		culture = central_american
+		culture = afro_latino
 		religion = catholic
 		size = 550
 		militancy = 9
 	}
 
 	soldiers = {
-		culture = central_american
+		culture = afro_latino
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture  = beornian
+		culture  = afro_latino
 		religion = catholic
 		size = 10000
 	}
 	farmers = {
-		culture = central_american
+		culture = afro_latino
 		religion = catholic
 		size = 6950
 	}
 
 	clergymen = {
-		culture = mayan
+		culture = afro_latino
 		religion = catholic
 		size = 125
 		militancy = 9
 	}
 
 	artisans = {
-		culture = mayan
+		culture = afro_latino
 		religion = catholic
 		size = 1950
 		militancy = 9
 	}
 
 	soldiers = {
-		culture = mayan
+		culture = afro_latino
 		religion = catholic
 		size = 600
 	}
 
 	farmers = {
-		culture = mayan
+		culture = afro_latino
 		religion = catholic
 		size = 21050
 	}
 
 	slaves = {
-		culture = mayan
+		culture = afro_latino
 		religion = catholic
 		size = 11000
 	}
@@ -3563,69 +3563,69 @@
 #Camnpeche (108000/27000 POPS)
 2184 = {
 	aristocrats = {
-		culture  = beornian
+		culture  = afro_latino
 		religion = catholic
 		size = 550
 	}
 
 	clergymen = {
-		culture = central_american
+		culture = afro_latino
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = central_american
+		culture = afro_latino
 		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = central_american
+		culture = afro_latino
 		religion = catholic
 		size= 100
 
 	}
 
 	farmers = {
-		culture  = beornian
+		culture  = afro_latino
 		religion = catholic
 		size = 6000
 	}
 	
 	farmers = {
-		culture = central_american
+		culture = afro_latino
 		religion = catholic
 		size = 4200
 	}
 	
 	clergymen = {
-		culture = mayan
+		culture = afro_latino
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = mayan
+		culture = afro_latino
 		religion = catholic
 		size = 900
 	}
 
 	soldiers = {
-		culture = mayan
+		culture = afro_latino
 		religion = catholic
 		size= 200
 
 	}
 
 	farmers = {
-		culture = mayan
+		culture = afro_latino
 		religion = catholic
 		size = 9800
 	}
 
 	slaves = {
-		culture = mayan
+		culture = afro_latino
 		religion = catholic
 		size = 8000
 	}
@@ -3633,63 +3633,63 @@
 #Bacalar (92000/23000 POPS)
 2185 = {
 	aristocrats = {
-		culture  = beornian
+		culture  = afro_latino
 		religion = catholic
 		size = 475
 	}
 
 	clergymen = {
-		culture = central_american
+		culture = afro_latino
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = central_american
+		culture = afro_latino
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = central_american
+		culture = afro_latino
 		religion = catholic
 		size= 10
 
 	}
 
 	farmers = {
-		culture = central_american
+		culture = afro_latino
 		religion = catholic
 		size = 5175
 	}
 
 	clergymen = {
-		culture = mayan
+		culture = afro_latino
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = mayan
+		culture = afro_latino
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = mayan
+		culture = afro_latino
 		religion = catholic
 		size= 225
 
 	}
 
 	farmers = {
-		culture = mayan
+		culture = afro_latino
 		religion = catholic
 		size = 8625
 	}
 
 	slaves = {
-		culture = mayan
+		culture = afro_latino
 		religion = catholic
 		size = 8000
 	}

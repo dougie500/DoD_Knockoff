@@ -1,4 +1,4 @@
-
-colonial = 2
+owner = SPA
+controller = SPA
 trade_goods = grain
 life_rating = 33

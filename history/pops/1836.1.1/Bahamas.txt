@@ -39,37 +39,37 @@
 	}
 
 	bureaucrats = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 105
 	}
 
 	officers = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 4500
 	}
 
 	farmers = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 19540
 	}
 
 	slaves = {
-		culture = iroquois
+		culture = afro_latino
 		religion = animist
 		size = 5250
 	}
@@ -107,31 +107,31 @@
 	}
 
 	aristocrats = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 60
 	}
 
 	clergymen = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 70
 	}
 
 	artisans = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 1120
 	}
 
 	farmers = {
-		culture = athesian
+		culture = afro_latino
 		religion = catholic
 		size = 2100
 	}
 
 	slaves = {
-		culture = iroquois
+		culture = afro_latino
 		religion = animist
 		size = 450
 	}
