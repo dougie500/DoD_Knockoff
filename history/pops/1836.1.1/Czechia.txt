@@ -484,9 +484,9 @@
 		size = 53100 
 	}
 farmers = {
-		culture = czech
+		culture = rheinish
 		religion = catholic
-		size = 40100 
+		size = 20100 
 	}
 	aristocrats = {
 		culture = south_german

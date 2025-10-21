@@ -3898,7 +3898,7 @@ farmers = {
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 31025
+		size = 131025
 	}
 
 	aristocrats = {
@@ -4898,9 +4898,13 @@ farmers = {
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 145650
+		size = 75650
 	}
-
+	farmers = {
+		culture = rheinish
+		religion = catholic
+		size = 35650
+	}
 	clergymen = {
 		culture = south_german
 		religion = protestant
@@ -5041,7 +5045,7 @@ farmers = {
 	}
 
 	artisans = {
-		culture = south_german
+		culture = rheinish
 		religion = catholic
 		size = 5000
 	}
@@ -5055,12 +5059,12 @@ farmers = {
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 40725
+		size = 37725
 	}
 	farmers = {
 		culture = rheinish
 		religion = catholic
-		size = 35725
+		size = 42725
 	}
 }
 #Silesia Region (200000) #see Czechia.txt and Poland.txt for balance of region
