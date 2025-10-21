@@ -1,7 +1,6 @@
-owner = BEN
-controller = BEN
-add_core = BEN
-add_core = BHO
+owner = VIJ
+controller = VIJ
+add_core = VIJ
 trade_goods = tobacco
 life_rating = 32
 fort = 1

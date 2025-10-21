@@ -1,8 +1,6 @@
-owner = MEW
-controller = MEW
-add_core = MEW
-add_core = PNJ
-add_core = HND
+owner = MUG
+controller = MUG
+add_core = MUG
 trade_goods = dye
 life_rating = 32
 fort = 1

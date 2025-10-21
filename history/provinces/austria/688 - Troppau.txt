@@ -1,6 +1,6 @@
-owner = PZN
-controller = PZN
-add_core = PZN
+owner = PRU
+controller = PRU
+add_core = PRU
 trade_goods = coal
 life_rating = 35
 1861.1.1 = { railroad = 3 }

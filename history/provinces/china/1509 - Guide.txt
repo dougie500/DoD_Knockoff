@@ -1,5 +1,5 @@
-owner = TAI
-controller = TAI
-add_core = TAI
+owner = ISR
+controller = ISR
+add_core = ISR
 trade_goods = tea
 life_rating = 32

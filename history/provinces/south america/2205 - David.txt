@@ -1,6 +1,6 @@
-owner = YUC
-controller = YUC
-add_core = YUC
+owner = MEX
+controller = MEX
+add_core = MEX
 colonial = 2
 trade_goods = coffee
 life_rating = 33

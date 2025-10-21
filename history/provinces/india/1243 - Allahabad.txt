@@ -1,6 +1,5 @@
-owner = BEN
-controller = BEN
-add_core = BEN
-add_core = HND
+owner = AWA
+controller = AWA
+add_core = AWA
 trade_goods = tobacco
 life_rating = 32

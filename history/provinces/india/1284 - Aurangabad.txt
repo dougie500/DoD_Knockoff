@@ -1,7 +1,5 @@
-owner = BEN
-controller = BEN
-add_core = BEN
-add_core = DRA
-add_core = BHO
+owner = VIJ
+controller = VIJ
+add_core = VIJ
 trade_goods = cotton
 life_rating = 32

@@ -1,6 +1,6 @@
-owner = INC
-controller = INC
-add_core = INC
+owner = ISR
+controller = ISR
+add_core = ISR
 trade_goods = fruit
 terrain = farmlands
 life_rating = 35

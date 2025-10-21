@@ -1,6 +1,6 @@
-owner = ROM
-controller = ROM
-add_core = ROM
+owner = SLV
+controller = SLV
+add_core = SLV
 
 trade_goods = grain
 life_rating = 35

@@ -1,7 +1,6 @@
-owner = MIG
-controller = MIG 
-add_core = MIG
-add_core = CHG
+owner = MGL
+controller = MGL
+add_core = MGL
 trade_goods = tea
 life_rating = 35
 naval_base = 1

@@ -1,8 +1,6 @@
-owner = SYR
-controller = SYR
-add_core = SYR
-add_core = CLC
-add_core = KUR
+owner = TUR
+controller = TUR
+add_core = TUR
 trade_goods = wool
 life_rating = 35
 

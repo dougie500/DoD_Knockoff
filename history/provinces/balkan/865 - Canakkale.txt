@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = MAC
+controller = MAC
+add_core = MAC
 trade_goods = fish
 life_rating = 35

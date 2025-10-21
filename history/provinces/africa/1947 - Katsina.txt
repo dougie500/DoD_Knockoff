@@ -1,6 +1,6 @@
-owner = SOK
-controller = SOK
-add_core = SOK
+owner = ISR
+controller = ISR
+add_core = ISR
 trade_goods = grain
 terrain = semidesert
 life_rating = 35
