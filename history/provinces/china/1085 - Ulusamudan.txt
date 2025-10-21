@@ -1,11 +1,5 @@
-owner = MCH
-controller = MCH
-add_core = MCH
+owner = AIN
+controller = AIN
+add_core = AIN
 trade_goods = grain
 life_rating = 35
-colonial = 2
-1861.1.1 = {
-	owner = RUS
-	controller = RUS
-	colonial = 2
-}

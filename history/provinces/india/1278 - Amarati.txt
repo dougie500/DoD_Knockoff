@@ -1,8 +1,5 @@
-owner = VIJ
-controller = VIJ
-add_core = VIJ
-add_core = DRA
-add_core = VIJ
-add_core = BHO
+owner = BUR
+controller = BUR
+add_core = BUR
 trade_goods = cattle
 life_rating = 32

@@ -1,5 +1,5 @@
-owner = MLY
-controller = MLY
-add_core = MLY
+owner = SIA
+controller = SIA
+add_core = SIA
 trade_goods = tropical_wood
 life_rating = 37

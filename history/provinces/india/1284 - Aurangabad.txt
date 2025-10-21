@@ -1,5 +1,5 @@
-owner = VIJ
-controller = VIJ
-add_core = VIJ
+owner = BUR
+controller = BUR
+add_core = BUR
 trade_goods = cotton
 life_rating = 32

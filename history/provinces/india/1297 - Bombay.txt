@@ -1,6 +1,6 @@
-owner = VIJ
-controller = VIJ
-add_core = VIJ
+owner = BUR
+controller = BUR
+add_core = BUR
 trade_goods = tobacco
 life_rating = 32
 fort = 1

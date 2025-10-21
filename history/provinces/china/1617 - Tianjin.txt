@@ -1,7 +1,6 @@
-owner = MIG
-controller = MIG 
-add_core = MIG
-add_core = CHI
+owner = MCH
+controller = MCH
+add_core = MCH
 
 trade_goods = silk
 life_rating = 35

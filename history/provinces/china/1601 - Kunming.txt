@@ -1,5 +1,5 @@
 owner = DAX
-controller = DAX   
+controller = DAX
 add_core = DAX
 trade_goods = precious_metal
 life_rating = 32
